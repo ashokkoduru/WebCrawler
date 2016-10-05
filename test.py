@@ -1,9 +1,12 @@
+#! /usr/bin/env python
+
 from bs4 import BeautifulSoup as Bs
 import requests
 import re
-# import time
 import os
-import operator
+import sys
+import time
+import urllib2
 
 wikipedia = 'https://en.wikipedia.org'
 
@@ -67,19 +70,26 @@ def download_pages(link_list):
 if __name__ == '__main__':
     i = 0
     depth = 0
-    seed = 'https://en.wikipedia.org/wiki/Sustainable_energy'
-    links = get_links(seed, 0, depth)
-    link_file = open('links_page1.txt', 'w')
-    #
-    while len(links) < 1000:
-        print wikipedia+links[i], len(links)
-        links += get_links(wikipedia+links[i], len(links))
-        print "1 page completed"
-        i += 1
-    link_file = open('links.txt', 'w')
-    #
-    for link in links:
-        full_link = wikipedia+link
-        link_file.write("%s\n" % full_link)
-    link_file.close()
+    seed = sys.argv[2]
+    keyword = sys.argv[2]
+    # seed = 'https://en.wikipedia.org/wiki/Sustainable_energy'
+    # links = get_links(seed, 0, depth)
+    # link_file = open('links_page1.txt', 'w')
+    # #
+    # while len(links) < 1000:
+    #     print wikipedia+links[i], len(links)
+    #     links += get_links(wikipedia+links[i], len(links))
+    #     print "1 page completed"
+    #     i += 1
+    # link_file = open('links.txt', 'w')
+    # #
+    # for link in links:
+    #     full_link = wikipedia+link
+    #     link_file.write("%s\n" % full_link)
+    # link_file.close()
 
+
+def bfs(seed, keyword):
+    bfs_dict = {}
+    bfs_dict[seed] = (0, 0)
+    return
