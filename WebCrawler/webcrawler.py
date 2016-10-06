@@ -7,7 +7,6 @@
 from bs4 import BeautifulSoup
 import requests
 import re
-import sys
 import time
 import urllib2
 
@@ -27,8 +26,7 @@ class WebCrawler:
         elif self.crawl_type == 'dfs':
             self.crawl_dfs()
 
-    def crawl_dfs(self):
-        print 'inside dfs'
+    def crawl_dfs_recursion(self):
         final_list = []
         depth = self.depth
 
@@ -43,34 +41,19 @@ class WebCrawler:
             crawl(self.seed, depth)
         return final_list
 
-    def dfs_limit(self, link, finish_list):
-        url_list = [link]
-        depth = self.depth
-        if link in finish_list:
-            return finish_list
-        path = []
-
-        while url_list:
-            current_link = url_list.pop()
-
-            # if current_link in finish_list:
-            #     path.append(current_link)
-            #     return path
-
-            if link in url_list:
-                # finished this level; go back up one level
-                depth += 1
-                path.pop()
-
-            elif depth != 0:
-                # go one level deeper, push sentinel
-                depth -= 1
-                path.append(current_link)
-                url_list.append(link)
-                url_list.extend(self.get_links(link, path))
+    # def crawl_dfs(self, link, depth):
+    #     depth = 1
+    #
+    #     if depth > self.depth:
+    #         return
+    #     if self.seed in :
+    #         return
+    #
+    #     links = self.get_links(self.seed)
+    #     self.crawl_dfs(link[0])
+    #     depth += 1
 
     def crawl_bfs(self):
-        print 'inside'
         url_list = []
         final_list = []
         url_list.append(self.seed)
@@ -85,6 +68,7 @@ class WebCrawler:
                 pending_depth_increase = True
             print link, len(final_list)
             crawled_links = self.get_links(link, final_list)
+            time.sleep(1)
             for each_link in crawled_links:
                 url_list.append(each_link)
                 final_list.append(each_link)
@@ -94,6 +78,8 @@ class WebCrawler:
 
         link_file = open('links.txt', 'w')
 
+        if self.keyword == '':
+            final_list.insert(0, self.seed)
         for link in final_list:
             link_file.write("%s\n" % link)
         link_file.close()
@@ -101,6 +87,7 @@ class WebCrawler:
     def get_links(self, link, link_list):
         links = []
         output = link_list
+
         try:
             full_page = requests.get(link)
         except:
@@ -124,14 +111,15 @@ class WebCrawler:
             if link_count < 1000:
                 link_ref = sub_link.get('href')
                 cleaned_link = self.scrape_link(link_ref)
-                not_duplicate = self.wiki+cleaned_link not in output
+                not_duplicate_local = self.wiki+cleaned_link not in output
+                not_duplicate_final = self.wiki + cleaned_link not in links
                 not_admin = ':' not in cleaned_link
                 matched = True
                 if self.keyword != '':
                     cleaned_link_key = cleaned_link[6:]
                     matched = self.keyword.lower() in cleaned_link_key.lower()
-                if not_duplicate and not_admin and matched:
-                    print cleaned_link
+                if not_duplicate_final and not_duplicate_local and not_admin and matched:
+                    # print cleaned_link
                     links.append(self.wiki+cleaned_link)
                     link_count += 1
         return links
@@ -142,3 +130,8 @@ class WebCrawler:
             return dirty_link[0:position]
         return dirty_link
 
+    def download_pages(self, list):
+        for each in list:
+            response = urllib2.urlopen(list)
+            html = response.read()
+            # page = open()
