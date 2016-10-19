@@ -9,7 +9,7 @@ import requests
 import re
 import time
 import urllib2
-
+import collections
 
 class WebCrawler:
 
@@ -55,7 +55,7 @@ class WebCrawler:
 
     def crawl_bfs(self):
         url_list = []
-        final_list = []
+        final_list = [self.seed]
         url_list.append(self.seed)
         current_depth = 0
         timetodepthincrease = len(url_list)
@@ -78,11 +78,10 @@ class WebCrawler:
 
         link_file = open('links.txt', 'w')
 
-        if self.keyword == '':
-            final_list.insert(0, self.seed)
         for link in final_list:
             link_file.write("%s\n" % link)
         link_file.close()
+        return final_list
 
     def get_links(self, link, link_list):
         links = []
