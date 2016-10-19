@@ -10,6 +10,7 @@ import re
 import time
 import urllib2
 from webcrawler import WebCrawler
+from datetime import datetime
 
 
 class GraphBuilder:
@@ -26,29 +27,31 @@ class GraphBuilder:
         self.webcrawl.crawler()
 
     def build_graph(self):
+        print str(datetime.now())
         with open("links.txt") as f:
             final_list = f.read().splitlines()
         webcrawl = WebCrawler(self.seed, self.depth)
         link_graph = {}
+        counter = 1
+        for link in final_list:
+            link_graph[link[30:]] = []
 
         for link in final_list:
-            link_graph[link] = []
-            link_graph[link] = []
-
-        for link in final_list:
+            print str(counter) + "----" + link
             page_links = webcrawl.get_links(link, [])
-            link_graph[link] = page_links
+            common_links = list(set(page_links).intersection(final_list))
+            for c_link in common_links:
+                link_graph[c_link[30:]].append(link[30:])
+            counter += 1
+        graph_file = open('graph.txt', 'w')
 
-        for link in final_list:
-            print "\n"
-            print link
-            d = self.get_in_links(link, final_list)
-            link_graph[link] = d
-            print link_graph[link]
+        for link in link_graph:
+            graph_file.write("%s %s\n" % (link, " ".join(link_graph[link])))
+        graph_file.close()
 
-        print link_graph
         print "completed"
-
+        print str(datetime.now())
+        
     def get_in_links(self, link, final_list):
         print "Inlinks code activated"
         webcrawl = WebCrawler(self.seed, self.depth)
@@ -58,7 +61,3 @@ class GraphBuilder:
             if link in page_links:
                 inlinks.append(l)
         return inlinks
-
-    def retrieve_doc_id(self, link):
-        return
-
