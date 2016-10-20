@@ -9,7 +9,6 @@ import requests
 import re
 import time
 import urllib2
-import collections
 
 class WebCrawler:
 
@@ -40,18 +39,6 @@ class WebCrawler:
                 crawl(link)
             crawl(self.seed, depth)
         return final_list
-
-    # def crawl_dfs(self, link, depth):
-    #     depth = 1
-    #
-    #     if depth > self.depth:
-    #         return
-    #     if self.seed in :
-    #         return
-    #
-    #     links = self.get_links(self.seed)
-    #     self.crawl_dfs(link[0])
-    #     depth += 1
 
     def crawl_bfs(self):
         url_list = []
