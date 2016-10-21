@@ -12,19 +12,16 @@ import math
 
 class GraphBuilder:
 
-    def __init__(self, seed='', depth=0, d = 0.85):
+    def __init__(self, pagerank_file, graph_file='links.txt', seed='', depth=0, d=0.85):
         self.seed = seed
         self.depth = depth
         self.webcrawl = WebCrawler(self.seed, self.depth)
         self.d = d
-
-    def crawl_url_bfs(self):
-        self.webcrawl.crawler()
+        self.graph_file_name = graph_file
+        self.page_rank_file = pagerank_file
 
     def page_rank(self):
-        # with open("graph.txt") as f:
-        #     page_graph = f.read().splitlines()
-        with open("toygraph.txt") as f:
+        with open(self.page_rank_file) as f:
             page_graph = f.read().splitlines()
 
         graph_dict = self.graph_file_to_dict(page_graph)
@@ -36,43 +33,45 @@ class GraphBuilder:
             values_list.extend(graph_dict[each])
 
         out_links = dict(Counter(values_list))
-        print out_links
         values = set(values_list)
         keys = set(keys_list)
         sink_nodes = list(keys - values)
         n = len(graph_dict)
         for each in graph_dict:
-            # page_rank[each] = format(1.0/n, '.2f')
             page_rank[each] = 1.0/n
-        print page_rank
-        p = self.calculate_perplexity(page_rank)
-        p_iter = [p, p, p, p]
-        print sum(p_iter)
-        while sum(p_iter) > 1:
+        px = self.calculate_perplexity(page_rank)
+        counter_diff = 0
+
+        while counter_diff < 4:
             new_page_rank = {}
             sink_pr = 0
             for s in sink_nodes:
                 sink_pr += page_rank[s]
             for p in keys_list:
-                new_page_rank[p] = (1-self.d)/float(n)
-                new_page_rank[p] += self.d * (float(sink_pr)/n)
+                new_page_rank[p] = (1-self.d)/n
+                new_page_rank[p] += self.d*sink_pr/n
                 for q in graph_dict[p]:
-                    new_page_rank[p] += self.d*(page_rank[p]/out_links[q])
+                    new_page_rank[p] += self.d*page_rank[q]/out_links[q]
             for p in keys_list:
                 page_rank[p] = new_page_rank[p]
-            per = self.calculate_perplexity(page_rank)
-            p_iter.pop(0)
-            p_iter.append(per)
-        print page_rank
+            new_px = self.calculate_perplexity(page_rank)
+            if new_px - px < 1:
+                counter_diff += 1
+            else:
+                counter_diff = 0
+            px = new_px
         prank = sorted(page_rank, key=page_rank.get)
         final_pr = prank[::-1]
-        return final_pr
+        f = open('finalpagerank.txt', 'w')
+        for e in page_rank:
+            f.write("%s  ---  %s\n" % (e, str(page_rank[e])))
+        f.close()
+        return final_pr, page_rank
 
     def calculate_perplexity(self, pagerank):
         ent = 0
         for each in pagerank:
             ent += float(pagerank[each])*math.log(float(pagerank[each]), 2)
-
         entropy = 0 - ent
         perplexity = math.pow(2, entropy)
         return perplexity
@@ -86,7 +85,7 @@ class GraphBuilder:
 
     def build_graph(self):
         print str(datetime.now())
-        with open("links.txt") as f:
+        with open(self.file_name) as f:
             final_list = f.read().splitlines()
         webcrawl = WebCrawler(self.seed, self.depth)
         link_graph = {}
@@ -109,13 +108,18 @@ class GraphBuilder:
 
         print "completed"
         print str(datetime.now())
-        
-    def get_in_links(self, link, final_list):
-        print "Inlinks code activated"
-        webcrawl = WebCrawler(self.seed, self.depth)
-        inlinks = []
-        for l in final_list:
-            page_links = webcrawl.get_links(l, [])
-            if link in page_links:
-                inlinks.append(l)
-        return inlinks
+
+# filename = 'g1.txt'
+filename = 'wt2g_inlinks.txt'
+filename = 'toygraph.txt'
+start = datetime.now()
+print start
+x = GraphBuilder(filename)
+#x.build_graph()
+a = x.page_rank()
+print a[0]
+print a[1]
+end = datetime.now()
+print end
+
+print "pagerank for g2 completed"
