@@ -1,0 +1,11 @@
+BFS along with Depth Limit:
+
+You can do this with constant space overhead.BFS has the property that unvisited nodes in the queue all have depths that never decrease, and increase by at most 1. So as you read nodes from the BFS queue, you can keep track of the current depth in a single depth variable, which is initially 0. All you need to do is record which node in the queue corresponds to the next depth increase. You can do this simply by using a variable timeToDepthIncrease to record the number of elements that are already in the queue when you insert this node, and decrementing this counter whenever you pop a node from the queue.
+
+When it reaches zero, the next node you pop from the queue will be at a new, greater (by 1) depth, so:
+Increment depth
+Set pendingDepthIncrease to true
+
+Whenever you push a child node on the queue, first check whether pendingDepthIncrease is true. If it is, this node will have greater depth, so set timeToDepthIncrease to the number of nodes in the queue before you push it, and reset pendingDepthIncrease to false.
+
+Finally, stop when depth exceeds the desired depth! Every unvisited node that could appear later on must be at this depth or greater.

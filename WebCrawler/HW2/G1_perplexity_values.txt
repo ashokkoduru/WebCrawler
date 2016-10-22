@@ -1,0 +1,14 @@
+The perplexity for round 1 is  ---  1000.0
+The perplexity for round 2 is  ---  572.181860948
+The perplexity for round 3 is  ---  539.652457109
+The perplexity for round 4 is  ---  503.804908991
+The perplexity for round 5 is  ---  484.354150618
+The perplexity for round 6 is  ---  472.855215555
+The perplexity for round 7 is  ---  466.34416146
+The perplexity for round 8 is  ---  462.478023709
+The perplexity for round 9 is  ---  460.204009837
+The perplexity for round 10 is  ---  458.845399683
+The perplexity for round 11 is  ---  458.031530151
+The perplexity for round 12 is  ---  457.539595948
+The perplexity for round 13 is  ---  457.240988654
+The perplexity for round 14 is  ---  457.058592333

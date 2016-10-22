@@ -6,8 +6,9 @@
 
 from webcrawler import WebCrawler
 from datetime import datetime
-from collections import Counter, deque
+from collections import Counter
 import math
+import operator
 
 
 class GraphBuilder:
@@ -31,6 +32,8 @@ class GraphBuilder:
         for each in graph_dict:
             keys_list.append(each)
             values_list.extend(graph_dict[each])
+            # if(len(graph_dict[each]) == 0):
+            #     print each
 
         out_links = dict(Counter(values_list))
         values = set(values_list)
@@ -41,8 +44,10 @@ class GraphBuilder:
             page_rank[each] = 1.0/n
         px = self.calculate_perplexity(page_rank)
         counter_diff = 0
-
-        while counter_diff < 4:
+        loop_counter = 1
+        px_values = []
+        while counter_diff < 5:
+            px_values.append(px)
             new_page_rank = {}
             sink_pr = 0
             for s in sink_nodes:
@@ -55,18 +60,24 @@ class GraphBuilder:
             for p in keys_list:
                 page_rank[p] = new_page_rank[p]
             new_px = self.calculate_perplexity(page_rank)
-            if new_px - px < 1:
+            print px - new_px
+            if px - new_px < 1:
                 counter_diff += 1
+                # print "Here"
             else:
                 counter_diff = 0
             px = new_px
+            loop_counter += 1
+        print px_values
         prank = sorted(page_rank, key=page_rank.get)
-        final_pr = prank[::-1]
-        f = open('finalpagerank.txt', 'w')
-        for e in page_rank:
-            f.write("%s  ---  %s\n" % (e, str(page_rank[e])))
-        f.close()
-        return final_pr, page_rank
+        sorted_pr = sorted(page_rank.items(), key=operator.itemgetter(1), reverse=True)
+        px_file = open('G1_perplexity_values.txt', 'w')
+        i = 1
+        for e in px_values:
+            px_file.write("The perplexity for round {} is  ---  {}\n".format(i, e))
+            i += 1
+        px_file.close()
+        return sorted_pr
 
     def calculate_perplexity(self, pagerank):
         ent = 0
@@ -85,7 +96,7 @@ class GraphBuilder:
 
     def build_graph(self):
         print str(datetime.now())
-        with open(self.file_name) as f:
+        with open(self.graph_file_name) as f:
             final_list = f.read().splitlines()
         webcrawl = WebCrawler(self.seed, self.depth)
         link_graph = {}
@@ -94,7 +105,7 @@ class GraphBuilder:
             link_graph[link[30:]] = []
 
         for link in final_list:
-            print str(counter) + "----" + link
+            print str(counter) + " --- " + link
             page_links = webcrawl.get_links(link, [])
             common_links = list(set(page_links).intersection(final_list))
             for c_link in common_links:
@@ -109,17 +120,15 @@ class GraphBuilder:
         print "completed"
         print str(datetime.now())
 
-# filename = 'g1.txt'
-filename = 'wt2g_inlinks.txt'
-filename = 'toygraph.txt'
-start = datetime.now()
-print start
-x = GraphBuilder(filename)
-#x.build_graph()
-a = x.page_rank()
-print a[0]
-print a[1]
-end = datetime.now()
-print end
 
-print "pagerank for g2 completed"
+def tasks_hw2():
+    filename1 = 'toygraph.txt'
+    filename2 = 'G1.txt'
+    filename3 = 'wt2g_inlinks.txt'
+    x = GraphBuilder(filename2)
+    # x.build_graph()
+    pagerank = x.page_rank()
+    return
+
+
+tasks_hw2()
