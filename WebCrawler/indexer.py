@@ -32,46 +32,42 @@ class Indexer:
 
         i = 1
         for link in links:
-            # link = links[0]
-            # print i, links.index(link)+1, link
-            # if i != links.index(link)+1:
-            #     print "Caught an error while downloading" + link
-            # try:
-            #     full_page = requests.get(link)
-            # except:
-            #     print "Something wrong while requesting the page " + link
-            #
-            # full_content = BeautifulSoup(full_page.text, 'html.parser')
-            # main_content = full_content.find("div", {"id": "mw-content-text"})
-            # ignore_div = ['thumb', 'navbox', 'reflist']
-            # for section in ignore_div:
-            #     for div in main_content.find_all('div', {'class': section}):
-            #         div.decompose()
-            # for div in main_content.find_all('table', {'class': 'vertical-navbox'}):
-            #     div.decompose()
-            # for div in main_content.find_all('span', {'class': 'mw-editsection'}):
-            #     div.decompose()
-            # for div in main_content.find_all('span', {'id': 'References'}):
-            #     div.decompose()
-            # for div in main_content.find_all('sup'):
-            #     div.decompose()
-            # parsed_content = self.parse_page(main_content.get_text().encode('utf-8'))
+            print i, links.index(link)+1, link
+            if i != links.index(link)+1:
+                print "Caught an error while downloading" + link
+            try:
+                full_page = requests.get(link)
+            except:
+                print "Something wrong while requesting the page " + link
+
+            full_content = BeautifulSoup(full_page.text, 'html.parser')
+            main_content = full_content.find("div", {"id": "mw-content-text"})
+            ignore_div = ['thumb', 'navbox', 'reflist']
+            for section in ignore_div:
+                for div in main_content.find_all('div', {'class': section}):
+                    div.decompose()
+            for div in main_content.find_all('table', {'class': 'vertical-navbox'}):
+                div.decompose()
+            for div in main_content.find_all('span', {'class': 'mw-editsection'}):
+                div.decompose()
+            for div in main_content.find_all('span', {'id': 'References'}):
+                div.decompose()
+            for div in main_content.find_all('sup'):
+                div.decompose()
+            parsed_content = self.parse_page(main_content.get_text().encode('utf-8'))
 
             docid = link[30:]
             docid = docid.translate(string.maketrans("", ""), string.punctuation)
             filelist.append(docid)
-        filelist_set = set(filelist)
-        print len(filelist_set), len(filelist)
-        return
-        filename = "%s.txt" % docid
-        fl = open(os.path.join(corpus, filename), 'w')
-        fl.write(str(main_content))
-        fl.close()
-        parsed_fl = open(os.path.join(parsed_corpus, filename), 'w')
-        # parsed_fl.write(str(main_content))
-        parsed_fl.write(parsed_content)
-        parsed_fl.close()
-        i += 1
+            filename = "%s.txt" % docid
+            fl = open(os.path.join(corpus, filename), 'w')
+            fl.write(str(main_content))
+            fl.close()
+            parsed_fl = open(os.path.join(parsed_corpus, filename), 'w')
+            # parsed_fl.write(str(main_content))
+            parsed_fl.write(parsed_content)
+            parsed_fl.close()
+            i += 1
 
     def parse_page(self, content):
         ignore_list = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '_', '+', '=', '{', '[', '}', ']', '|',
@@ -120,16 +116,14 @@ class Indexer:
             else:
                 token_count[fname] = 0
             word_count = dict(Counter(content_as_list))
-            # print word_count
-            # print "dfdsfdsfdsf"
             for token in content_as_list:
                 if token not in one_gram_index:
                     temp = dict()
-                    temp[eachfile] = word_count[token]
+                    temp[self.docdict[fname]] = word_count[token]
                     one_gram_index[token] = temp
                 else:
                     temp = one_gram_index[token]
-                    temp[eachfile] = word_count[token]
+                    temp[self.docdict[fname]] = word_count[token]
                     one_gram_index[token] = temp
 
         return one_gram_index
@@ -141,13 +135,32 @@ class Indexer:
             tf_dict[token] = 0
             for dt in inv_index[token]:
                 tf_dict[token] += inv_index[token][dt]
-        print tf_dict
+        # print sorted(tf_dict)
         sorted_tf_dict = sorted(tf_dict.items(), key=operator.itemgetter(1), reverse=True)
         os.chdir("..")
         f = open('tf_table.txt', 'w')
         for each in sorted_tf_dict:
             f.write('{}.....................{}\n'.format(each[0], each[1]))
         f.close()
+
+    def create_df_table(self, n):
+        inv_index = self.build_n_gram_index(n)
+        lexic_tokens = sorted(inv_index)
+        print lexic_tokens
+        df_values = []
+        for token in lexic_tokens:
+            d_lst = []
+            for each in inv_index[token]:
+                d_lst.append(each)
+            df = len(d_lst)
+            tup = (token, d_lst, df)
+            df_values.append(tup)
+        os.chdir("..")
+        f = open('df_table.txt', 'w')
+        for each in df_values:
+            f.write('{}...........{}........{}\n'.format(each[0], each[1], each[2]))
+        f.close()
+        print df_values
 
     def find_ngrams(self, input_list, n):
         zip_list = zip(*[input_list[i:] for i in range(n)])
@@ -158,13 +171,15 @@ class Indexer:
             gram_list.append(m)
         return gram_list
 
+
 def hw3_tasks():
     ind = Indexer()
     # ind.download_pages()
     # s = "string. With. Punctuation? \n \n \n 5.8 wit.h 3,200"  # Sample string
     # print ind.parse_page(s)
-    # ind.build_n_gram_index(3)
-    ind.create_tf_table(1)
+    # print ind.build_n_gram_index(1)
+    # ind.create_tf_table(1)
+    ind.create_df_table(1)
     # return
     # m = {}
     # tl = {'a': {1: 4, 2: 7, 4:7}, 'b': {3: 5, 2: 4}}
@@ -176,6 +191,7 @@ def hw3_tasks():
     # a = ['a', 'b', 'c', 'a', 'd', 'c', 'e']
     # input_list = ['all', 'this', 'happened', 'more', 'or', 'less']
     # l = ind.find_ngrams(input_list, 2)
+    # print "df"
     # print l
     # a = [('the', 542), ('of', 487), ('and', 422), ('to', 279), ('engineering', 258)]
     # for each in a:
