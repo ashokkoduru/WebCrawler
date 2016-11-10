@@ -6,8 +6,6 @@ from collections import Counter
 from bs4 import BeautifulSoup
 import requests
 import re
-import time
-import urllib2
 import os
 import string
 import glob
@@ -140,7 +138,7 @@ class Indexer:
         os.chdir("..")
         f = open('tf_table.txt', 'w')
         for each in sorted_tf_dict:
-            f.write('{}.....................{}\n'.format(each[0], each[1]))
+            f.write('{} {} {}\n'.format(each[0], each[1], 0.1/each[1]))
         f.close()
 
     def create_df_table(self, n):
@@ -158,7 +156,7 @@ class Indexer:
         os.chdir("..")
         f = open('df_table.txt', 'w')
         for each in df_values:
-            f.write('{}...........{}........{}\n'.format(each[0], each[1], each[2]))
+            f.write('{} {} {}\n'.format(each[0], each[1], each[2]))
         f.close()
         print df_values
 
@@ -178,8 +176,8 @@ def hw3_tasks():
     # s = "string. With. Punctuation? \n \n \n 5.8 wit.h 3,200"  # Sample string
     # print ind.parse_page(s)
     # print ind.build_n_gram_index(1)
-    # ind.create_tf_table(1)
-    ind.create_df_table(1)
+    ind.create_tf_table(1)
+    # ind.create_df_table(1)
     # return
     # m = {}
     # tl = {'a': {1: 4, 2: 7, 4:7}, 'b': {3: 5, 2: 4}}
