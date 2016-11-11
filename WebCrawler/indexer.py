@@ -4,7 +4,6 @@
 
 from collections import Counter
 from bs4 import BeautifulSoup
-import requests
 import re
 import os
 import string
@@ -21,27 +20,22 @@ class Indexer:
         return
 
     def download_pages(self):
-        with open('task1_urls.txt') as f:
-            links = f.read().splitlines()
         cwd = os.getcwd()
         corpus = os.path.join(cwd, 'corpus')
-        filelist = []
         parsed_corpus = os.path.join(cwd, 'parsed_corpus')
         if not os.path.exists(corpus):
+            print "Corpus doesn't exist. It is created now. PLease put raw files inside the corpus folder"
             os.makedirs(corpus, 0755)
+            return
         if not os.path.exists(parsed_corpus):
             os.makedirs(parsed_corpus, 0755)
 
-        i = 1
-        for link in links:
-            print i, links.index(link)+1, link
-            if i != links.index(link)+1:
-                print "Caught an error while downloading" + link
-            try:
-                full_page = requests.get(link)
-            except:
-                print "Something wrong while requesting the page " + link
-            full_content = BeautifulSoup(full_page.text, 'html.parser')
+        os.chdir(corpus)
+        for eachfile in glob.glob('*.txt'):
+            file_content = open(eachfile)
+            content = file_content.read()
+            print eachfile
+            full_content = BeautifulSoup(content, 'html.parser')
             main_content = full_content.find("div", {"id": "mw-content-text"})
             ignore_div = ['toc', 'thumb', 'navbox', 'reflist']
             ignore_table = ['vertical-navbox', 'wikitable']
@@ -60,18 +54,12 @@ class Indexer:
             for div in main_content.find_all('span', {'id': 'References'}):
                 div.decompose()
             parsed_content = self.parse_page(main_content.get_text().encode('utf-8'))
-
-            docid = link[30:]
+            docid = eachfile[:len(eachfile) - 4]
             docid = docid.translate(string.maketrans("", ""), string.punctuation)
-            filelist.append(docid)
             filename = "%s.txt" % docid
-            fl = open(os.path.join(corpus, filename), 'w')
-            fl.write(str(main_content))
-            fl.close()
             parsed_fl = open(os.path.join(parsed_corpus, filename), 'w')
             parsed_fl.write(parsed_content)
             parsed_fl.close()
-            i += 1
 
     def parse_page(self, content):
         ignore_list = ['!', '@', '#', '$', '^', '&', '*', '(', ')', '_', '+', '=', '{', '[', '}', ']', '|',
@@ -133,13 +121,15 @@ class Indexer:
 
         return inverted_index
 
-    def create_tf_table(self, n, plot, filesave = True):
+    def create_tf_table(self, n, plot=False, filesave=True, stopword_flag=False):
         inv_index = self.build_n_gram_index(n)
         tf_dict = {}
         for token in inv_index:
             tf_dict[token] = 0
             for dt in inv_index[token]:
                 tf_dict[token] += inv_index[token][dt]
+        if stopword_flag:
+            return inv_index, tf_dict
         sorted_tf_dict = sorted(tf_dict.items(), key=operator.itemgetter(1), reverse=True)
         os.chdir("..")
         if plot:
@@ -177,7 +167,24 @@ class Indexer:
         for each in df_values:
             f.write('{} {} {}\n'.format(each[0], each[1], each[2]))
         f.close()
-        # print df_values
+
+    def stopwords(self):
+        tf_table = self.create_tf_table(1, stopword_flag=True)
+        (inv_index, tf_dict) = (tf_table[0], tf_table[1])
+        total_terms = sum(tf_dict.values())
+        print total_terms
+        stopword_tf = {}
+        print len(self.docdict)
+        for each in inv_index:
+            tf = float(tf_dict[each])/total_terms
+            idf = math.log(float(len(self.docdict))/len(inv_index[each]),2)
+            stopword_tf[each] = idf
+        sorted_sw_dict = sorted(stopword_tf.items(), key=operator.itemgetter(1), reverse=False)
+        os.chdir('..')
+        f = open('stop_word_table.txt', 'w')
+        for each in sorted_sw_dict:
+            f.write('{} {}\n'.format(each[0], each[1]))
+        f.close()
 
     def find_ngrams(self, input_list, n):
         zip_list = zip(*[input_list[i:] for i in range(n)])
@@ -194,10 +201,11 @@ def hw3_tasks():
     # ind.download_pages()
     # print ind.parse_page(s)
     # print ind.build_n_gram_index(1)
-    n = 3
+    n = 2
     plot = True
-    ind.create_tf_table(n, plot, filesave=False)
+    ind.create_tf_table(n, plot=True, filesave=True)
     # ind.create_df_table(n)
+    # ind.stopwords()
     return
 
 hw3_tasks()
