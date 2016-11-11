@@ -10,8 +10,12 @@ import os
 import string
 import glob
 import operator
+import math
+import matplotlib.pyplot as plt
+
 
 class Indexer:
+
     def __init__(self):
         self.docdict = {}
         return
@@ -37,20 +41,23 @@ class Indexer:
                 full_page = requests.get(link)
             except:
                 print "Something wrong while requesting the page " + link
-
             full_content = BeautifulSoup(full_page.text, 'html.parser')
             main_content = full_content.find("div", {"id": "mw-content-text"})
-            ignore_div = ['thumb', 'navbox', 'reflist']
+            ignore_div = ['toc', 'thumb', 'navbox', 'reflist']
+            ignore_table = ['vertical-navbox', 'wikitable']
+            ignore_tag = ['sup', 'dl', 'table']
             for section in ignore_div:
                 for div in main_content.find_all('div', {'class': section}):
                     div.decompose()
-            for div in main_content.find_all('table', {'class': 'vertical-navbox'}):
-                div.decompose()
+            for section in ignore_table:
+                for div in main_content.find_all('table', {'class': section}):
+                    div.decompose()
+            for section in ignore_tag:
+                for div in main_content.find_all(section):
+                    div.decompose()
             for div in main_content.find_all('span', {'class': 'mw-editsection'}):
                 div.decompose()
             for div in main_content.find_all('span', {'id': 'References'}):
-                div.decompose()
-            for div in main_content.find_all('sup'):
                 div.decompose()
             parsed_content = self.parse_page(main_content.get_text().encode('utf-8'))
 
@@ -62,25 +69,25 @@ class Indexer:
             fl.write(str(main_content))
             fl.close()
             parsed_fl = open(os.path.join(parsed_corpus, filename), 'w')
-            # parsed_fl.write(str(main_content))
             parsed_fl.write(parsed_content)
             parsed_fl.close()
             i += 1
 
     def parse_page(self, content):
-        ignore_list = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '_', '+', '=', '{', '[', '}', ']', '|',
-                       '\\', '"', "'", ';', ':', '/', '<', '>', '?']
-        # print content
+        ignore_list = ['!', '@', '#', '$', '^', '&', '*', '(', ')', '_', '+', '=', '{', '[', '}', ']', '|',
+                       '\\', '"', "'", ';', ':', '/', '<', '>', '?', '%']
         content = content.translate(None, ''.join(ignore_list))
+        content = re.sub("x[a-z][0-9]", "", content)
+        content = re.sub("x[0-9]+", "", content)
         content = content.split()
-        print content
-        # print content
         final_content = ''
-        # print content
         for eachword in content:
-            eachword = eachword.strip('.,')
+            if len(eachword)>1 and eachword[0] == '-':
+                eachword = eachword[1:]
+            eachword = eachword.lower()
+            eachword = eachword.strip('.,-')
             if eachword == '-':
-                eachword = ''
+                continue
             final_content += eachword + ' '
         return final_content
 
@@ -96,10 +103,10 @@ class Indexer:
 
     def build_n_gram_index(self, n):
         self.build_docid_dict()
-        one_gram_index = {}
+        inverted_index = {}
         token_count = {}
         cwd = os.getcwd()
-        parsed_corpus = os.path.join(cwd, 'test')
+        parsed_corpus = os.path.join(cwd, 'parsed_corpus')
         os.chdir(parsed_corpus)
         for eachfile in glob.glob('*.txt'):
             print eachfile
@@ -115,36 +122,48 @@ class Indexer:
                 token_count[fname] = 0
             word_count = dict(Counter(content_as_list))
             for token in content_as_list:
-                if token not in one_gram_index:
+                if token not in inverted_index:
                     temp = dict()
                     temp[self.docdict[fname]] = word_count[token]
-                    one_gram_index[token] = temp
+                    inverted_index[token] = temp
                 else:
-                    temp = one_gram_index[token]
+                    temp = inverted_index[token]
                     temp[self.docdict[fname]] = word_count[token]
-                    one_gram_index[token] = temp
+                    inverted_index[token] = temp
 
-        return one_gram_index
+        return inverted_index
 
-    def create_tf_table(self, n):
+    def create_tf_table(self, n, plot, filesave = True):
         inv_index = self.build_n_gram_index(n)
         tf_dict = {}
         for token in inv_index:
             tf_dict[token] = 0
             for dt in inv_index[token]:
                 tf_dict[token] += inv_index[token][dt]
-        # print sorted(tf_dict)
         sorted_tf_dict = sorted(tf_dict.items(), key=operator.itemgetter(1), reverse=True)
         os.chdir("..")
-        f = open('tf_table.txt', 'w')
-        for each in sorted_tf_dict:
-            f.write('{} {} {}\n'.format(each[0], each[1], 0.1/each[1]))
-        f.close()
+        if plot:
+            i = 0
+            x = []
+            y = []
+            for item in sorted_tf_dict:
+                i += 1
+                x.append(math.log(item[1]))
+                y.append(math.log(i))
+            plt.title("zipf's law for " + str(n) + " gram inverted index")
+            plt.ylabel('term frequency')
+            plt.xlabel('rank')
+            plt.scatter(x, y)
+            plt.show()
+        if filesave:
+            f = open(str(n)+'_gram_tf_table.txt', 'w')
+            for each in sorted_tf_dict:
+                f.write('{} {}\n'.format(each[0], each[1]))
+            f.close()
 
     def create_df_table(self, n):
         inv_index = self.build_n_gram_index(n)
         lexic_tokens = sorted(inv_index)
-        print lexic_tokens
         df_values = []
         for token in lexic_tokens:
             d_lst = []
@@ -154,11 +173,11 @@ class Indexer:
             tup = (token, d_lst, df)
             df_values.append(tup)
         os.chdir("..")
-        f = open('df_table.txt', 'w')
+        f = open(str(n)+'_gram_df_table.txt', 'w')
         for each in df_values:
             f.write('{} {} {}\n'.format(each[0], each[1], each[2]))
         f.close()
-        print df_values
+        # print df_values
 
     def find_ngrams(self, input_list, n):
         zip_list = zip(*[input_list[i:] for i in range(n)])
@@ -173,27 +192,12 @@ class Indexer:
 def hw3_tasks():
     ind = Indexer()
     # ind.download_pages()
-    # s = "string. With. Punctuation? \n \n \n 5.8 wit.h 3,200"  # Sample string
     # print ind.parse_page(s)
     # print ind.build_n_gram_index(1)
-    ind.create_tf_table(1)
-    # ind.create_df_table(1)
-    # return
-    # m = {}
-    # tl = {'a': {1: 4, 2: 7, 4:7}, 'b': {3: 5, 2: 4}}
-    # for i in tl:
-    #     m[i] = 0
-    #     for j in tl[i]:
-    #         m[i] += tl[i][j]
-    # print m
-    # a = ['a', 'b', 'c', 'a', 'd', 'c', 'e']
-    # input_list = ['all', 'this', 'happened', 'more', 'or', 'less']
-    # l = ind.find_ngrams(input_list, 2)
-    # print "df"
-    # print l
-    # a = [('the', 542), ('of', 487), ('and', 422), ('to', 279), ('engineering', 258)]
-    # for each in a:
-    #     print each[0], each[1]
+    n = 3
+    plot = True
+    ind.create_tf_table(n, plot, filesave=False)
+    # ind.create_df_table(n)
     return
 
 hw3_tasks()
