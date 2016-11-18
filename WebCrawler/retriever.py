@@ -6,14 +6,10 @@
 
 from indexer import Indexer
 from collections import Counter
-from bs4 import BeautifulSoup
-import re
 import os
-import string
 import glob
 import operator
 import math
-import matplotlib.pyplot as plt
 
 
 class Retriever:
@@ -68,7 +64,11 @@ class Retriever:
             else:
                 cosine_sim[fname] = 0
         sorted_cosine_dict = sorted(cosine_sim.items(), key=operator.itemgetter(1), reverse=True)
-        print sorted_cosine_dict
+        os.chdir('..')
+        f = open('cosine_1.txt', 'w')
+        for each in sorted_cosine_dict:
+            f.write('{} {}\n'.format(each[0], each[1]))
+        f.close()
 
 
 def hw4_tasks():
