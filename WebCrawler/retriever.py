@@ -25,38 +25,55 @@ class Retriever:
 
     def search_query(self):
         self.query = raw_input("Enter the search query\n")
-        print self.query.lower().split()
 
         return
 
     def rank_docs_by_query(self):
         query_terms = self.query.lower().split()
-        cosine_sim = {}
+        query_dict = dict(Counter(query_terms))
+        m_query = 0
+        for each in query_dict:
+            m_query += query_dict[each]*query_dict[each]
+        mag_query = math.sqrt(m_query)
+        print mag_query
         inv_index = self.ind.build_n_gram_index(1)
+        cosine_sim = {}
         os.chdir('..')
         doc_dict_id = self.ind.build_docid_dict(ret=True)
-        for eachdoc in doc_dict_id:
+        parsed_corpus = os.path.join(os.getcwd(), 'parsed_corpus')
+        os.chdir(parsed_corpus)
+        for eachfile in glob.glob('*.txt'):
+            file_content = open(eachfile)
+            content = file_content.read()
+            fname = eachfile[:len(eachfile) - 4]
+
+            content = content.split()
+            sum_num = 0
+            m_doc = 0
             for each_query_term in query_terms:
-                tf = inv_index[each_query_term][doc_dict_id[eachdoc]]
+                if each_query_term in content:
+                    tf = inv_index[each_query_term][doc_dict_id[fname]]/float(len(content))
+                else:
+                    continue
                 idf = math.log(float(989)/len(inv_index[each_query_term]), 2)
-        return
-
-    def get_idf(self):
-        ind = Indexer()
-        tf_table = ind.create_tf_table(1, stopword_flag=True)
-        (inv_index, tf_dict) = (tf_table[0], tf_table[1])
-        total_terms = sum(tf_dict.values())
-        print total_terms
-        idf = {}
-        for each in inv_index:
-            i = math.log(float(989) / len(inv_index[each]), 2)
-            idf[each] = i
-        print idf
-
+                x = tf*idf
+                sum_num += x*query_terms.count(each_query_term)
+                m_doc += x*x
+            if m_doc != 0:
+                mag_doc = math.sqrt(m_doc)
+                den = mag_query*mag_doc
+                print eachfile, den
+                similarity = sum_num/den
+                cosine_sim[fname] = similarity
+            else:
+                cosine_sim[fname] = 0
+        sorted_cosine_dict = sorted(cosine_sim.items(), key=operator.itemgetter(1), reverse=True)
+        print sorted_cosine_dict
 
 
 def hw4_tasks():
     r = Retriever()
+    r.search_query()
     r.rank_docs_by_query()
     return
 
