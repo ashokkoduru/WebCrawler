@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 # Author : Ashok Koduru
 # Date   : 2nd Nov 2016
 # Task   : IR Assignment 3
@@ -19,7 +21,7 @@ class Indexer:
         self.docdict = {}
         return
 
-    def download_pages(self):
+    def build_parsed_corpus(self):
         cwd = os.getcwd()
         corpus = os.path.join(cwd, 'corpus')
         parsed_corpus = os.path.join(cwd, 'parsed_corpus')
@@ -79,7 +81,7 @@ class Indexer:
             final_content += eachword + ' '
         return final_content
 
-    def build_docid_dict(self):
+    def build_docid_dict(self, ret = False):
         with open('task1_urls.txt') as f:
             links = f.read().splitlines()
         counter = 1
@@ -88,6 +90,9 @@ class Indexer:
             docid = docid.translate(string.maketrans("", ""), string.punctuation)
             self.docdict[docid] = counter
             counter += 1
+        if ret:
+            return self.docdict
+
 
     def build_n_gram_index(self, n):
         self.build_docid_dict()
@@ -177,7 +182,7 @@ class Indexer:
         print len(self.docdict)
         for each in inv_index:
             tf = float(tf_dict[each])/total_terms
-            idf = math.log(float(len(self.docdict))/len(inv_index[each]),2)
+            idf = math.log(float(len(self.docdict))/len(inv_index[each]), 2)
             stopword_tf[each] = idf
         sorted_sw_dict = sorted(stopword_tf.items(), key=operator.itemgetter(1), reverse=False)
         os.chdir('..')
@@ -195,17 +200,30 @@ class Indexer:
             gram_list.append(m)
         return gram_list
 
+    def save_docids(self):
+        self.build_docid_dict()
+        f = open('DocIDs.txt', 'w')
+        for each in self.docdict:
+            f.write('{} {}\n'.format(each, str(self.docdict[each])))
+        f.close()
 
 def hw3_tasks():
-    ind = Indexer()
-    # ind.download_pages()
+    # ind = Indexer()
+    # This method builds the clean corpus from raw corpus
+    # ind.build_parsed_corpus()
     # print ind.parse_page(s)
-    # print ind.build_n_gram_index(1)
-    n = 2
-    plot = True
-    ind.create_tf_table(n, plot=True, filesave=True)
+    # ind.save_docids()
+    # print len(ind.build_n_gram_index(1))
+
+    # ####### Change this value to respective value to see unigram, bigram and trigram data
+    # n = 3
+    #
+    # ####### Change this to False if the plot should not be shown. False by default
+    # plot_flag = False
+
+    # ind.create_tf_table(n, plot=plot_flag, filesave=True)
     # ind.create_df_table(n)
     # ind.stopwords()
     return
 
-hw3_tasks()
+# hw3_tasks()

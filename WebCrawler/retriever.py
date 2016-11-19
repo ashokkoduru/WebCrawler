@@ -13,9 +13,10 @@ import math
 
 class Retriever:
 
-    def __init__(self):
+    def __init__(self, given_query_dict=dict()):
         self.query = ''
         self.ind = Indexer()
+        self.given_query_dict = given_query_dict
         return
 
     def rank_docs_by_query(self, query=''):
@@ -26,7 +27,6 @@ class Retriever:
         for each in query_dict:
             m_query += query_dict[each]*query_dict[each]
         mag_query = math.sqrt(m_query)
-        print mag_query
         inv_index = self.ind.build_n_gram_index(1)
         cosine_sim = {}
         os.chdir('..')
