@@ -40,7 +40,7 @@ class Retriever:
             sum_num = 0
             m_doc = 0
             for each in word_count:
-                idf_comp = math.log(float(989)/len(inv_index[each]), 10)
+                idf_comp = 1+math.log(float(989)/len(inv_index[each]), 10)
                 tf_word = word_count[each]/float(len(content))
                 m_doc += math.pow(tf_word*idf_comp, 2)
             mag_doc = math.sqrt(m_doc)
@@ -48,7 +48,7 @@ class Retriever:
             for each_query_term in query_terms:
                 if each_query_term in content:
                     tf = word_count[each_query_term]/float(len(content))
-                    idf = math.log(float(989)/len(inv_index[each_query_term]), 10)
+                    idf = 1+math.log(float(989)/len(inv_index[each_query_term]), 10)
                     x = tf*idf
                     sum_num += x*query_terms.count(each_query_term)
                 else:
@@ -69,7 +69,7 @@ class Retriever:
         fname = '%s.txt' % query
         f = open(fname, 'w')
         for each in ranked_docs:
-            f.write('{} {} {} {} {} {}\n'.format(queryid, 'Q0', doc_dict_id[each[0]], ranked_docs.index(each)+1, each[1],
+            f.write('{} {} {} {} {} {}\n'.format(queryid, 'Q0', each[0], ranked_docs.index(each)+1, each[1],
                                                  'Cosine Similarity'))
         f.close()
 
