@@ -30,17 +30,29 @@ class Retriever:
         mag_query = math.sqrt(m_query)
         inv_index = self.ind.build_n_gram_index(1)
         cosine_sim = {}
-
+        os.chdir('..')
+        ind = Indexer()
+        doc_dict_id = ind.build_docid_dict(ret=True)
+        parsed_corpus = os.path.join(os.getcwd(), 'parsed_corpus')
+        os.chdir(parsed_corpus)
+        docset = []
+        for each in query_terms:
+            doclist = inv_index[each]
+            for d in doclist:
+                docset.append(d)
+        docset = list(set(docset))
         for eachfile in glob.glob('*.txt'):
+            fname = eachfile[:len(eachfile) - 4]
+            if doc_dict_id[fname] not in docset:
+                continue
             file_content = open(eachfile)
             content = file_content.read()
-            fname = eachfile[:len(eachfile) - 4]
             content = content.split()
             word_count = dict(Counter(content))
             sum_num = 0
             m_doc = 0
             for each in word_count:
-                idf_comp = math.log(float(989)/len(inv_index[each]))
+                idf_comp = 1 + math.log(float(989)/len(inv_index[each]))
                 tf_word = word_count[each]/float(len(content))
                 m_doc += math.pow(tf_word*idf_comp, 2)
             mag_doc = math.sqrt(m_doc)
@@ -48,7 +60,7 @@ class Retriever:
             for each_query_term in query_terms:
                 if each_query_term in content:
                     tf = word_count[each_query_term]/float(len(content))
-                    idf = math.log(float(989)/len(inv_index[each_query_term]))
+                    idf = 1 + math.log(float(989)/len(inv_index[each_query_term]))
                     x = tf*idf
                     sum_num += x*query_terms.count(each_query_term)
                 else:
@@ -104,9 +116,12 @@ class Retriever:
         file_list = []
         ranked_docs = os.path.join(os.getcwd(), foldername)
         os.chdir(ranked_docs)
+        mergedfile = 'Merged_results_queries.txt1'
         for eachfile in glob.glob('*.txt'):
             file_list.append(eachfile)
-        with open(foldername+'_merged_results_queries.txt', 'w') as outfile:
+        if os.path.exists(mergedfile):
+            os.remove(mergedfile)
+        with open(mergedfile, 'w') as outfile:
             for fname in file_list:
                 with open(fname) as infile:
                     for line in infile:
@@ -123,14 +138,16 @@ def hw4_tasks():
     live = True
     print "Welcome to search\n"
     while live:
-        query = raw_input('\n\nEnter the query (type exit to end)\n')
+        query = raw_input('\n\nEnter the query (type \'exit\' to end and \'hw4\' to run the assignment)\n')
         if query == 'exit':
             break
-        query_id = queries[query] if query in queries else 0
-        r.run_query(query, query_id)
+        elif query == 'hw4':
+            for each in queries:
+                r.run_query(each, queries[each])
+        else:
+            query_id = queries[query] if query in queries else 0
+            r.run_query(query, query_id)
     # r.modify_lucene_files()
-    # for each in queries:
-    #     r.run_query(each, queries[each])
     # r.merge_files('Ranked_Docs')
     return
 
