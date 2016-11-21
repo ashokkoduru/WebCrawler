@@ -1,0 +1,44 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p>The <b>Thanet Wind Farm</b> (also sometimes called <b>Thanet Offshore Wind Farm</b>) is an <a class="mw-redirect" href="/wiki/Offshore_wind_farm" title="Offshore wind farm">offshore wind farm</a> 7 miles (11 km) off the coast of <a href="/wiki/Thanet" title="Thanet">Thanet</a> district in <a href="/wiki/Kent" title="Kent">Kent</a>, <a href="/wiki/England" title="England">England</a>. It is the world's third largest offshore wind farm, as of June 2013, the largest being the <a href="/wiki/London_Array" title="London Array">London Array</a>, followed by <a href="/wiki/Walney_Wind_Farm" title="Walney Wind Farm">Walney Wind Farm</a>. It has a <a href="/wiki/Intermittent_energy_source#Terminology" title="Intermittent energy source">nameplate capacity</a> (maximum output) of 300 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> and it cost £780–900 million (US$1.2–1.4 billion). Thanet is one of fifteen Round 2 wind projects announced by the <a href="/wiki/Crown_Estate" title="Crown Estate">Crown Estate</a> in January 2004 but the first to be developed. It was officially opened on 23 September 2010, when it overtook <a href="/wiki/Horns_Rev_2" title="Horns Rev 2">Horns Rev 2</a> as the biggest offshore wind farm in the world. It has since been overtaken by Walney.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span></h2>
+<p>The project covers an area of 13.5 square miles (35 km), with 500 metres (1,600 ft) between turbines and 800 metres (2,600 ft) between the rows. Average water depth is 14–23 metres (46–75 ft). Planning permission for the project was granted on 18 December 2006. According to Thanet Offshore Wind Ltd, it was expected to be "the largest operational offshore wind farm in the World". The Thanet project has a total capacity of 300 MW which, by yearly average, is sufficient to supply approximately 240,000 homes. It has an estimated generation of 960 GW·h per year of electricity, which means a <a href="/wiki/Load_factor_(electrical)#Wind_farm" title="Load factor (electrical)">load factor</a> of 36.5% and an average <a href="/wiki/Surface_power_density" title="Surface power density">power density</a> of 3.1 W/m².<br/>
+In 2011, the yearly production achieved was 823.88 GW·h which means a load factor of 31.35%.</p>
+<p>Two <a href="/wiki/Submarine_power_cable" title="Submarine power cable">submarine power cables</a> (by Italy-based <a class="mw-redirect" href="/wiki/Prysmian" title="Prysmian">Prysmian</a> Group) run from an offshore <a href="/wiki/Electrical_substation" title="Electrical substation">substation</a> within the wind farm connecting to an existing onshore substation in <a href="/wiki/Richborough_Power_Station" title="Richborough Power Station">Richborough</a>, Kent, connecting to a world-first two transformers. The offshore substation steps up the turbine voltage of 33 kV to 132 kV for the grid. Maintenance of the turbines is carried out by <a href="/wiki/Vestas" title="Vestas">Vestas</a>, while a separate maintenance agreement with SLP Energy covers the turbines foundations. Turbines are installed by the <a href="/wiki/Denmark" title="Denmark">Danish</a> offshore wind farm services provider <a href="/wiki/A2SEA" title="A2SEA">A2SEA</a>. The <a href="/wiki/TIV_MPI_Resolution" title="TIV MPI Resolution">TIV <i>MPI Resolution</i></a> carried and installed the turbines.</p>
+<h2><span class="mw-headline" id="Financial_structure">Financial structure</span></h2>
+<p>The Thanet scheme is <a href="/wiki/Project_finance" title="Project finance">project financed</a>. Thanet Offshore Wind Ltd (TOW), the <a href="/wiki/Special_purpose_entity" title="Special purpose entity">project company</a> was owned by <a href="/wiki/Hedge_fund" title="Hedge fund">hedge fund</a> Christofferson, Robb &amp; Co. It was purchased from a group of sponsors led by Warwick Energy Ltd. In August 2008 Christofferson, Robb &amp; Co placed the project back on the market. On 10 November 2008, <a href="/wiki/Vattenfall" title="Vattenfall">Vattenfall</a>, a Swedish energy company, acquired TOW.</p>
+<h2><span class="mw-headline" id="Current_status">Current status</span></h2>
+<p>The development was due to be in place by 2008. Vestas were chosen as the preferred turbine supplier in July 2006, and SLP were chosen as preferred supplier for the foundations in September 2006. The project was delayed by a number of issues including problems with Vestas who temporarily withdrew their V90 offshore model from the market in 2007 following <a class="mw-redirect" href="/wiki/Gearbox" title="Gearbox">gearbox</a> problems. The <a href="/wiki/Vestas_V90-3MW" title="Vestas V90-3MW">V90-3MW</a> was re-released for sales starting from May 2008.</p>
+<p>Vattenfall acquired the project in November 2008. On 28 June 2010, they reported that all turbines had been installed for commissioning due by the end of 2010. The wind farm was completed in September 2010.</p>
+
+<h2><span class="mw-headline" id="Criticism">Criticism</span></h2>
+<p>Since turbine construction makes up the majority of the project cost and the UK has no capacity, much of the work was contracted to foreign companies, resulting in only 20% of the investment going to British firms. There have been calls for the creation of a domestic wind industry.</p>
+<p>An article by <a class="mw-redirect" href="/wiki/Climate_change_sceptic" title="Climate change sceptic">climate change sceptic</a> and <a href="/wiki/Intelligent_design" title="Intelligent design">intelligent design</a> supporter  <a href="/wiki/Christopher_Booker" title="Christopher Booker">Christopher Booker</a> estimates that due to the wind being intermittent, Thanet Wind Farm will only produce 75MW on average. The owners will receive a subsidy of £60M per year on top of the £30–40M cost of the electricity due to <a class="mw-redirect" href="/wiki/Renewables_Obligation_Certificate" title="Renewables Obligation Certificate">Renewables Obligation Certificates</a>, and based on the estimated working life of the turbines of 20 years, the total subsidy will come to £1.2 billion. Since there are only 21 permanent <a href="/wiki/Green_job" title="Green job">green jobs</a>, the subsidy per job comes to around £3M per year. However, Booker used a generic capacity of 25%, lower than Vattenfall's estimate for Thanet of 35–40% capacity (105–120 MW). The working life figure is also lower than other estimates of 40 years.</p>
+<h2><span class="mw-headline" id="Extension">Extension</span></h2>
+<p>In June 2010, the Crown Estate announced that Thanet wind farm could be extended to produce an additional 147 MW. However, in October 2010, Vattenfall stated that it would not proceed.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/London_Array" title="London Array">London Array</a></li>
+<li><a href="/wiki/Wind_power_in_the_United_Kingdom" title="Wind power in the United Kingdom">Wind power in the United Kingdom</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms" title="List of offshore wind farms">List of offshore wind farms</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms_in_the_United_Kingdom" title="List of offshore wind farms in the United Kingdom">List of offshore wind farms in the United Kingdom</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms_in_the_North_Sea" title="List of offshore wind farms in the North Sea">List of offshore wind farms in the North Sea</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.power-technology.com/videos/622195177001.html" rel="nofollow">A video about the inauguration of Thanet offshore wind farm</a></li>
+<li><a class="external text" href="http://www.vattenfall.co.uk/en/thanet-offshore-wind-farm.htm" rel="nofollow">Vattenfall UK: Thanet Offshore Wind Farm</a></li>
+<li><a class="external text" href="http://www.youtube.com/watch?v=gk_pPvgN_24" rel="nofollow">A video by Vattenfall showing turbine assembly process</a></li>
+<li><a class="external text" href="http://www.lorc.dk/Knowledge/Offshore-renewables-map/Offshore-site-datasheet/Thanet-Offshore-Wind-Farm/000051?free=thanet" rel="nofollow">LORC: Datasheet for Thanet Offshore Wind Farm</a></li>
+</ul>
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8660893-0!*!0!!en!4!* and timestamp 20161105184054 and revision id 678399551
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

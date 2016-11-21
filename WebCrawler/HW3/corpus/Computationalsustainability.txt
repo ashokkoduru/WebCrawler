@@ -1,0 +1,35 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p><b>Computational sustainability</b> is a broad field that attempts to optimize societal, economic, and environmental resources using methods from <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a> fields. <a href="/wiki/Sustainability" title="Sustainability">Sustainability</a> in this context is the ability to produce enough energy for the world to support it's biological systems. Using the power of computers to process large quantities of information, decision making algorithms allocate resources based on real-time information.</p>
+<p>Applications are widespread. <a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a>s implement renewable resources and storage capabilities to control the production and expenditure of energy. <a href="/wiki/Intelligent_transportation_system" title="Intelligent transportation system">Intelligent transportation system</a> analyze road conditions and relay information to drivers so they can make smarter decisions based on real time traffic information.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span></h2>
+<p>Intelligent Transportation Systems (ITS) seek to improve safety and travel times while minimizing <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> emissions for all travelers, though focusing mainly on drivers. ITS has two systems: one for data collection/relaying, and another for data processing. <a href="/wiki/Data_collection" title="Data collection">Data collection</a> can be achieved with video cameras over busy areas, sensors that detect various pieces from location of certain vehicles to infrastructure that's breaking down, and even drivers who notice an accident and use a <a href="/wiki/Mobile_app" title="Mobile app">mobile app</a>, like <a href="/wiki/Waze" title="Waze">Waze</a>, to report it's whereabouts.</p>
+<p>Advanced Public Transportation Systems (APTS) aim to make public transportation more efficient and convenient for its riders. Electronic payment methods allow users to add money to their <a href="/wiki/Smart_card" title="Smart card">smart card</a>s at stations and online. APTS relay information to transit facilities about current vehicle locations to give riders expected wait times on screens at stations and directly to customers' smart phones. Advanced Traffic Management Systems (ATMS) collect information using cameras and other sensors that gather information regarding how congested roads are. <a href="/wiki/Ramp_meter" title="Ramp meter">Ramp meters</a> regulate the number of cars entering highways to limit backups. Traffic signals use algorithms to optimize travel times depending on the number of cars on the road. Electronic highway signs relay information regarding travel times, detours, and accidents that may affect drivers ability to reach their destination.</p>
+<p>With the rise of consumer connectivity, less infrastructure is needed for these ITS to make informed decisions. <a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a> uses smartphone crowdsourcing to get information about real-time traffic conditions allowing motorists to make decisions based on toll roads, travel times, and overall distance traveled. Cars communicate with their manufacturers to remotely install software updates when new features are added or bugs are being patched. <a href="/wiki/Tesla_Motors" title="Tesla Motors">Tesla Motors</a> even uses these updates to increase their cars efficiency and performance. These connections give ITS a means to accurately collect information and even relay that information to drivers with no other infrastructure needed.</p>
+<p>Future ITS systems will aid in car communication with not just the infrastructure, but with other cars as well.</p>
+<h2><span class="mw-headline" id="Utilities">Utilities</span></h2>
+<p>The <a href="/wiki/Electrical_grid" title="Electrical grid">electrical grid</a> was designed to send consumers electricity from <a href="/wiki/Electric_generator" title="Electric generator">electricity generators</a> for a monthly fee based on usage. Homeowners are installing <a href="/wiki/Solar_panel" title="Solar panel">solar panels</a> and large batteries to store the power created by these panels. A <a href="/wiki/Smart_grid" title="Smart grid">smart grid</a> is being created to accommodate the new energy sources. Rather than just electricity being sent to a household to be consumed by the various appliances in the home, electricity can flow in either direction. Additional sensors along the grid will improve information collection and decreased downtime during power outages. These sensors can also relay information directly to consumers about how much energy they're using and what the costs will be.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+
+<ul>
+<li><a href="/wiki/EBird" title="EBird">eBird</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Green computing</a></li>
+<li><a href="/wiki/Institute_for_Computational_Sustainability" title="Institute for Computational Sustainability">Institute for Computational Sustainability</a> (ICS)</li>
+<li><a href="/wiki/The_Nature_Conservancy" title="The Nature Conservancy">The Nature Conservancy</a></li>
+<li><a href="/wiki/United_States_Fish_and_Wildlife_Service" title="United States Fish and Wildlife Service">United States Fish and Wildlife Service</a></li>
+<li><a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.computational-sustainability.org/" rel="nofollow">Computational Sustainability</a></li>
+<li><a class="external text" href="http://www.cis.cornell.edu/ics" rel="nofollow">Institute for Computational Sustainability (ICS)</a></li>
+<li><a class="external text" href="http://www.ifgict.org" rel="nofollow">International Federation of Green ICT</a></li>
+<li><a class="external text" href="http://blog.computational-sustainability.org/" rel="nofollow">Computational Sustainability Blog</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22721456-0!*!0!!en!4!* and timestamp 20161110161845 and revision id 748822765
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

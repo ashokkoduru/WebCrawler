@@ -1,0 +1,63 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="floatright"><a class="image" href="/wiki/File:EugeneStandardLogo.png"><img alt="EugeneStandardLogo.png" data-file-height="120" data-file-width="120" height="120" src="//upload.wikimedia.org/wikipedia/en/7/73/EugeneStandardLogo.png" width="120"/></a></div>
+<p>The <b>Eugene Green Energy Standard</b> was an <a href="/wiki/International_standard" title="International standard">international standard</a> to which national or international <a class="mw-redirect" href="/wiki/Green_electricity" title="Green electricity">green electricity</a> <a href="/wiki/Label" title="Label">labelling</a> schemes could be <a href="/wiki/Product_certification" title="Product certification">accredited</a> to confirm that they provide genuine environmental benefits. It was designed to encourage the generation and use of additional <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> sources for <a href="/wiki/Electricity_generation" title="Electricity generation">electricity generation</a>, although the limited use of additional <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>-fired <a href="/wiki/Cogeneration" title="Cogeneration">cogeneration</a> plant was also supported. Initially funded in part through the EU's clean-e programme, but also including some participants from outside Europe, the Eugene standard was formally discontinued after February 2009.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Dismantling">Dismantling</span></h2>
+<p>On 2 February 2009, EUGENE’s General Assembly voted in favour of its dismantling. It was agreed that the members and board would continue to work together to promote green energy in Europe, but that the EUGENE standard and the association (ASBL) under Belgian law would cease to exist.</p>
+<h2><span class="mw-headline" id="The_standard">The standard</span></h2>
+<p>The standard confirmed that energy supplied under the accredited schemes:</p>
+<ul>
+<li>Is produced from genuinely sustainable energy sources.</li>
+<li>Will result in a real increase in renewable generation beyond the requirements imposed by government ('additionality').</li>
+<li>That the demand from consumers is matched by renewable generation.</li>
+</ul>
+<p>Two variations of the standard, 'gold' and 'silver', differentiated between schemes depending on the additionality of new renewable energy supplied. The development of the standard was aided by the <a href="/wiki/European_Union" title="European Union">European Union</a>'s CLEAN-E initiative during 2005 and 2006</p>
+<h2><span class="mw-headline" id="Accredited_energy_labels">Accredited energy labels</span></h2>
+<p>National energy labels formerly accredited by EUGENE included:</p>
+
+<p>The organisation also recommends certain other national schemes that are progressing towards accreditation, including:</p>
+
+<p>There was no Eugene accredited scheme in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>. The UK's energy regulator (<a class="mw-redirect" href="/wiki/Ofgem" title="Ofgem">Ofgem</a>) published guidelines in February 2009 that broadly followed the EUGENE standard, requiring matching and additionality through carbon savings, although allowing the latter to be met through energy efficiency or offsetting, as well as through new renewables schemes. These were implemented in February 2010 in the UK's <a class="external text" href="http://www.greenenergyscheme.org/" rel="nofollow">Green Energy Supply Certification Scheme</a>.</p>
+<p>The Eugene Standard had also been adopted in <a href="/wiki/Chile" title="Chile">Chile</a>, while a pilot scheme is in progress in <a href="/wiki/France" title="France">France</a>.</p>
+<h2><span class="mw-headline" id="The_Eugene_Network">The Eugene Network</span></h2>
+<p>The standard was managed by the Eugene Network (formerly the <b>Eu</b>ropean <b>G</b>reen <b>E</b>lectricity <b>Ne</b>twork), an international membership-based <a class="mw-redirect" href="/wiki/Non-profit_organization" title="Non-profit organization">non-profit organization</a>. The Network aimed to coordinate and harmonise <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">green energy</a> labelling nationally and internationally, promote the adoption of the Eugene Standard as the basis for national and international green <a href="/wiki/Energy_market" title="Energy market">energy markets</a>, and encourage consumers and suppliers to choose credible <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">green energy</a> products. Formal discussions on the Eugene standard first took place in 2000, led by the <a href="/wiki/World_Wide_Fund_for_Nature" title="World Wide Fund for Nature">World Wide Fund for Nature</a>, and it was officially launched on June 24, 2002. The Eugene Network was legally established in 2003 and the first national energy labels were accredited in 2004.</p>
+<p>Full voting membership of the Network was open to 'citizen organisations pursuing not for profit activities with the objectives of promoting green electricity but with no direct interests in the generation and supply of energy services'. Organisations outside this scope but which do 'have a commitment and interest in creating a viable <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">green energy</a> market' were able to become non-voting associate members or supporters.</p>
+<p>As of June 2007, the members of the Eugene Network were:</p>
+
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/EKOenergy" title="EKOenergy">EKOenergy</a></li>
+<li><a href="/wiki/Electricity_retailing" title="Electricity retailing">Electricity retailing</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Energy_policy" title="Energy policy">Energy policy</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_concerns_with_electricity_generation" title="Environmental concerns with electricity generation">Environmental concerns with electricity generation</a></li>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a class="mw-redirect" href="/wiki/ISO_14001" title="ISO 14001">ISO 14001</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/REN21" title="REN21">REN21</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.greenlabelspurchase.net/EUGENE.html" rel="nofollow">GreenLabelsPurchase.net: Eugene</a></li>
+<li><a class="external text" href="http://www.ekoenergia.info/pdf/Presentation.pdf" rel="nofollow">Present and Future Development of Bra Miljöval-labelled electricity (2005-02-14)</a></li>
+<li><a class="external text" href="http://www.recs.org/doctree/RECS%20International/In%20the%20Press/Advertorials/05_03%20Advertorial%20RECS%20in%20Greenprices.PDF" rel="nofollow">Additionality in renewable energy</a></li>
+<li><a class="external text" href="http://www.aecb.net/PDFs/green%20electricity%20illusion.pdf" rel="nofollow">Association for Environment Conscious Building: The Green Electricity Illusion</a></li>
+<li><a class="external text" href="http://ecolabelling.org/ecolabel/eugene-standard/" rel="nofollow">Eugene Standard entry at ecolabelling.org</a></li>
+</ul>
+
+<ul>
+<li>January 1, 2007, <i>Leonardo Energy</i>: <a class="external text" href="http://www.leonardo-energy.org/drupal/node/1408" rel="nofollow">Green Power labels not yet at full power</a></li>
+<li>October 2, 2002, <i>World Wildlife Fund</i>: <a class="external text" href="http://www.livingplanet.com/about_wwf/where_we_work/europe/what_we_do/epo/news/index.cfm?uNewsID=2695" rel="nofollow">Green electricity that really is green</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11648886-0!*!0!!en!4!* and timestamp 20161107064450 and revision id 730662250
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

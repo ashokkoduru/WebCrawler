@@ -1,0 +1,118 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">"Envirotech" redirects here. For the Singapore-based company, see <a href="/wiki/United_Envirotech" title="United Envirotech">United Envirotech</a>. For the California-based company, see <a href="/wiki/Envirotech_(company)" title="Envirotech (company)">Envirotech (company)</a>.</div>
+
+
+<p><b>Environmental technology</b> (<i>envirotech</i>), green technology (<i>greentech</i>) or clean technology (<i>cleantech</i>) is the application of one or more of <a href="/wiki/Environmental_science" title="Environmental science">environmental science</a>, <a href="/wiki/Green_chemistry" title="Green chemistry">green chemistry</a>, <a href="/wiki/Environmental_monitoring" title="Environmental monitoring">environmental monitoring</a> and electronic devices to monitor, model and conserve the <a href="/wiki/Natural_environment" title="Natural environment">natural environment</a> and resources, and to curb the negative impacts of human involvement. The term is also used to describe sustainable energy generation technologies such as <a href="/wiki/Photovoltaics" title="Photovoltaics">photovoltaics</a>, <a href="/wiki/Wind_turbine" title="Wind turbine">wind turbines</a>, <a class="mw-redirect" href="/wiki/Bioreactors" title="Bioreactors">bioreactors</a>, etc. <a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a> is the core of <i>environmental technologies</i>. The term <i>environmental technologies</i> is also used to describe a class of electronic devices that can promote sustainable management of resources.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Examples">Examples</span></h2>
+<div class="div-col columns column-count column-count-4" style="-moz-column-count: 4; -webkit-column-count: 4; column-count: 4;">
+<ul>
+<li><a href="/wiki/Biofilter" title="Biofilter">Biofiltration</a></li>
+<li><a href="/wiki/Bioreactor" title="Bioreactor">Bioreactor</a></li>
+<li><a href="/wiki/Bioremediation" title="Bioremediation">Bioremediation</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a class="mw-redirect" href="/wiki/Doubly_fed_electric_machine" title="Doubly fed electric machine">Doubly fed electric machine</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_saving_modules" title="Energy saving modules">Energy saving modules</a></li>
+<li><a class="mw-redirect" href="/wiki/Electric_vehicles" title="Electric vehicles">Electric vehicles</a></li>
+<li><a class="mw-redirect" href="/wiki/Wave_energy" title="Wave energy">Wave energy</a></li>
+<li><a href="/wiki/Green_computing" title="Green computing">Green computing</a></li>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind power</a></li>
+<li><a href="/wiki/Wind_turbine" title="Wind turbine">Wind turbine</a></li>
+<li><a class="mw-redirect" href="/wiki/Hydrogen_fuel_cell" title="Hydrogen fuel cell">Hydrogen fuel cell</a></li>
+<li><a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">Ocean thermal energy conversion</a></li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a></li>
+<li><a class="mw-redirect" href="/wiki/Photovoltaic" title="Photovoltaic">Photovoltaic</a></li>
+<li><a href="/wiki/Thermal_depolymerization" title="Thermal depolymerization">Thermal depolymerization</a></li>
+<li><a href="/wiki/Composting_toilet" title="Composting toilet">Composting toilet</a></li>
+<li><a href="/wiki/Pyrolysis" title="Pyrolysis">Pyrolysis</a></li>
+</ul>
+</div>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Recycling" title="Recycling">Recycling</a></div>
+<h3><span class="mw-headline" id="Renewable_energy">Renewable energy</span></h3>
+
+<p><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a> is the <a href="/wiki/Energy" title="Energy">energy</a> that can be replenished easily. For years we have been using sources like <a href="/wiki/Wood" title="Wood">wood</a>, sun, <a href="/wiki/Water" title="Water">water</a>, etc. for means for producing energy. Energy that can be produced by natural objects like wood, sun, wind, etc. is considered to be renewable.</p>
+<h3><span class="mw-headline" id="Water_purification">Water purification</span></h3>
+<p><a href="/wiki/Water_purification" title="Water purification">Water purification</a>: The whole idea/concept of having dirt/germ/pollution free water flowing throughout the environment. Many other phenomena lead from this concept of purification of water. Water pollution is the main enemy of this concept, and various campaigns and activists have been organized around the world to help purify water.</p>
+<h3><span class="mw-headline" id="Air_purification">Air purification</span></h3>
+<p>Air purification: Basic and common green plants can be grown indoors to keep air fresh because all plants remove CO<sub>2</sub> and convert it into <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>. The best examples are: <i><a href="/wiki/Dypsis_lutescens" title="Dypsis lutescens">Dypsis lutescens</a></i>, <i><a href="/wiki/Sansevieria_trifasciata" title="Sansevieria trifasciata">Sansevieria trifasciata</a></i>, and <i><a href="/wiki/Epipremnum_aureum" title="Epipremnum aureum">Epipremnum aureum</a></i>.</p>
+<h3><span class="mw-headline" id="Sewage_treatment">Sewage treatment</span></h3>
+<p><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a> is conceptually similar to water purification. Sewage treatments are very important as they purify water per levels of its pollution. The most polluted water is not used for anything, and the least polluted water is supplied to places where water is used affluently. It may lead to various other concepts of environmental protection, sustainability etc.</p>
+<h3><span class="mw-headline" id="Environmental_remediation">Environmental remediation</span></h3>
+<p><a href="/wiki/Environmental_remediation" title="Environmental remediation">Environmental remediation</a> is the removal of pollutants or contaminants for the general protection of the environment. This is accomplished by various chemical, biological, and bulk movements. (encyclopedia of medical concepts)</p>
+<h3><span class="mw-headline" id="Solid_waste_management">Solid waste management</span></h3>
+
+<p><a class="mw-redirect" href="/wiki/Solid_waste_management" title="Solid waste management">Solid waste management</a> is the purification, consumption, reuse, disposal and treatment of <a class="mw-redirect" href="/wiki/Solid_waste" title="Solid waste">solid waste</a> that is undertaken by the government or the ruling bodies of a city/town.</p>
+<h3><span class="mw-headline" id="eGain_forecasting">eGain forecasting</span></h3>
+<p>Egain forecasting is a method using forecasting technology to predict the future <a href="/wiki/Weather" title="Weather">weather</a>'s impact on a building. By adjusting the heat based on the weather forecast, the system eliminates redundant use of heat, thus reducing the energy consumption and the emission of <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gases</a>.</p>
+<h3><span class="mw-headline" id="Energy_conservation">Energy conservation</span></h3>
+<p><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a> is the utilization of devices that require smaller amounts of energy in order to reduce the consumption of electricity. Reducing the use of electricity causes less fossil fuels to be burned to provide that electricity.</p>
+<h2><span class="mw-headline" id="Alternative_and_clean_power">Alternative and clean power</span></h2>
+
+<p>Principles:</p>
+<ul>
+<li><a href="/wiki/Green_syndicalism" title="Green syndicalism">Green syndicalism</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Sustainable_engineering" title="Sustainable engineering">Sustainable engineering</a></li>
+</ul>
+<p>Scientists continue to search for <a class="mw-redirect" href="/wiki/Clean_energy" title="Clean energy">clean energy</a> alternatives to our current power production methods. Some technologies such as <a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">anaerobic digestion</a> produce renewable energy from <a href="/wiki/Waste" title="Waste">waste</a> materials. The global reduction of <a class="mw-redirect" href="/wiki/Greenhouse_gases" title="Greenhouse gases">greenhouse gases</a> is dependent on the adoption of energy conservation technologies at industrial level as well as this clean energy generation. That includes using unleaded <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>, <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a> and <a href="/wiki/Alternative_fuel" title="Alternative fuel">alternative fuel</a> vehicles, including <a href="/wiki/Plug-in_hybrid" title="Plug-in hybrid">plug-in hybrid</a> and <a href="/wiki/Hybrid_electric_vehicle" title="Hybrid electric vehicle">hybrid electric</a> vehicles.</p>
+<p>Since industrial use of energy accounts for 51% of worldwide energy usage improving energy efficiency in this field is a top priority for environmental technology companies around the globe. Advanced energy efficient <a href="/wiki/Electric_motor" title="Electric motor">electric motor</a> (and <a href="/wiki/Electric_generator" title="Electric generator">electric generator</a>) technology that are cost effective to encourage their application, such as the <a class="mw-redirect" href="/wiki/Brushless_wound-rotor_doubly_fed_electric_machine" title="Brushless wound-rotor doubly fed electric machine">brushless wound-rotor doubly fed electric machine</a> and <a class="mw-redirect" href="/wiki/Energy_saving_module" title="Energy saving module">energy saving module</a>, can reduce the amount of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>) and <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a> (SO<sub>2</sub>) that would otherwise be introduced to the atmosphere, if electricity is generated using fossil fuels. <a href="/wiki/Greasestock" title="Greasestock">Greasestock</a> is an event held yearly in <a href="/wiki/Yorktown_Heights,_New_York" title="Yorktown Heights, New York">Yorktown Heights</a>, <a class="mw-redirect" href="/wiki/New_York_(state)" title="New York (state)">New York</a> which is one of the largest showcases of environmental technology in the <a href="/wiki/United_States" title="United States">United States</a>.</p>
+<p><br/></p>
+<p>there are more chemical formula like this, for example reaction on water in nitric acid</p>
+<p>there are things made on heat process like iron, steel, zinc etc., it also may be reversed making things on freezing or cooling process, like cement and water reaction make strong chemical molecules, or glue or super glue on heat they do not melt, but iron, steel and zinc melt on heat, so super glue like chemical formula with more chemical work will be so strong if it will be processed from high cool temperature (minus temperature)</p>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span></h2>
+<p>Courses aimed at developing graduates with specific skills in environmental systems or environmental technology are becoming more common and fall into three broads classes:</p>
+<ul>
+<li><i><a class="mw-redirect" href="/wiki/Environmental_Engineering" title="Environmental Engineering">Environmental Engineering or Environmental Systems</a></i> courses oriented towards a civil engineering approach in which structures and the landscape are constructed to blend with or protect the environment;</li>
+<li><i><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></i>, <i>sustainable chemistry</i> or <i>environmental chemical engineering</i> courses oriented towards understanding the effects (good and bad) of chemicals in the environment. Such awards can focus on mining processes, pollutants and commonly also cover biochemical processes;</li>
+<li><i>Environmental technology</i> courses oriented towards producing electronic, electrical or electrotechnology graduates capable of developing devices and artefacts able to monitor, measure, model and control environmental impact, including monitoring and managing energy generation from renewable sources, and developing novel energy generation technologies.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a class="mw-redirect" href="/wiki/Portal:Sustainable_Development" title="Portal:Sustainable Development">Sustainable Development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2776" data-file-width="2790" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/28px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/56px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="4000" data-file-width="6000" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a></li>
+<li><a href="/wiki/Groasis_Waterboxx" title="Groasis Waterboxx">Groasis Waterboxx</a></li>
+<li><a href="/wiki/The_All-Earth_Ecobot_Challenge" title="The All-Earth Ecobot Challenge">The All-Earth Ecobot Challenge</a></li>
+<li><a class="mw-redirect" href="/wiki/Pulser_Pump" title="Pulser Pump">Pulser Pump</a></li>
+<li><a href="/wiki/Environmentally_friendly" title="Environmentally friendly">Environmentally friendly</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Sustainable living</a></li>
+<li><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+</ul>
+<div style="clear:both;"></div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><cite class="citation book"><i>OECD Studies on Environmental Innovation Invention and Transfer of Environmental Technologies</i>. <a class="mw-redirect" href="/wiki/OECD" title="OECD">OECD</a>. September 2011. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-92-64-11561-3" title="Special:BookSources/978-92-64-11561-3">978-92-64-11561-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+technology&amp;rft.btitle=OECD+Studies+on+Environmental+Innovation+Invention+and+Transfer+of+Environmental+Technologies.&amp;rft.date=2011-09&amp;rft.genre=book&amp;rft.isbn=978-92-64-11561-3&amp;rft.pub=OECD&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.eucetsa.net/eucetsa" rel="nofollow">EUCETSA</a> - European Committee of Environmental Technology Supplier Associations (representing over 1.000 companies in the environmental industry)</li>
+<li><a class="external text" href="http://www.norwayonline.no/index.php?cat=23" rel="nofollow">Related "<i>Norway Online</i>" resources</a></li>
+<li><a class="external text" href="http://www.mercurynews.com/greenenergy/ci_7392438" rel="nofollow">How Silicon Valley could become the Detroit of electric cars</a>.</li>
+<li>Reed, Daniel. 2009. Environmental and Renewable Energy Innovation Potential Among the States: State Rankings. Applied Research Project. Texas State University. <a class="external free" href="http://ecommons.txstate.edu/arp/291/" rel="nofollow">http://ecommons.txstate.edu/arp/291/</a></li>
+<li><a class="external text" href="http://www.youtube.com/watch?v=DjYmWM-gjBw" rel="nofollow">"Use of Green Energy" (in agriculture) Dr. Roger Beachy, US Embassy in France</a></li>
+<li><a class="external text" href="http://www-03.ibm.com/systems/greendc/green_technology/" rel="nofollow">IBM Green Technology</a></li>
+<li><a class="external text" href="http://berkeley.academia.edu/OzzieZehner/Papers/867475/Unintended_Consequences_of_Green_Technologies/" rel="nofollow">Unintended Consequences of Green Technologies</a></li>
+</ul>
+
+
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1443002-0!*!0!!en!4!* and timestamp 20161109115841 and revision id 747542951
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

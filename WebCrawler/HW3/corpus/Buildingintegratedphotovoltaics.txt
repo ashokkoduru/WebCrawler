@@ -1,0 +1,121 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="hatnote" role="note">"BAPV" redirects here. For the bank, see <a href="/wiki/Banca_Antonveneta" title="Banca Antonveneta">Banca Antonveneta</a>.</div>
+
+<p><b>Building-integrated photovoltaics</b> (<b>BIPV</b>) are <a class="mw-redirect" href="/wiki/Photovoltaic" title="Photovoltaic">photovoltaic</a> materials that are used to replace conventional building materials in parts of the <a href="/wiki/Building_envelope" title="Building envelope">building envelope</a> such as the roof, skylights, or facades. They are increasingly being incorporated into the construction of new buildings as a principal or ancillary source of electrical power, although existing buildings may be retrofitted with similar technology. The advantage of integrated photovoltaics over more common non-integrated systems is that the initial cost can be offset by reducing the amount spent on building materials and labor that would normally be used to construct the part of the building that the BIPV modules replace. These advantages make BIPV one of the fastest growing segments of the photovoltaic industry.</p>
+<p>The term <b>building-applied photovoltaics</b> (<b>BAPV</b>) is sometimes used to refer to photovoltaics that are a retrofit – integrated into the building after construction is complete. Most building-integrated installations are actually BAPV. Some manufacturers and builders differentiate new construction BIPV from BAPV.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>PV applications for buildings began appearing in the 1970s. Aluminum-framed photovoltaic modules were connected to, or mounted on, buildings that were usually in remote areas without access to an electric power grid. In the 1980s photovoltaic module add-ons to roofs began being demonstrated. These PV systems were usually installed on utility-grid-connected buildings in areas with centralized power stations. In the 1990s BIPV construction products specially designed to be integrated into a building envelope became commercially available. A 1998 doctoral thesis by Patrina Eiffert, entitled <i>An Economic Assessment of BIPV</i>, hypothesized that one day there would an economic value for trading Renewable Energy Credits (RECs). A 2011 economic assessment and brief overview of the history of BIPV by the <a class="mw-redirect" href="/wiki/U.S._National_Renewable_Energy_Laboratory" title="U.S. National Renewable Energy Laboratory">U.S. National Renewable Energy Laboratory</a> suggests that there may be significant technical challenges to overcome before the installed cost of BIPV is competitive with photovoltaic panels. However, there is a growing consensus that through their widespread commercialization, BIPV systems will become the backbone of the zero energy building (ZEB) European target for 2020. Despite technical promise, social barriers to widespread use have also been identified, such as the conservative culture of the building industry and integration with high-density urban design. These authors suggest enabling long-term use likely depends on effective public policy decisions as much as the technological development.</p>
+
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Forms">Forms</span></h2>
+
+
+<p>Building-Integrated Photovoltaic modules are available in several forms.</p>
+<ul>
+<li>Flat roofs
+<ul>
+<li>The most widely installed to date is an amorphous <a class="mw-redirect" href="/wiki/Thin_film_solar_cell" title="Thin film solar cell">thin film solar cell</a> integrated to a flexible <a href="/wiki/Polymer" title="Polymer">polymer</a> module which has been attached to the roofing membrane using an adhesive sheet between the solar module backsheet and the roofing membrane.</li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/Pitched_roof" title="Pitched roof">Pitched roofs</a>
+<ul>
+<li>Modules shaped like multiple roof tiles.</li>
+<li><a class="mw-redirect" href="/wiki/Solar_shingles" title="Solar shingles">Solar shingles</a> are modules designed to look and act like regular shingles, while incorporating a flexible thin film cell.</li>
+<li>It extends normal roof life by protecting insulation and membranes from ultraviolet rays and water degradation. It does this by eliminating condensation because the <a href="/wiki/Dew_point" title="Dew point">dew point</a> is kept above the roofing membrane.</li>
+</ul>
+</li>
+<li><a href="/wiki/Facade" title="Facade">Facade</a>
+<ul>
+<li>Facades can be installed on existing buildings, giving old buildings a whole new look. These modules are mounted on the facade of the building, over the existing structure, which can increase the appeal of the building and its resale value.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Glazing_(window)" title="Glazing (window)">Glazing</a>
+<ul>
+<li>(Semi)transparent modules can be used to replace a number of architectural elements commonly made with glass or similar materials, such as windows and skylights.</li>
+</ul>
+</li>
+</ul>
+<p>What is BIPV?</p>
+<ul>
+<li>Three Main Types of BIPV Products
+<ul>
+<li>Crystalline silicon solar panels for ground-based and rooftop power plant</li>
+<li>Amorphous crystalline silicon thin film solar pv modules which could be hollow, light, red blue yellow, as glass curtain wall and transparent skylight.</li>
+<li>Double glasses solar panels with square cells inside.</li>
+</ul>
+</li>
+</ul>
+<p>Recently (in 2011-2016), Australian researchers have been working on developing the new approaches to implementing the unconventional BIPV systems and technologies, including solar photovoltaic windows of high visible transparency capable of providing significant energy savings  due to superior thermal insulation properties and solar radiation control. Significant electric energy outputs were obtained from installation-ready framed PV window systems, as documented in </p>
+<h2><span class="mw-headline" id="Transparent_and_translucent_photovoltaics">Transparent and translucent photovoltaics</span></h2>
+<p><a href="/wiki/Transparency_and_translucency" title="Transparency and translucency">Transparent</a> solar panels use a <a href="/wiki/Tin_oxide" title="Tin oxide">tin oxide</a> <a href="/wiki/Coating" title="Coating">coating</a> on the inner surface of the glass panes to conduct current out of the cell. The cell contains titanium oxide that is coated with a <a class="mw-redirect" href="/wiki/Photoelectric" title="Photoelectric">photoelectric</a> <a href="/wiki/Dye" title="Dye">dye</a>.</p>
+<p>Most conventional solar cells use visible and <a class="mw-redirect" href="/wiki/Infrared_light" title="Infrared light">infrared light</a> to generate electricity. In contrast, the innovative new solar cell also uses ultraviolet radiation. Used to replace conventional window glass, or placed over the glass, the installation surface area could be large, leading to potential uses that take advantage of the combined functions of power generation, lighting and temperature control.</p>
+<p>Another name for transparent photovoltaics is “<a class="mw-redirect" href="/wiki/Translucent" title="Translucent">translucent</a> photovoltaics” (they transmit half the light that falls on them). Similar to inorganic photovoltaics, <a class="mw-redirect" href="/wiki/Organic_photovoltaics" title="Organic photovoltaics">organic photovoltaics</a> are also capable of being translucent.</p>
+<h2><span class="mw-headline" id="Government_subsidies">Government subsidies</span></h2>
+<div class="hatnote" role="note">See also: <a class="mw-redirect" href="/wiki/PV_financial_incentives" title="PV financial incentives">PV financial incentives</a></div>
+<p>In some countries, additional incentives, or subsidies, are offered for building-integrated photovoltaics in addition to the existing feed-in tariffs for stand-alone solar systems. Since July 2006 France offered the highest incentive for BIPV, equal to an extra premium of EUR 0.25/kWh paid in addition to the 30 Euro cents for PV systems. These incentives are offered in the form of a rate paid for electricity fed to the grid.</p>
+<h3><span class="mw-headline" id="European_Union">European Union</span></h3>
+<ul>
+<li>France €0.25/kWh</li>
+<li>Germany €0.05/kWh facade bonus expired in 2009</li>
+<li>Italy €0.04–€0.09/kWh</li>
+<li>United Kingdom 4.18 p/kWh <a class="external autonumber" href="http://www.energysavingtrust.org.uk/domestic/content/feed-tariff-scheme" rel="nofollow">[1]</a></li>
+<li>Spain, compared with a non- building installation that receives €0.28/kWh (RD 1578/2008):
+<ul>
+<li>≤20 kW: €0.34/kWh</li>
+<li>&gt;20 kW: €0.31/kWh</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="USA">USA</span></h3>
+<ul>
+<li>USA – Varies by state. Check Database of State Incentives for Renewables &amp; Efficiency for more details.</li>
+</ul>
+<h3><span class="mw-headline" id="China">China</span></h3>
+<p>Further to the announcement of a subsidy program for BIPV projects in March 2009 offering RMB20 per watt for BIPV systems and RMB15/watt for rooftop systems, the Chinese government recently unveiled a photovoltaic energy subsidy program “the Golden Sun Demonstration Project”. The subsidy program aims at supporting the development of photovoltaic electricity generation ventures and the commercialization of PV technology. The Ministry of Finance, the Ministry of Science and Technology and the National Energy Bureau have jointly announced the details of the program in July 2009. Qualified on-grid photovoltaic electricity generation projects including rooftop, BIPV, and ground mounted systems are entitled to receive a subsidy equal to 50% of the total investment of each project, including associated transmission infrastructure. Qualified off-grid independent projects in remote areas will be eligible for subsidies of up to 70% of the total investment. In mid November, China’s finance ministry has selected 294 projects totaling 642 megawatts that come to roughly RMB 20 billion ($3 billion) in costs for its subsidy plan to dramatically boost the country’s solar energy production.</p>
+<h2><span class="mw-headline" id="Other_integrated_photovoltaics">Other integrated photovoltaics</span></h2>
+<p><a class="mw-redirect" href="/wiki/Vehicle-integrated_photovoltaics" title="Vehicle-integrated photovoltaics">Vehicle-integrated photovoltaics</a> (ViPV) are similar for vehicles. Solar cells could be embedded into panels exposed to sunlight such as the hood, roof and possibly the trunk depending on a car's design.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 24em; -webkit-column-width: 24em; column-width: 24em;">
+<ul>
+<li><a href="/wiki/Distributed_generation" title="Distributed generation">Distributed generation</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+<li><a class="mw-redirect" href="/wiki/Photovoltaic_module" title="Photovoltaic module">Solar panel</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a class="mw-redirect" href="/wiki/Roof_tile" title="Roof tile">Roof tile</a></li>
+<li><a href="/wiki/Smart_glass" title="Smart glass">Smart glass</a>, a type of window blind capable of conserving energy for cooling</li>
+<li><a href="/wiki/Solar_cell" title="Solar cell">Solar cell</a></li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_thermal" title="Solar thermal">Solar thermal</a></li>
+<li><a href="/wiki/Zero-energy_building" title="Zero-energy building">Zero-energy building</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><cite class="citation book">Agrawal, Basant; Tiwari, G N (2011). <a class="external text" href="https://books.google.com/books?id=SNNpN6jBBkQC" rel="nofollow">1 <i>Building Integrated Photovoltaic Thermal Systems</i></a> <span class="error citation-comment" style="font-size:100%">Check <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> value (<a href="/wiki/Help:CS1_errors#bad_url" title="Help:CS1 errors">help</a>)</span>. Cambridge, UK: Royal Society of Chemistry. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-84973-090-7" title="Special:BookSources/978-1-84973-090-7">978-1-84973-090-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.aufirst=Basant&amp;rft.aulast=Agrawal&amp;rft.au=Tiwari%2C+G+N&amp;rft.btitle=Building+Integrated+Photovoltaic+Thermal+Systems&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DSNNpN6jBBkQC+1&amp;rft.isbn=978-1-84973-090-7&amp;rft.place=Cambridge%2C+UK&amp;rft.pub=Royal+Society+of+Chemistry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Warrick, Joby (March 2015). <a class="external text" href="http://www.washingtonpost.com/national/health-science/utilities-sensing-threat-put-squeeze-on-booming-solar-roof-industry/2015/03/07/2d916f88-c1c9-11e4-ad5c-3b8ce89f1b89_story.html" rel="nofollow"><i>Utilities, sensing threat, put squeeze on booming solar roof industry</i></a>. The <a class="mw-redirect" href="/wiki/Washington_Post" title="Washington Post">Washington Post</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABuilding-integrated+photovoltaics&amp;rft.aufirst=Joby&amp;rft.aulast=Warrick&amp;rft.btitle=Utilities%2C+sensing+threat%2C+put+squeeze+on+booming+solar+roof+industry&amp;rft.date=2015-03&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.washingtonpost.com%2Fnational%2Fhealth-science%2Futilities-sensing-threat-put-squeeze-on-booming-solar-roof-industry%2F2015%2F03%2F07%2F2d916f88-c1c9-11e4-ad5c-3b8ce89f1b89_story.html&amp;rft.pub=The+Washington+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="https://web.archive.org/web/20120708111359/http://www.epia.org:80/publications/other-publications.html" rel="nofollow">Building integrated photovoltaics an overview of the existing products and their fields of application</a></li>
+<li><a class="external text" href="http://www.solarbuildings.ca/main.php?l=e" rel="nofollow">Canadian Solar Buildings Research Network</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20160213210259/http://doc.xueqiu.com/1457a3acfff1183feb42de44.pdf" rel="nofollow">Building Integrated Photovoltaics</a></li>
+<li><a class="external text" href="http://pvupscale.org/spip.php?rubrique2" rel="nofollow">PV UP-SCALE</a>, a European founded project (contract EIE/05/171/SI2.420208) related to the large-scale implementation of photovoltaics (PV) in European cities.</li>
+</ul>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9629917-0!*!0!!en!4!* and timestamp 20161110121740 and revision id 748793185
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

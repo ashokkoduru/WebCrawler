@@ -1,0 +1,34 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p><b>World Charter for Nature</b> was adopted by <a href="/wiki/United_Nations" title="United Nations">United Nations</a> member nation-states on October 28, 1982. It proclaims five "principles of conservation by which all human conduct affecting nature is to be guided and judged."</p>
+<ol>
+<li>Nature shall be respected and its essential processes shall not be impaired.</li>
+<li>The genetic viability on the earth shall not be compromised; the population levels of all life forms, wild and domesticated, must be at least sufficient for their survival, and to this end necessary habitats shall be safeguarded.</li>
+<li>All areas of the earth, both land and sea, shall be subject to these principles of conservation; special protection shall be given to unique areas, to representative samples of all the different types of ecosystems and to the habitats of rare or endangered species.</li>
+<li>Ecosystems and organisms, as well as the land, marine and atmospheric resources that are utilized by man, shall be managed to achieve and maintain optimum sustainable productivity, but not in such a way as to endanger the integrity of those other ecosystems or species with which they coexist.</li>
+<li>Nature shall be secured against degradation caused by warfare or other hostile activities.</li>
+</ol>
+<p>The vote was 111 for, one against (<a href="/wiki/United_States" title="United States">United States</a>), 18 abstentions.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Declaration_of_the_United_Nations_Conference_on_the_Human_Environment" title="Declaration of the United Nations Conference on the Human Environment">Declaration of the United Nations Conference on the Human Environment</a> (16 June 1972)
+<ul>
+<li>[A/35/141 Annex I]</li>
+</ul>
+</li>
+</ul>
+<h2></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">United Nations General Assembly (28 October 1982). <a class="external text" href="http://www.un.org/documents/ga/res/37/a37r007.htm" rel="nofollow">"World Charter for Nature"</a>. United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">25 August</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Charter+for+Nature&amp;rft.au=United+Nations+General+Assembly&amp;rft.btitle=World+Charter+for+Nature&amp;rft.date=1982-10-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fdocuments%2Fga%2Fres%2F37%2Fa37r007.htm&amp;rft.pub=United+Nations&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Scott S. Olson (1999). <i>International Environmental Standards Handbook</i>. p. 39. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56670-270-4" title="Special:BookSources/1-56670-270-4">1-56670-270-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Charter+for+Nature&amp;rft.au=Scott+S.+Olson&amp;rft.btitle=International+Environmental+Standards+Handbook&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=1-56670-270-4&amp;rft.pages=39&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.un.org/documents/ga/res/37/a37r007.htm" rel="nofollow">Text from the UN.org</a></li>
+<li><a class="external text" href="http://sedac.ciesin.org/entri/texts/world.charter.for.nature.1982.html" rel="nofollow">Full text</a></li>
+<li><a class="external text" href="https://books.google.com/books?id=68ap9hdp8D8C" rel="nofollow">Monitoring Ecological Change</a> by Ian F. Spellerberg</li>
+</ul>
+<p><br/></p>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16672841-0!*!0!!*!4!* and timestamp 20161110122540 and revision id 748793941
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

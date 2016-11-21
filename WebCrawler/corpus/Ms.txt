@@ -1,0 +1,31 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="hatnote" role="note">"m/s" redirects here. For the BDSM arrangement, see <a href="/wiki/Master/slave_(BDSM)" title="Master/slave (BDSM)">Master/slave (BDSM)</a>. For the maritime prefix designation, see <a href="/wiki/Motor_ship" title="Motor ship">Motor ship</a>.</div>
+<p><b>Metre per second</b> (<a href="/wiki/American_English" title="American English">American English</a>: <b>meter per second</b>) is an <a href="/wiki/SI_derived_unit" title="SI derived unit">SI derived unit</a> of both <a href="/wiki/Speed" title="Speed">speed</a> (<a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a>) and <a href="/wiki/Velocity" title="Velocity">velocity</a> (<a class="mw-redirect" href="/wiki/Vector_(geometry)" title="Vector (geometry)">vector quantity</a> which specifies both magnitude and a specific direction), defined by <a href="/wiki/Distance" title="Distance">distance</a> in <a href="/wiki/Metre" title="Metre">metres</a> divided by <a href="/wiki/Time" title="Time">time</a> in <a href="/wiki/Second" title="Second">seconds</a>.</p>
+<p>The <a href="/wiki/International_System_of_Units" title="International System of Units">SI unit</a> symbols are m·s, m s, m/s, or <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span>, sometimes (unofficially) abbreviated as "mps". Where metres per second are several orders of magnitude too slow to be convenient, such as in <a href="/wiki/Astronomy" title="Astronomy">astronomical</a> measurements, velocities may be given in kilometres per second, where 1 km/s is 1000 metres per second, sometimes unofficially abbreviated as "kps".</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Conversions">Conversions</span></h2>
+<p>1 m/s is equivalent to:</p>
+
+<p>1 <a class="mw-redirect" href="/wiki/Feet_per_second" title="Feet per second">foot per second</a> = 0.3048 m/s (exactly)</p>
+<p>1 <a href="/wiki/Miles_per_hour" title="Miles per hour">mile per hour</a> = 0.44704 m/s (exactly)</p>
+<p>1 <a href="/wiki/Kilometres_per_hour" title="Kilometres per hour">km/h</a> = 0.2<span style="text-decoration:overline;">7</span> m/s (exactly)</p>
+<p>1 kilometre per second is equivalent to:</p>
+
+<h2><span class="mw-headline" id="Relation_to_other_measures">Relation to other measures</span></h2>
+<p>The benz, named in honour of <a href="/wiki/Karl_Benz" title="Karl Benz">Karl Benz</a>, has been proposed as a name for one metre per second. Although it has seen some support as a practical unit, primarily from German sources, it was rejected as the SI unit of velocity and has not seen widespread use or acceptance.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Orders_of_magnitude_(speed)" title="Orders of magnitude (speed)">Orders of magnitude (speed)</a></li>
+<li><a href="/wiki/Metre" title="Metre">Metre</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter2/2-1/metre.html" rel="nofollow">Official BIPM definition of the metre</a></li>
+<li><a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter2/2-1/second.html" rel="nofollow">Official BIPM definition of the second</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:67231-0!*!0!!en!*!* and timestamp 20161031033325 and revision id 743649908
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,145 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+
+<p>This is a <b>list of <a href="/wiki/Multilateral_environmental_agreement" title="Multilateral environmental agreement">international environmental agreements</a></b>.</p>
+<p>Most of the following agreements are legally binding for countries that have formally ratified them. Some, such as the <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a>, differentiate between types of countries and each nation's respective responsibilities under the agreement.</p>
+<div style="clear:left; float:left; width:auto; background:none; margin-bottom:0.5em; padding:0.5em 1.4em 0.8em 0;">
+
+</div>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Alphabetical_order">Alphabetical order</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/Aarhus_Convention" title="Aarhus Convention">Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters</a>, Aarhus, 1998</li>
+<li><a href="/wiki/Agreement_on_the_Conservation_of_African-Eurasian_Migratory_Waterbirds" title="Agreement on the Conservation of African-Eurasian Migratory Waterbirds">Agreement on the Conservation of African-Eurasian Migratory Waterbirds</a></li>
+<li><a href="/wiki/Alpine_Convention" title="Alpine Convention">Alpine Convention</a> together with its nine protocols</li>
+<li><a href="/wiki/Anti-Ballistic_Missile_Treaty" title="Anti-Ballistic Missile Treaty">Anti-Ballistic Missile Treaty</a> (ABM Treaty) (ABMT)</li>
+<li><a href="/wiki/ASEAN_Agreement_on_Transboundary_Haze_Pollution" title="ASEAN Agreement on Transboundary Haze Pollution">ASEAN Agreement on Transboundary Haze Pollution</a></li>
+<li><a href="/wiki/Asia-Pacific_Partnership_on_Clean_Development_and_Climate" title="Asia-Pacific Partnership on Clean Development and Climate">Asia-Pacific Partnership on Clean Development and Climate</a></li>
+<li><a href="/wiki/Barcelona_Convention" title="Barcelona Convention">Barcelona Convention for Protection against Pollution in the Mediterranean Sea</a>, 1976</li>
+<li><a href="/wiki/Basel_Convention" title="Basel Convention">Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal</a>, Basel, 1989</li>
+<li><a href="/wiki/Biological_Weapons_Convention" title="Biological Weapons Convention">Biological Weapons Convention</a> (Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological [Biological] and Toxin Weapons and on their Destruction) (BWC)</li>
+<li><a class="mw-redirect" href="/wiki/Bonn_Agreement_(environment)" title="Bonn Agreement (environment)">Bonn Agreement</a></li>
+<li><a class="mw-redirect" href="/wiki/Carpathian_Convention" title="Carpathian Convention">Carpathian Convention</a> <a href="/wiki/Framework_Convention_on_the_Protection_and_Sustainable_Development_of_the_Carpathians" title="Framework Convention on the Protection and Sustainable Development of the Carpathians">Framework Convention on the Protection and Sustainable Development of the Carpathians</a></li>
+<li><a href="/wiki/Cartagena_Protocol_on_Biosafety" title="Cartagena Protocol on Biosafety">Cartagena Protocol on Biosafety</a></li>
+<li><a href="/wiki/Chemical_Weapons_Convention" title="Chemical Weapons Convention">Chemical Weapons Convention</a></li>
+<li><a class="mw-redirect" href="/wiki/China_Australia_Migratory_Bird_Agreement" title="China Australia Migratory Bird Agreement">China Australia Migratory Bird Agreement</a></li>
+<li><a class="mw-redirect" href="/wiki/Comprehensive_Test_Ban_Treaty" title="Comprehensive Test Ban Treaty">Comprehensive Test Ban Treaty</a> (CTBT), 1996</li>
+<li><a href="/wiki/Convention_for_the_Conservation_of_Antarctic_Marine_Living_Resources" title="Convention for the Conservation of Antarctic Marine Living Resources">Convention for the Conservation of Antarctic Marine Living Resources</a> (CCAMLR), Canberra, 1980
+<ul>
+<li><a href="/wiki/Agreed_Measures_for_the_Conservation_of_Antarctic_Fauna_and_Flora" title="Agreed Measures for the Conservation of Antarctic Fauna and Flora">Agreed Measures for the Conservation of Antarctic Fauna and Flora</a></li>
+<li><a href="/wiki/Convention_for_the_Conservation_of_Antarctic_Marine_Living_Resources" title="Convention for the Conservation of Antarctic Marine Living Resources">Convention for the Conservation of Antarctic Marine Living Resources</a></li>
+<li><a href="/wiki/Convention_for_the_Conservation_of_Antarctic_Seals" title="Convention for the Conservation of Antarctic Seals">Convention for the Conservation of Antarctic Seals</a></li>
+<li><a href="/wiki/Protocol_on_Environmental_Protection_to_the_Antarctic_Treaty" title="Protocol on Environmental Protection to the Antarctic Treaty">Protocol on Environmental Protection to the Antarctic Treaty</a></li>
+</ul>
+</li>
+<li><a class="new" href="/w/index.php?title=Convention_for_Co-operation_in_the_Protection_and_Development_of_the_Marine_and_Coastal_Environment_of_the_West_and_Central_African_Region&amp;action=edit&amp;redlink=1" title="Convention for Co-operation in the Protection and Development of the Marine and Coastal Environment of the West and Central African Region (page does not exist)">Convention for Co-operation in the Protection and Development of the Marine and Coastal Environment of the West and Central African Region</a>, Abidjan, 1981</li>
+<li><a class="new" href="/w/index.php?title=Convention_for_the_Protection_and_Development_of_the_Marine_Environment_of_the_Wider_Caribbean_Region&amp;action=edit&amp;redlink=1" title="Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region (page does not exist)">Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region</a>, Cartagena de Indias, 1983</li>
+<li><a class="mw-redirect" href="/wiki/Convention_of_the_Protection,_Management_and_Development_of_the_Marine_and_Coastal_Environment_of_the_Eastern_African_Region" title="Convention of the Protection, Management and Development of the Marine and Coastal Environment of the Eastern African Region">Convention of the Protection, Management and Development of the Marine and Coastal Environment of the Eastern African Region</a>, Nairobi, 1985</li>
+<li><a class="new" href="/w/index.php?title=Convention_for_the_Protection_of_the_Marine_Environment_and_Coastal_Area_of_the_South-east_Pacific&amp;action=edit&amp;redlink=1" title="Convention for the Protection of the Marine Environment and Coastal Area of the South-east Pacific (page does not exist)">Convention for the Protection of the Marine Environment and Coastal Area of the South-east Pacific</a>, Lima, 1981</li>
+<li><a class="mw-redirect" href="/wiki/Convention_for_the_Protection_of_the_Marine_Environment_of_the_North-east_Atlantic" title="Convention for the Protection of the Marine Environment of the North-east Atlantic">Convention for the Protection of the Marine Environment of the North-east Atlantic</a> (OSPAR Convention), Paris, 1992</li>
+<li><a class="new" href="/w/index.php?title=Convention_for_the_Protection_of_the_Natural_Resources_and_Environment_of_the_South_Pacific_Region&amp;action=edit&amp;redlink=1" title="Convention for the Protection of the Natural Resources and Environment of the South Pacific Region (page does not exist)">Convention for the Protection of the Natural Resources and Environment of the South Pacific Region</a>, Nouméa, 1986</li>
+<li><a href="/wiki/Convention_on_Assistance_in_the_Case_of_a_Nuclear_Accident_or_Radiological_Emergency" title="Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency">Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency</a> (Assistance Convention), Vienna, 1986</li>
+<li><a href="/wiki/Bamako_Convention" title="Bamako Convention">Convention on the Ban of the Import into Africa and the Control of Transboundary Movements and Management of Hazardous Wastes within Africa</a>, Bamako, 1991</li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity</a> (CBD), Nairobi, 1992</li>
+<li><a href="/wiki/Convention_on_Certain_Conventional_Weapons" title="Convention on Certain Conventional Weapons">Convention on Certain Conventional Weapons</a></li>
+<li><a class="new" href="/w/index.php?title=Convention_on_Civil_Liability_for_Damage_Caused_during_Carriage_of_Dangerous_Goods_by_Road,_Rail,_and_Inland_Navigation_Vessels&amp;action=edit&amp;redlink=1" title="Convention on Civil Liability for Damage Caused during Carriage of Dangerous Goods by Road, Rail, and Inland Navigation Vessels (page does not exist)">Convention on Civil Liability for Damage Caused during Carriage of Dangerous Goods by Road, Rail, and Inland Navigation Vessels</a> (CRTD), Geneva, 1989</li>
+<li><a href="/wiki/Convention_on_Cluster_Munitions" title="Convention on Cluster Munitions">Convention on Cluster Munitions</a></li>
+<li><a class="mw-redirect" href="/wiki/Convention_on_the_Conservation_of_European_Wildlife_and_Natural_Habitats" title="Convention on the Conservation of European Wildlife and Natural Habitats">Convention on the Conservation of European Wildlife and Natural Habitats</a></li>
+<li><a href="/wiki/Convention_on_the_Conservation_of_Migratory_Species_of_Wild_Animals" title="Convention on the Conservation of Migratory Species of Wild Animals">Convention on the Conservation of Migratory Species of Wild Animals</a> (CMS), Bonn, 1979</li>
+<li><a href="/wiki/Convention_on_Early_Notification_of_a_Nuclear_Accident" title="Convention on Early Notification of a Nuclear Accident">Convention on Early Notification of a Nuclear Accident</a> (Notification Convention), Vienna, 1986</li>
+<li><a class="mw-redirect" href="/wiki/Convention_on_Fishing_and_Conservation_of_Living_Resources_of_the_High_Seas" title="Convention on Fishing and Conservation of Living Resources of the High Seas">Convention on Fishing and Conservation of Living Resources of the High Seas</a></li>
+<li><a href="/wiki/CITES" title="CITES">Convention on the International Trade in Endangered Species of Wild Flora and Fauna</a> (CITES), Washington DC, 1973</li>
+<li><a href="/wiki/Convention_on_Long-Range_Transboundary_Air_Pollution" title="Convention on Long-Range Transboundary Air Pollution">Convention on Long-Range Transboundary Air Pollution</a></li>
+<li><a href="/wiki/Convention_on_Nuclear_Safety" title="Convention on Nuclear Safety">Convention on Nuclear Safety</a>, Vienna, 1994
+<ul>
+<li><a class="new" href="/w/index.php?title=EMEP_Protocol&amp;action=edit&amp;redlink=1" title="EMEP Protocol (page does not exist)">EMEP Protocol</a></li>
+<li><a class="new" href="/w/index.php?title=Heavy_Metals_Protocol&amp;action=edit&amp;redlink=1" title="Heavy Metals Protocol (page does not exist)">Heavy Metals Protocol</a></li>
+<li><a href="/wiki/Multi-effect_Protocol" title="Multi-effect Protocol">Multi-effect Protocol</a> (Gothenburg protocol) </li>
+<li><a href="/wiki/Nitrogen_Oxide_Protocol" title="Nitrogen Oxide Protocol">Nitrogen Oxide Protocol</a></li>
+<li><a href="/wiki/POP_Air_Pollution_Protocol" title="POP Air Pollution Protocol">POP Air Pollution Protocol</a></li>
+<li>Sulphur Emissions Reduction Protocols <a href="/wiki/1985_Helsinki_Protocol_on_the_Reduction_of_Sulphur_Emissions" title="1985 Helsinki Protocol on the Reduction of Sulphur Emissions">1985</a> and <a href="/wiki/1994_Oslo_Protocol_on_Further_Reduction_of_Sulphur_Emissions" title="1994 Oslo Protocol on Further Reduction of Sulphur Emissions">1994</a></li>
+<li><a href="/wiki/Volatile_Organic_Compounds_Protocol" title="Volatile Organic Compounds Protocol">Volatile Organic Compounds Protocol</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/Convention_on_the_Prevention_of_Marine_Pollution_by_Dumping_Wastes_and_Other_Matter" title="Convention on the Prevention of Marine Pollution by Dumping Wastes and Other Matter">Convention on the Prevention of Marine Pollution by Dumping Wastes and Other Matter</a></li>
+<li><a class="mw-redirect" href="/wiki/Convention_on_the_Prohibition_of_Military_or_Any_Other_Hostile_Use_of_Environmental_Modification_Techniques" title="Convention on the Prohibition of Military or Any Other Hostile Use of Environmental Modification Techniques">Convention on the Prohibition of Military or Any Other Hostile Use of Environmental Modification Techniques</a></li>
+<li><a href="/wiki/Convention_on_the_Protection_and_Use_of_Transboundary_Watercourses_and_International_Lakes" title="Convention on the Protection and Use of Transboundary Watercourses and International Lakes">Convention on the Protection and Use of Transboundary Watercourses and International Lakes</a> (ECE Water Convention), Helsinki, 1992</li>
+<li><a class="new" href="/w/index.php?title=Convention_on_the_Protection_of_the_Black_Sea_against_Pollution&amp;action=edit&amp;redlink=1" title="Convention on the Protection of the Black Sea against Pollution (page does not exist)">Convention on the Protection of the Black Sea against Pollution</a>, Bucharest, 1992</li>
+<li><a class="mw-redirect" href="/wiki/Convention_on_the_Protection_of_the_Marine_Environment_of_the_Baltic_Sea_Area" title="Convention on the Protection of the Marine Environment of the Baltic Sea Area">Convention on the Protection of the Marine Environment of the Baltic Sea Area</a> <a class="new" href="/w/index.php?title=1992_Helsinki_Convention&amp;action=edit&amp;redlink=1" title="1992 Helsinki Convention (page does not exist)">1992 Helsinki Convention</a>, Helsinki, 1992</li>
+<li><a href="/wiki/Convention_on_the_Transboundary_Effects_of_Industrial_Accidents" title="Convention on the Transboundary Effects of Industrial Accidents">Convention on the Transboundary Effects of Industrial Accidents</a>, Helsinki, 1992</li>
+<li><a class="mw-redirect" href="/wiki/Convention_on_Wetlands_of_International_Importance_Especially_As_Waterfowl_Habitat" title="Convention on Wetlands of International Importance Especially As Waterfowl Habitat">Convention on Wetlands of International Importance Especially As Waterfowl Habitat</a> (notably not a <a class="mw-redirect" href="/wiki/Multilateral_Environmental_Agreement" title="Multilateral Environmental Agreement">Multilateral Environmental Agreement</a>)</li>
+<li><a href="/wiki/Waigani_Convention" title="Waigani Convention">Convention to Ban the Importation into Forum Island Countries of Hazardous and Radioactive Wastes and to Control the Transboundary Movement and Management of Hazardous Wastes within the South Pacific Region</a>, Waigani, 1995</li>
+<li><a class="mw-redirect" href="/wiki/Convention_to_Combat_Desertification" title="Convention to Combat Desertification">Convention to Combat Desertification</a> (CCD), Paris, 1994</li>
+<li><a class="new" href="/w/index.php?title=Conventions_within_the_UNEP_Regional_Seas_Programme&amp;action=edit&amp;redlink=1" title="Conventions within the UNEP Regional Seas Programme (page does not exist)">Conventions within the UNEP Regional Seas Programme</a></li>
+<li><a href="/wiki/Directive_on_the_legal_protection_of_biotechnological_inventions" title="Directive on the legal protection of biotechnological inventions">Directive on the legal protection of biotechnological inventions</a></li>
+<li><a href="/wiki/Energy_Community" title="Energy Community">Energy Community</a> (Energy Community South East Europe Treaty) (ECSEE)</li>
+<li><a class="mw-redirect" href="/wiki/Espoo_Convention" title="Espoo Convention">Espoo Convention</a> <a href="/wiki/Convention_on_Environmental_Impact_Assessment_in_a_Transboundary_Context" title="Convention on Environmental Impact Assessment in a Transboundary Context">Convention on Environmental Impact Assessment in a Transboundary Context</a>, Espoo, 1991</li>
+<li><a class="new" href="/w/index.php?title=European_Agreement_Concerning_the_International_Carriage_of_Dangerous_Goods_by_Inland_Waterways&amp;action=edit&amp;redlink=1" title="European Agreement Concerning the International Carriage of Dangerous Goods by Inland Waterways (page does not exist)">European Agreement Concerning the International Carriage of Dangerous Goods by Inland Waterways</a> (AND), Geneva, 2000</li>
+<li><a class="mw-redirect" href="/wiki/European_Agreement_Concerning_the_International_Carriage_of_Dangerous_Goods_by_Road" title="European Agreement Concerning the International Carriage of Dangerous Goods by Road">European Agreement Concerning the International Carriage of Dangerous Goods by Road</a> (ADR), Geneva, 1957</li>
+<li><a class="new" href="/w/index.php?title=FAO_International_Code_of_Conduct_on_the_Distribution_and_Use_of_Pesticides&amp;action=edit&amp;redlink=1" title="FAO International Code of Conduct on the Distribution and Use of Pesticides (page does not exist)">FAO International Code of Conduct on the Distribution and Use of Pesticides</a>, Rome, 1985</li>
+<li><a class="new" href="/w/index.php?title=FAO_International_Undertaking_on_Plant_Genetic_Resources&amp;action=edit&amp;redlink=1" title="FAO International Undertaking on Plant Genetic Resources (page does not exist)">FAO International Undertaking on Plant Genetic Resources</a>, Rome, 1983</li>
+<li><a href="/wiki/Framework_Convention_for_the_Protection_of_the_Marine_Environment_of_the_Caspian_Sea" title="Framework Convention for the Protection of the Marine Environment of the Caspian Sea">Framework Convention for the Protection of the Marine Environment of the Caspian Sea</a></li>
+<li><a class="mw-redirect" href="/wiki/Framework_Convention_on_Climate_Change" title="Framework Convention on Climate Change">Framework Convention on Climate Change</a> (UNFCCC), New York, 1992</li>
+<li><a href="/wiki/Geneva_Protocol" title="Geneva Protocol">Geneva Protocol</a> (Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or other Gases, and of Bacteriological Methods of Warfare)</li>
+<li><a class="mw-redirect" href="/wiki/International_Convention_for_the_Conservation_of_Atlantic_Tunas" title="International Convention for the Conservation of Atlantic Tunas">International Convention for the Conservation of Atlantic Tunas</a> (ICCAT), Rio de Janeiro, 1966</li>
+<li><a href="/wiki/MARPOL_73/78" title="MARPOL 73/78">International Convention for the Prevention of Pollution from Ships</a></li>
+<li><a class="new" href="/w/index.php?title=International_Convention_for_the_Prevention_of_Pollution_of_the_Sea_by_Oil&amp;action=edit&amp;redlink=1" title="International Convention for the Prevention of Pollution of the Sea by Oil (page does not exist)">International Convention for the Prevention of Pollution of the Sea by Oil</a>, London, 1954, 1962, 1969</li>
+<li><a href="/wiki/International_Convention_for_the_Regulation_of_Whaling" title="International Convention for the Regulation of Whaling">International Convention for the Regulation of Whaling</a> (ICRW), Washington, 1946</li>
+<li><a href="/wiki/International_Treaty_on_Plant_Genetic_Resources_for_Food_and_Agriculture" title="International Treaty on Plant Genetic Resources for Food and Agriculture">International Treaty on Plant Genetic Resources for Food and Agriculture</a></li>
+<li><a href="/wiki/International_Tropical_Timber_Agreement,_1983" title="International Tropical Timber Agreement, 1983">International Tropical Timber Agreement</a> (expired), 1983</li>
+<li><a href="/wiki/International_Tropical_Timber_Agreement,_1994" title="International Tropical Timber Agreement, 1994">International Tropical Timber Agreement</a> (ITTA), Geneva, 1994</li>
+<li><a class="new" href="/w/index.php?title=Kuwait_Regional_Convention_for_Co-operation_on_the_Protection_of_the_Marine_Environment_from_Pollution&amp;action=edit&amp;redlink=1" title="Kuwait Regional Convention for Co-operation on the Protection of the Marine Environment from Pollution (page does not exist)">Kuwait Regional Convention for Co-operation on the Protection of the Marine Environment from Pollution</a>, Kuwait, 1978</li>
+<li><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a> - greenhouse gas emission reductions</li>
+<li><a href="/wiki/Migratory_Bird_Treaty_Act_of_1918" title="Migratory Bird Treaty Act of 1918">Migratory Bird Treaty Act of 1918</a></li>
+<li><a href="/wiki/Minamata_Convention_on_Mercury" title="Minamata Convention on Mercury">Minamata Convention on Mercury</a>, 2013</li>
+<li><a href="/wiki/Montreal_Protocol" title="Montreal Protocol">Montreal Protocol on Substances that Deplete the Ozone Layer</a>, Montreal, 1989</li>
+<li><a href="/wiki/North_American_Agreement_on_Environmental_Cooperation" title="North American Agreement on Environmental Cooperation">North American Agreement on Environmental Cooperation</a></li>
+<li><a href="/wiki/Protocol_on_Environmental_Protection_to_the_Antarctic_Treaty" title="Protocol on Environmental Protection to the Antarctic Treaty">Protocol on Environmental Protection to the Antarctic Treaty</a></li>
+<li><a class="new" href="/w/index.php?title=Putrajaya_Declaration_of_Regional_Cooperation_for_the_Sustainable_Development_of_the_Seas_of_East_Asia&amp;action=edit&amp;redlink=1" title="Putrajaya Declaration of Regional Cooperation for the Sustainable Development of the Seas of East Asia (page does not exist)">Putrajaya Declaration of Regional Cooperation for the Sustainable Development of the Seas of East Asia</a>, Malaysia, 2003</li>
+<li><a href="/wiki/Ramsar_Convention" title="Ramsar Convention">Ramsar Convention</a> <a class="mw-redirect" href="/wiki/Convention_on_Wetlands_of_International_Importance,_especially_as_Waterfowl_Habitat" title="Convention on Wetlands of International Importance, especially as Waterfowl Habitat">Convention on Wetlands of International Importance, especially as Waterfowl Habitat</a>, Ramsar, 1971</li>
+<li><a class="new" href="/w/index.php?title=Regional_Convention_for_the_Conservation_of_the_Red_Sea_and_the_Gulf_of_Aden_Environment&amp;action=edit&amp;redlink=1" title="Regional Convention for the Conservation of the Red Sea and the Gulf of Aden Environment (page does not exist)">Regional Convention for the Conservation of the Red Sea and the Gulf of Aden Environment</a>, Jeddah, 1982</li>
+<li><a href="/wiki/Rotterdam_Convention" title="Rotterdam Convention">Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade</a>, Rotterdam, 1998</li>
+<li><a class="mw-redirect" href="/wiki/Stockholm_Convention" title="Stockholm Convention">Stockholm Convention</a> <a href="/wiki/Stockholm_Convention_on_Persistent_Organic_Pollutants" title="Stockholm Convention on Persistent Organic Pollutants">Stockholm Convention on Persistent Organic Pollutants</a> Stockholm, 2001</li>
+<li><a class="mw-redirect" href="/wiki/Treaty_Banning_Nuclear_Weapon_Tests_in_the_Atmosphere,_in_Outer_Space,_and_Under_Water" title="Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space, and Under Water">Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space, and Under Water</a></li>
+<li><a href="/wiki/United_Nations_Convention_on_the_Law_of_the_Sea" title="United Nations Convention on the Law of the Sea">United Nations Convention on the Law of the Sea</a></li>
+<li><a href="/wiki/United_Nations_Convention_to_Combat_Desertification" title="United Nations Convention to Combat Desertification">United Nations Convention to Combat Desertification</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change</a></li>
+<li><a href="/wiki/Vienna_Convention_for_the_Protection_of_the_Ozone_Layer" title="Vienna Convention for the Protection of the Ozone Layer">Vienna Convention for the Protection of the Ozone Layer</a>, Vienna, 1985, including the Montreal Protocol on Substances that Deplete the Ozone Layer, Montreal 1987</li>
+<li><a href="/wiki/Vienna_Convention_on_Civil_Liability_for_Nuclear_Damage" title="Vienna Convention on Civil Liability for Nuclear Damage">Vienna Convention on Civil Liability for Nuclear Damage</a>, Vienna, 1963</li>
+<li><a class="mw-redirect" href="/wiki/Western_Regional_Climate_Action_Initiative" title="Western Regional Climate Action Initiative">Western Regional Climate Action Initiative</a></li>
+<li><a href="/wiki/Working_Environment_(Air_Pollution,_Noise_and_Vibration)_Convention,_1977" title="Working Environment (Air Pollution, Noise and Vibration) Convention, 1977">Working Environment (Air Pollution, Noise and Vibration) Convention, 1977</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Topic_order">Topic order</span></h2>
+<h3><span class="mw-headline" id="General">General</span></h3>
+<div>
+
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/Arms_control" title="Arms control">Arms control</a></li>
+<li><i><a href="/wiki/Earth_Negotiations_Bulletin" title="Earth Negotiations Bulletin">Earth Negotiations Bulletin</a></i></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">Environmental law</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_organizations" title="Environmental organizations">Environmental organizations</a></li>
+<li><a href="/wiki/Environmental_tariff" title="Environmental tariff">Environmental tariff</a></li>
+<li><a href="/wiki/International_Network_for_Environmental_Compliance_and_Enforcement" title="International Network for Environmental Compliance and Enforcement">International Network for Environmental Compliance and Enforcement</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li>
+<li><a href="/wiki/List_of_environmental_laws_by_country" title="List of environmental laws by country">List of environmental laws by country</a></li>
+<li><a href="/wiki/List_of_environmental_lawsuits" title="List of environmental lawsuits">List of environmental lawsuits</a></li>
+<li><a href="/wiki/List_of_supranational_environmental_agencies" title="List of supranational environmental agencies">List of supranational environmental agencies</a></li>
+<li><a href="/wiki/List_of_treaties" title="List of treaties">List of treaties</a></li>
+<li><a href="/wiki/Wildlife_Enforcement_Monitoring_System" title="Wildlife Enforcement Monitoring System">Wildlife Enforcement Monitoring System</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.wto.org/english/tratop_e/envir_e/envir_neg_mea_e.htm" rel="nofollow">Relationship between MEAs and the World Trade Organization</a></li>
+<li><a class="external text" href="http://iea.uoregon.edu/page.php?file=home.htm&amp;query=static" rel="nofollow">Mitchell´s Databaseproject on IEAs</a></li>
+<li><a class="external text" href="http://www.ecolex.org" rel="nofollow">ECOLEX-the gateway to environmental law</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9486-0!*!0!!en!4!* and timestamp 20161020065506 and revision id 745277463
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,243 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Albedo_(disambiguation)" title="Albedo (disambiguation)">Albedo (disambiguation)</a>.</div>
+
+<p><b>Albedo</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/æ/ short 'a' in 'bad'">æ</span><span title="'l' in 'lie'">l</span><span title="/ˈ/ primary stress follows">ˈ</span><span title="'b' in 'buy'">b</span><span title="/iː/ long 'e' in 'seed'">iː</span><span title="'d' in 'dye'">d</span><span title="/oʊ/ long 'o' in 'code'">oʊ</span></span>/</a></span></span>) is the "whiteness" of a surface. It is a <b>reflection coefficient</b>, and has a value of less than one. Albedo is derived from <a href="/wiki/Latin" title="Latin">Latin</a> <i>albedo</i> "whiteness" (or reflected sunlight) in turn from <i>albus</i> "white", is the <a href="/wiki/Diffuse_reflection" title="Diffuse reflection">diffuse reflectivity</a> or reflecting power of a surface.</p>
+<p>The albedo of a surface is the ratio of radiation reflected from the surface to the incident radiation. Its <a class="mw-redirect" href="/wiki/Dimensionless_number" title="Dimensionless number">dimensionless</a> nature lets it be expressed as a percentage and is measured on a scale from zero (no reflection) of a perfectly black surface to 1 for perfect reflection of a white surface. Because albedo is the ratio of all reflected radiation to incident radiation, it will include both the <a href="/wiki/Diffuse_reflection" title="Diffuse reflection">diffuse</a> and <a href="/wiki/Specular_reflection" title="Specular reflection">specular</a> radiation reflected from an object. It is, however, common to assume a surface reflects in either a totally specular manner or a totally diffuse manner, as this can simplify calculations.</p>
+<p>Albedo depends on the <a href="/wiki/Wavelength" title="Wavelength">wavelength</a> of the radiation. When quoted unqualified, it usually refers to some appropriate average across the spectrum of <a class="mw-redirect" href="/wiki/Visible_light" title="Visible light">visible light</a>. In general, the albedo depends on the directional distribution of incident radiation, except for the extreme case of <a href="/wiki/Lambertian_reflectance" title="Lambertian reflectance">Lambertian surfaces</a>, which scatter radiation in all directions according to a cosine function and therefore have an albedo that is independent of the incident distribution. In practice, a <a href="/wiki/Bidirectional_reflectance_distribution_function" title="Bidirectional reflectance distribution function">bidirectional reflectance distribution function</a> (BRDF) may be required to accurately characterize the scattering properties of a surface, but albedo is very useful as a first approximation.</p>
+<p>The albedo is an important concept in <a href="/wiki/Climatology" title="Climatology">climatology</a>, <a href="/wiki/Astronomy" title="Astronomy">astronomy</a>, and calculating <a class="mw-redirect" href="/wiki/Reflectivity" title="Reflectivity">reflectivity</a> of surfaces in <a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">Leadership in Energy and Environmental Design</a> (LEED) sustainable-rating systems for buildings. The average overall albedo of Earth, its <i>planetary albedo</i>, is 30 to 35% because of cloud cover, but widely varies locally across the surface because of different geological and environmental features.</p>
+<p>The term was introduced into optics by <a href="/wiki/Johann_Heinrich_Lambert" title="Johann Heinrich Lambert">Johann Heinrich Lambert</a> in his 1760 work <i><a href="/wiki/Photometria" title="Photometria">Photometria</a></i>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Terrestrial_albedo">Terrestrial albedo</span></h2>
+
+<p>Any albedo in visible light range from up to 0.9 for fresh snow to about 0.04 for charcoal, one of the darkest substances. Deeply shadowed cavities can achieve an effective albedo approaching the zero of a <a href="/wiki/Black_body" title="Black body">black body</a>. When seen from a distance, the ocean surface has a low albedo, as do most forests, whereas desert areas have some of the highest albedos among landforms. Most land areas are in an albedo range of 0.1 to 0.4. The average albedo of <a href="/wiki/Earth" title="Earth">Earth</a> is about 0.3. This is far higher than for the ocean primarily because of the contribution of clouds.</p>
+
+<p>Earth's surface albedo is regularly estimated via <a href="/wiki/Earth_observation" title="Earth observation">Earth observation</a> satellite sensors such as <a href="/wiki/NASA" title="NASA">NASA</a>'s <a class="mw-redirect" href="/wiki/MODIS" title="MODIS">MODIS</a> instruments on board the <a href="/wiki/Terra_(satellite)" title="Terra (satellite)">Terra</a> and <a href="/wiki/Aqua_(satellite)" title="Aqua (satellite)">Aqua</a> satellites. As the total amount of reflected radiation cannot be directly measured by satellite, a <a href="/wiki/Mathematical_model" title="Mathematical model">mathematical model</a> of the BRDF is used to translate a sample set of satellite reflectance measurements into estimates of <a href="/wiki/Directional-hemispherical_reflectance" title="Directional-hemispherical reflectance">directional-hemispherical reflectance</a> and bi-hemispherical reflectance (e.g.).</p>
+<p>Earth's average surface temperature due to its albedo and the <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a> is currently about 15 °C. If Earth were frozen entirely (and hence be more reflective) the average temperature of the planet would drop below −40 °C. If only the continental land masses became covered by glaciers, the mean temperature of the planet would drop to about 0 °C. In contrast, if the entire Earth is covered by water—a so-called aquaplanet—the average temperature on the planet would rise to just under 27 °C.</p>
+<h3><span class="mw-headline" id="White-sky_and_black-sky_albedo">White-sky and black-sky albedo</span></h3>
+<p>It has been shown that for many applications involving terrestrial albedo, the albedo at a particular <a href="/wiki/Solar_zenith_angle" title="Solar zenith angle">solar zenith angle</a> <i>θ</i><sub><i>i</i></sub> can reasonably be approximated by the proportionate sum of two terms: the directional-hemispherical reflectance at that solar zenith angle, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {{\bar {\alpha }}(\theta _{i})}}</annotation>
+</semantics>
+</math></span><img alt="{{\bar {\alpha }}(\theta _{i})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d21d2965b6b0594054d53e34fcd5c624c7f47cc7" style="vertical-align: -0.838ex; width:5.236ex; height:2.843ex;"/></span>, and the bi-hemispherical reflectance, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {\bar {\alpha }}}}</annotation>
+</semantics>
+</math></span><img alt="{\bar {\bar {\alpha }}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2a19826b7107e707aead3e838e72304d5f90277" style="vertical-align: -0.338ex; width:1.498ex; height:2.509ex;"/></span> the proportion concerned being defined as the proportion of diffuse illumination <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {D}}</annotation>
+</semantics>
+</math></span><img alt="{D}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b48bdc67a19ddefb0aa409e442e815517a87e7b" style="vertical-align: -0.338ex; width:1.935ex; height:2.176ex;"/></span>.</p>
+<p>Albedo <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>α<!-- α --></mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\alpha }}</annotation>
+</semantics>
+</math></span><img alt="{\alpha }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6289622b3b197c568f6e73e678814e9cb4c8a81b" style="vertical-align: -0.338ex; width:1.498ex; height:1.676ex;"/></span> can then be given as:</p>
+
+<p><a href="/wiki/Directional-hemispherical_reflectance" title="Directional-hemispherical reflectance">Directional-hemispherical reflectance</a> is sometimes referred to as black-sky albedo and <a href="/wiki/Bi-hemispherical_reflectance" title="Bi-hemispherical reflectance">bi-hemispherical reflectance</a> as white-sky albedo. These terms are important because they allow the albedo to be calculated for any given illumination conditions from a knowledge of the intrinsic properties of the surface.</p>
+<h2><span class="mw-headline" id="Astronomical_albedo">Astronomical albedo</span></h2>
+<p>The albedos of <a href="/wiki/Planet" title="Planet">planets</a>, <a href="/wiki/Natural_satellite" title="Natural satellite">satellites</a> and <a href="/wiki/Asteroid" title="Asteroid">asteroids</a> can be used to infer much about their properties. The study of albedos, their dependence on wavelength, lighting angle ("phase angle"), and variation in time comprises a major part of the astronomical field of <a href="/wiki/Photometry_(astronomy)" title="Photometry (astronomy)">photometry</a>. For small and far objects that cannot be resolved by telescopes, much of what we know comes from the study of their albedos. For example, the absolute albedo can indicate the surface ice content of outer <a href="/wiki/Solar_System" title="Solar System">Solar System</a> objects, the variation of albedo with phase angle gives information about <a href="/wiki/Regolith" title="Regolith">regolith</a> properties, whereas unusually high radar albedo is indicative of high metal content in <a href="/wiki/Asteroid" title="Asteroid">asteroids</a>.</p>
+<p><a href="/wiki/Enceladus" title="Enceladus">Enceladus</a>, a moon of Saturn, has one of the highest known albedos of any body in the Solar System, with 99% of EM radiation reflected. Another notable high-albedo body is <a href="/wiki/Eris_(dwarf_planet)" title="Eris (dwarf planet)">Eris</a>, with an albedo of 0.96. Many small objects in the outer Solar System and <a href="/wiki/Asteroid_belt" title="Asteroid belt">asteroid belt</a> have low albedos down to about 0.05. A typical <a href="/wiki/Comet_nucleus" title="Comet nucleus">comet nucleus</a> has an albedo of 0.04. Such a dark surface is thought to be indicative of a primitive and heavily <a href="/wiki/Space_weathering" title="Space weathering">space weathered</a> surface containing some <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a>.</p>
+<p>The overall albedo of the <a href="/wiki/Moon" title="Moon">Moon</a> is measured to be around 0.136, but it is strongly directional and non-Lambertian, displaying also a strong <a class="mw-redirect" href="/wiki/Opposition_effect" title="Opposition effect">opposition effect</a>. Although such reflectance properties are different from those of any terrestrial terrains, they are typical of the <a href="/wiki/Regolith" title="Regolith">regolith</a> surfaces of airless Solar System bodies.</p>
+<p>Two common albedos that are used in astronomy are the (V-band) <a href="/wiki/Geometric_albedo" title="Geometric albedo">geometric albedo</a> (measuring brightness when illumination comes from directly behind the observer) and the <a href="/wiki/Bond_albedo" title="Bond albedo">Bond albedo</a> (measuring total proportion of electromagnetic energy reflected). Their values can differ significantly, which is a common source of confusion.</p>
+<p>In detailed studies, the directional reflectance properties of astronomical bodies are often expressed in terms of the five <a href="/wiki/Hapke_parameters" title="Hapke parameters">Hapke parameters</a> which semi-empirically describe the variation of albedo with <a href="/wiki/Phase_angle_(astronomy)" title="Phase angle (astronomy)">phase angle</a>, including a characterization of the opposition effect of <a href="/wiki/Regolith" title="Regolith">regolith</a> surfaces.</p>
+<p>The correlation between astronomical (geometric) albedo, <a href="/wiki/Absolute_magnitude#Absolute_magnitude_for_planets_.28H.29" title="Absolute magnitude">absolute magnitude</a> and diameter is: <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>1329</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>5</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>D</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A=\left({\frac {1329\times 10^{-H/5}}{D}}\right)^{2}}</annotation>
+</semantics>
+</math></span><img alt="A=\left({\frac {1329\times 10^{-H/5}}{D}}\right)^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c447af3bc2bcc163e737232735e4c3e90c8a69d5" style="vertical-align: -3.171ex; width:24.994ex; height:8.009ex;"/></span>,</p>
+<p>where <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+</semantics>
+</math></span><img alt="A" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" style="vertical-align: -0.338ex; width:1.754ex; height:2.343ex;"/></span> is the astronomical albedo, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>D</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle D}</annotation>
+</semantics>
+</math></span><img alt="D" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f34a0c600395e5d4345287e21fb26efd386990e6" style="vertical-align: -0.338ex; width:1.935ex; height:2.176ex;"/></span> is the diameter in kilometers, and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H}</annotation>
+</semantics>
+</math></span><img alt="H" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75a9edddcca2f782014371f75dca39d7e13a9c1b" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;"/></span> is the absolute magnitude.</p>
+<h2><span class="mw-headline" id="Examples_of_terrestrial_albedo_effects">Examples of terrestrial albedo effects</span></h2>
+<h3><span class="mw-headline" id="Illumination">Illumination</span></h3>
+<p>Although the albedo–temperature effect is best known in colder, whiter regions on Earth, the maximum albedo is actually found in the tropics where year-round illumination is greater. The maximum is additionally in the northern hemisphere, varying between three and twelve degrees north. The minima are found in the subtropical regions of the northern and southern hemispheres, beyond which albedo increases without respect to illumination.</p>
+<h3><span class="mw-headline" id="Insolation_effects">Insolation effects</span></h3>
+<p>The intensity of albedo temperature effects depend on the amount of albedo and the level of local <a class="mw-redirect" href="/wiki/Insolation" title="Insolation">insolation</a> (solar irradiance); high albedo areas in the <a href="/wiki/Arctic" title="Arctic">arctic</a> and <a href="/wiki/Antarctic" title="Antarctic">antarctic</a> regions are cold due to low insolation, where areas such as the <a class="mw-redirect" href="/wiki/Sahara_Desert" title="Sahara Desert">Sahara Desert</a>, which also have a relatively high albedo, will be hotter due to high insolation. <a class="mw-redirect" href="/wiki/Tropical" title="Tropical">Tropical</a> and <a class="mw-redirect" href="/wiki/Sub-tropical" title="Sub-tropical">sub-tropical</a> <a class="mw-redirect" href="/wiki/Rain_forest" title="Rain forest">rain forest</a> areas have low albedo, and are much hotter than their <a href="/wiki/Temperate_forest" title="Temperate forest">temperate forest</a> counterparts, which have lower insolation. Because insolation plays such a big role in the heating and cooling effects of albedo, high insolation areas like the tropics will tend to show a more pronounced fluctuation in local temperature when local albedo changes.</p>
+<h3><span class="mw-headline" id="Climate_and_weather">Climate and weather</span></h3>
+<p>Albedo affects <a href="/wiki/Climate" title="Climate">climate</a> and drives <a href="/wiki/Weather" title="Weather">weather</a>. All weather is a result of the uneven heating of Earth caused by different areas of the planet having different albedos. Essentially, for the driving of weather, there are two types of albedo regions on Earth: Land and ocean. Land and ocean regions produce the four basic different types of <a class="mw-redirect" href="/wiki/Air_masses" title="Air masses">air masses</a>, depending on latitude and therefore <a class="mw-redirect" href="/wiki/Insolation" title="Insolation">insolation</a>:</p>
+<ol>
+<li><i>warm and dry</i>, which form over tropical and sub-tropical land masses;</li>
+<li><i>warm and wet</i>, which form over tropical and sub-tropical oceans;</li>
+<li><i>cold and dry</i> which form over temperate, <a href="/wiki/Polar_regions_of_Earth" title="Polar regions of Earth">polar</a> and sub-polar land masses; and</li>
+<li><i>cold and wet</i>, which form over temperate, polar and sub-polar oceans.</li>
+</ol>
+<p>Different temperatures between the air masses result in different air pressures, and the masses develop into <a class="mw-redirect" href="/wiki/Pressure_systems" title="Pressure systems">pressure systems</a>. High-pressure systems flow toward lower pressure, driving weather from north to south in the northern hemisphere, and south to north in the southern. However, due to Earth's rotation, the <a class="mw-redirect" href="/wiki/Coriolis_effect" title="Coriolis effect">Coriolis effect</a> further complicates flow and creates several weather/climate bands and the <a href="/wiki/Jet_stream" title="Jet stream">jet streams</a>.</p>
+<h3><span class="mw-headline" id="Albedo.E2.80.93temperature_feedback">Albedo–temperature feedback</span></h3>
+<p>When an area's albedo changes due to snowfall, a snow–temperature <a href="/wiki/Feedback" title="Feedback">feedback</a> results. A layer of snowfall increases local albedo, reflecting away sunlight, leading to local cooling. In principle, if no outside temperature change affects this area (e.g. a warm <a href="/wiki/Air_mass" title="Air mass">air mass</a>), the raised albedo and lower temperature would maintain the current snow and invite further snowfall, deepening the snow–temperature feedback. However, because local <a href="/wiki/Weather" title="Weather">weather</a> is dynamic due to the change of <a href="/wiki/Season" title="Season">seasons</a>, eventually warm air masses and a more direct angle of sunlight (higher <a class="mw-redirect" href="/wiki/Insolation" title="Insolation">insolation</a>) cause melting. When the melted area reveals surfaces with lower albedo, such as grass or soil, the effect is reversed: the darkening surface lowers albedo, increasing local temperatures, which induces more melting and thus reducing the albedo further, resulting in still more heating.</p>
+<h3><span class="mw-headline" id="Snow">Snow</span></h3>
+<p>Snow albedo is highly variable, ranging from as high as 0.9 for freshly fallen snow, to about 0.4 for melting snow, and as low as 0.2 for dirty snow. Over <a href="/wiki/Antarctica" title="Antarctica">Antarctica</a> they average a little more than 0.8. If a marginally snow-covered area warms, snow tends to melt, lowering the albedo, and hence leading to more snowmelt because more radiation is being absorbed by the snowpack (the ice–albedo <a href="/wiki/Positive_feedback" title="Positive feedback">positive feedback</a>). <a href="/wiki/Cryoconite" title="Cryoconite">Cryoconite</a>, powdery windblown <a href="/wiki/Dust" title="Dust">dust</a> containing soot, sometimes reduces albedo on glaciers and ice sheets. Hence, small errors in albedo can lead to large errors in energy estimates, which is why it is important to measure the albedo of snow-covered areas through remote sensing techniques rather than applying a single value over broad regions.</p>
+<h3><span class="mw-headline" id="Small-scale_effects">Small-scale effects</span></h3>
+<p>Albedo works on a smaller scale, too. In sunlight, dark clothes absorb more heat and light-coloured clothes reflect it better, thus allowing some control over body temperature by exploiting the albedo effect of the colour of external clothing.</p>
+<h3><span class="mw-headline" id="Solar_photovoltaic_effects">Solar photovoltaic effects</span></h3>
+<p>Albedo can affect the <a href="/wiki/Electrical_energy" title="Electrical energy">electrical energy</a> output of solar <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">photovoltaic devices</a>. For example, the effects of a spectrally responsive albedo are illustrated by the differences between the spectrally weighted albedo of solar photovoltaic technology based on hydrogenated amorphous silicon (a-Si:H) and crystalline silicon (c-Si)-based compared to traditional spectral-integrated albedo predictions. Research showed impacts of over 10%. More recently, the analysis was extended to the effects of spectral bias due to the specular reflectivity of 22 commonly occurring surface materials (both human-made and natural) and analyzes the albedo effects on the performance of seven photovoltaic materials covering three common photovoltaic system topologies: industrial (solar farms), commercial flat rooftops and residential pitched-roof applications.</p>
+<h3><span class="mw-headline" id="Trees">Trees</span></h3>
+<p>Because forests generally have a low albedo, (the majority of the ultraviolet and <a href="/wiki/Visible_spectrum" title="Visible spectrum">visible spectrum</a> is absorbed through <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a>), some scientists have suggested that greater heat absorption by trees could offset some of the carbon benefits of afforestation (or offset the negative climate impacts of <a href="/wiki/Deforestation" title="Deforestation">deforestation</a>). In the case of evergreen forests with seasonal snow cover albedo reduction may be great enough for deforestation to cause a net cooling effect. Trees also impact climate in extremely complicated ways through <a href="/wiki/Evapotranspiration" title="Evapotranspiration">evapotranspiration</a>. The water vapor causes cooling on the land surface, causes heating where it condenses, acts a strong greenhouse gas, and can increase albedo when it condenses into clouds Scientists generally treat evapotranspiration as a net cooling impact, and the net climate impact of albedo and evapotranspiration changes from deforestation depends greatly on local climate </p>
+<p>In seasonally snow-covered zones, winter albedos of treeless areas are 10% to 50% higher than nearby forested areas because snow does not cover the trees as readily. <a class="mw-redirect" href="/wiki/Deciduous_trees" title="Deciduous trees">Deciduous trees</a> have an albedo value of about 0.15 to 0.18 whereas <a class="mw-redirect" href="/wiki/Coniferous_trees" title="Coniferous trees">coniferous trees</a> have a value of about 0.09 to 0.15.</p>
+<p>Studies by the <a class="mw-redirect" href="/wiki/Hadley_Centre" title="Hadley Centre">Hadley Centre</a> have investigated the relative (generally warming) effect of albedo change and (cooling) effect of <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">carbon sequestration</a> on planting forests. They found that new forests in tropical and midlatitude areas tended to cool; new forests in high latitudes (e.g. Siberia) were neutral or perhaps warming.</p>
+<h3><span class="mw-headline" id="Water">Water</span></h3>
+<p>Water reflects light very differently from typical terrestrial materials. The reflectivity of a water surface is calculated using the <a href="/wiki/Fresnel_equations" title="Fresnel equations">Fresnel equations</a> (see graph).</p>
+
+<p>At the scale of the wavelength of light even wavy water is always smooth so the light is reflected in a locally <a href="/wiki/Specular_reflection" title="Specular reflection">specular manner</a> (not <a href="/wiki/Diffuse_reflection" title="Diffuse reflection">diffusely</a>). The glint of light off water is a commonplace effect of this. At small <a href="/wiki/Angle_of_incidence_(optics)" title="Angle of incidence (optics)">angles of incident</a> light, <a href="/wiki/Waviness" title="Waviness">waviness</a> results in reduced reflectivity because of the steepness of the reflectivity-vs.-incident-angle curve and a locally increased average incident angle.</p>
+<p>Although the reflectivity of water is very low at low and medium angles of incident light, it becomes very high at high angles of incident light such as those that occur on the illuminated side of Earth near the <a href="/wiki/Terminator_(solar)" title="Terminator (solar)">terminator</a> (early morning, late afternoon, and near the poles). However, as mentioned above, waviness causes an appreciable reduction. Because light specularly reflected from water does not usually reach the viewer, water is usually considered to have a very low albedo in spite of its high reflectivity at high angles of incident light.</p>
+<p>Note that white caps on waves look white (and have high albedo) because the water is foamed up, so there are many superimposed bubble surfaces which reflect, adding up their reflectivities. Fresh 'black' ice exhibits Fresnel reflection.</p>
+<h3><span class="mw-headline" id="Clouds">Clouds</span></h3>
+<p><a href="/wiki/Cloud_albedo" title="Cloud albedo">Cloud albedo</a> has substantial influence over atmospheric temperatures. Different types of clouds exhibit different reflectivity, theoretically ranging in albedo from a minimum of near 0 to a maximum approaching 0.8. "On any given day, about half of Earth is covered by clouds, which reflect more sunlight than land and water. Clouds keep Earth cool by reflecting sunlight, but they can also serve as blankets to trap warmth."</p>
+<p>Albedo and climate in some areas are affected by artificial clouds, such as those created by the <a href="/wiki/Contrail" title="Contrail">contrails</a> of heavy commercial airliner traffic. A study following the burning of the Kuwaiti oil fields during Iraqi occupation showed that temperatures under the burning oil fires were as much as 10 °C colder than temperatures several miles away under clear skies.</p>
+<h3><span class="mw-headline" id="Aerosol_effects">Aerosol effects</span></h3>
+<p><a class="mw-redirect" href="/wiki/Aerosols" title="Aerosols">Aerosols</a> (very fine particles/droplets in the atmosphere) have both direct and indirect effects on Earth's radiative balance. The direct (albedo) effect is generally to cool the planet; the indirect effect (the particles act as <a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">cloud condensation nuclei</a> and thereby change cloud properties) is less certain. As per  the effects are:</p>
+<blockquote>
+<ul>
+<li><i>Aerosol direct effect.</i> Aerosols directly scatter and absorb radiation. The scattering of radiation causes atmospheric cooling, whereas absorption can cause atmospheric warming.</li>
+<li><i>Aerosol indirect effect.</i> Aerosols modify the properties of clouds through a subset of the aerosol population called <a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">cloud condensation nuclei</a>. Increased nuclei concentrations lead to increased cloud droplet number concentrations, which in turn leads to increased cloud albedo, increased light scattering and radiative cooling (<i>first indirect effect</i>), but also leads to reduced precipitation efficiency and increased lifetime of the cloud (<i>second indirect effect</i>).</li>
+</ul>
+</blockquote>
+<h3><span class="mw-headline" id="Black_carbon">Black carbon</span></h3>
+<p>Another albedo-related effect on the climate is from <a href="/wiki/Black_carbon" title="Black carbon">black carbon</a> particles. The size of this effect is difficult to quantify: the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a> estimates that the global mean radiative forcing for black carbon aerosols from fossil fuels is +0.2 W m, with a range +0.1 to +0.4 W m. Black carbon is a bigger cause of the melting of the polar ice cap in the Arctic than carbon dioxide due to its effect on the albedo.</p>
+<h3><span class="mw-headline" id="Human_activities">Human activities</span></h3>
+<p>Human activities (e.g. deforestation, farming, and urbanization) change the albedo of various areas around the globe. However, quantification of this effect on the global scale is difficult.</p>
+<h2><span class="mw-headline" id="Other_types_of_albedo">Other types of albedo</span></h2>
+<p><a href="/wiki/Single-scattering_albedo" title="Single-scattering albedo">Single-scattering albedo</a> is used to define scattering of electromagnetic waves on small particles. It depends on properties of the material (<a href="/wiki/Refractive_index" title="Refractive index">refractive index</a>); the size of the particle or particles; and the wavelength of the incoming radiation.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-count column-count-4" style="-moz-column-count: 4; -webkit-column-count: 4; column-count: 4;">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Cool_roof" title="Cool roof">Cool roof</a></li>
+<li><a href="/wiki/Daisyworld" title="Daisyworld">Daisyworld</a></li>
+<li><a href="/wiki/Emissivity" title="Emissivity">Emissivity</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Irradiance" title="Irradiance">Irradiance</a></li>
+<li><a href="/wiki/Opposition_surge" title="Opposition surge">Opposition surge</a></li>
+<li><a href="/wiki/Polar_see-saw" title="Polar see-saw">Polar see-saw</a></li>
+<li><a href="/wiki/Solar_radiation_management" title="Solar radiation management">Solar radiation management</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.albedo-project.org/" rel="nofollow">Official Website of Albedo Project</a></li>
+<li><a class="external text" href="http://www-c4.ucsd.edu/gap/" rel="nofollow">Global Albedo Project (Center for Clouds, Chemistry, and Climate)</a></li>
+<li><a class="external text" href="http://www.eoearth.org/article/Albedo" rel="nofollow">Albedo – Encyclopedia of Earth</a></li>
+<li><a class="external text" href="http://www-modis.bu.edu/brdf/product.html" rel="nofollow">NASA MODIS BRDF/albedo product site</a></li>
+<li><a class="external text" href="http://www.eumetsat.int/Home/Main/Access_to_Data/Meteosat_Meteorological_Products/Product_List/SP_1125489019643?l=en" rel="nofollow">Surface albedo derived from Meteosat observations</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080523151225/http://jeff.medkeff.com/astro/lunar/obs_tech/albedo.htm" rel="nofollow">A discussion of Lunar albedos</a></li>
+<li><a class="external text" href="http://www.tvu.com/metalreflectivityLR.jpg" rel="nofollow">reflectivity of metals (chart)</a></li>
+</ul>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39-0!*!0!!en!4!*!math=5 and timestamp 20161110004608 and revision id 748729078
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

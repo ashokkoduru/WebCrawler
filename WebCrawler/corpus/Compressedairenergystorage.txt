@@ -1,0 +1,299 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+
+<p><b>Compressed air energy storage</b> (CAES) is a way to <a href="/wiki/Energy_storage" title="Energy storage">store energy</a> generated at one time for use at another time using <a href="/wiki/Compressed_air" title="Compressed air">compressed air</a>. At utility scale, energy generated during periods of low energy demand (off-peak) can be released to meet higher demand (<a class="mw-redirect" href="/wiki/Peak_load" title="Peak load">peak load</a>) periods. Small scale systems have long been used in such applications as propulsion of <a href="/wiki/Fireless_locomotive" title="Fireless locomotive">mine locomotives</a>. Large scale applications must conserve the heat energy associated with compressing air; dissipating heat lowers the energy efficiency of the storage system.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Types">Types</span></h2>
+<p><a href="/wiki/Gas_compressor" title="Gas compressor">Compression</a> of <a class="mw-redirect" href="/wiki/Air" title="Air">air</a> creates heat; the air is warmer after compression. <a href="/wiki/Thermal_expansion" title="Thermal expansion">Expansion</a> requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, the efficiency of the storage improves considerably. There are three ways in which a CAES system can deal with the heat. Air storage can be <a class="mw-redirect" href="/wiki/Adiabatic" title="Adiabatic">adiabatic</a>, <a href="/wiki/Diabatic" title="Diabatic">diabatic</a>, or <a class="mw-redirect" href="/wiki/Isothermal" title="Isothermal">isothermal</a>.</p>
+<h3><span class="mw-headline" id="Adiabatic">Adiabatic</span></h3>
+<p>Adiabatic storage continues to keep the heat produced by compression and returns it to the air when the air is expanded to generate power. This is a subject of ongoing study, with no utility scale plants as of 2015, but a German project ADELE is planning to bring a demonstration plant (360 megawatt hours storage capacity) in to service in 2016. The theoretical <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">efficiency</a> of adiabatic storage approaches 100% with perfect insulation, but in practice round trip efficiency is expected to be 70%. Heat can be stored in a solid such as concrete or stone, or more likely in a fluid such as hot oil (up to 300 °C) or molten salt solutions (600 °C).</p>
+<h3><span class="mw-headline" id="Diabatic">Diabatic</span></h3>
+<p>Diabatic storage dissipates much of the heat of compression with <a href="/wiki/Intercooler" title="Intercooler">intercoolers</a> (thus approaching isothermal compression) into the atmosphere as waste; essentially wasting, thereby, the renewable energy used to perform the work of compression. Upon removal from storage, the temperature of this compressed air is <i>the one indicator</i> of the amount of stored energy that remains in this air. Consequently, if the air temperature is low for the energy recovery process, the air must be substantially re-heated prior to expansion in the <a href="/wiki/Turbine" title="Turbine">turbine</a> to power a <a class="mw-redirect" href="/wiki/Electrical_generator" title="Electrical generator">generator</a>. This reheating can be accomplished with a natural gas fired burner for <a href="/wiki/Utility" title="Utility">utility</a> grade storage or with a heated metal mass. As recovery is often most needed when renewable sources are quiescent, fuel must be burned to make up for the <i>wasted</i> heat. This degrades the efficiency of the storage-recovery cycle; and while this approach is relatively simple, the burning of fuel adds to the cost of the recovered electrical energy and compromises the ecological benefits associated with most renewable energy sources. Nevertheless, this is thus far the only system which has been implemented commercially.</p>
+<p>The <a href="/wiki/Energy_storage#Mechanical_storage" title="Energy storage">McIntosh, Alabama CAES plant</a> requires 2.5 MJ of electricity and 1.2 MJ <a class="mw-redirect" href="/wiki/Lower_heating_value" title="Lower heating value">lower heating value</a> (LHV) of gas for each MJ of energy output, corresponding to an energy recovery efficiency of about 27%. A <a href="/wiki/General_Electric" title="General Electric">General Electric</a> 7FA 2x1 <a href="/wiki/Combined_cycle" title="Combined cycle">combined cycle</a> plant, one of the most efficient natural gas plants in operation, uses 1.85 MJ (LHV) of gas per MJ generated, a 54% thermal efficiency.</p>
+<h3><span class="mw-headline" id="Isothermal">Isothermal</span></h3>
+<p>Isothermal compression and expansion approaches attempt to maintain <a href="/wiki/Operating_temperature" title="Operating temperature">operating temperature</a> by constant heat exchange to the environment. They are only practical for low power levels, without very effective <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchangers</a>. The theoretical efficiency of isothermal energy storage approaches 100% for perfect heat transfer to the environment. In practice neither of these perfect thermodynamic cycles is obtainable, as some heat losses are unavoidable.</p>
+<h3><span class="mw-headline" id="Near_Isothermal">Near Isothermal</span></h3>
+<p>Near isothermal compression (and expansion) is a process in which air is compressed in very close proximity to a large incompressible thermal mass such as a heat absorbing and releasing structure (HARS) or a water spray. A HARS is usually made up of a series of parallel fins. As the air is compressed the heat of compression is rapidly transferred to the thermal mass, so the gas temperature is stabilised. An external cooling circuit is then used to maintain the temperature of the thermal mass. The isothermal efficiency (Z) is a measure of where the process lies between an adiabatic and isothermal process. If the efficiency is 0%, then it is totally adiabatic; with an efficiency of 100%, it is totally isothermal. Typically with a near isothermal process an efficiency of 90-95% can be expected.</p>
+<h3><span class="mw-headline" id="Other">Other</span></h3>
+<p>One implementation of isothermal CAES uses high, medium and low pressure pistons in series, with each stage followed by an airblast <a class="mw-redirect" href="/wiki/Venturi_pump" title="Venturi pump">venturi pump</a> that draws ambient air over an air-to-air (or air-to-seawater) heat exchanger between each expansion stage. Early <a href="/wiki/Torpedo#Compressed_air" title="Torpedo">compressed air torpedo</a> designs used a similar approach, substituting seawater for air. The venturi warms the <a href="/wiki/Exhaust_gas" title="Exhaust gas">exhaust</a> of the preceding stage and admits this preheated air to the following stage. This approach was widely adopted in various compressed air vehicles such as <a class="mw-redirect" href="/wiki/H._K._Porter,_Inc." title="H. K. Porter, Inc.">H. K. Porter, Inc.</a>'s mining <a class="mw-redirect" href="/wiki/Locomotives" title="Locomotives">locomotives</a> and trams. Here the heat of compression is effectively stored in the atmosphere (or sea) and returned later on.</p>
+<h2><span class="mw-headline" id="Compressors_and_expanders">Compressors and expanders</span></h2>
+<p>Compression can be done with electrically powered <a class="mw-redirect" href="/wiki/Turbocompressor" title="Turbocompressor">turbo-compressors</a> and expansion with turbo 'expanders' or <a class="mw-redirect" href="/wiki/Air_engine" title="Air engine">air engines</a> driving <a class="mw-redirect" href="/wiki/Electrical_generator" title="Electrical generator">electrical generators</a> to produce electricity.</p>
+<h2><span class="mw-headline" id="Storage">Storage</span></h2>
+<p>The storage system of a CAES (Compressed Air Energy Storage) is one of the most interesting characteristics of this technology, and it is strictly related to its economic feasibility, energy density and flexibility. There are a few categories of air storage vessels, based on the thermodynamic conditions of the storage, and on the technology chosen:</p>
+<ol>
+<li>Constant Volume Storage (Solution mined caverns, aboveground vessels, aquifers, automotive applications, etc.)</li>
+<li>Constant Pressure Storage (Underwater pressure vessels, Hybrid Pumped Hydro - Compressed Air Storage)</li>
+</ol>
+<h3><span class="mw-headline" id="Constant_Volume_Storage">Constant Volume Storage</span></h3>
+<p>This storage system uses a chamber with rigid boundaries to store large amounts of air. This means from a thermodynamic point of view, that this system is a Constant Volume and Variable Pressure system. This causes some operational problems to the compressors and turbines operating on them, so the pressure variations have to be kept below a certain limit, as do the stresses induced on the storage vessels.</p>
+<p>The storage vessel is often an underground cavern created by <a class="mw-redirect" href="/wiki/Solution_mining" title="Solution mining">solution mining</a> (salt is dissolved in water for extraction) or by utilizing an abandoned <a href="/wiki/Mining" title="Mining">mine</a>; use of porous rock formations(rocks which have holes through which liquid or air can pass) such as those in which reservoirs of natural gas are found has also been studied.</p>
+<p>In some cases also an above ground pipeline was tested as a storage system, giving some good results. Obviously the cost of the system is higher, but it can be placed wherever the designer chooses, while an underground system needs some particular geologic formations (salt domes, aquifers, depleted gas mines..etc.).</p>
+<h3><span class="mw-headline" id="Constant_Pressure_Storage">Constant Pressure Storage</span></h3>
+<p>In this case the storage vessel is kept at a constant pressure, while the gas is contained in a variable volume vessel. Many types of storage vessel have been proposed, but the operating conditions follow the same principle, the storage vessel is positioned hundreds of meters underwater, the hydrostatic pressure of the water column above the storage vessel allows to keep the pressure to the desired level.</p>
+<p>This configuration allows to:</p>
+<ul>
+<li>Improve the energy density of the storage system, because all the air contained can be used (the pressure is constant in all charge conditions, full or empty, the pressure is the same, so the turbine has no problem exploiting it, while with constant volume systems after a while the pressure goes below a safety limit and the system needs to stop)</li>
+<li>Improve the efficiency of the turbomachinery, which will work under constant inlet conditions.</li>
+<li>Opens to the use of different geographic locations for the positioning of the CAES plant (coastal lines, floating platforms, etc.)</li>
+</ul>
+<p>On the other hand, the cost of this storage system is higher, due to the need of positioning the storage vessel on the bottom of the chosen water reservoir (often the sea or the ocean) and due to the cost of the vessel itself.</p>
+<p>Plants operate on a daily cycle, charging at night and discharging during the day. Heating of the compressed air using natural gas or geothermal heat to increase the amount of energy being extracted has been studied by the <a href="/wiki/Pacific_Northwest_National_Laboratory" title="Pacific Northwest National Laboratory">Pacific Northwest National Laboratory</a></p>
+<p>Compressed air energy storage can also be employed on a smaller scale such as exploited by <a class="mw-redirect" href="/wiki/Air_car" title="Air car">air cars</a> and air-driven <a href="/wiki/Locomotive" title="Locomotive">locomotives</a>, and also by the use of high-strength <a class="mw-redirect" href="/wiki/Carbon-fiber" title="Carbon-fiber">carbon-fiber</a> air storage tanks. However, in order to retain the energy stored in compressed air, this tank should be thermally isolated from the environment; else, the energy stored will escape under the form of heat since compressing air raises its temperature.</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<h3><span class="mw-headline" id="Transmission">Transmission</span></h3>
+
+<p>Citywide compressed air energy systems have been built since 1870. Cities such as <a class="mw-redirect" href="/wiki/Paris,_France" title="Paris, France">Paris, France</a>; <a class="mw-redirect" href="/wiki/Birmingham,_England" title="Birmingham, England">Birmingham, England</a>; <a class="mw-redirect" href="/wiki/Dresden,_Germany" title="Dresden, Germany">Dresden</a>, <a class="mw-redirect" href="/wiki/Rixdorf" title="Rixdorf">Rixdorf</a> and <a class="mw-redirect" href="/wiki/Offenbach,_Germany" title="Offenbach, Germany">Offenbach, Germany</a> and <a class="mw-redirect" href="/wiki/Buenos_Aires,_Argentina" title="Buenos Aires, Argentina">Buenos Aires, Argentina</a> installed such systems. <a class="new" href="/w/index.php?title=Victor_Popp&amp;action=edit&amp;redlink=1" title="Victor Popp (page does not exist)">Victor Popp</a> constructed the first systems to power clocks by sending a pulse of air every minute to change their pointer arms. They quickly evolved to deliver power to homes and industry. As of 1896, the Paris system had 2.2 MW of generation distributed at 550 kPa in 50 km of air pipes for motors in light and heavy industry. Usage was measured by meters. The systems were the main source of house-delivered energy in those days and also powered the machines of <a href="/wiki/Dentistry" title="Dentistry">dentists</a>, <a class="mw-redirect" href="/wiki/Seamstress" title="Seamstress">seamstresses</a>, printing facilities and <a href="/wiki/Bakery" title="Bakery">bakeries</a>.</p>
+<h3><span class="mw-headline" id="Storage_2">Storage</span></h3>
+<ul>
+<li>1978 – The first utility-scale compressed air energy storage project was the 290 megawatt <a class="new" href="/w/index.php?title=Huntorf&amp;action=edit&amp;redlink=1" title="Huntorf (page does not exist)">Huntorf</a> plant in Germany using a salt dome.</li>
+<li>1991 – A 110 megawatt plant with a capacity of 26 hours was built in McIntosh, Alabama (1991). The Alabama facility's $65 million cost works out to $590 per kW of generation capacity and about $23 per kW-hr of storage capacity, using a 19 million cubic foot <a class="mw-redirect" href="/wiki/In-situ_leach" title="In-situ leach">solution mined</a> salt cavern to store air at up to 1100 psi. Although the compression phase is approximately 82% efficient, the expansion phase requires combustion of natural gas at one third the rate of a gas turbine producing the same amount of electricity.</li>
+<li>November 2009 – The US Department of Energy awards $24.9 million in matching funds for phase one of a 300 MW, $356 million Pacific Gas and Electric CAES installation utilizing a saline porous rock formation being developed near Bakersfield in Kern County, California. Goals of the project are to build and validate an advanced design.</li>
+<li>December, 2010 – The US Department of Energy provides $29.4 million in funding to conduct preliminary work on a 150 MW salt-based CAES project being developed by <a href="/wiki/Iberdrola" title="Iberdrola">Iberdrola USA</a> in Watkins Glen, New York. The goal is to incorporate smart grid technology to balance renewable <a href="/wiki/Intermittent_energy_source" title="Intermittent energy source">intermittent energy sources</a>.</li>
+<li>December, 2012 – General Compression completes construction of a 2 MW near-isothermal CAES project in Gaines, TX; the world's third CAES project. The project uses no fuel.</li>
+<li>2013 (projected) – The first adiabatic CAES project, a 200 megawatt facility called ADELE, is planned for construction in Germany. This project has been DELAYED for undisclosed reasons until at least 2016.</li>
+<li>2016 (projected) – Apex has planned a CAES plant for <a href="/wiki/Anderson_County,_Texas" title="Anderson County, Texas">Anderson County, Texas</a> to go online in 2016. This project has been DELAYED and will not go into operation until July 2017</li>
+<li>2017 (projected) - Storelectric Ltd is planning to build a 40 MW <a href="/wiki/100%25_renewable_energy" title="100% renewable energy">100% renewable energy</a> pilot plant in Cheshire, UK, with 800 MWh storage capacity. "This would be 20 times larger than any 100% renewable energy CAES built so far, representing a step-change in the storage industry." according to their website.</li>
+</ul>
+<h2><span class="mw-headline" id="Storage_thermodynamics">Storage thermodynamics</span></h2>
+<p>In order to achieve a near <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">thermodynamic reversible process</a> so that most of the energy is saved in the system and can be retrieved, and losses are kept negligible, a near reversible <a href="/wiki/Isothermal_process" title="Isothermal process">isothermal process</a> or an <a href="/wiki/Isentropic_process" title="Isentropic process">isentropic process</a> is desired.</p>
+<h3><span class="mw-headline" id="Isothermal_Storage">Isothermal Storage</span></h3>
+<p>In an <a href="/wiki/Isothermal_process" title="Isothermal process">isothermal</a> compression process, the gas in the system is kept at a constant temperature throughout. This necessarily requires exchange of heat with the gas, otherwise the temperature would rise during charging and drop during discharge. This heat exchange can be achieved by heat exchangers (intercooling) between subsequent stages in the compressor, regulator and tank. To avoid wasted energy, the intercoolers must be optimised for high <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a> and low pressure drop. Smaller compressors can approximate isothermal compression even without intercooling, due to the relatively high ratio of surface area to volume of the compression chamber and the resulting improvement in heat dissipation from the compressor body itself.</p>
+<p>When one obtains perfect isothermal storage (and discharge), the process is said to be "reversible". This requires that the heat transfer between the surroundings and the gas occur over an infinitesimally small temperature difference. In that case, there is no <a href="/wiki/Exergy" title="Exergy">exergy</a> loss in the heat transfer process, and so the compression work can be completely recovered as expansion work: 100% storage efficiency. However, in practice, there is always a temperature difference in any heat transfer process, and so all practical energy storage obtains efficiencies lower than 100%.</p>
+<p>To estimate the compression/expansion work in an isothermal process, it may be assumed that the compressed air obeys the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a>,</p>
+
+<p>From a process from an initial state <i>A</i> to a final state <i>B</i>, with <a class="mw-redirect" href="/wiki/Absolute_temperature" title="Absolute temperature">absolute temperature</a> <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=T_{A}=T_{B}}</annotation>
+</semantics>
+</math></span><img alt="T=T_{A}=T_{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b8e59efe1100639b4adc7b5e749294a8f4c3893" style="vertical-align: -0.671ex; width:13.56ex; height:2.509ex;"/></span> constant, one finds the work required for compression (negative) or done by the expansion (positive), to be</p>
+
+<p>where <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mi>V</mi>
+<mo>=</mo>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle pV=p_{A}V_{A}=p_{B}V_{B}}</annotation>
+</semantics>
+</math></span><img alt="pV=p_{A}V_{A}=p_{B}V_{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb5bfe35e64696040df616337cad6999df616f09" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:20.284ex; height:2.509ex;"/></span>, and so, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {V_{B}}{V_{A}}}={\frac {p_{A}}{p_{B}}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {V_{B}}{V_{A}}}={\frac  {p_{A}}{p_{B}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/808cbc002d14cdd7426fcf88718375c73dc65c32" style="vertical-align: -2.338ex; width:10.301ex; height:5.843ex;"/></span>. Here, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+</semantics>
+</math></span><img alt="p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:1.259ex; height:2.009ex;"/></span> is the absolute <a href="/wiki/Pressure" title="Pressure">pressure</a>, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/></span> is the <a href="/wiki/Volume" title="Volume">volume</a> of the vessel, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.405ex; height:1.676ex;"/></span> is the <a href="/wiki/Amount_of_substance" title="Amount of substance">amount of substance</a> of gas (mol) and <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+</semantics>
+</math></span><img alt="R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" style="vertical-align: -0.338ex; width:1.774ex; height:2.176ex;"/></span> is the <a class="mw-redirect" href="/wiki/Ideal_gas_constant" title="Ideal gas constant">ideal gas constant</a>.</p>
+<p><i>Example</i></p>
+<p>How much energy can be stored in a 1 m storage vessel at a pressure of 70 bars (7.0 MPa), if the ambient pressure is 1 bar (0.10 MPa). In this case, the process work is</p>
+
+<p>The negative sign means that work is done on the gas by the surroundings. Process irreversibilities (such as in heat transfer) will result in less energy being recovered from the expansion process than is required for the compression process. If the environment is at a constant temperature, for example, the thermal resistance in the intercoolers will mean that the compression occurs at a temperature somewhat higher than the ambient temperature, and the expansion will occur at a temperature somewhat lower than ambient temperature. So a perfect isothermal storage system is impossible to achieve.</p>
+<h3><span class="mw-headline" id="Adiabatic_.28isentropic.29_storage">Adiabatic (isentropic) storage</span></h3>
+<p>An <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic process</a> is one where there is no heat transfer between the fluid and the surroundings: the system is insulated against heat transfer. If the process is furthermore internally reversible (smooth, slow and frictionless, to the ideal limit) then it will additionally be <a class="mw-redirect" href="/wiki/Isentropic" title="Isentropic">isentropic</a>.</p>
+<p>An adiabatic storage system does away with the intercooling during the compression process, and simply allows the gas to heat up during compression, and likewise to cool down during expansion. This is attractive, since the energy losses associated with the heat transfer are avoided, but the downside is that the storage vessel must be insulated against heat loss. It should also be mentioned that real compressors and turbines are not isentropic, but instead have an <a href="/wiki/Steam_turbine#Isentropic_efficiency" title="Steam turbine">isentropic efficiency</a> of around 85%, with the result that round-trip storage efficiency for adiabatic systems is also considerably less than perfect.</p>
+<h3><span class="mw-headline" id="Large_storage_system_thermodynamics">Large storage system thermodynamics</span></h3>
+<p>Energy storage systems often use large underground caverns. This is the preferred system design, due to the very large volume, and thus the large quantity of energy that can be stored with only a small pressure change. The cavern space can be easily insulated, compressed adiabatically with little temperature change (approaching a reversible isothermal system) and heat loss (approaching an isentropic system). This advantage is in addition to the low cost of constructing the gas storage system, using the underground walls to assist in containing the pressure.</p>
+<p>Recently there have been developed undersea insulated air bags, with similar thermodynamic properties to large underground cavern storage.</p>
+<h2><span class="mw-headline" id="Practical_constraints_in_transportation">Practical constraints in transportation</span></h2>
+<p>In order to use air storage in vehicles or aircraft for practical land or air transportation, the energy storage system must be compact and lightweight. <a href="/wiki/Energy_density" title="Energy density">Energy density</a> and <a href="/wiki/Specific_energy" title="Specific energy">specific energy</a> are the engineering terms that define these desired qualities.</p>
+<h3><span class="mw-headline" id="Specific_energy.2C_energy_density_and_efficiency">Specific energy, energy density and efficiency</span></h3>
+<p>As explained in the thermodynamics of gas storage section above, compressing air heats it and expanding it cools it. Therefore, practical air engines require heat exchangers in order to avoid excessively high or low temperatures and even so don't reach ideal constant temperature conditions, or ideal thermal insulation.</p>
+<p>Nevertheless, as stated above, it is useful to describe the maximum energy storable using the isothermal case, which works out to about 100 kJ/m [ ln(<i>P</i><sub><i>A</i></sub>/<i>P</i><sub><i>B</i></sub>)].</p>
+<p>Thus if 1.0 m of ambient air is very slowly compressed into a 5 L bottle at 20 MPa (200 bar), the potential energy stored is 530 kJ. A highly efficient air motor can transfer this into kinetic energy if it runs very slowly and manages to expand the air from its initial 20 MPa pressure down to 100 kPa (bottle completely "empty" at ambient pressure). Achieving high efficiency is a technical challenge both due to heat loss to the ambient and to unrecoverable internal gas heat. If the bottle above is emptied to 1 MPa, the extractable energy is about 300 kJ at the motor shaft.</p>
+<p>A standard 20 MPa, 5 L steel bottle has a mass of 7.5 kg, a superior one 5 kg. High-tensile strength fibers such as <a class="mw-redirect" href="/wiki/Carbon-fiber" title="Carbon-fiber">carbon-fiber</a> or <a href="/wiki/Kevlar" title="Kevlar">Kevlar</a> can weigh below 2 kg in this size, consistent with the legal safety codes. One cubic meter of air at 20 °C has a mass of 1.204 kg at <a class="mw-redirect" href="/wiki/Standard_temperature_and_pressure" title="Standard temperature and pressure">standard temperature and pressure</a>. Thus, <i><b>theoretical</b></i> specific energies are from roughly 70 kJ/kg at the motor shaft for a plain steel bottle to 180 kJ/kg for an advanced fiber-wound one, whereas practical <i><b>achievable</b></i> specific energies for the same containers would be from 40 to 100 kJ/kg.</p>
+<h3><span class="mw-headline" id="Comparison_with_batteries">Comparison with batteries</span></h3>
+<p>Advanced fiber-reinforced bottles are comparable to the <a href="/wiki/Rechargeable_battery" title="Rechargeable battery">rechargeable</a> <a class="mw-redirect" href="/wiki/Lead-acid_battery" title="Lead-acid battery">lead-acid battery</a> in terms of energy density. Batteries provide nearly constant voltage over their entire charge level, whereas the pressure varies greatly while using a pressure vessel from full to empty. It is technically challenging to design air engines to maintain high efficiency and sufficient power over a wide range of pressures. Compressed air can transfer power at very high flux rates, which meets the principal acceleration and deceleration objectives of transportation systems, particularly for <a class="mw-redirect" href="/wiki/Hybrid_vehicles" title="Hybrid vehicles">hybrid vehicles</a>.</p>
+<p>Compressed air systems have advantages over conventional batteries including longer lifetimes of <a href="/wiki/Pressure_vessel" title="Pressure vessel">pressure vessels</a> and lower material toxicity. Newer battery designs such as those based on <a href="/wiki/Lithium_iron_phosphate_battery" title="Lithium iron phosphate battery">Lithium Iron Phosphate</a> chemistry suffer from neither of these problems. Compressed air costs are potentially lower; however advanced pressure vessels are costly to develop and safety-test and at present are more expensive than mass-produced batteries.</p>
+<p>As with electric storage technology, compressed air is only as "clean" as the source of the energy that it stores. <a class="mw-redirect" href="/wiki/Life_cycle_assessment" title="Life cycle assessment">Life cycle assessment</a> addresses the question of overall emissions from a given energy storage technology combined with a given mix of generation on a power grid.</p>
+<h3><span class="mw-headline" id="Safety">Safety</span></h3>
+<p>As with most technologies, compressed air has safety concerns, mainly catastrophic tank rupture. Safety codes make this a rare occurrence at the cost of higher weight and additional safety features such as pressure relief valves. Codes may limit the legal working pressure to less than 40% of the rupture pressure for steel bottles (<a class="mw-redirect" href="/wiki/Safety_factor" title="Safety factor">safety factor</a> of 2.5), and less than 20% for fiber-wound bottles (<a class="mw-redirect" href="/wiki/Safety_factor" title="Safety factor">safety factor</a> of 5). Commercial designs adopt the <a class="mw-redirect" href="/wiki/ISO_11439" title="ISO 11439">ISO 11439</a> standard. High pressure bottles are fairly strong so that they generally do not rupture in vehicle crashes.</p>
+<h2><span class="mw-headline" id="Vehicle_applications">Vehicle applications</span></h2>
+<div class="hatnote" role="note">Main article: <a class="mw-redirect" href="/wiki/Compressed_air_vehicles" title="Compressed air vehicles">Compressed air vehicles</a></div>
+<h3><span class="mw-headline" id="History_2">History</span></h3>
+<p>Air engines have been used since the 19th century to power <a href="/wiki/Mining" title="Mining">mine</a> <a class="mw-redirect" href="/wiki/Locomotives" title="Locomotives">locomotives</a>, pumps, drills and trams, via centralized, city-level, distribution. <a class="mw-redirect" href="/wiki/Racecar" title="Racecar">Racecars</a> use compressed air to start their <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engine</a> (ICE), and large <a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engines</a> may have starting <a href="/wiki/Pneumatic_motor" title="Pneumatic motor">pneumatic motors</a>.</p>
+
+<h3><span class="mw-headline" id="Engine">Engine</span></h3>
+<div class="hatnote" role="note">Main article: <a class="mw-redirect" href="/wiki/Compressed_air_engine" title="Compressed air engine">Compressed air engine</a></div>
+<p>A compressed air engine uses the expansion of compressed air to drive the pistons of an engine, turn the <a href="/wiki/Axle" title="Axle">axle</a>, or to drive a <a href="/wiki/Turbine" title="Turbine">turbine</a>.</p>
+<p>The following methods can increase efficiency:</p>
+<ul>
+<li>A continuous expansion turbine at high efficiency</li>
+<li>Multiple expansion stages</li>
+<li>Use of waste heat, notably in a hybrid <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a> design</li>
+<li>Use of environmental heat</li>
+</ul>
+<p>A highly efficient arrangement uses high, medium and low pressure pistons in series, with each stage followed by an airblast venturi that draws ambient air over an air-to-air <a href="/wiki/Heat_exchanger" title="Heat exchanger">heat exchanger</a>. This warms the exhaust of the preceding stage and admits this preheated air to the following stage. The only exhaust gas from each stage is cold air which can be as cold as −15 °C (5 °F); the cold air may be used for <a href="/wiki/Air_conditioning" title="Air conditioning">air conditioning</a> in a car.</p>
+<p>Additional heat can be supplied by burning fuel as in 1904 for Whitehead's torpedoes. This improves the range and speed available for a given tank volume at the cost of the additional fuel.</p>
+<h4><span class="mw-headline" id="Cars">Cars</span></h4>
+<div class="hatnote" role="note">Main articles: <a href="/wiki/Compressed-air_vehicle" title="Compressed-air vehicle">Compressed-air vehicle</a> and <a href="/wiki/Compressed_air_car" title="Compressed air car">Compressed air car</a></div>
+<p>Since about 1990 several companies have claimed to be developing compressed air cars, but none are available. Typically the main claimed advantages are: no roadside pollution, low cost, use of cooking oil for <a href="/wiki/Lubrication" title="Lubrication">lubrication</a>, and integrated air conditioning.</p>
+<p>The time required to refill a depleted tank is important for vehicle applications. "Volume transfer" moves pre-compressed air from a stationary tank to the vehicle tank almost instantaneously. Alternatively, a stationary or on-board <a href="/wiki/Gas_compressor" title="Gas compressor">compressor</a> can compress air on demand, possibly requiring several hours.</p>
+<h4><span class="mw-headline" id="Hybrid_vehicles">Hybrid vehicles</span></h4>
+<div class="hatnote" role="note">Main article: <a class="mw-redirect" href="/wiki/Hydraulic_hybrid" title="Hydraulic hybrid">Hydraulic hybrid</a></div>
+<p>While the air storage system offers a relatively low power density and vehicle range, its high efficiency is attractive for hybrid vehicles that use a conventional internal combustion engine as a main power source. The air storage can be used for <a class="mw-redirect" href="/wiki/Regenerative_braking" title="Regenerative braking">regenerative braking</a> and to optimize the cycle of the piston engine which is not equally efficient at all power/RPM levels.</p>
+<p><a href="/wiki/Robert_Bosch_GmbH" title="Robert Bosch GmbH">Bosch</a> and <a class="mw-redirect" href="/wiki/PSA_Peugeot_Citro%C3%ABn" title="PSA Peugeot Citroën">PSA Peugeot Citroën</a> have developed a hybrid system that use hydraulics as a way to transfer energy to and from a compressed nitrogen tank. An up to 45% reduction in fuel consumption is claimed, corresponding to 2.9l/100 km (81 mpg, 69 g CO2/km) on the <a href="/wiki/New_European_Driving_Cycle" title="New European Driving Cycle">NEDC</a> cycle for a compact frame like <a href="/wiki/Peugeot_208" title="Peugeot 208">Peugeot 208</a>. The system is claimed to be much more affordable than competing electric and flywheel <a class="mw-redirect" href="/wiki/KERS" title="KERS">KERS</a> systems and is expected on road cars by 2016.</p>
+<h2><span class="mw-headline" id="Types_of_systems">Types of systems</span></h2>
+<h3><span class="mw-headline" id="Hybrid_systems">Hybrid systems</span></h3>
+<p><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton cycle</a> engines compress and heat air with a fuel suitable for an <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engine</a>. For example, natural gas or <a href="/wiki/Biogas" title="Biogas">biogas</a> heat compressed air, and then a conventional <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a> engine or the rear portion of a <a href="/wiki/Jet_engine" title="Jet engine">jet engine</a> expands it to produce work.</p>
+<p><a class="mw-redirect" href="/wiki/Compressed_air_engine" title="Compressed air engine">Compressed air engines</a> can recharge an <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">electric battery</a>. The apparently defunct <a class="mw-redirect" href="/wiki/Energine" title="Energine">Energine</a> promoted its Pne-PHEV or Pneumatic Plug-in Hybrid Electric Vehicle-system.</p>
+<h4><span class="mw-headline" id="Existing_hybrid_systems">Existing hybrid systems</span></h4>
+<p>Huntorf, Germany in 1978, and <a href="/wiki/McIntosh,_Alabama" title="McIntosh, Alabama">McIntosh, Alabama</a>, U.S. in 1991 commissioned hybrid power plants. Both systems use off-peak energy for air compression and burn natural gas in the compressed air during the power generating phase.</p>
+<h4><span class="mw-headline" id="Future_hybrid_systems">Future hybrid systems</span></h4>
+<p>The Iowa Stored Energy Park (ISEP) will use <a href="/wiki/Aquifer" title="Aquifer">aquifer</a> storage rather than cavern storage. The displacement of water in the aquifer results in regulation of the air pressure by the constant hydrostatic pressure of the water. A spokesperson for ISEP claims, "you can optimize your equipment for better efficiency if you have a constant pressure." Power output of the McIntosh and Iowa systems is in the range of 2–300 MW.</p>
+<p>Additional facilities are under development in <a href="/wiki/Norton,_Ohio" title="Norton, Ohio">Norton, Ohio</a>. <a href="/wiki/FirstEnergy" title="FirstEnergy">FirstEnergy</a>, an Akron, Ohio electric utility obtained development rights to the 2,700 MW Norton project in November, 2009.</p>
+<h3><span class="mw-headline" id="Lake_or_ocean_storage">Lake or ocean storage</span></h3>
+<p>Deep water in lakes and the ocean can provide pressure without requiring high-pressure vessels or drilling into salt caverns or aquifers. The air goes into inexpensive, flexible containers such as plastic bags below in deep lakes or off sea coasts with steep drop-offs. Obstacles include the limited number of suitable locations and the need for high-pressure pipelines between the surface and the containers. Since the containers would be very inexpensive, the need for great pressure (and great depth) may not be as important. A key benefit of systems built on this concept is that charge and discharge pressures are a constant function of depth. <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot</a> inefficiencies can thereby be reduced in the power plant. Carnot efficiency can be increased by using multiple charge and discharge stages and using inexpensive heat sources and sinks such as cold water from rivers or hot water from <a href="/wiki/Solar_pond" title="Solar pond">solar ponds</a>. Ideally, the system must be very clever—for example, by cooling air before pumping on summer days. It must be engineered to avoid inefficiency, such as wasteful pressure changes caused by inadequate piping diameter.</p>
+<p>A nearly <a href="/wiki/Isobaric_process" title="Isobaric process">isobaric</a> solution is possible if the compressed gas is used to drive a hydroelectric system. However, this solution requires large pressure tanks located on land (as well as the underwater air bags). Also, hydrogen gas is the preferred fluid, since other gases suffer from substantial hydrostatic pressures at even relatively modest depths (such as 500 meters).</p>
+<p>E.ON, one of Europe's leading power and gas companies, has provided €1.4 million (£1.1 million) in funding to develop undersea air storage bags. Hydrostor in Canada is developing a commercial system of underwater storage "accumulators" for compressed air energy storage, starting at the 1 to 4 MW scale.</p>
+<p>There is a plan for some type of compressed air energy storage in undersea caves by Northern Ireland.</p>
+<h3><span class="mw-headline" id="Near_Isothermal_2">Near Isothermal</span></h3>
+
+<p>A number of methods of near isothermal compression are being developed. Fluid Mechanics has a system with a heat absorbing and releasing structure (HARS) attached to a reciprocating piston. Light Sail inject a water spray into a reciprocating cylinder. SustainX use an air water foam mix inside a compressor. All these systems ensure that the air is compressed with high <a href="/wiki/Thermal_diffusivity" title="Thermal diffusivity">thermal diffusivity</a> compared to the speed of compression. Typically these compressors can run at speeds up to 1000 rpm. To ensure high thermal diffusivity the average distance a gas molecule is from a heat absorbing surface is about 0.5mm. These near isothermal compressors can also be used as near isothermal expanders and are being developed to improve the round trip efficiency of CASE.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Alternative_propulsion" title="Alternative propulsion">Alternative propulsion</a></li>
+<li><a href="/wiki/Fireless_locomotive" title="Fireless locomotive">Fireless locomotive</a></li>
+<li><a href="/wiki/Grid_energy_storage" title="Grid energy storage">Grid energy storage</a></li>
+<li><a href="/wiki/Hydraulic_accumulator" title="Hydraulic accumulator">Hydraulic accumulator</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Pneumatics" title="Pneumatics">Pneumatics</a></li>
+<li><a href="/wiki/Zero-emissions_vehicle" title="Zero-emissions vehicle">Zero-emissions vehicle</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li>Compressed Air System of Paris – technical notes <a class="external text" href="http://chestofbooks.com/crafts/scientific-american/sup6/The-Compressed-Air-System-Of-Paris.html" rel="nofollow">Part 1</a> <a class="external text" href="http://chestofbooks.com/crafts/scientific-american/sup6/The-Compressed-Air-System-Of-Paris-Part-2.html" rel="nofollow">Part 2</a> <a class="external text" href="http://chestofbooks.com/crafts/scientific-american/sup6/The-Compressed-Air-System-Of-Paris-Part-3.html" rel="nofollow">Part 3</a> <a class="external text" href="http://chestofbooks.com/crafts/scientific-american/sup6/The-Compressed-Air-System-Of-Paris-Part-4.html" rel="nofollow">Part 4</a> <a class="external text" href="http://chestofbooks.com/crafts/scientific-american/sup6/The-Compressed-Air-System-Of-Paris-Part-5.html" rel="nofollow">Part 5</a> <a class="external text" href="http://chestofbooks.com/crafts/scientific-american/sup6/The-Compressed-Air-System-Of-Paris-Part-6.html" rel="nofollow">Part 6</a> (Special supplement, Scientific American, 1921)</li>
+<li><a class="external text" href="http://www.sandia.gov/media/NewsRel/NR2001/norton.htm" rel="nofollow">Solution to some of country’s energy woes might be little more than hot air</a> (<a class="mw-redirect" href="/wiki/Sandia_National_Labs" title="Sandia National Labs">Sandia National Labs</a>, <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">DoE</a>).</li>
+<li>MSNBC article, <a class="external text" href="http://www.msnbc.msn.com/id/10695864/" rel="nofollow">Cities to Store Wind Power for Later Use</a>, January 4, 2006</li>
+<li><a class="external text" href="http://www.economist.com/science/displaystory.cfm?story_id=9539806" rel="nofollow">Power storage: Trapped wind</a></li>
+<li><a class="external text" href="http://www.businessweek.com/magazine/content/07_41/b4053092.htm" rel="nofollow">Catching The Wind In A Bottle A group of Midwest utilities is building a plant that will store excess wind power underground</a></li>
+<li><a class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDE103DF93AA1575AC0A967958260&amp;sec=&amp;spon=&amp;pagewanted=print" rel="nofollow">New York Times Article: Technology; Using Compressed Air To Store Up Electricity</a></li>
+<li><a class="external text" href="http://saurorja.org/2012/06/18/compressed-air-energy-storage-entropy-and-efficiency/" rel="nofollow">Compressed Air Energy Storage, Entropy and Efficiency</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:436418-0!*!0!!en!4!*!math=5 and timestamp 20161104103533 and revision id 742007861
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

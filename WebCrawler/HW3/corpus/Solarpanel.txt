@@ -1,0 +1,304 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p><b>Solar panel</b> refers to a panel designed to absorb the sun's rays as a source of energy for generating electricity or heating.</p>
+<p>A <a class="mw-redirect" href="/wiki/Photovoltaic" title="Photovoltaic">photovoltaic</a> (PV) module is a packaged, connect assembly of typically 6×10 <a href="/wiki/Solar_cell" title="Solar cell">solar cells</a>. Solar Photovoltaic panels constitute the <a class="mw-redirect" href="/wiki/Solar_array" title="Solar array">solar array</a> of a <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">photovoltaic system</a> that generates and supplies <a class="mw-redirect" href="/wiki/Solar_electricity" title="Solar electricity">solar electricity</a> in commercial and residential applications. Each module is rated by its <a href="/wiki/Direct_current" title="Direct current">DC</a> output power under standard test conditions, and typically ranges from 100 to 365 watts. The <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">efficiency</a> of a module determines the area of a module given the same rated output –  an 8% efficient 230 watt module will have twice the area of a 16% efficient 230 watt module. There are a few commercially available solar panels available that exceed 22% efficiency and reportedly also exceeding 24%. A single solar module can produce only a limited amount of power; most installations contain multiple modules. A photovoltaic system typically includes a panel or an array of solar modules, a <a href="/wiki/Solar_inverter" title="Solar inverter">solar inverter</a>, and sometimes a <a href="/wiki/Battery_(electricity)" title="Battery (electricity)">battery</a> and/or <a href="/wiki/Solar_tracker" title="Solar tracker">solar tracker</a> and interconnection wiring.</p>
+<p>The price of solar power has continued to fall so that in many countries it is cheaper than ordinary <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> electricity from the grid (there is "<a href="/wiki/Grid_parity" title="Grid parity">grid parity</a>").</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Theory_and_construction">Theory and construction</span></h2>
+<div class="hatnote" role="note">See also: <a href="/wiki/Solar_cell" title="Solar cell">Solar cell</a></div>
+
+<p>Solar modules use light energy (<a href="/wiki/Photon" title="Photon">photons</a>) from the sun to generate electricity through the <a href="/wiki/Photovoltaic_effect" title="Photovoltaic effect">photovoltaic effect</a>. The majority of modules use <a href="/wiki/Wafer_(electronics)" title="Wafer (electronics)">wafer</a>-based <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a> cells or <a class="mw-redirect" href="/wiki/Thin_film_solar_cell" title="Thin film solar cell">thin-film cells</a> based on <a href="/wiki/Cadmium_telluride" title="Cadmium telluride">cadmium telluride</a> or <a href="/wiki/Silicon" title="Silicon">silicon</a>. The structural (<a class="mw-redirect" href="/wiki/Dead_and_live_loads" title="Dead and live loads">load carrying</a>) member of a module can either be the top layer or the back layer. Cells must also be protected from mechanical damage and moisture. Most solar modules are rigid, but semi-flexible ones are available, based on thin-film cells.</p>
+<p>Electrical connections are made <a class="mw-redirect" href="/wiki/Series_circuits" title="Series circuits">in series</a> to achieve a desired output voltage and/or <a class="mw-redirect" href="/wiki/Parallel_circuits" title="Parallel circuits">in parallel</a> to provide a desired current capability. The conducting wires that take the current off the modules may contain silver, copper or other non-magnetic conductive [transition metals]. The cells must be connected electrically to one another and to the rest of the system. Externally, popular terrestrial usage photovoltaic modules use <a href="/wiki/MC3_connector" title="MC3 connector">MC3</a> (older) or <a href="/wiki/MC4_connector" title="MC4 connector">MC4 connectors</a> to facilitate easy weatherproof connections to the rest of the system.</p>
+<p>Bypass <a href="/wiki/Diode" title="Diode">diodes</a> may be incorporated or used externally, in case of partial module shading, to maximize the output of module sections still illuminated.</p>
+<p>Some recent solar module designs include <a class="mw-redirect" href="/wiki/Solar_concentrator" title="Solar concentrator">concentrators</a> in which light is focused by <a href="/wiki/Lens_(optics)" title="Lens (optics)">lenses</a> or mirrors onto an array of smaller cells. This enables the use of cells with a high cost per unit area (such as <a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a>) in a cost-effective way.</p>
+<p>There is also hotspot effect in solar modules in which two sides of cells are connected two diodes, this prevents solar modules or panels from short circuit.</p>
+<h2><span class="mw-headline" id="Efficiencies">Efficiencies</span></h2>
+<div class="hatnote" role="note">See also: <a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></div>
+
+<p>Depending on construction, photovoltaic modules can produce electricity from a range of <a href="/wiki/Frequency" title="Frequency">frequencies of light</a>, but usually cannot cover the entire solar range (specifically, <a href="/wiki/Ultraviolet" title="Ultraviolet">ultraviolet</a>, <a href="/wiki/Infrared" title="Infrared">infrared</a> and low or diffused light). Hence, much of the incident <a href="/wiki/Sunlight" title="Sunlight">sunlight</a> energy is wasted by solar modules, and they can give far higher efficiencies if illuminated with <a class="mw-redirect" href="/wiki/Monochromatic" title="Monochromatic">monochromatic</a> light. Therefore, another design concept is to split the light into different wavelength ranges and direct the beams onto different cells tuned to those ranges. This has been projected to be capable of raising efficiency by 50%. Scientists from Spectrolab, a subsidiary of <a href="/wiki/Boeing" title="Boeing">Boeing</a>, have reported development of <a href="/wiki/Multi-junction_solar_cell" title="Multi-junction solar cell">multi-junction solar cells</a> with an efficiency of more than 40%, a new world record for solar photovoltaic cells. The Spectrolab scientists also predict that concentrator solar cells could achieve efficiencies of more than 45% or even 50% in the future, with theoretical efficiencies being about 58% in cells with more than three junctions.</p>
+<p>Currently the best achieved sunlight conversion rate (solar module efficiency) is around 21.5% in new commercial products typically lower than the efficiencies of their cells in isolation. The most efficient mass-produced solar modules have power density values of up to 175 W/m (16.22 W/ft). Research by <a class="mw-redirect" href="/wiki/Imperial_College,_London" title="Imperial College, London">Imperial College, London</a> has shown that the efficiency of a solar panel can be improved by studding the light-receiving semiconductor surface with <a class="mw-redirect" href="/wiki/Aluminum" title="Aluminum">aluminum</a> nanocylinders similar to the <a class="mw-redirect" href="/wiki/Ridges" title="Ridges">ridges</a> on <a class="mw-redirect" href="/wiki/Lego_blocks" title="Lego blocks">Lego blocks</a>. The <a href="/wiki/Light_scattering" title="Light scattering">scattered</a> <a href="/wiki/Light" title="Light">light</a> then travels along a longer path in the semiconductor which means that more photons can be absorbed and converted into current. Although these nanocylinders have been used previously (aluminum was preceded by <a href="/wiki/Gold" title="Gold">gold</a> and <a href="/wiki/Silver" title="Silver">silver</a>), the light scattering occurred in the near infrared region and visible light was absorbed strongly. Aluminum was found to have absorbed the ultraviolet part of the spectrum, while the visible and near infrared parts of the spectrum were found to be scattered by the aluminum surface. This, the research argued, could bring down the cost significantly and improve the efficiency as aluminum is more abundant and less costly than gold and silver. The research also noted that the increase in current makes thinner film solar panels technically feasible without "compromising power conversion efficiencies, thus reducing material consumption".</p>
+<ul>
+<li>Efficiencies of solar panel can be calculated by MPP (Maximum power point) value of solar panels</li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverters</a> convert the DC power to AC power by performing MPPT process: solar inverter samples the output Power (I-V curve) from the solar cell and applies the proper resistance (load) to solar cells to obtain maximum power.</li>
+<li>MPP (Maximum power point) of the solar panel consists of MPP voltage (V mpp) and MPP current (I mpp): it is a capacity of the solar panel and the higher value can make higher MPP.</li>
+</ul>
+<p>Micro-inverted solar panels are wired in <a href="/wiki/Series_and_parallel_circuits#Parallel_circuits" title="Series and parallel circuits">parallel</a> which produces more output than normal panels which are wired in <a href="/wiki/Series_and_parallel_circuits#Series_circuits" title="Series and parallel circuits">series</a> with the output of the series determined by the lowest performing panel (this is known as the "Christmas light effect"). Micro-inverters work independently so each panel contributes its maximum possible output given the available sunlight.</p>
+<h2><span class="mw-headline" id="Technology">Technology</span></h2>
+<div class="hatnote" role="note">Main articles: <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon</a> and <a class="mw-redirect" href="/wiki/Thin_film_solar_cell" title="Thin film solar cell">Thin film solar cell</a></div>
+
+<p>Most solar modules are currently produced from crystalline silicon (c-Si) <a class="mw-redirect" href="/wiki/Solar_cells" title="Solar cells">solar cells</a> made of <a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">multicrystalline</a> and <a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">monocrystalline silicon</a>. In 2013, crystalline silicon accounted for more than 90 percent of worldwide PV production, while the rest of the overall market is made up of <a class="mw-redirect" href="/wiki/Thin_film_solar_cells" title="Thin film solar cells">thin-film technologies</a> using <a class="mw-redirect" href="/wiki/CdTe_PV" title="CdTe PV">cadmium telluride</a>, <a class="mw-redirect" href="/wiki/CIGS_panel" title="CIGS panel">CIGS</a> and <a href="/wiki/Amorphous_silicon" title="Amorphous silicon">amorphous silicon</a> Emerging, <a class="mw-redirect" href="/wiki/Thin_film_solar_cell#Emerging_photovoltaics" title="Thin film solar cell">third generation</a> solar technologies use advanced thin-film cells. They produce a relatively high-efficiency conversion for the low cost compared to other solar technologies. Also, high-cost, high-efficiency, and close-packed rectangular <a href="/wiki/Multi-junction_solar_cell" title="Multi-junction solar cell">multi-junction (MJ) cells</a> are preferably used in <a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">solar panels on spacecraft</a>, as they offer the highest ratio of generated power per kilogram lifted into space. MJ-cells are <a class="mw-redirect" href="/wiki/Compound_semiconductor" title="Compound semiconductor">compound semiconductors</a> and made of <a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a> (GaAs) and other semiconductor materials. Another emerging PV technology using MJ-cells is <a href="/wiki/Concentrator_photovoltaics" title="Concentrator photovoltaics">concentrator photovoltaics</a> ( CPV ).</p>
+<h3><span class="mw-headline" id="Thin_film">Thin film</span></h3>
+<p>In rigid <a class="mw-redirect" href="/wiki/Thin-film_module" title="Thin-film module">thin-film modules</a>, the cell and the module are manufactured in the same production line. The cell is created on a glass <a class="mw-redirect" href="/wiki/Substrate_(materials_science)" title="Substrate (materials science)">substrate</a> or superstrate, and the electrical connections are created <i>in situ</i>, a so-called "monolithic integration". The substrate or superstrate is laminated with an encapsulant to a front or back <a class="extiw" href="https://en.wiktionary.org/wiki/sheet" title="wikt:sheet">sheet</a>, usually another sheet of glass. The main cell technologies in this category are <a href="/wiki/Cadmium_telluride" title="Cadmium telluride">CdTe</a>, or <a href="/wiki/Amorphous_silicon" title="Amorphous silicon">a-Si</a>, or <a class="mw-redirect" href="/wiki/Micromorphous_silicon" title="Micromorphous silicon">a-Si+uc-Si tandem</a>, or <a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">CIGS</a> (or variant). Amorphous silicon has a sunlight conversion rate of 6–12%</p>
+<p>Flexible thin film cells and modules are created on the same production line by depositing the <a href="/wiki/Photoactive_layer" title="Photoactive layer">photoactive layer</a> and other necessary layers on a <a class="mw-redirect" href="/wiki/Flexible_substrate" title="Flexible substrate">flexible substrate</a>. If the substrate is an <a class="mw-redirect" href="/wiki/Insulator_(electrical)" title="Insulator (electrical)">insulator</a> (e.g. <a href="/wiki/Polyester" title="Polyester">polyester</a> or <a href="/wiki/Polyimide" title="Polyimide">polyimide</a> film) then <a href="/wiki/Die_(integrated_circuit)" title="Die (integrated circuit)">monolithic</a> integration can be used. If it is a conductor then another technique for electrical connection must be used. The cells are assembled into modules by <a class="mw-redirect" href="/wiki/Laminating" title="Laminating">laminating</a> them to a transparent colourless <a href="/wiki/Fluoropolymer" title="Fluoropolymer">fluoropolymer</a> on the front side (typically <a href="/wiki/ETFE" title="ETFE">ETFE</a> or <a href="/wiki/Fluorinated_ethylene_propylene" title="Fluorinated ethylene propylene">FEP</a>) and a polymer suitable for bonding to the final substrate on the other side.</p>
+<h2><span class="mw-headline" id="Smart_solar_modules">Smart solar modules</span></h2>
+<div class="hatnote" role="note">Main articles: <a href="/wiki/Smart_module" title="Smart module">Smart module</a> and <a href="/wiki/Solar_micro-inverter" title="Solar micro-inverter">Solar micro-inverter</a></div>
+<p>Several companies have begun embedding electronics into PV modules. This enables performing <a href="/wiki/Maximum_power_point_tracking" title="Maximum power point tracking">maximum power point tracking</a> (MPPT) for each module individually, and the measurement of performance data for monitoring and fault detection at module level. Some of these solutions make use of <a href="/wiki/Power_optimizer" title="Power optimizer">power optimizers</a>, a DC-to-DC converter technology developed to maximize the power harvest from solar photovoltaic systems. As of about 2010, such electronics can also compensate for shading effects, wherein a shadow falling across a section of a module causes the electrical output of one or more strings of cells in the module to fall to zero, but not having the output of the entire module fall to zero.</p>
+<h2><span class="mw-headline" id="Performance_and_degradation">Performance and degradation</span></h2>
+
+<p>Module performance is generally rated under standard test conditions (STC): <a href="/wiki/Irradiance" title="Irradiance">irradiance</a> of 1,000 <a class="mw-redirect" href="/wiki/W/m2" title="W/m2">W/m²</a>, solar <a href="/wiki/Spectrum" title="Spectrum">spectrum</a> of <a class="mw-redirect" href="/wiki/Airmass" title="Airmass">AM</a> 1.5 and module temperature at 25 °C.</p>
+<p>Electrical characteristics include nominal power (P<sub>MAX</sub>, measured in <a href="/wiki/Watt" title="Watt">W</a>), <a class="mw-redirect" href="/wiki/Open_circuit_voltage" title="Open circuit voltage">open circuit voltage</a> (V<sub>OC</sub>), <a class="mw-redirect" href="/wiki/Short_circuit_current" title="Short circuit current">short circuit current</a> (I<sub>SC</sub>, measured in <a href="/wiki/Ampere" title="Ampere">amperes</a>), maximum power voltage (V<sub>MPP</sub>), maximum power current (I<sub>MPP</sub>), peak power, (<a class="mw-redirect" href="/wiki/Watt-peak" title="Watt-peak">watt-peak</a>, W<sub>p</sub>), and module efficiency (%).</p>
+<p>Nominal voltage refers to the voltage of the battery that the module is best suited to charge; this is a leftover term from the days when solar modules were only used to charge batteries. The actual voltage output of the module changes as lighting, temperature and load conditions change, so there is never one specific voltage at which the module operates. Nominal voltage allows users, at a glance, to make sure the module is compatible with a given system.</p>
+<p>Open circuit voltage or V<sub>OC</sub> is the maximum voltage that the module can produce when not connected to an electrical circuit or system. V<sub>OC</sub> can be measured with a <a href="/wiki/Voltmeter" title="Voltmeter">voltmeter</a> directly on an illuminated module's terminals or on its disconnected cable.</p>
+<p>The peak power rating, W<sub>p</sub>, is the maximum output under standard test conditions (not the maximum possible output). Typical modules, which could measure approximately 1x2 meters or 2x4 feet, will be rated from as low as 75 watts to as high as 350 watts, depending on their efficiency. At the time of testing, the test modules are binned according to their test results, and a typical manufacturer might rate their modules in 5 watt increments, and either rate them at +/- 3%, +/-5%, +3/-0% or +5/-0%.</p>
+<p>Solar modules must withstand rain, <a href="/wiki/Hail" title="Hail">hail</a>, heavy snow load, and cycles of heat and cold for many years. Many <a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a> module manufacturers offer a <a href="/wiki/Warranty" title="Warranty">warranty</a> that guarantees electrical production for 10 years at 90% of rated power output and 25 years at 80%.</p>
+<p><a href="/wiki/Potential_induced_degradation" title="Potential induced degradation">Potential induced degradation</a> (also called PID) is a potential induced performance degradation in crystalline photovoltaic modules, caused by so-called stray currents. This effect may cause power loss of up to 30 percent.</p>
+<p>The largest challenge of photovoltaic technology is the efficiencies of such solar systems. While utilizing such systems draws a great interest due to the long term returns of profit, the efficacy needs to come a long way before making it plausible to be introduced in all consumers of electricity.</p>
+<p>The problem resides in the enormous activation energy that must be overcome for a photon to excite an electron for harvesting purposes. Advancements in photovoltaic technologies have brought about the process of "doping" the silicon substrate to lower the activation energy thereby making the panel more efficient in converting photons to retrievable electrons. Chemicals such as Boron (p-type) are applied into the semiconductor crystal in order to create donor and acceptor energy levels substantially closer to the valence and conductor <a class="external text" href="http://2012books.lardbucket.org/books/principles-of-general-chemistry-v1.0/section_16/6520efadc9fafd08d3043572e61e9765.jpg" rel="nofollow">bands</a>. In doing so, the addition of Boron impurity allows the activation energy to decrease 20 fold from 1.12 eV to 0.05 eV. Since the potential difference (E<sub>B</sub>) is so low, the Boron is able to thermally ionize at room temperatures. This allows for free energy carriers in the conduction and valence bands thereby allowing greater conversion of photons to electrons.</p>
+<p>Solar power allows for greater efficiency than heat, such as the generation of energy in heat engines. The drawback with heat is that most of the heat created is lost to the surroundings. Thermal efficiency is as defined:</p>
+<p><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>η<!-- η --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>h</mi>
+</mrow>
+</msub>
+<mo>≡<!-- ≡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>n</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+<mi>u</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>n</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta _{th}\equiv {\frac {W_{out}}{Q_{in}}}=1-{\frac {Q_{out}}{Q_{in}}}}</annotation>
+</semantics>
+</math></span><img alt="\eta _{th}\equiv {\frac {W_{out}}{Q_{in}}}=1-{\frac {Q_{out}}{Q_{in}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2dee4ec17f87bb4735ba08917074a74055401c3" style="vertical-align: -2.505ex; width:24.092ex; height:6.176ex;"/></span></p>
+<p>Due to the inherent irreversibility of heat production for useful work, efficiency levels are decreased. On the other hand, with solar panels there isn't a requirement to retain any heat, and there are no drawbacks such as friction.</p>
+<h2><span class="mw-headline" id="Maintenance">Maintenance</span></h2>
+<p>Solar panel conversion efficiency, typically in the 20 percent range, is reduced by dust, grime, pollen, and other particulates that accumulate on the solar panel. "A dirty solar panel can reduce its power capabilities by up to 30 percent in high dust/pollen or desert areas", says Seamus Curran, associate professor of physics at the University of Houston and director of the Institute for NanoEnergy, which specializes in the design, engineering, and assembly of nanostructures.</p>
+<p>Paying to have solar panels cleaned is often not a good investment; researchers found panels that hadn’t been cleaned, or rained on, for 145 days during a summer drought in California, lost only 7.4 percent of their efficiency. Overall, for a typical residential solar system of 5 kilowatts, washing panels halfway through the summer would translate into a mere $20 gain in electricity production until the summer drought ends—in about 2 ½ months. For larger commercial rooftop systems, the financial losses are bigger but still rarely enough to warrant the cost of washing the panels. On average, panels lost a little less than 0.05 percent of their overall efficiency per day.</p>
+<h2><span class="mw-headline" id="Recycling">Recycling</span></h2>
+<p>Most parts of a solar module can be recycled including up to 97% of certain semiconductor materials or the glass as well as large amounts of ferrous and non-ferrous metals. Some private companies and non-profit organizations are currently engaged in take-back and recycling operations for end-of-life modules.</p>
+<p>Recycling possibilities depend on the kind of technology used in the modules:</p>
+<ul>
+<li>Silicon based modules: aluminum frames and junction boxes are dismantled manually at the beginning of the process. The module is then crushed in a mill and the different fractions are separated - glass, plastics and metals. It is possible to recover more than 80% of the incoming weight. This process can be performed by flat glass recyclers since morphology and composition of a PV module is similar to those flat glasses used in the building and automotive industry. The recovered glass for example is readily accepted by the glass foam and glass insulation industry.</li>
+<li>Non-silicon based modules: they require specific recycling technologies such as the use of chemical baths in order to separate the different semiconductor materials. For <a href="/wiki/Cadmium_telluride" title="Cadmium telluride">cadmium telluride</a> modules, the recycling process begins by crushing the module and subsequently separating the different fractions. This recycling process is designed to recover up to 90% of the glass and 95% of the semiconductor materials contained. Some commercial-scale recycling facilities have been created in recent years by private companies.</li>
+</ul>
+<p>Since 2010, there is an annual European conference bringing together manufacturers, recyclers and researchers to look at the future of PV module recycling.</p>
+<h2><span class="mw-headline" id="Production">Production</span></h2>
+<div class="hatnote" role="note">See also: <a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">List of photovoltaics companies</a></div>
+
+<p>In 2010, 15.9 <a class="mw-redirect" href="/wiki/GigaWatt" title="GigaWatt">GW</a> of solar PV system installations were completed, with solar PV pricing survey and market research company PVinsights reporting growth of 117.8% in solar PV installation on a year-on-year basis.</p>
+<p>With over 100% year-on-year growth in PV system installation, PV module makers dramatically increased their shipments of solar modules in 2010. They actively expanded their capacity and turned themselves into gigawatt <a class="mw-redirect" href="/wiki/GigaWatt" title="GigaWatt">GW</a> players. According to PVinsights, five of the top ten PV module companies in 2010 are GW players. Suntech, First Solar, Sharp, Yingli and Trina Solar are GW producers now, and most of them doubled their shipments in 2010.</p>
+<p>The basis of producing solar panels revolves around the use of silicon cells. These silicon cells are typically 10-20% efficient at converting sunlight into electricity, with newer production models now exceeding 22%.</p>
+<p>In order for solar panels to become more efficient, researchers across the world have been trying to develop new technologies to make solar panels more effective at turning sunlight into energy.</p>
+<p>In 2014, the world's top ten solar module producers in terms of shipped capacity during the calendar year of 2014 were <a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a>, <a href="/wiki/Yingli" title="Yingli">Yingli</a>, <a href="/wiki/Sharp_Solar" title="Sharp Solar">Sharp Solar</a> and <a href="/wiki/Canadian_Solar" title="Canadian Solar">Canadian Solar</a>.</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Price">Price</span></h2>
+<div class="hatnote" role="note">See also: <a href="/wiki/Grid_parity" title="Grid parity">Grid parity</a></div>
+
+<p>Average pricing information divides in three pricing categories: those buying small quantities (modules of all sizes in the kilowatt range annually), mid-range buyers (typically up to 10 <a class="mw-redirect" href="/wiki/MWp" title="MWp">MWp</a> annually), and large quantity buyers (self-explanatory—and with access to the lowest prices). Over the long term there is clearly a systematic reduction in the price of cells and modules. For example, in 2012 it was estimated that the quantity cost per watt was about US$0.60, which was 250 times lower than the cost in 1970 of US$150. A 2015 study shows price/kWh dropping by 10% per year since 1980, and predicts that solar could contribute 20% of total electricity consumption by 2030, whereas the <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> predicts 16% by 2050.</p>
+<p>Real world energy production costs depend a great deal on local weather conditions. In a cloudy country such as the United Kingdom, the cost per produced kWh is higher than in sunnier countries like Spain.</p>
+<p>Following to <a href="/wiki/Rocky_Mountain_Institute" title="Rocky Mountain Institute">RMI</a>, <a href="/wiki/Balance_of_system" title="Balance of system">Balance-of-System</a> (BoS) elements, this is, non-module cost of non-<a class="mw-redirect" href="/wiki/Microinverter" title="Microinverter">microinverter</a> solar modules (as wiring, converters, racking systems and various components) make up about half of the total costs of installations.</p>
+<p>For merchant solar power stations, where the electricity is being sold into the electricity transmission network, the cost of <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a> will need to match the wholesale electricity price. This point is sometimes called 'wholesale grid parity' or 'busbar parity'.</p>
+<p>Some photovoltaic systems, such as rooftop installations, can supply power directly to an electricity user. In these cases, the installation can be competitive when the output cost matches the price at which the user pays for his electricity consumption. This situation is sometimes called 'retail grid parity', 'socket parity' or 'dynamic grid parity'. Research carried out by <a href="/wiki/UN-Energy" title="UN-Energy">UN-Energy</a> in 2012 suggests areas of sunny countries with high electricity prices, such as Italy, Spain and Australia, and areas using diesel generators, have reached retail grid parity.</p>
+<h2><span class="mw-headline" id="Mounting_and_tracking">Mounting and tracking</span></h2>
+<div class="hatnote" role="note">Main articles: <a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a> and <a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></div>
+
+
+<p>Ground mounted photovoltaic system are usually large, utility-scale <a class="mw-redirect" href="/wiki/Solar_power_plants" title="Solar power plants">solar power plants</a>. Their solar modules are held in place by racks or frames that are attached to ground based mounting supports. Ground based mounting supports include:</p>
+<ul>
+<li>Pole mounts, which are driven directly into the ground or embedded in concrete.</li>
+<li>Foundation mounts, such as concrete slabs or poured footings</li>
+<li>Ballasted footing mounts, such as concrete or steel bases that use weight to secure the solar module system in position and do not require ground penetration. This type of mounting system is well suited for sites where excavation is not possible such as capped landfills and simplifies decommissioning or relocation of solar module systems.</li>
+</ul>
+<p>Roof-mounted solar power systems consist of solar modules held in place by racks or frames attached to roof-based mounting supports. Roof-based mounting supports include:</p>
+<ul>
+<li>Pole mounts, which are attached directly to the roof structure and may use additional rails for attaching the module racking or frames.</li>
+<li>Ballasted footing mounts, such as concrete or steel bases that use weight to secure the panel system in position and do not require through penetration. This mounting method allows for decommissioning or relocation of solar panel systems with no adverse effect on the roof structure.</li>
+<li>All wiring connecting adjacent solar modules to the energy harvesting equipment must be installed according to local electrical codes and should be run in a conduit appropriate for the climate conditions</li>
+</ul>
+<p><a href="/wiki/Solar_tracker" title="Solar tracker">Solar trackers</a> increase the amount of energy produced per module at a cost of mechanical complexity and need for maintenance. They sense the direction of the Sun and tilt or rotate the modules as needed for maximum exposure to the light. Alternatively, fixed racks hold modules stationary as the sun moves across the sky. The fixed rack sets the angle at which the module is held. Tilt angles equivalent to an installation's latitude are common. Most of these fixed racks are set on poles above ground. Panels that face West or East may provide slightly lower energy, but evens out the supply, and may provide more power during peak demand.</p>
+<h2><span class="mw-headline" id="Standards">Standards</span></h2>
+<p>Standards generally used in photovoltaic modules:</p>
+<ul>
+<li><a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> 61215 (<a href="/wiki/Crystalline_silicon" title="Crystalline silicon">crystalline silicon</a> performance), 61646 (<a href="/wiki/Thin_film" title="Thin film">thin film</a> performance) and 61730 (all modules, safety)</li>
+<li><a class="new" href="/w/index.php?title=ISO_9488&amp;action=edit&amp;redlink=1" title="ISO 9488 (page does not exist)">ISO 9488</a> Solar energy—Vocabulary.</li>
+<li><a class="new" href="/w/index.php?title=UL_1703&amp;action=edit&amp;redlink=1" title="UL 1703 (page does not exist)">UL 1703</a> From <a class="mw-redirect" href="/wiki/Underwriters_Laboratories" title="Underwriters Laboratories">Underwriters Laboratories</a></li>
+<li><a class="new" href="/w/index.php?title=UL_1741&amp;action=edit&amp;redlink=1" title="UL 1741 (page does not exist)">UL 1741</a> From <a class="mw-redirect" href="/wiki/Underwriters_Laboratories" title="Underwriters Laboratories">Underwriters Laboratories</a></li>
+<li><a class="new" href="/w/index.php?title=UL_2703&amp;action=edit&amp;redlink=1" title="UL 2703 (page does not exist)">UL 2703</a> From <a class="mw-redirect" href="/wiki/Underwriters_Laboratories" title="Underwriters Laboratories">Underwriters Laboratories</a></li>
+<li><a class="mw-redirect" href="/wiki/CE_mark" title="CE mark">CE mark</a></li>
+<li><a class="new" href="/w/index.php?title=Electrical_Safety_Tester&amp;action=edit&amp;redlink=1" title="Electrical Safety Tester (page does not exist)">Electrical Safety Tester</a> (EST) Series (EST-460, EST-22V, EST-22H, EST-110).</li>
+</ul>
+<h2><span class="mw-headline" id="Applications">Applications</span></h2>
+<p>There are many practical applications for the use of solar panels or photovoltaics. It can first be used in agriculture as a power source for irrigation. In health care solar panels can be used to refrigerate medical supplies. It can also be used for infrastructure. PV modules are used in <a href="/wiki/Photovoltaic_system" title="Photovoltaic system">photovoltaic systems</a> and include a <a href="/wiki/Photovoltaic_system#Other_systems" title="Photovoltaic system">large variety of electric devices</a>:</p>
+<ul>
+<li><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Photovoltaic power stations</a></li>
+<li><a class="mw-redirect" href="/wiki/Rooftop_solar_PV" title="Rooftop solar PV">Rooftop solar PV</a> systems</li>
+<li><a class="mw-redirect" href="/wiki/PV_system#Standalone" title="PV system">Standalone PV systems</a></li>
+<li><a href="/wiki/Solar_hybrid_power_systems" title="Solar hybrid power systems">Solar hybrid power systems</a></li>
+<li><a class="mw-redirect" href="/wiki/Concentrated_photovoltaics" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_plane" title="Solar plane">Solar planes</a></li>
+<li><a href="/wiki/Solar-pumped_laser" title="Solar-pumped laser">Solar-pumped lasers</a></li>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicles</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecrafts</a> and <a href="/wiki/Space_station" title="Space station">space stations</a></li>
+</ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The Solar Settlement with the <a href="/wiki/Sun_Ship" title="Sun Ship">Sun Ship</a> in the background (Freiburg, Germany)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Bird's eye view of the Solar Settlement</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A roof-mounted solar panel system installed on a sloped roof using pole mounts and rails</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Solar panels roof-mounted on a house in <a href="/wiki/Yate" title="Yate">Yate</a>, <a href="/wiki/South_Gloucestershire" title="South Gloucestershire">South Gloucestershire</a>, <a href="/wiki/England" title="England">England</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Rooftop PV hybrid system</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Photovoltaic solar panels on the roof of a house near <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Solar modules mounted on a <a href="/wiki/Walmart" title="Walmart">Walmart</a> in <a href="/wiki/Caguas,_Puerto_Rico" title="Caguas, Puerto Rico">Caguas, Puerto Rico</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Roof with CIS-solar-cells in Tübingen, Germany</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Technicians installing photovoltaic modules on a roof-mounted rack</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A solar array composed of a solar panel with 24 solar modules in rural Mongolia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>525 kW BIPV commercial roofing system in Gillette Stadium (Foxborough, Massachusetts)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Solar modules on the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 24em; -webkit-column-width: 24em; column-width: 24em;">
+<ul>
+<li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li>
+<li><a href="/wiki/Digital_modeling_and_fabrication" title="Digital modeling and fabrication">Digital modeling and fabrication</a></li>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">List of photovoltaics companies</a></li>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Sky_footage" title="Sky footage">Sky footage</a></li>
+<li><a href="/wiki/Solar_cooker" title="Solar cooker">Solar cooker</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_roadway" title="Solar roadway">Solar roadway</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_oven" title="Solar oven">Solar oven</a></li>
+<li><a href="/wiki/Solar_still" title="Solar still">Solar still</a></li>
+<li><a href="/wiki/SolarCity" title="SolarCity">SolarCity</a></li>
+</ul>
+</div>
+<h2></h2>
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3507365-0!*!0!!en!4!*!math=5 and timestamp 20161110192733 and revision id 748699824
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

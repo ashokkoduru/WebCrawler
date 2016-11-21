@@ -1,0 +1,137 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p>In <a href="/wiki/Earth_science" title="Earth science">Earth science</a>, a <b>biogeochemical cycle</b> or <b>substance turnover</b> or <b>cycling of substances</b> is a pathway by which a <a href="/wiki/Chemical_substance" title="Chemical substance">chemical substance</a> moves through both the biotic (<a href="/wiki/Biosphere" title="Biosphere">biosphere</a>) and abiotic (<a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a>, <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>, and <a href="/wiki/Hydrosphere" title="Hydrosphere">hydrosphere</a>) components of <a href="/wiki/Earth" title="Earth">Earth</a>. A cycle is a series of change which comes back to the starting point and which can be repeated. Water, for example, is always recycled through the <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a>, as shown in the diagram. The water undergoes <a href="/wiki/Evaporation" title="Evaporation">evaporation</a>, <a href="/wiki/Condensation" title="Condensation">condensation</a>, and <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a>, falling back to Earth. Elements, chemical compounds, and other forms of matter are passed from one organism to another and from one part of the biosphere to another through biogeochemical cycles.'</p>
+<p>The term "biogeochemical" tells us that biological, geological and chemical factors are all involved. The circulation of chemical nutrients like carbon, oxygen, nitrogen, phosphorus, calcium, and water etc. through the biological and physical world are known as biogeochemical cycles. In effect, the element is recycled, although in some cycles there may be places (called <i>reservoirs</i>) where the element is accumulated or held for a long period of time (such as an ocean or lake for water).</p>
+<h2><span class="mw-headline" id="Important_cycles">Important cycles</span></h2>
+<p>The most well-known and important biogeochemical cycles, for example, include</p>
+<ul>
+<li>the <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon cycle</a>,</li>
+<li>the <a href="/wiki/Nitrogen_cycle" title="Nitrogen cycle">nitrogen cycle</a>,</li>
+<li>the <a href="/wiki/Oxygen_cycle" title="Oxygen cycle">oxygen cycle</a>,</li>
+<li>the <a href="/wiki/Phosphorus_cycle" title="Phosphorus cycle">phosphorus cycle</a>,</li>
+<li>the <a href="/wiki/Sulfur_cycle" title="Sulfur cycle">sulfur cycle</a>,</li>
+<li>the <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a>,</li>
+<li>and the <a href="/wiki/Rock_cycle" title="Rock cycle">rock cycle</a>.</li>
+</ul>
+<p>There are many biogeochemical cycles that are currently being studied for the first time as <a href="/wiki/Climate_change" title="Climate change">climate change</a> and human impacts are drastically changing the speed, intensity, and balance of these relatively unknown cycles. These newly studied biogeochemical cycles include</p>
+<ul>
+<li>the <a href="/wiki/Mercury_cycle" title="Mercury cycle">mercury cycle</a>, and</li>
+<li>the human-caused cycle of <a href="/wiki/Atrazine" title="Atrazine">atrazine</a>, which may affect certain species.</li>
+</ul>
+<p>Biogeochemical cycles always involve hot equilibrium states: a balance in the cycling of the element between compartments. However, overall balance may involve compartments distributed on a global scale.</p>
+<p>As biogeochemical cycles describe the movements of substances on the entire globe, the study of these is inherently multidisciplinary. The carbon cycle may be related to research in <a href="/wiki/Ecology" title="Ecology">ecology</a> and <a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">atmospheric sciences</a>. Biochemical dynamics would also be related to the fields of <a href="/wiki/Geology" title="Geology">geology</a> and <a href="/wiki/Pedology_(soil_study)" title="Pedology (soil study)">pedology (soil study)</a>.</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerycaption">Global biogeochemical cycles critical for life</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Nitrogen_cycle" title="Nitrogen cycle">Nitrogen cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Water_cycle" title="Water cycle">Water cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Carbon_cycle" title="Carbon cycle">Carbon cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Oxygen_cycle" title="Oxygen cycle">Oxygen cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Phosphorus_cycle" title="Phosphorus cycle">Phosphorus cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Sulfur_cycle" title="Sulfur cycle">Sulfur cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Rock_cycle" title="Rock cycle">Rock cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Food_web" title="Food web">Food cycle</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215px">
+<div style="width: 215px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/CO2" title="CO2">CO<sub>2</sub></a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="4000" data-file-width="6000" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2776" data-file-width="2790" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/28px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/56px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Bioregion" title="Bioregion">Bioregion</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Earth science</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Soil_zoology" title="Soil zoology">Soil zoology</a></li>
+<li><a class="mw-redirect" href="/wiki/GEOTRACES" title="GEOTRACES">GEOTRACES</a></li>
+<li><a class="mw-redirect" href="/wiki/Holistic_management" title="Holistic management">Holistic management</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Nature" title="Nature">Nature</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+</ul>
+</div>
+<h2></h2>
+
+
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:398638-0!*!0!!*!4!* and timestamp 20161110192154 and revision id 748849820
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,35 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p><b>Sweet sorghum</b> is any of the many varieties of the <a href="/wiki/Sorghum_bicolor" title="Sorghum bicolor">sorghum</a> grass whose stalks have a high sugar content. Sweet sorghum thrives better under drier and warmer conditions than many other crops and is grown primarily for <a href="/wiki/Fodder" title="Fodder">forage</a>, <a href="/wiki/Silage" title="Silage">silage</a>, and <a href="/wiki/Syrup" title="Syrup">syrup</a> production. Sweet sorghum syrup is sometimes called "sorghum molasses" in some regions of the U.S., the term <i>molasses</i> is a sweet syrup, made as a byproduct of <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a> or <a href="/wiki/Sugar_beet" title="Sugar beet">sugar beet</a> sugar extraction. There is a misconception that falls under molasses production in various areas of Appalachia as to whether molasses made there is true molasses or sorghum. Whereas areas in Tennessee and more Southern may be sorghum, in Virginia, they made molasses. <a class="external autonumber" href="http://www.mtnlaurel.com/mountain-memories/182-making-old-fashion-mountain-molasses.html" rel="nofollow">[1]</a></p>
+<p></p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Cultivation">Cultivation</span></h2>
+<p>Sweet sorghum has been widely cultivated in the U.S. since the 1850s for use in sweeteners, primarily in the form of sorghum syrup. By the early 1900s, the U.S. produced 20 million US gallons (76,000 m) of sweet sorghum syrup annually. Making syrup from sorghum (as from <a class="mw-redirect" href="/wiki/Sugar_cane" title="Sugar cane">sugar cane</a>) is heavily labor-intensive. Following <a href="/wiki/World_War_II" title="World War II">World War II</a>, with the declining availability of farm labor, sorghum syrup production fell drastically. Currently, less than 1 million US gallons (3,800 m) are produced annually in the U.S.</p>
+<p>In India it was introduced in early 1970s by <a href="/wiki/Nimbkar_Agricultural_Research_Institute" title="Nimbkar Agricultural Research Institute">Nimbkar Agricultural Research Institute</a>.  Presently it is grown on large area as a <a href="/wiki/Fodder" title="Fodder">fodder</a> crop.</p>
+<p>Most sorghum grown for syrup production is grown in <a href="/wiki/Alabama" title="Alabama">Alabama</a>, <a href="/wiki/Arkansas" title="Arkansas">Arkansas</a>, <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>, <a href="/wiki/Iowa" title="Iowa">Iowa</a>, <a href="/wiki/Kentucky" title="Kentucky">Kentucky</a>, <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a>, <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>, and <a href="/wiki/Tennessee" title="Tennessee">Tennessee</a>.</p>
+<h2><span class="mw-headline" id="Uses">Uses</span></h2>
+
+
+
+<p>Sorghum syrup and hot <a href="/wiki/Biscuit_(bread)" title="Biscuit (bread)">biscuits</a> are a traditional <a href="/wiki/Breakfast" title="Breakfast">breakfast</a> in the <a href="/wiki/Southern_United_States" title="Southern United States">Southern United States</a>. Sorghum syrup is also used on <a href="/wiki/Pancake" title="Pancake">pancakes</a>, <a href="/wiki/Mush_(cornmeal)" title="Mush (cornmeal)">cornmeal mush</a>, <a href="/wiki/Grits" title="Grits">grits</a> and other hot cereals. It can be used as a cooking ingredient with a similar sweetening effect as <a href="/wiki/Molasses" title="Molasses">molasses</a>, though <a class="mw-redirect" href="/wiki/Blackstrap_molasses" title="Blackstrap molasses">blackstrap molasses</a> still has a higher nutritional value than sorghum syrup in most regards.</p>
+<p>In the U.S. since the 1950s, sorghum has been raised primarily for forage and silage, with sorghum cultivation for cattle feed concentrated in the <a href="/wiki/Great_Plains" title="Great Plains">Great Plains</a> (<a href="/wiki/Texas" title="Texas">Texas</a>, <a href="/wiki/Kansas" title="Kansas">Kansas</a>, and <a href="/wiki/Nebraska" title="Nebraska">Nebraska</a> are the leading producers) where insufficient rainfall and high temperature make corn production unprofitable.</p>
+<p>Grain sorghum has also been used by the ethanol industry for quite some time because it yields about the same amount of ethanol per bushel as corn. As new-generation ethanol processes are studied and improved, sorghum's role may continue to expand. <a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M University</a> ran trials to ascertain the best varieties for ethanol production from sorghum leaves and stalks in the USA.</p>
+<p>In <a href="/wiki/India" title="India">India</a> and other places, sweet sorghum stalks are used for producing biofuel by squeezing the juice and then fermenting into <a href="/wiki/Ethanol" title="Ethanol">ethanol</a>. The crop is particularly suitable for growing in dryland conditions, as it only extracts one-seventh of the water used by sugarcane.</p>
+<p>A study by researchers at the <a href="/wiki/International_Crops_Research_Institute_for_the_Semi-Arid_Tropics" title="International Crops Research Institute for the Semi-Arid Tropics">International Crops Research Institute for the Semi-Arid Tropics</a> (ICRISAT) found that growing sweet sorghum instead of grain sorghum could increase farmers' incomes by US$40 per hectare per crop because it can provide food, feed, and fuel. With grain sorghum currently grown on over 11 million ha in Asia and on 23.4 million ha in Africa, a switch to sweet sorghum could have a considerable economic impact.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Camp_Sorghum" title="Camp Sorghum">Camp Sorghum</a>, historical use of sorghum molasses</li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.ca.uky.edu/nssppa/production.html" rel="nofollow">National Sweet Sorghum Producers and Processors Association</a></li>
+<li><a class="external text" href="http://www.sseassociation.org/" rel="nofollow">Sweet Sorghum Ethanol Association (SSEA)</a></li>
+<li><a class="external text" href="http://www.agrifuels.com.au/OtherSweetSorghumBiofuelProjects.htm" rel="nofollow">List of Sweet Sorghum Renewable Energy Projects</a></li>
+<li><a class="external text" href="http://www.kerrcenter.com/publications/sorghum/sorghum.html" rel="nofollow">Report on small-scale sweet sorghum production and processing</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1250809-0!*!0!!en!4!* and timestamp 20161109062005 and revision id 745102543
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,52 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p>The <a class="external text" href="http://www.equator-principles.com/" rel="nofollow">Equator Principles</a> is a risk management framework, adopted by financial institutions, for determining, assessing and managing environmental and social risk in project finance. It is primarily intended to provide a minimum standard for due diligence to support responsible risk decision-making. As at 4 June 2013, <a class="external text" href="http://www.equator-principles.com/index.php/members-reporting" rel="nofollow">79 adopting financial institutions</a> in 35 countries have officially adopted the Equator Principles, covering over 70 percent of international Project Finance debt in emerging markets. The Equator Principles, formally launched in Washington DC on 4 June 2003, were based on existing environmental and social policy frameworks established by the <a href="/wiki/International_Finance_Corporation" title="International Finance Corporation">International Finance Corporation</a>.</p>
+<p>The standards have subsequently been periodically updated into what is commonly known as the International Finance Corporation Performance Standards on social and environmental sustainability and on the World Bank Group Environmental, Health, and Safety Guidelines. The Equator Principles have recently been revised and the <a class="external text" href="http://www.equator-principles.com/index.php/ep3" rel="nofollow">third iteration of the Equator Principles</a> was launched on 4 June 2013.</p>
+<p>The Equator Principles apply globally, to all industry sectors and to four financial products 1) Project Finance Advisory Services 2) Project Finance 3) Project-Related Corporate Loans and 4) Bridge Loans. The relevant thresholds and criteria for application is described in detail in the Scope section of the <a class="external text" href="http://www.equator-principles.com/index.php/ep3" rel="nofollow">Equator Principles</a>.</p>
+<p>Equator Principles Financial Institutions (EPFIs) commit to implementing the EP in their internal environmental and social policies, procedures and standards for financing projects and will not provide Project Finance or Project-Related Corporate Loans to projects where the client will not, or is unable to, comply with the Equator Principles. While the Equator Principles are not intended to be applied retroactively, EPFIs apply them to the expansion or upgrade of an existing project where changes in scale or scope may create significant environmental and social risks and impacts, or significantly change the nature or degree of an existing impact.</p>
+<p>The Equator Principles have greatly increased the attention and focus on social/community standards and responsibility, including robust standards for indigenous peoples, labour standards, and consultation with locally affected communities within the Project Finance market. They have also promoted convergence around common environmental and social standards. Multilateral development banks, including the European Bank for Reconstruction &amp; Development, and export credit agencies through the OECD Common Approaches are increasingly drawing on the same standards as the Equator Principles.</p>
+<p>The Equator Principles have also helped spur the development of other responsible environmental and social management practices in the financial sector and banking industry (for example, Carbon Principles in the US, Climate Principles worldwide) and have provided a platform for engagement with a broad range of interested stakeholders, including non-governmental organisations (NGOs), clients and industry bodies.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Members_.26_Reporting">Members &amp; Reporting</span></h2>
+<p>As of January 2016, 82 financial institutions in 35 countries have officially adopted the Equator Principles, covering over 70 percent of international Project Finance debt in emerging markets. Their annual reporting related to Principle 10 is available <a class="external text" href="http://www.equator-principles.com/index.php/members-reporting" rel="nofollow">here</a>.</p>
+<h2><span class="mw-headline" id="The_Principles">The Principles</span></h2>
+<p>Principle 1: Review and Categorisation</p>
+<p>Principle 2: Environmental and Social Assessment</p>
+<p>Principle 3: Applicable Environmental and Social Standards</p>
+<p>Principle 4: Environmental and Social Management System and Equator Principles Action Plan</p>
+<p>Principle 5: Stakeholder Engagement</p>
+<p>Principle 6: Grievance Mechanism</p>
+<p>Principle 7: Independent Review</p>
+<p>Principle 8: Covenants</p>
+<p>Principle 9: Independent Monitoring and Reporting</p>
+<p>Principle 10: Reporting and Transparency</p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span></h2>
+<p>NGOs have generally welcomed the Principles, but some have expressed concerns over their integrity.</p>
+<p>One of these is that the Principles will not make a real difference. They argue the case of the <a class="mw-redirect" href="/wiki/Baku-Tbilisi-Ceyhan_pipeline" title="Baku-Tbilisi-Ceyhan pipeline">Baku-Tbilisi-Ceyhan pipeline</a>, which, in 2004, was financed by eight Equator Principles' banks and the IFC despite an NGO assessment that found 127 alleged breaches. The banks and IFC said they were confident that the Equator Principles were followed, and said an independent consultant had confirmed this assessment.</p>
+<p>Another expressed concern was that the banks might <a href="/wiki/Lobbying" title="Lobbying">lobby</a> the IFC to weaken its standards on which the Principles are based. The banks point out that IFC revised and strengthened its policies in 2006 and that the banks correspondingly strengthened the Equator Principles in the same year. Other criticisms include alleged lack of enforcement and accountability, <a href="/wiki/Free_rider_problem" title="Free rider problem">free-riders</a>, and that the scope of the principles is limited to project finance only. Several banks have sought to address these concerns by publishing summaries of their Equator Principles screening, including the number of projects they turned down for noncompliance.</p>
+<p>In 2005 some NGOs said that one of the adopting banks, ABN AMRO (before it was split up in 2010), was the most climate-unfriendly bank in the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, with estimated annual indirect CO<sub>2</sub> emissions of almost 250 million tonnes in 2005 from industries to which it provides financial services. NGOs said this was just over the annual CO2-emissions of the Netherlands and almost 1% of the total annual worldwide CO<sub>2</sub> emissions at the time. ABN AMRO defended its environmental record and announced steps to reduce its direct emissions, but some NGOs say it is the indirect emissions through their clients that make global banks such important targets in climate change.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Corporate_social_responsibility" title="Corporate social responsibility">Corporate social responsibility</a></li>
+<li><a href="/wiki/Ethical_banking" title="Ethical banking">Ethical banking</a></li>
+<li><a class="mw-redirect" href="/wiki/Ethical_investing" title="Ethical investing">Ethical investing</a></li>
+<li><a href="/wiki/Socially_responsible_investing" title="Socially responsible investing">Socially responsible investing</a></li>
+<li><a href="/wiki/Special_purpose_entity" title="Special purpose entity">Special purpose entity</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.equator-principles.com" rel="nofollow">www.equator-principles.com</a> Official website of the Equator Principles.</li>
+<li><a class="external text" href="http://www.banktrack.org/?show=23&amp;visitor=1" rel="nofollow">www.BankTrack.org</a> NGO website with fact sheet on the Equator Principles and critical comments.</li>
+<li><a class="external text" href="http://www.banktrack.org/?show=news&amp;id=83" rel="nofollow">www.BankTrack.org</a> BankTrack comments on revised Equator Principles, July 7, 2006.</li>
+<li><a class="external autonumber" href="http://www.equator-principles.com/btc.shtml" rel="nofollow">[1]</a> Equator Principles website discussion of the BTC project criticism.</li>
+<li><a class="external autonumber" href="http://www.abnamro.com/com/about/data/abnamro_btcpipeline.pdf" rel="nofollow">[2]</a> ABN AMRO report on its application of the Equator Principles to the BTC pipeline project.</li>
+<li><a class="external autonumber" href="http://www.ifc.org/ifcext/btc.nsf/Content/IFCResponsetoESIAPublicComments" rel="nofollow">[3]</a> IFC rebuttal of NGO criticism of its environmental and social assessment of the BTC pipeline project.</li>
+<li><a class="external autonumber" href="http://viewer.zmags.com/showmag.php?mid=drddw#/page6/" rel="nofollow">[4]</a> The Equator Principles and IFC Performance Standards in Mining.</li>
+<li><a class="external text" href="http://a4id.org/sites/default/files/user/Equator%20Principles.pdf" rel="nofollow">A Legal Guide - The Equator Principles</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4262607-0!*!0!!en!4!* and timestamp 20161111104147 and revision id 704764309
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,184 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p><b>Agroforestry</b> or <b>agro-sylviculture</b> is a land use management system in which trees or shrubs are grown around or among crops or pastureland. It combines shrubs and trees in <a href="/wiki/Agriculture" title="Agriculture">agricultural</a> and <a href="/wiki/Forestry" title="Forestry">forestry</a> technologies to create more diverse, productive, profitable, healthy, ecologically sound, and <a href="/wiki/Sustainability" title="Sustainability">sustainable</a> land-use systems.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="As_a_science">As a science</span></h2>
+<p>The theoretical base for agroforestry comes from <a href="/wiki/Ecology" title="Ecology">ecology</a>, via <a href="/wiki/Agroecology" title="Agroecology">agroecology</a>. From this perspective, agroforestry is one of the three principal land-use sciences. The other two are <a href="/wiki/Agriculture" title="Agriculture">agriculture</a> and <a href="/wiki/Forestry" title="Forestry">forestry</a>.</p>
+<p>Agroforestry has a lot in common with <a href="/wiki/Intercropping" title="Intercropping">intercropping</a>. Both have two or more plant species (such as <a href="/wiki/Nitrogen_fixation#Biological_nitrogen_fixation" title="Nitrogen fixation">nitrogen-fixing plants</a>) in close interaction, both provide multiple outputs, as a consequence, higher overall yields and, because a single application or input is shared, costs are reduced. Beyond these, there are gains specific to agroforestry.</p>
+<h2><span class="mw-headline" id="Benefits">Benefits</span></h2>
+<div class="hatnote" role="note">Further information: <a href="/wiki/Ecoscaping" title="Ecoscaping">Ecoscaping</a></div>
+<p>Agroforestry systems can be advantageous over conventional agricultural, and forest production methods. They can offer increased productivity, economic benefits, and more diversity in the ecological goods and services provided .(An example of this was seen in trying to conserve <a href="/wiki/Milicia_excelsa" title="Milicia excelsa">Milicia excelsa</a>.)</p>
+<p><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a> in agroforestry systems is typically higher than in conventional agricultural systems. With two or more interacting plant species in a given land area, it creates a more complex habitat that can support a wider variety of birds, insects, and other animals. Depending upon the application, impacts of agroforestry can include:</p>
+<ul>
+<li>Reducing poverty through increased production of wood and other tree products for home consumption and sale</li>
+<li>Contributing to <a href="/wiki/Food_security" title="Food security">food security</a> by restoring the <a href="/wiki/Soil_fertility" title="Soil fertility">soil fertility</a> for food crops</li>
+<li>Cleaner water through reduced <a href="/wiki/Nutrient" title="Nutrient">nutrient</a> and <a href="/wiki/Soil" title="Soil">soil</a> runoff</li>
+<li>Countering <a href="/wiki/Global_warming" title="Global warming">global warming</a> and the risk of hunger by increasing the number of drought-resistant trees and the subsequent production of <a href="/wiki/Fruit" title="Fruit">fruits</a>, <a href="/wiki/Nut_(fruit)" title="Nut (fruit)">nuts</a> and <a class="mw-redirect" href="/wiki/Edible_oil" title="Edible oil">edible oils</a></li>
+<li>Reducing <a href="/wiki/Deforestation" title="Deforestation">deforestation</a> and pressure on <a href="/wiki/Woodland" title="Woodland">woodlands</a> by providing farm-grown <a class="mw-redirect" href="/wiki/Fuelwood" title="Fuelwood">fuelwood</a></li>
+<li>Reducing or eliminating the need for toxic chemicals (<a href="/wiki/Insecticide" title="Insecticide">insecticides</a>, <a href="/wiki/Herbicide" title="Herbicide">herbicides</a>, etc.)</li>
+<li>Through more diverse farm outputs, improved human <a href="/wiki/Nutrition" title="Nutrition">nutrition</a></li>
+<li>In situations where people have limited access to mainstream medicines, providing growing space for <a class="mw-redirect" href="/wiki/Medicinal_plant" title="Medicinal plant">medicinal plants</a></li>
+<li>Increased crop stability</li>
+<li>Multifunctional site use i.e. crop production and animal grazing.</li>
+<li>Typically more drought resistant.</li>
+<li>Stabilises depleted soils from erosion</li>
+<li><a href="/wiki/Bioremediation" title="Bioremediation">Bioremediation</a></li>
+</ul>
+<p>Agroforestry practices may also realize a number of other associated environmental goals, such as:</p>
+<ul>
+<li><a href="/wiki/Carbon_sequestration" title="Carbon sequestration">Carbon sequestration</a></li>
+<li>Odour, dust, and noise reduction</li>
+<li>Green space and visual aesthetics</li>
+<li>Enhancement or maintenance of wildlife habitat</li>
+</ul>
+<h3><span class="mw-headline" id="Adaptation_to_climate_change">Adaptation to climate change</span></h3>
+<p>There is some evidence that, especially in recent years, poor smallholder farmers are turning to agroforestry as a mean to adapt to the impacts of <a href="/wiki/Climate_change" title="Climate change">climate change</a>. A study from the CGIAR research program on Climate Change, Agriculture and Food Security (CCAFS) found from a survey of over 700 households in <a href="/wiki/East_Africa" title="East Africa">East Africa</a> that at least 50% of those households had begun planting trees on their farms in a change from their practices 10 years ago. The trees ameliorate the effects of climate change by helping to stabilize <a href="/wiki/Erosion" title="Erosion">erosion</a>, improving <a href="/wiki/Water_quality" title="Water quality">water</a> and <a href="/wiki/Soil_quality" title="Soil quality">soil quality</a> and providing yields of fruit, tea, coffee, oil, fodder and medicinal products in addition to their usual harvest. Agroforestry was one of the most widely adopted adaptation strategies in the study, along with the use of improved crop varieties and <a href="/wiki/Intercropping" title="Intercropping">intercropping</a>.</p>
+<h2><span class="mw-headline" id="Applications">Applications</span></h2>
+<p>Agroforestry represents a wide diversity in application and in practice. One listing includes over 50 distinct uses. The 50 or so applications can be roughly classified under a few broad headings. There are visual similarities between practices in different categories. This is expected as categorization is based around the problems addressed (countering winds, high rainfall, harmful insects, etc.) and the overall economic constraints and objectives (labor and other inputs costs, yield requirements, etc.). The categories include :</p>
+<ul>
+<li>Parklands</li>
+<li>Shade systems</li>
+<li>Crop-over-tree systems</li>
+<li>Alley cropping</li>
+<li>Strip cropping</li>
+<li>Fauna-based systems</li>
+<li>Boundary systems</li>
+<li>Taungyas</li>
+<li>Physical support systems</li>
+<li>Agroforests</li>
+<li>Wind break and shelterbelt.</li>
+</ul>
+<h3><span class="mw-headline" id="Parkland">Parkland</span></h3>
+<p>Parklands are visually defined by the presence of trees widely scattered over a large agricultural plot or pasture. The trees are usually of a single species with clear regional favorites. Among the beaks and benefits, the trees offer shade to grazing animals, protect crops against strong wind bursts, provide <a href="/wiki/Pruning" title="Pruning">tree prunings</a> for firewood, and are a roost for insect or rodent-eating birds.</p>
+<p>There are other gains. Research with <i><a class="mw-redirect" href="/wiki/Faidherbia_albida" title="Faidherbia albida">Faidherbia albida</a></i> in Zambia showed that mature trees can sustain maize yields of 4.1 tonnes per hectare compared to 1.3 tonnes per hectare without these trees. Unlike other trees, Faidherbia sheds its nitrogen-rich leaves during the rainy crop growing season so it does not compete with the crop for light, nutrients and water. The leaves then regrow during the dry season and provide land cover and shade for crops.</p>
+<h3><span class="mw-headline" id="Shade_systems">Shade systems</span></h3>
+<p>With shade applications, crops are purposely raised under tree canopies and within the resulting shady environment. For most uses, the understory crops are shade tolerant or the overstory trees have fairly open canopies. A conspicuous example is shade-grown <a href="/wiki/Coffee" title="Coffee">coffee</a>. This practice reduces weeding costs and improves the quality and taste of the coffee. Just because plants are grown under shade does not necessarily translate into lost or reduced yields. This is because the <a class="mw-redirect" href="/wiki/Efficiency_of_photosynthesis" title="Efficiency of photosynthesis">efficiency of photosynthesis</a> drops off with increasing light intensity, and the rate of photosynthesis hardly increases once the light intensity is over about one tenth that of direct overhead sun. This means that plants under trees can still grow well even though they get less light. By having more than one level of vegetation, it is possible to get more photosynthesis, and overall yields, than with a single canopy layer.</p>
+<h3><span class="mw-headline" id="Crop-over-tree_systems">Crop-over-tree systems</span></h3>
+<p>Not commonly encountered, crop-over-tree systems employ woody perennials in the role of a <a href="/wiki/Cover_crop" title="Cover crop">cover crop</a>. For this, small shrubs or trees pruned to near ground level are utilized. The purpose, as with any cover crop, is to increase in-soil nutrients and/or to reduce soil erosion.</p>
+<h3><span class="mw-headline" id="Alley_cropping">Alley cropping</span></h3>
+
+<p>With alley cropping, crop strips alternate with rows of closely spaced tree or hedge species. Normally, the trees are pruned before planting the crop. The cut leafy material is spread over the crop area to provide nutrients for the crop. In addition to nutrients, the hedges serve as windbreaks and eliminate soil erosion.</p>
+<p>Alley cropping has been shown to be advantageous in Africa, particularly in relation to improving maize yields in the sub-Saharan region. Use here relies upon the nitrogen fixing tree species <i><a href="/wiki/Sesbania_sesban" title="Sesbania sesban">Sesbania sesban</a>, <a class="new" href="/w/index.php?title=Euphorbia_tricalii&amp;action=edit&amp;redlink=1" title="Euphorbia tricalii (page does not exist)">euphorbia tricalii</a>, <a href="/wiki/Tephrosia_vogelii" title="Tephrosia vogelii">Tephrosia vogelii</a>, <a href="/wiki/Gliricidia_sepium" title="Gliricidia sepium">Gliricidia sepium</a></i> and <i><a class="mw-redirect" href="/wiki/Faidherbia_albida" title="Faidherbia albida">Faidherbia albida</a></i>. In one example, a ten-year experiment in Malawi showed that, by using the <a href="/wiki/Fertilizer_tree" title="Fertilizer tree">fertilizer tree</a> <a href="/wiki/Gliricidia" title="Gliricidia">Gliricidia</a> (<i>Gliricidia sepium</i>) on land on which no mineral fertilizer was applied, maize yields averaged 3.3 tonnes per hectare as compared to one tonne per hectare in plots without fertilizer trees nor mineral fertilizers.</p>
+<h3><span class="mw-headline" id="Strip_cropping">Strip cropping</span></h3>
+<p>Strip cropping is similar to alley cropping in that trees alternate with crops. The difference is that, with alley cropping, the trees are in single row. With strip cropping, the trees or shrubs are planted in wide strip. The purpose can be, as with alley cropping, to provide nutrients, in leaf form, to the crop. With strip cropping, the trees can have a purely productive role, providing fruits, nuts, etc. while, at the same time, protecting nearby crops from soil erosion and harmful winds.</p>
+<h3><span class="mw-headline" id="Fauna-based_systems">Fauna-based systems</span></h3>
+
+<p>There are situations where trees benefit fauna. The most common examples are the <a href="/wiki/Silvopasture" title="Silvopasture">silvopasture</a> where cattle, goats, or sheep browse on grasses grown under trees. In hot climates, the animals are less stressed and put on weight faster when grazing in a cooler, shaded environment. Other variations have these animals directly eating the leaves of trees or shrubs.</p>
+<p>There are similar systems for other types of fauna. <a href="/wiki/Deer" title="Deer">Deer</a> and <a href="/wiki/Pig" title="Pig">hogs</a> gain when living and feeding in a forest ecosystem, especially when the tree forage suits their dietary needs. Another variation, aquaforestry, is where trees shade fish ponds. In many cases, the fish eat the leaves or fruit from the trees.</p>
+<h3><span class="mw-headline" id="Boundary_systems">Boundary systems</span></h3>
+
+<p>There are a number of applications that fall under the heading of a boundary system. These include the <a class="mw-redirect" href="/wiki/Living_fence" title="Living fence">living fences</a>, the <a href="/wiki/Riparian_buffer" title="Riparian buffer">riparian buffer</a>, and <a class="mw-redirect" href="/wiki/Windbreaks" title="Windbreaks">windbreaks</a>.</p>
+<ul>
+<li>A living fence can be a thick hedge or fencing wire strung on living trees. In addition to restricting the movement of people and animals, living fences offer <a href="/wiki/Habitat" title="Habitat">habitat</a> to <a class="new" href="/w/index.php?title=Insect-eating_bird&amp;action=edit&amp;redlink=1" title="Insect-eating bird (page does not exist)">insect-eating birds</a> and, in the case of a boundary hedge, slow <a href="/wiki/Soil_erosion" title="Soil erosion">soil erosion</a>.</li>
+<li>Riparian buffers are strips of permanent vegetation located along or near active watercourses or in ditches where <a href="/wiki/Surface_runoff" title="Surface runoff">water runoff</a> concentrates. The purpose is to keep nutrients and soil from contaminating surface water.</li>
+<li>Windbreaks reduce the velocity of the winds over and around crops. This increases yields through reduced drying of the crop and/or by preventing the crop from toppling in strong wind gusts.</li>
+</ul>
+<h3><span class="mw-headline" id="Taungya">Taungya</span></h3>
+<p><a class="new" href="/w/index.php?title=Taungya&amp;action=edit&amp;redlink=1" title="Taungya (page does not exist)">Taungya</a> is a vastly used system originating in <a class="mw-redirect" href="/wiki/Burma" title="Burma">Burma</a>. In the initial stages of an orchard or tree <a href="/wiki/Plantation" title="Plantation">plantation</a>, the trees are small and widely spaced. The free space between the newly planted trees can accommodate a seasonal crop. Instead of costly weeding, the underutilized area provides an additional output and income. More complex taungyas use the between-tree space for a series of crops. The crops become more shade resistant as the tree canopies grow and the amount of sunlight reaching the ground declines. If a plantation is thinned in the latter stages, this opens further the between-tree cropping opportunities.</p>
+<h3><span class="mw-headline" id="Physical_support_systems">Physical support systems</span></h3>
+<p>In the long history of agriculture, <a href="/wiki/Trellis_(architecture)" title="Trellis (architecture)">trellises</a> are comparatively recent. Before this, <a href="/wiki/Grape" title="Grape">grapes</a> and other vine crops were raised atop pruned trees. Variations of the physical support theme depend upon the type of vine. The advantages come through greater in-field biodiversity. In many cases, the control of weeds, diseases, and insect pests are primary motives.</p>
+<h3><span class="mw-headline" id="Agroforests">Agroforests</span></h3>
+<p>These are widely found in the humid tropics and are referenced by different names (<a href="/wiki/Forest_gardening" title="Forest gardening">forest gardening</a>, <a href="/wiki/Forest_farming" title="Forest farming">forest farming</a>, tropical home gardens and, where short-statured trees or shrubs dominate, shrub gardens). Through a complex, diverse mix of trees, shrubs, vines, and seasonal crops, these systems achieve the ecological dynamics of a forest ecosystem. Because of their internal ecology, they tend to be less susceptible to harmful insects, plant diseases, drought, and wind damage.</p>
+<h2><span class="mw-headline" id="Historical_Use">Historical Use</span></h2>
+<p>Agroforestry similar methods were historically utilized by Native Americans. California Indians would prescribe burn oak and other habitats to maintain a 'pyrodiversity collecting model'. This method allowed for greater health of trees and the habitat in general.</p>
+<h2><span class="mw-headline" id="Challenges">Challenges</span></h2>
+<p>Agroforestry is relevant to almost all environments and is a potential response to common problems around the globe, and agroforestry systems can be advantageous compared to conventional agriculture or forestry. Yet agroforestry is not very widespread, at least according to current but incomplete USDA surveys as of November, 2013.</p>
+<p>As suggested by a survey of <a href="/wiki/Cooperative_State_Research,_Education,_and_Extension_Service" title="Cooperative State Research, Education, and Extension Service">extension programs in the United States</a>, some obstacles (ordered most critical to least critical) to agroforestry adoption include:</p>
+<ul>
+<li>Lack of developed markets for products</li>
+<li>Unfamiliarity with technologies</li>
+<li>Lack of awareness of successful agroforestry examples</li>
+<li>Competition between trees, crops, and animals</li>
+<li>Lack of financial assistance</li>
+<li>Lack of apparent profit potential</li>
+<li>Lack of demonstration sites</li>
+<li>Expense of additional management</li>
+<li>Lack of training or expertise</li>
+<li>Lack of knowledge about where to market products</li>
+<li>Lack of technical assistance</li>
+<li>Cannot afford adoption or start up costs, including costs of time</li>
+<li>Unfamiliarity with alternative marketing approaches (e.g. web)</li>
+<li>Unavailability of information about agroforestry</li>
+<li>Apparent inconvenience</li>
+<li>Lack of infrastructure (e.g. buildings, equipment)</li>
+<li>Lack of equipment</li>
+<li>Insufficient land</li>
+<li>Lack of seed/seedling sources</li>
+<li>Lack of scientific research</li>
+</ul>
+<p>Some solutions to these obstacles have already been suggested although many depend on particular circumstances which vary from one location to the next.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<h3><span class="mw-headline" id="Permaculture">Permaculture</span></h3>
+<p>Agroforestry is a key component of Permaculture systems.</p>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Pine_forest_in_Sweden.jpg"><img alt="icon" class="noviewer" data-file-height="900" data-file-width="860" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pine_forest_in_Sweden.jpg/27px-Pine_forest_in_Sweden.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pine_forest_in_Sweden.jpg/40px-Pine_forest_in_Sweden.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pine_forest_in_Sweden.jpg/53px-Pine_forest_in_Sweden.jpg 2x" width="27"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Forestry" title="Portal:Forestry">Forestry portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Sustainable gardening</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Permaforestry" title="Permaforestry">Permaforestry</a></li>
+<li><a href="/wiki/Orchard" title="Orchard">Orchard</a></li>
+<li><a href="/wiki/Climate-friendly_gardening" title="Climate-friendly gardening">Climate-friendly gardening</a></li>
+<li><a href="/wiki/Farmer-managed_natural_regeneration" title="Farmer-managed natural regeneration">Farmer-managed natural regeneration</a></li>
+<li><a href="/wiki/Fertilizer_tree" title="Fertilizer tree">Fertilizer tree</a></li>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Forest_farming" title="Forest farming">Forest farming</a></li>
+<li><a href="/wiki/Analog_forestry" title="Analog forestry">Analog forestry</a></li>
+<li><a href="/wiki/Wildcrafting" title="Wildcrafting">Wildcrafting</a></li>
+<li><a href="/wiki/Buffer_strip" title="Buffer strip">Buffer strip</a></li>
+<li><a href="/wiki/Afforestation" title="Afforestation">Afforestation</a></li>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a class="mw-redirect" href="/wiki/Megaprojects" title="Megaprojects">Megaprojects</a></li>
+<li><a href="/wiki/Mycoforestry" title="Mycoforestry">Mycoforestry</a></li>
+<li><a href="/wiki/World_Forestry_Congress" title="World Forestry Congress">World Forestry Congress</a></li>
+<li><a class="mw-redirect" href="/wiki/Agropastoralism" title="Agropastoralism">Agropastoralism</a></li>
+<li><a class="mw-redirect" href="/wiki/Sylvopasture" title="Sylvopasture">Sylvopasture</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation and climate change</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><cite class="citation book">Patish, Daizy Rani, ed. (2008). <a class="external text" href="https://books.google.com/books?id=HsDrg48t4TkC" rel="nofollow"><i>Ecological basis of agroforestry</i></a>. CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-4200-4327-3" title="Special:BookSources/978-1-4200-4327-3">978-1-4200-4327-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAgroforestry&amp;rft.btitle=Ecological+basis+of+agroforestry&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHsDrg48t4TkC&amp;rft.isbn=978-1-4200-4327-3&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><i>The Springer Journal</i>, "Agroforestry Systems" (ISSN 1572-9680) <a class="external autonumber" href="http://www.springeronline.com/sgw/cda/frontpage/0,11855,4-40109-70-35633632-0,00.html" rel="nofollow">[1]</a>; Editor-In-Chief: Prof. Shibu Jose, H.E. Garrett Endowed Professor and Director, The Center for Agroforestry, University of Missouri</li>
+<li><cite class="citation news">Robbins, Jim (November 21, 2011). <a class="external text" href="http://www.nytimes.com/2011/11/22/science/quiet-push-for-agroforestry-in-us.html" rel="nofollow">"A Quiet Push to Grow Crops Under Cover of Trees"</a>. <a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 22,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAgroforestry&amp;rft.atitle=A+Quiet+Push+to+Grow+Crops+Under+Cover+of+Trees&amp;rft.aufirst=Jim&amp;rft.aulast=Robbins&amp;rft.date=2011-11-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2011%2F11%2F22%2Fscience%2Fquiet-push-for-agroforestry-in-us.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://nac.unl.edu/alleycropping.htm" rel="nofollow">National Agroforesty Center (USDA)</a></li>
+<li><a class="external text" href="http://www.worldagroforestry.org" rel="nofollow">World Agroforestry Centre</a></li>
+<li><a class="external text" href="http://www.centerforagroforestry.org" rel="nofollow">The Center for Agroforestry at the University of Missouri</a></li>
+<li><a class="external text" href="http://www.agroforestry.org.au" rel="nofollow">Australian Agroforestry Foundation</a></li>
+<li><a class="external text" href="http://www.agroforestry.net.au" rel="nofollow">Australian agroforestry</a></li>
+<li><a class="external text" href="http://www.greenbeltmovement.org" rel="nofollow">The Green Belt Movement</a></li>
+<li><a class="external text" href="http://www.pfaf.org" rel="nofollow">Plants For A Future</a></li>
+<li><a class="external text" href="http://www.yaaxche.org" rel="nofollow">Ya'axché Conservation Trust</a></li>
+<li><a class="external text" href="http://www.plant-trees.org" rel="nofollow">Trees for the Future</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20100707051700/http://www.plant-trees.org/resources/data.htm#download" rel="nofollow">Free Distance Agroforestry Training Manual (from Trees for the Future)</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20100414124659/http://www.viskogen.se:80/English/Organisation.aspx" rel="nofollow">Vi-Agroforestry</a></li>
+<li><a class="external text" href="http://www.agropark.org" rel="nofollow">Agroforst in Deutschland</a></li>
+<li><a class="external text" href="http://www.agroof.net" rel="nofollow">Agroforestry in France and Europe</a></li>
+</ul>
+
+<ul>
+<li>"Agroforestry makes sense for marginalised people in the Philippines uplands" (Erhardt/Bünner), article in the magazine <a class="external text" href="http://www.dandc.eu/articles/220681/index.en.shtml" rel="nofollow">D+C Development and Cooperation</a></li>
+<li>The short film <i><a class="external text" href="https://archive.org/details/org.centerforagroforestry.practices.1" rel="nofollow">Agroforestry Practices - Alley Cropping (2004)</a></i> is available for free download at the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+<li>The short film <i><a class="external text" href="https://archive.org/details/org.centerforagroforestry.practices.5" rel="nofollow">Agroforestry Practices - Forest Farming (2004)</a></i> is available for free download at the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+<li>The short film <i><a class="external text" href="https://archive.org/details/org.centerforagroforestry.practices.2" rel="nofollow">Agroforestry Practices - Riparian Forest Buffers (2004)</a></i> is available for free download at the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+<li>The short film <i><a class="external text" href="https://archive.org/details/org.centerforagroforestry.practices.3" rel="nofollow">Agroforestry Practices - Silvopasture (2004)</a></i> is available for free download at the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+<li>The short film <i><a class="external text" href="https://archive.org/details/org.centerforagroforestry.practices.4" rel="nofollow">Agroforestry Practices - Windbreaks (2004)</a></i> is available for free download at the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+<li>"Agroforestry, stakes and perspectives. Agroof Production, Liagre F. and Girardin N." <a class="external autonumber" href="https://www.youtube.com/watch?v=vfCPs-Uyvt8" rel="nofollow">[2]</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1488463-0!*!0!!en!4!* and timestamp 20161109125851 and revision id 744956683
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

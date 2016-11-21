@@ -1,0 +1,178 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p>The <b>green economy</b> is defined as an <a href="/wiki/Economy" title="Economy">economy</a> that aims at reducing environmental risks and ecological scarcities, and that aims for <a href="/wiki/Sustainable_development" title="Sustainable development">sustainable development</a> without degrading the environment. It is closely related with <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a>, but has a more politically applied focus. The 2011 <a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">UNEP</a> Green Economy Report argues "that to be green, an economy must not only be efficient, but also fair. Fairness implies recognising global and country level equity dimensions, particularly in assuring a just transition to an economy that is low-carbon, resource efficient, and socially inclusive." </p>
+<p>A feature distinguishing it from prior economic regimes is the direct valuation of <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> and <a class="mw-redirect" href="/wiki/Ecological_services" title="Ecological services">ecological services</a> as having economic value (<i>see <a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">The Economics of Ecosystems and Biodiversity</a> and <a href="/wiki/Bank_of_Natural_Capital" title="Bank of Natural Capital">Bank of Natural Capital</a></i>) and a <a class="mw-redirect" href="/wiki/Full_cost_accounting" title="Full cost accounting">full cost accounting</a> regime in which costs externalized onto society via ecosystems are reliably traced back to, and accounted for as liabilities of, the entity that does the harm or neglects an asset.</p>
+<p>Green Sticker and <a href="/wiki/Ecolabel" title="Ecolabel">ecolabel</a> practices have emerged as consumer facing measurements of friendliness to the environment and sustainable development. Many industries are starting to adopt these standards as a viable way to promote their greening practices in a <a class="mw-redirect" href="/wiki/Globalizing" title="Globalizing">globalizing</a> economy.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id=".22Green.22_economists_and_economics">"Green" economists and economics</span></h2>
+<p>"Green economics" is loosely defined as any theory of economics by which an economy is considered to be component of the ecosystem in which it resides (after <a href="/wiki/Lynn_Margulis" title="Lynn Margulis">Lynn Margulis</a>). A holistic approach to the subject is typical, such that economic ideas are commingled with any number of other subjects, depending on the particular theorist. Proponents of <a href="/wiki/Feminism" title="Feminism">feminism</a>, <a href="/wiki/Postmodernism" title="Postmodernism">postmodernism</a>, the <a class="mw-redirect" href="/wiki/Ecology_movement" title="Ecology movement">ecology movement</a>, <a href="/wiki/Peace_movement" title="Peace movement">peace movement</a>, <a href="/wiki/Green_politics" title="Green politics">Green politics</a>, <a href="/wiki/Green_anarchism" title="Green anarchism">green anarchism</a> and <a class="mw-redirect" href="/wiki/Anti-globalization" title="Anti-globalization">anti-globalization</a> movement have used the term to describe very different ideas, all external to some equally ill-defined "mainstream" <a href="/wiki/Economics" title="Economics">economics</a>.</p>
+<p>The use of the term is further ambiguated by the political distinction of <a class="mw-redirect" href="/wiki/Green_parties" title="Green parties">Green parties</a> which are formally organized and claim the capital-G "Green" term as a unique and distinguishing mark. It is thus preferable to refer to a loose school of "'green economists"' who generally advocate shifts towards a green economy, <a class="mw-redirect" href="/wiki/Biomimicry" title="Biomimicry">biomimicry</a> and a fuller accounting for <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>. (<i>see <a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">The Economics of Ecosystems and Biodiversity</a> especially for current authoritative international work towards these goals and <a href="/wiki/Bank_of_Natural_Capital" title="Bank of Natural Capital">Bank of Natural Capital</a> for a layperson's presentation of these.</i>)</p>
+<p>Some economists view green economics as a branch or subfield of more established schools. For instance, it is regarded as <a href="/wiki/Classical_economics" title="Classical economics">classical economics</a> where the traditional land is generalized to <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> and has some attributes in common with labor and physical capital (since natural capital assets like rivers directly substitute for man-made ones such as <a href="/wiki/Canal" title="Canal">canals</a>). Or, it is viewed as <a class="mw-redirect" href="/wiki/Marxist_economics" title="Marxist economics">Marxist economics</a> with nature represented as a form of <a href="/wiki/Lumpenproletariat" title="Lumpenproletariat">Lumpenproletariat</a>, an exploited base of non-human workers providing <a href="/wiki/Surplus_value" title="Surplus value">surplus value</a> to the human economy, or as a branch of <a href="/wiki/Neoclassical_economics" title="Neoclassical economics">neoclassical economics</a> in which the <a class="mw-redirect" href="/wiki/Price_of_life" title="Price of life">price of life</a> for developing vs. developed nations is held steady at a ratio reflecting a balance of power and that of non-human life is very low.</p>
+<p>An increasing commitment by the UNEP (and national governments such as the UK) to the ideas of <a href="/wiki/Natural_capital" title="Natural capital">natural capital</a> and <a class="mw-redirect" href="/wiki/Full_cost_accounting" title="Full cost accounting">full cost accounting</a> under the banner 'green economy' could blur distinctions between the schools and redefine them all as variations of "green economics". As of 2010 the <a href="/wiki/Bretton_Woods_system" title="Bretton Woods system">Bretton Woods</a> institutions (notably the <a href="/wiki/World_Bank" title="World Bank">World Bank</a> and <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">International Monetary Fund</a> (via its "Green Fund" initiative) responsible for global <a href="/wiki/Monetary_policy" title="Monetary policy">monetary policy</a> have stated a clear intention to move towards <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> valuation and a more official and universal <a class="mw-redirect" href="/wiki/Biodiversity_finance" title="Biodiversity finance">biodiversity finance</a>. Taking these into account targeting not less but radically zero emission and waste is what is promoted by the <a href="/wiki/Zero_Emissions_Research_and_Initiatives" title="Zero Emissions Research and Initiatives">Zero Emissions Research and Initiatives</a>. The UNEP 2011 Green Economy Report informs that "[b]ased on existing studies, the annual financing demand to green the global economy was estimated to be in the range US$ 1.05 to US$ 2.59 trillion. To place this demand in perspective, it is about one-tenth of total global investment per year, as measured by global Gross Capital Formation." </p>
+<h2><span class="mw-headline" id="Definition">Definition</span></h2>
+<p>Karl Burkart defines a green economy as based on six main sectors:</p>
+<ul>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green buildings</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Sustainable transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_management" title="Water management">Water management</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste management</a></li>
+<li><a href="/wiki/Land_management" title="Land management">Land management</a></li>
+</ul>
+
+<p>The <a href="/wiki/International_Chamber_of_Commerce" title="International Chamber of Commerce">International Chamber of Commerce</a> (ICC) representing global business defines green economy as “an economy in which economic growth and environmental responsibility work together in a mutually reinforcing fashion while supporting progress on social development”.</p>
+<p>In 2012, the ICC published the Green Economy Roadmap, containing contributions from experts from around the globe brought together in a two-year consultation process. The Roadmap represents a comprehensive and multidisciplinary effort to clarify and frame the concept of “green economy”. It highlights the essential role of business in bringing solutions to common global challenges. It sets out the following 10 conditions which relate to business/intra-industry and collaborative action for a transition towards a green economy:</p>
+<ul>
+<li>Open and competitive markets</li>
+<li>Metrics, accounting, and reporting</li>
+<li>Finance and investment</li>
+<li>Awareness</li>
+<li>Life cycle approach</li>
+<li>Resource efficiency and decoupling</li>
+<li>Employment</li>
+<li>Education and skills</li>
+<li>Governance and partnership</li>
+<li>Integrated policy and decision-making</li>
+</ul>
+<h2><span class="mw-headline" id="Ecological_measurements">Ecological measurements</span></h2>
+<p>Measuring economic output and progress is done through the use of <a href="/wiki/Index_(economics)" title="Index (economics)">economic index</a> indicators. Green indices emerged from the need to measure human ecological impact, efficiency sectors like transport, energy, buildings and tourism, as well as the investment flows targeted to areas like renewable energy and cleantech innovation.</p>
+<ol>
+<li>2010 - 2016 Global Green Economy Index™ (GGEI), published by consultancy Dual Citizen LLC is in its 5th edition. It measures the green economic performance and perceptions of it in 80 countries and 50 cities along four main dimensions of leadership &amp; climate change, efficiency sectors, markets &amp; investment and the environment.</li>
+<li>2009 - 2012 Green City Index  A global study commissioned by <a href="/wiki/Siemens" title="Siemens">Siemens</a></li>
+<li>2009 - 2013 <a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a> project scored 5 cities in 5 separate countries.</li>
+</ol>
+<p><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a> measurements are a way to gauge anthropogenic impact and are another standard used by municipal governments.</p>
+<h2><span class="mw-headline" id="Green_energy_issues">Green energy issues</span></h2>
+<p>Green economies require <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">green energy</a> generation based on <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> to replace <a class="mw-redirect" href="/wiki/Fossil_fuels" title="Fossil fuels">fossil fuels</a> as well as <a href="/wiki/Energy_conservation" title="Energy conservation">energy conservation</a> and <a href="/wiki/Efficient_energy_use" title="Efficient energy use">efficient energy use</a>.</p>
+<p>There is justification for <a href="/wiki/Market_failure" title="Market failure">market failure</a> to respond to <a href="/wiki/Environmental_protection" title="Environmental protection">environmental protection</a> and <a class="mw-redirect" href="/wiki/Climate_protection" title="Climate protection">climate protection</a> needs with the excuse that high <a class="mw-redirect" href="/wiki/External_costs" title="External costs">external costs</a> and high initial costs for research, development, and marketing of <a class="mw-redirect" href="/wiki/Green_energy" title="Green energy">green energy</a> sources and green products prevents firms from voluntarily reducing their ecological footprints. The green economy may need government subsidies as market incentives to motivate firms to invest and produce green products and services. The <a class="mw-redirect" href="/wiki/German_Renewable_Energy_Act" title="German Renewable Energy Act">German Renewable Energy Act</a>, legislations of many other <a class="mw-redirect" href="/wiki/Member_states_of_the_European_Union" title="Member states of the European Union">member states of the European Union</a> and the <a href="/wiki/American_Recovery_and_Reinvestment_Act_of_2009" title="American Recovery and Reinvestment Act of 2009">American Recovery and Reinvestment Act of 2009</a>, all provide such market incentives. However, other experts argue that green strategies can be highly profitable for corporations that understand the business case for sustainability and can market green products and services beyond the traditional green consumer.</p>
+<h2><span class="mw-headline" id="Criticisms">Criticisms</span></h2>
+<p>A number of organisations and individuals have criticised aspects of the 'Green Economy', particularly the mainstream conceptions of it based on using <a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">price mechanisms to protect nature</a>, arguing that this will extend corporate control into new areas from forestry to water. The research organisation ETC Group argues that the corporate emphasis on bio-economy "will spur even greater convergence of corporate power and unleash the most massive resource grab in more than 500 years." Venezuelan professor Edgardo Lander says that the UNEP's report, <i>Towards a Green Economy</i>, while well-intentioned "ignores the fact that the capacity of existing political systems to establish regulations and restrictions to the free operation of the markets – even when a large majority of the population call for them – is seriously limited by the political and financial power of the corporations." Ulrich Hoffmann, in a paper for <a class="mw-redirect" href="/wiki/UNCTAD" title="UNCTAD">UNCTAD</a> also says that the focus on Green Economy and "green growth" in particular, "based on an evolutionary (and often reductionist) approach will not be sufficient to cope with the complexities of climate change" and "may rather give much false hope and excuses to do nothing really fundamental that can bring about a U-turn of global <a class="mw-redirect" href="/wiki/Greenhouse_gas_emissions" title="Greenhouse gas emissions">greenhouse gas emissions</a>. Clive Spash, an ecological economist, has criticised the use of economic growth to address environmental losses, and argued that the Green Economy, as advocated by the UN, is not a new approach at all and is actually a diversion from the real drivers of environmental crisis. He has also criticised the UN's project on the economics of ecosystems and biodiversity (TEEB), and the basis for valuing ecosystems services in monetary terms.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+<li><a href="/wiki/Alternative_energy_indexes" title="Alternative energy indexes">Alternative energy indexes</a></li>
+<li><a class="mw-redirect" href="/wiki/Chemical_Leasing" title="Chemical Leasing">Chemical Leasing</a></li>
+<li><a class="mw-redirect" href="/wiki/Circular_Economy" title="Circular Economy">Circular Economy</a></li>
+<li><a href="/wiki/Eco-capitalism" title="Eco-capitalism">Eco-capitalism</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecological_Economics" title="Ecological Economics">Ecological Economics</a></li>
+<li><a href="/wiki/Ecology_of_contexts" title="Ecology of contexts">Ecology of contexts</a></li>
+<li><a href="/wiki/Embodied_energy" title="Embodied energy">Embodied energy</a></li>
+<li><a class="mw-redirect" href="/wiki/Embodied_water" title="Embodied water">Embodied water</a></li>
+<li><a href="/wiki/Energy_accounting" title="Energy accounting">Energy accounting</a></li>
+<li><a href="/wiki/Energy_economics" title="Energy economics">Energy economics</a></li>
+<li><a href="/wiki/Energy_policy" title="Energy policy">Energy policy</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Exergy" title="Exergy">Exergy</a></li>
+<li><a href="/wiki/Feed-in_tariff" title="Feed-in tariff">Feed-in tariff</a></li>
+<li><a href="/wiki/Free-market_environmentalism" title="Free-market environmentalism">Free-market environmentalism</a></li>
+<li><a href="/wiki/Green_accounting" title="Green accounting">Green accounting</a></li>
+<li><a href="/wiki/Human_development_theory" title="Human development theory">Human development theory</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Land_value_tax" title="Land value tax">Land value tax</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_Green_topics" title="List of Green topics">List of Green topics</a></li>
+<li><a href="/wiki/Market_governance_mechanism" title="Market governance mechanism">Market Governance Mechanisms</a></li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Natural resource economics</a></li>
+<li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar building design</a></li>
+<li><a href="/wiki/Pigovian_tax" title="Pigovian tax">Pigovian tax</a></li>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+<li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li>
+<li><a href="/wiki/Restoration_economy" title="Restoration economy">Restoration economy</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable design</a></li>
+<li><a href="/wiki/Clean_Tech_Nation" title="Clean Tech Nation">Clean Tech Nation</a></li>
+<li><a href="/wiki/The_Economics_of_Ecosystems_and_Biodiversity" title="The Economics of Ecosystems and Biodiversity">The Economics of Ecosystems and Biodiversity</a> (TEEB)</li>
+<li><a class="mw-redirect" href="/wiki/World_energy_resources_and_consumption" title="World energy resources and consumption">World energy resources and consumption</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span></h2>
+
+<h2></h2>
+<ul>
+<li>Jeremy Rifkin (2013), <a class="external text" href="http://www.thethirdindustrialrevolution.com/" rel="nofollow">"The Third Industrial Revolution"</a>. VII,233-242</li>
+<li>Brand, Ulrich (2012), "<a class="external text" href="http://www.ingentaconnect.com/search/article?option2=author&amp;value2=Ulrich+Brand&amp;sortDescending=true&amp;sortField=default&amp;pageSize=10&amp;index=1" rel="nofollow">Green Economy - the Next Oxymoron? No Lessons Learned from Failures of Implementing Sustainable Development</a>. GAIA 21(1): 28-35.</li>
+<li>Common, M. and Stagl, S. 2005. <i>Ecological Economics: An Introduction</i>. New York: Cambridge University Press.</li>
+<li>Daly, H. and Townsend, K. (eds.) 1993. <i>Valuing The Earth: Economics, Ecology, Ethics</i>. Cambridge, Mass.; London, England: MIT Press.</li>
+<li>Georgescu-Roegen, N. 1975. Energy and economic myths. <i>Southern Economic Journal</i> 41: 347-381.</li>
+<li>Hahnel, R. (2010), <i>Green Economics: Confronting the Ecological Crisis</i>. New York: M. E. Sharpe.</li>
+<li>Horowitz, S. 2010. "Amory Lovins: Reinventing Human Enterprise for Sustainability" Down to Business magazine, <a class="external free" href="http://frugalmarketing.com/dtb/amorylovins.shtml" rel="nofollow">http://frugalmarketing.com/dtb/amorylovins.shtml</a>.</li>
+<li>International Chamber of Commerce (ICC), (2012), <a class="external text" href="http://www.iccwbo.org/products-and-services/trade-facilitation/green-economy-roadmap" rel="nofollow">"ICC Green Economy Roadmap. A guide for business, policymakers and society"</a>.</li>
+<li>Kennet M., and Heinemann V, (2006) Green Economics, Setting the Scene. in International Journal of Green Economics, Vol 1 issue 1/2 (2006) Inderscience, Geneva.</li>
+<li>Kennet M., (2009) Emerging Pedogogy in an Emerging Discipline, Green Economics in Reardon J., (2009) Pluralist education, Routledge.</li>
+<li>Kennet M., (2008) Introduction to Green Economics, in Harvard School Economics Review.</li>
+<li>Kennet M.,and Kamarudin N., (2012) Green Economics: The Greening of Asia and China. The Green Economics Institute.</li>
+<li>Kennet M.,and Winston Ka-Ming Mak (2012) Green Economics and Climate Change. The Green Economics Institute</li>
+<li>Kennet M., and <a href="/wiki/Michelle_Gale_De_Oliveira" title="Michelle Gale De Oliveira">Michelle Gale De Oliveira</a>, and Winchester A., (2012) Green Economics:Women's Unequal Pay and Poverty. The Green Economics Institute</li>
+<li>Kennet M.,and Winchester A. and Felton J. (2012) Green Economics:Voices of Africa. The Green Economics Institute.</li>
+<li>Kennet M., and Felton J.,(2012)The Green Built Environment:A Handbook. The Green Economics Institute.</li>
+<li>Kennet M., and Courea E, Pepinyte (2011) Handbook of Green Economics. The Green Economics Institute.</li>
+<li>Kennet M., (2012) The Green Economics Reader. The Green Economics Institute.</li>
+<li>Kennet M., Heinemann V. and Gale De Oliviera M., (2010) Green Economics in Il Libro del Anno, Trecani. Italy.</li>
+<li>Kennet M.(2011) Green Economics. in Latvian Institute of Science Papers. (2011)</li>
+<li>Kennet M., (2009) Green Economics and the Socio Ecological Transformation, in Rosa Luxemburg Foundation Occasional Papers.71. G. Krause Dietz.</li>
+<li>Kennet M., (2010) Kennet, in 200 Visionaries. in Murtha. W. (2010) Red Wheel Publishers.</li>
+<li>Kennet M., and Gale de Oliveira (2012) Greening the Academy. Syracuse University.</li>
+<li>Kennet M., (2010) Green Economics. in Reardon J., Pluralist Education. Routledge.</li>
+<li>Kennet M., and Jocuite K., (2011) Green Economics and the Age of Global Transformation. in Proceedings of the 6th Annual Oxford University Conference on Green Economics, The Green Economics Institute. Ed. K.Jociute. (2011).</li>
+<li>King, Andrew; Lenox, Michael, 2002. ‘Does it really pay to be green?’ Journal of Industrial Ecology 5, 105-117.</li>
+<li>Krishnan R, Harris JM, Goodwin NR. (1995). <i>A Survey of Ecological Economics</i>. Island Press. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1559634111">ISBN 1-55963-411-1</a>, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781559634113">ISBN 978-1-55963-411-3</a>.</li>
+<li>Martinez-Alier, J. (1990) Ecological Economics: Energy, Environment and Society. Oxford, England: Basil Blackwell.</li>
+<li>Martinez-Alier, J., Ropke, I. eds.(2008), Recent Developments in Ecological Economics, 2 vols., E. Elgar, Cheltenham, UK.</li>
+<li>Røpke, I. (2004) The early history of modern ecological economics. Ecological Economics 50(3-4): 293-314.</li>
+<li>Røpke, I. (2005) Trends in the development of ecological economics from the late 1980s to the early 2000s. Ecological Economics 55(2): 262-290.</li>
+<li>Reinhardt, F. (1999) ‘Market failure and the environmental policies of firms: economic rationales for ‘beyond compliance’ behavior.’ Journal of Industrial Ecology 3(1), 9-21.</li>
+<li><cite class="citation book" id="CITEREFScott_Cato2009"><a href="/wiki/Molly_Scott_Cato" title="Molly Scott Cato">Scott Cato, Molly</a> (2009). <a class="external text" href="https://books.google.com/books/about/Green_Economics.html?id=f385apGjlVYC&amp;redir_esc=y" rel="nofollow"><i>Green Economics: An Introduction to Theory, Policy and Practice</i></a>. <a href="/wiki/Earthscan" title="Earthscan">Earthscan</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1844075710" title="Special:BookSources/1844075710">1844075710</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreen+economy&amp;rft.aufirst=Molly&amp;rft.aulast=Scott+Cato&amp;rft.btitle=Green+Economics%3A+An+Introduction+to+Theory%2C+Policy+and+Practice&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FGreen_Economics.html%3Fid%3Df385apGjlVYC%26redir_esc%3Dy&amp;rft.isbn=1844075710&amp;rft.pub=Earthscan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>Shmelev S., ed. (2017) Green Economy Reader. Lectures in Ecological Economics and Sustainability. Springer, 463 pp. <a class="external free" href="http://www.springer.com/gb/book/9783319389172" rel="nofollow">http://www.springer.com/gb/book/9783319389172</a></li>
+<li>Shmelev S. (2012) Ecological Economics: Sustainability in Practice. Springer, 248 pp. <a class="external free" href="http://www.springer.com/gb/book/9789400719712" rel="nofollow">http://www.springer.com/gb/book/9789400719712</a></li>
+<li>Shmelev S., Shmeleva I.A., eds. (2012) Sustainability Analysis: An Interdisciplinary Approach. Palgrave, 335 pp. <a class="external free" href="http://www.springer.com/gb/book/9780230355248" rel="nofollow">http://www.springer.com/gb/book/9780230355248</a></li>
+<li>Spash, C. L. (1999) The development of environmental thinking in economics. Environmental Values 8(4): 413-435.</li>
+<li>Vatn, A. (2005) Institutions and the Environment. Cheltenham: Edward Elgar</li>
+<li>United Nations Division for Sustainable Development (UNDESA) (2012), <a class="external text" href="http://www.uncsd2012.org/content/documents/528Green%20Economy%20Guidebook_100912_FINAL.pdf" rel="nofollow">“A guidebook to the Green Economy”</a>.</li>
+<li>United Nations Environment Programme (2010), Green Economy Report: A Preview. <a class="external free" href="http://www.unep.org/GreenEconomy/LinkClick.aspx?fileticket=JvDFtjopXsA%3d&amp;tabid=1350&amp;language=en-US" rel="nofollow">http://www.unep.org/GreenEconomy/LinkClick.aspx?fileticket=JvDFtjopXsA%3d&amp;tabid=1350&amp;language=en-US</a></li>
+<li>United Nations Environment Programme (2010), Developing Countries Success Stories. <a class="external free" href="http://www.unep.org/pdf/GreenEconomy_SuccessStories.pdf" rel="nofollow">http://www.unep.org/pdf/GreenEconomy_SuccessStories.pdf</a></li>
+<li>United Nations Environment Programme (2010), A Brief for Policymakers on the Green Economy and Millennium Development Goals. <a class="external free" href="http://www.unep.org/greeneconomy/Portals/30/docs/policymakers_brief_GEI&amp;MDG.pdf" rel="nofollow">http://www.unep.org/greeneconomy/Portals/30/docs/policymakers_brief_GEI&amp;MDG.pdf</a></li>
+<li>United Nations Environment Programme (2010), Driving a Green Economy Through Public Finance and Fiscal Policy Reform. <a class="external free" href="http://www.unep.org/greeneconomy/Portals/30/docs/DrivingGreenEconomy.pdf" rel="nofollow">http://www.unep.org/greeneconomy/Portals/30/docs/DrivingGreenEconomy.pdf</a></li>
+<li>United Nations Environment Programme (2009), Global Green New Deal Update, <a class="external free" href="http://www.unep.org/greeneconomy/LinkClick.aspx?fileticket=ciH9RD7XHwc%3d&amp;tabid=1394&amp;language=en-US" rel="nofollow">http://www.unep.org/greeneconomy/LinkClick.aspx?fileticket=ciH9RD7XHwc%3d&amp;tabid=1394&amp;language=en-US</a></li>
+<li>United Nations Environment Programme (2009), Global Green New Deal, Policy brief, <a class="external free" href="http://www.unep.org/pdf/A_Global_Green_New_Deal_Policy_Brief.pdf" rel="nofollow">http://www.unep.org/pdf/A_Global_Green_New_Deal_Policy_Brief.pdf</a></li>
+<li>United Nations Environment Programme (2008), Green Jobs: Towards Decent Work in a Sustainable, Low-Carbon World (Policy messages and main findings for decision makers), <a class="external free" href="http://www.unep.org/greeneconomy/LinkClick.aspx?fileticket=hR62Ck7RTX4%3d&amp;tabid=1377&amp;language=en-US" rel="nofollow">http://www.unep.org/greeneconomy/LinkClick.aspx?fileticket=hR62Ck7RTX4%3d&amp;tabid=1377&amp;language=en-US</a></li>
+<li>United Nations Environment Programme (2008), ‘Global green new deal - environmentally-focused investment historic opportunity for 21st century prosperity and job generation.’ London/Nairobi, October 22.</li>
+<li>Wagner, Ma. (2003) "Does it pay to be eco-efficient in the European energy supply industry?" Zeitschrift für Energiewirtschaft 27(4), 309-318.</li>
+<li>Wagner, M. et al. (2002) "The relationship between environmental and economic performance of firms: what does the theory propose and what does the empirical evidence tell us?" Greener Management International 34, 95-108.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.iccwbo.org/products-and-services/trade-facilitation/green-economy-roadmap" rel="nofollow">ICC Green Economy Roadmap</a></li>
+<li><a class="external text" href="http://www.greeneconomycoalition.org" rel="nofollow">The Green Economy Coalition</a></li>
+<li><a class="external text" href="http://www.2tix.net/zone/edit_page2.php" rel="nofollow">The Green Economist</a></li>
+<li><a class="external text" href="http://www.unep.org/greeneconomy" rel="nofollow">UNEP – The Green Economy Initiative</a></li>
+<li><a class="external text" href="http://www.earthsummit2012.org/" rel="nofollow">The 2012 Earth Summit</a></li>
+<li><a class="external text" href="http://greeneconomics.org.uk/" rel="nofollow">The Green Economics Institute</a></li>
+<li><a class="external text" href="http://greeneconomicsinstitute.wordpress.com/" rel="nofollow">The Green Economics Institute Global Campaigning Forum</a></li>
+<li><a class="external text" href="http://www.ecoeco.org/" rel="nofollow">The International Society for Ecological Economics (ISEE)</a></li>
+<li><a class="external text" href="http://www.americanprogress.org/issues/2008/09/green_recovery.html" rel="nofollow">Green Recovery</a></li>
+<li><a class="external text" href="http://www.inderscience.com/ijge" rel="nofollow">The International Journal of Green Economics</a></li>
+<li><a class="external text" href="http://www.earth-policy.org/Indicators/index.htm" rel="nofollow">Eco-Economy Indicators</a></li>
+<li><a class="external text" href="http://earthtrends.wri.org/index.php" rel="nofollow">EarthTrends World Resources Institute</a></li>
+<li><a class="external text" href="http://inspiredeconomist.com/" rel="nofollow">The Inspired Economist</a></li>
+<li><a class="external text" href="http://www.ecoeco.org/education_encyclopedia.php" rel="nofollow">Ecological Economics Encyclopedia</a></li>
+<li><a class="external text" href="http://www.elsevier.com/locate/ecolecon" rel="nofollow">The academic journal, <i>Ecological Economics</i></a></li>
+<li><a class="external text" href="http://www.ussee.org/" rel="nofollow">The US Society of Ecological Economics</a></li>
+<li><a class="external text" href="http://www.beijer.kva.se/" rel="nofollow">The Beijer International Institute for Ecological Economics</a></li>
+<li><a class="external text" href="http://www.greeneconomist.org/" rel="nofollow">Green Economist website</a></li>
+<li><a class="external text" href="http://sustainableprosperity.ca/" rel="nofollow">Sustainable Prosperity</a></li>
+<li><a class="external text" href="http://www.uvm.edu/giee" rel="nofollow">The Gund Institute of Ecological Economics</a></li>
+<li><a class="external text" href="http://www.economics.rpi.edu/ecological.html" rel="nofollow">Ecological Economics at Rensselaer Polytechnic Institute</a></li>
+<li><a class="external text" href="http://www.fs.fed.us/eco/s21pre.htm" rel="nofollow">An ecological economics article about reconciling economics and its supporting ecosystem</a></li>
+<li><a class="external text" href="http://sef.umd.edu/files/ScientificAmerican_Daly_05.pdf" rel="nofollow">"Economics in a Full World", by Herman E. Daly</a></li>
+<li><a class="external text" href="http://www.economics.noaa.gov/?goal=ecosystems" rel="nofollow">NOAA Economics of Ecosystems Data &amp; Products</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:996699-0!*!0!!en!4!* and timestamp 20161107083953 and revision id 746154660
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

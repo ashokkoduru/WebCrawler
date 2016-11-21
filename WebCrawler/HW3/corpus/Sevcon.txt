@@ -1,0 +1,29 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+
+<p><b>Sevcon</b> is an <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a> company based in <a href="/wiki/Gateshead" title="Gateshead">Gateshead</a> in the UK, that manufactures controls for <a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicles</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>It was founded in 1961 as Sevcon Engineering Ltd. The company was formed to develop technology originated by Horace William Heyman (13 March 1912 - 4 September 1998), who had been Managing Director of <a href="/wiki/Smith_Electric_Vehicles" title="Smith Electric Vehicles">Smith Electric Vehicles</a> from 1949 until 1964. It was the largest manufacturer of electric vehicles in Europe.</p>
+<p>His technology improved battery-life for frequent start-stop runs of electric vehicles at low speeds. There were always large electrical losses on starting an electric vehicle because of <a href="/wiki/Joule_heating" title="Joule heating">electrical resistances heating up</a>. The technology allowed a 20% reduction in battery size for equivalent power, or increased battery length or power for a standard-sized battery.</p>
+<p>An electric vehicle would have had resistances to <a href="/wiki/Voltage_drop" title="Voltage drop">drop the voltage</a> on the motor when starting, but this created heating. His technology employed <a href="/wiki/PWM_rectifier" title="PWM rectifier">semiconductor-controlled rectifiers</a>, with a semiconductor oscillator, which provided pulses of electrical power to power the motor.</p>
+<p>It won the Queen's Award to Industry in April 1970, and the <a href="/wiki/Queen%27s_Awards_for_Enterprise" title="Queen's Awards for Enterprise">Queen's Awards for Export</a> in April 1975. A new factory opened in June 1970 at Gateshead.</p>
+<h3><span class="mw-headline" id="Worldwide">Worldwide</span></h3>
+<p>It opened its first subsidiary in 1968 in Paris. In 1969 it was bought by Tech/Ops of the USA.</p>
+<h3><span class="mw-headline" id="Public_company">Public company</span></h3>
+<p>In 1988 it was listed on the USA stock exchange, then joined the <a class="mw-redirect" href="/wiki/NASDAQ_Capital_Market" title="NASDAQ Capital Market">NASDAQ Capital Market</a> in 2009.</p>
+<h2><span class="mw-headline" id="Structure">Structure</span></h2>
+<p>The head office is situated opposite the automotive centre of <a href="/wiki/Gateshead_College" title="Gateshead College">Gateshead College</a>. It outsources much of the manufacture of its components to <a href="/wiki/Key_Tronic" title="Key Tronic">Key Tronic</a> of the USA. A UK site manufactures <a href="/wiki/Film_capacitor" title="Film capacitor">film capacitors</a>.</p>
+<p>Its competitors include <a href="/wiki/Danaher_Corporation" title="Danaher Corporation">Danaher</a>'s Motion division, and <a href="/wiki/General_Electric" title="General Electric">General Electric</a>. In 2010 it spent around £3 million in research and development at Gateshead.</p>
+<h2><span class="mw-headline" id="Products">Products</span></h2>
+<p>It makes microprocessor controllers for electric vehicles.</p>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.sevcon.com" rel="nofollow">Sevcon</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37809153-0!*!0!!en!4!* and timestamp 20161020235537 and revision id 735574413
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

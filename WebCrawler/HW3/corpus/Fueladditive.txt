@@ -1,0 +1,103 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p><b>Gasoline additives</b> increase <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>'s <a href="/wiki/Octane_rating" title="Octane rating">octane rating</a> or act as <a href="/wiki/Corrosion_inhibitor" title="Corrosion inhibitor">corrosion inhibitors</a> or <a href="/wiki/Lubricant" title="Lubricant">lubricants</a>, thus allowing the use of higher <a href="/wiki/Compression_ratio" title="Compression ratio">compression ratios</a> for greater efficiency and power. Types of additives include <a href="/wiki/Metal_deactivator" title="Metal deactivator">metal deactivators</a>, <a href="/wiki/Corrosion_inhibitor" title="Corrosion inhibitor">corrosion inhibitors</a>, <a href="/wiki/Oxygenate" title="Oxygenate">oxygenates</a> and <a href="/wiki/Antioxidant" title="Antioxidant">antioxidants</a>.</p>
+<p>Some additives are harmful and are regulated or banned in some countries.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Additives">Additives</span></h2>
+<ul>
+<li><a href="/wiki/Oxygenate" title="Oxygenate">Oxygenates</a>
+<ul>
+<li>Alcohols:
+<ul>
+<li><a href="/wiki/Methanol" title="Methanol">Methanol</a> (MeOH)</li>
+<li><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a> (EtOH)</li>
+<li><a href="/wiki/Isopropyl_alcohol" title="Isopropyl alcohol">Isopropyl alcohol</a> (IPA)</li>
+<li><a href="/wiki/N-Butanol" title="N-Butanol"><i>n</i>-butanol</a> (BuOH)</li>
+<li>Gasoline grade <a class="mw-redirect" href="/wiki/Tert-Butanol" title="Tert-Butanol"><i>t</i>-butanol</a> (GTBA)</li>
+</ul>
+</li>
+<li><a href="/wiki/Ether" title="Ether">Ethers</a>:
+<ul>
+<li><a href="/wiki/Methyl_tert-butyl_ether" title="Methyl tert-butyl ether">Methyl tert-butyl ether</a> (MTBE), now outlawed in many states of the <a href="/wiki/United_States" title="United States">U.S.</a> for road use, mostly because of <a class="mw-redirect" href="/wiki/Methyl_tert-butyl_ether_controversy" title="Methyl tert-butyl ether controversy">water contamination</a>.</li>
+<li><a class="mw-redirect" href="/wiki/Tertiary_amyl_methyl_ether" title="Tertiary amyl methyl ether">Tertiary amyl methyl ether</a> (TAME)</li>
+<li><a class="new" href="/w/index.php?title=Tertiary_hexyl_methyl_ether&amp;action=edit&amp;redlink=1" title="Tertiary hexyl methyl ether (page does not exist)">Tertiary hexyl methyl ether</a> (THEME)</li>
+<li><a class="mw-redirect" href="/wiki/ETBE" title="ETBE">Ethyl tertiary butyl ether</a> (ETBE)</li>
+<li><a class="new" href="/w/index.php?title=Tertiary_amyl_ethyl_ether&amp;action=edit&amp;redlink=1" title="Tertiary amyl ethyl ether (page does not exist)">Tertiary amyl ethyl ether</a> (TAEE)</li>
+<li><a href="/wiki/Diisopropyl_ether" title="Diisopropyl ether">Diisopropyl ether</a> (DIPE)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Antioxidant" title="Antioxidant">Antioxidants</a>, stabilizers
+<ul>
+<li><a href="/wiki/Butylated_hydroxytoluene" title="Butylated hydroxytoluene">Butylated hydroxytoluene</a> (BHT)</li>
+<li><a href="/wiki/2,4-Dimethyl-6-tert-butylphenol" title="2,4-Dimethyl-6-tert-butylphenol">2,4-Dimethyl-6-tert-butylphenol</a></li>
+<li><a href="/wiki/2,6-Di-tert-butylphenol" title="2,6-Di-tert-butylphenol">2,6-Di-tert-butylphenol</a> (2,6-DTBP)</li>
+<li><a href="/wiki/P-Phenylenediamine" title="P-Phenylenediamine">p-Phenylenediamine</a></li>
+<li><a href="/wiki/Ethylenediamine" title="Ethylenediamine">Ethylenediamine</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Antiknock_agent" title="Antiknock agent">Antiknock agents</a>
+<ul>
+<li><a href="/wiki/Tetraethyllead" title="Tetraethyllead">Tetraethyllead</a>, now <a class="mw-redirect" href="/wiki/Tetraethyl_lead#Phaseout_and_ban" title="Tetraethyl lead">banned</a> almost everywhere for <a class="mw-redirect" href="/wiki/Tetraethyl_lead#Toxicity" title="Tetraethyl lead">causing brain damage</a>.</li>
+<li><a href="/wiki/Methylcyclopentadienyl_manganese_tricarbonyl" title="Methylcyclopentadienyl manganese tricarbonyl">Methylcyclopentadienyl manganese tricarbonyl</a> (MMT) is an extremely poisonous neurotoxic substance and is fatal if swallowed/inhaled and will cause a disease similar to Parkinson's called manganism.</li>
+<li><a href="/wiki/Ferrocene" title="Ferrocene">Ferrocene</a> highly toxic</li>
+<li><a href="/wiki/Toluene" title="Toluene">Toluene</a></li>
+<li><a class="mw-redirect" href="/wiki/Isooctane" title="Isooctane">Isooctane</a></li>
+<li><a href="/wiki/Triptane" title="Triptane">Triptane</a></li>
+</ul>
+</li>
+<li>Lead <a href="/wiki/Scavenger_(chemistry)" title="Scavenger (chemistry)">scavengers</a> (for leaded gasoline)
+<ul>
+<li><a href="/wiki/Tricresyl_phosphate" title="Tricresyl phosphate">Tricresyl phosphate</a> (TCP) (also an <a class="mw-redirect" href="/wiki/AW_additive" title="AW additive">AW additive</a> and <a class="mw-redirect" href="/wiki/EP_additive" title="EP additive">EP additive</a>)</li>
+<li><a href="/wiki/1,2-Dibromoethane" title="1,2-Dibromoethane">1,2-Dibromoethane</a></li>
+<li><a href="/wiki/1,2-Dichloroethane" title="1,2-Dichloroethane">1,2-Dichloroethane</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fuel_dyes" title="Fuel dyes">Fuel dyes</a>, most common:
+<ul>
+<li><a class="mw-redirect" href="/wiki/Solvent_Red_24" title="Solvent Red 24">Solvent Red 24</a></li>
+<li><a href="/wiki/Solvent_Red_26" title="Solvent Red 26">Solvent Red 26</a></li>
+<li><a href="/wiki/Solvent_Yellow_124" title="Solvent Yellow 124">Solvent Yellow 124</a></li>
+<li><a class="mw-redirect" href="/wiki/Solvent_Blue_35" title="Solvent Blue 35">Solvent Blue 35</a></li>
+</ul>
+</li>
+<li>Fuel additives in general
+<ul>
+<li><a href="/wiki/Ether" title="Ether">Ether</a> and other flammable hydrocarbons have been used extensively as <a href="/wiki/Starting_fluid" title="Starting fluid">starting fluid</a> for many difficult-to-start engines, especially <a href="/wiki/Diesel_engine" title="Diesel engine">diesel engines</a></li>
+<li><a href="/wiki/Nitromethane" title="Nitromethane">Nitromethane</a>, or "nitro," is a high-performance racing fuel</li>
+<li><a href="/wiki/Acetone" title="Acetone">Acetone</a> is a vaporization additive, mainly used with <a href="/wiki/Methanol" title="Methanol">methanol</a> racing fuel to improve vaporisation at start up</li>
+<li><a href="/wiki/Butyl_rubber" title="Butyl rubber">Butyl rubber</a> (as polyisobutylene succinimide, <a href="/wiki/Detergent" title="Detergent">detergent</a> to prevent fouling of <a href="/wiki/Diesel_engine" title="Diesel engine">diesel</a> <a class="mw-redirect" href="/wiki/Fuel_injector" title="Fuel injector">fuel injectors</a>)</li>
+<li><a href="/wiki/Picrate" title="Picrate">Picrate</a> improves combustion, increases <a class="mw-redirect" href="/wiki/Fuel_mileage" title="Fuel mileage">fuel mileage</a></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Racing_formulations">Racing formulations</span></h2>
+<ul>
+<li>
+<ul>
+<li><a href="/wiki/Nitromethane" title="Nitromethane">Nitromethane</a> can increase the <a href="/wiki/Cetane_number" title="Cetane number">cetane number</a> of diesel fuel, improving its combustion properties</li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">Nitrous oxide</a>, or simply <i><a class="mw-redirect" href="/wiki/Nitrous" title="Nitrous">nitrous</a></i>, is an <a class="mw-redirect" href="/wiki/Oxidizer" title="Oxidizer">oxidizer</a> used in <a href="/wiki/Auto_racing" title="Auto racing">auto racing</a></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Legislation">Legislation</span></h2>
+<h3><span class="mw-headline" id="United_States">United States</span></h3>
+<p>Fuel additives in the <a href="/wiki/United_States" title="United States">United States</a> are regulated under <a class="external text" href="http://www.law.cornell.edu/uscode/text/42/7545" rel="nofollow">section 211</a> of the <a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act</a> (as amended in January 1995). The <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">Environmental Protection Agency</a> (EPA) requires the registration of all fuel additives which are commercially distributed for use in highway motor vehicles in the <a href="/wiki/United_States" title="United States">United States</a>, and may require testing and ban harmful additives. The EPA also regularly reviews the health and net economic benefits of Clean Air Act policies.</p>
+<p>The act also requires <a class="new" href="/w/index.php?title=Deposit_control_additive&amp;action=edit&amp;redlink=1" title="Deposit control additive (page does not exist)">deposit control additives</a> (DCAs) be added to all gasolines. This type of additive is a <a href="/wiki/Detergent" title="Detergent">detergent</a> additive that acts as a cleansing agent in small passages in the <a href="/wiki/Carburetor" title="Carburetor">carburetor</a> or <a class="mw-redirect" href="/wiki/Fuel_injector" title="Fuel injector">fuel injectors</a>. This in turn serves to ensure a consistent <a class="mw-redirect" href="/wiki/Air-fuel_ratio" title="Air-fuel ratio">air and fuel mixture</a> that will contribute to better <a class="mw-redirect" href="/wiki/Gas_mileage" title="Gas mileage">gas mileage</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li>For additive metering see <a href="/wiki/Metering_pump" title="Metering pump">metering pumps</a></li>
+<li><a href="/wiki/Biobor" title="Biobor">Biobor</a> (microbicide)</li>
+<li><a href="/wiki/Oil_additive" title="Oil additive">Oil additive</a>, which describes some similar additives</li>
+<li><a href="/wiki/Top_Tier_Detergent_Gasoline" title="Top Tier Detergent Gasoline">Top Tier Detergent Gasoline</a></li>
+</ul>
+<h2></h2>
+<ul>
+<li>ARRC Auto Repair Reference Center. Point 5 Technologies. Accessed via EbscoHost on November 27, 2009</li>
+</ul>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4960716-0!*!0!!en!4!* and timestamp 20161105230506 and revision id 748032010
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

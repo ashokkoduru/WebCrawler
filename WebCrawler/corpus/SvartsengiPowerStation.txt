@@ -1,0 +1,42 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+
+<p><b>The Svartsengi Power Station</b> (<i>Svartsengi</i> (<small>Icelandic pronunciation: </small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_Icelandic" title="Help:IPA for Icelandic">[ˈsvar̥sˌɛi̯ɲcɪ]</a></span>); "black meadow" in <a href="/wiki/Icelandic_language" title="Icelandic language">Icelandic</a>) is a geothermal power plant, which is located in the Svartsengi geothermal field, about four km north of <a href="/wiki/Grindav%C3%ADk" title="Grindavík">Grindavík</a>, approximately 20 km SE of <a href="/wiki/Keflav%C3%ADk_International_Airport" title="Keflavík International Airport">Keflavík International Airport</a> and 45 km from Reykjavík. The electric power station was built in 1976 by the subsidiary of <a href="/wiki/Alterra_Power" title="Alterra Power">Alterra Power</a>, HS Orka and it was the world´s first geothermal power plant for electric power generation and hot water production for district heating.</p>
+<p>The power station, which consists of an area of 150 ha, was constructed in six sequent phases <i>(finished in 2008)</i>, in each phase they built a new power plant, so the generation capacity increased to 150 MWth for the district heating and the nameplate capacity to 75 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> for electricity power.</p>
+<p>Since the Svartsengi Power Station is the only heating system for the local district on the <a href="/wiki/Reykjanes" title="Reykjanes">Reykjanes Peninsula</a>, which pipes hot geothermal water to more than 21,000 households, it is considered one of the most important heating plants.</p>
+<p>This Geothermal Power Plant does not only produce hot water and energy, it also produces spin-offs: One of these side product is one of Iceland´s popular bathing resort, the <a href="/wiki/Blue_Lagoon_(geothermal_spa)" title="Blue Lagoon (geothermal spa)">Blue Lagoon</a> and another spin off is the first renewable methanol plant <a href="/wiki/Carbon_Recycling_International" title="Carbon Recycling International">Carbon Recycling International</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Geothermal_Power_Plant_details">Geothermal Power Plant details</span></h2>
+<p>In the beginning 1976, the Svartsengi Geothermal Power Plant was completely liquid-dominated, but it changed into a liquid dominated with a steam cap geothermal system.</p>
+<p>Today, it consists of 13 production boreholes connected to the six plants, eight of those wells are producing a mixture of steam and brine and the other five are shallow dry steam wells.</p>
+<p>It also possesses one of the largest Supervisory control and data acquisition (<a href="/wiki/SCADA" title="SCADA">SCADA</a>) in Iceland with the P-CIM monitors and the 50 substations, which include hot water/ cold water/ electricity distribution systems and 11 turbines and generators.</p>
+<h2><span class="mw-headline" id="Power_Plant_Units">Power Plant Units</span></h2>
+<p>Nowadays, the combined capacity of the Svartsengi Power Plant is 75 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> in electrical energy and 150 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> in thermal energy.</p>
+<p><b>Energy Plant 1</b>, with its two back-pressure turbines, was constructed in 1977 – 1979. It consisted of four thermal energy circuits, which produced 40 l/s of heating water and 50 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> energy for its own power needs, but today it is mostly out of action and only two circuits are in use, so the produced capacity is 25 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> of thermal energy.</p>
+<p><b>Energy Plant 2</b> was built in 1980 and it produces, with its three thermal energy exchange systems 225 l/s (3 x 75 l/s) of 90 °C (194 °F) hot water and 75 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> <i>(3 x 25 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a>)</i> energy.</p>
+<p><b>Energy Plant 3</b>, with its 6 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> counter-pressure steam turbines, is especially used for producing electricity. Each second 40 kg of 160 °C (320 °F) steam passes through the turbines with 5 bar pressure.</p>
+<p><b>Energy Plant 4</b>, with its seven 1.2 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> Isopentan Ormat turbines, was built in 1989-1992 to produce energy with 105 °C (221 °F) hot excess steam and low pressure steam from the other energy plants.</p>
+<p><b>Energy Plant 5</b> was built in 1999 to substitute the old energy plant 1 and to increase the energy and hot water, so the demand could be met. It produces with its 30 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> turbines and 75 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a> thermal energy exchange system, around 225 GWh per annum.</p>
+<p><b>Energy Plant 6</b> is a condenser plant with unique high pressure steam turbines and a total capacity of 30 <a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">MW</a>. It produces only electricity, which depends on the using of the district heating and the electrical use.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+
+<ul>
+<li><a href="/wiki/Geothermal_power_in_Iceland" title="Geothermal power in Iceland">Geothermal power in Iceland</a></li>
+<li><a href="/wiki/List_of_largest_power_stations_in_the_world" title="List of largest power stations in the world">List of largest power stations in the world</a></li>
+<li><a href="/wiki/Renewable_energy_in_Iceland" title="Renewable energy in Iceland">Renewable energy in Iceland</a></li>
+<li><a href="/wiki/List_of_power_stations_in_Iceland" title="List of power stations in Iceland">List of power stations in Iceland</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.rei.is/Projects/ReykjanesPeninsula/SvartsengiPowerPlant/" rel="nofollow">Official website</a></span></span></li>
+<li><a class="external text" href="http://islandsmyndir.is/html_skjol/annad/Virkjanir/Svartsengi_2010-12-11/index.html" rel="nofollow">Photogallery by islandsmyndir.is 2010-12-11</a></li>
+<li><a class="external text" href="http://islandsmyndir.is/html_skjol/annad/Virkjanir/Svartsengi-2010-05-11/index.html" rel="nofollow">Photogallery by islandsmyndir.is 2010-05-11</a></li>
+<li><a class="external text" href="http://islandsmyndir.is/html_skjol/annad/Virkjanir/Svartsengi-Inni-2013-01-21/index.html" rel="nofollow">Photogallery by islandsmyndir.is - 2013 Inside</a></li>
+<li><a class="external autonumber" href="http://www.datacenterdynamics.com/content-tracks/power-cooling/icelands-giant-geothermal-power-plants/94778.fullarticle" rel="nofollow">[1]</a></li>
+</ul>
+<h2></h2>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25651120-0!*!0!!en!4!* and timestamp 20161105004147 and revision id 728869793
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

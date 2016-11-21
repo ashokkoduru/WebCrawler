@@ -1,0 +1,700 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">This article is about modern movement architecture. For architecture in the present day, see <a href="/wiki/Contemporary_architecture" title="Contemporary architecture">contemporary architecture</a>.</div>
+
+
+<p><b>Modern architecture</b> or <b>modernist architecture</b> is a term applied to a group of styles of <a href="/wiki/Architecture" title="Architecture">architecture</a> which emerged in the first half of the 20th century and became dominant after <a href="/wiki/World_War_II" title="World War II">World War II</a>. It was based upon new technologies of construction, particularly the use of <a href="/wiki/Glass" title="Glass">glass</a>, <a href="/wiki/Steel" title="Steel">steel</a> and <a href="/wiki/Reinforced_concrete" title="Reinforced concrete">reinforced concrete</a>; and upon a rejection of the traditional <a href="/wiki/Neoclassical_architecture" title="Neoclassical architecture">neoclassical architecture</a> and <a href="/wiki/Beaux-Arts_architecture" title="Beaux-Arts architecture">Beaux-Arts</a> styles that were popular in the 19th century. </p>
+<p>Modern architecture continued a dominant architectural style for institutional and corporate buildings into the <a href="/wiki/21st_century" title="21st century">21st century</a>. Modernism eventually generated reactions, most notably <a href="/wiki/Postmodern_architecture" title="Postmodern architecture">Postmodernism</a> which sought to preserve pre-modern elements, while <a href="/wiki/Neomodern" title="Neomodern">"Neo-modernism"</a> has emerged as a reaction to Post-modernism.</p>
+<p>Notable architects important to the history and development of the modernist movement include <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a>, <a href="/wiki/Ludwig_Mies_van_der_Rohe" title="Ludwig Mies van der Rohe">Ludwig Mies van der Rohe</a>, <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a>, <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a>, <a href="/wiki/Konstantin_Melnikov" title="Konstantin Melnikov">Konstantin Melnikov</a>, <a href="/wiki/Erich_Mendelsohn" title="Erich Mendelsohn">Erich Mendelsohn</a>, <a href="/wiki/Joseph_Eichler" title="Joseph Eichler">Joseph Eichler</a>, <a href="/wiki/Richard_Neutra" title="Richard Neutra">Richard Neutra</a>, <a href="/wiki/Louis_Sullivan" title="Louis Sullivan">Louis Sullivan</a>, <a href="/wiki/Gerrit_Rietveld" title="Gerrit Rietveld">Gerrit Rietveld</a>, <a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a>, <a href="/wiki/Gunnar_Asplund" title="Gunnar Asplund">Gunnar Asplund</a>, <a href="/wiki/Arne_Jacobsen" title="Arne Jacobsen">Arne Jacobsen</a>, <a href="/wiki/Oscar_Niemeyer" title="Oscar Niemeyer">Oscar Niemeyer</a> and <a href="/wiki/Alvar_Aalto" title="Alvar Aalto">Alvar Aalto</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span></h2>
+
+
+<p>Common themes of modern architecture include:</p>
+<ul>
+<li>the notion that "<a href="/wiki/Form_follows_function" title="Form follows function">Form follows function</a>", a dictum originally expressed by <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a>'s early mentor <a href="/wiki/Louis_Sullivan" title="Louis Sullivan">Louis Sullivan</a>, meaning that the result of design should derive directly from its purpose</li>
+<li>simplicity and clarity of forms and elimination of "unnecessary detail"</li>
+<li>materials at 90 degrees to each other</li>
+<li>visual expression of structure (as opposed to the hiding of structural elements)</li>
+<li>the related concept of "<a href="/wiki/Truth_to_materials" title="Truth to materials">Truth to materials</a>", meaning that the true nature or natural appearance of a material ought to be seen rather than concealed or altered to represent something else</li>
+<li>use of industrially-produced materials; adoption of the machine aesthetic</li>
+<li>particularly in International Style modernism, a visual emphasis on horizontal and vertical lines</li>
+</ul>
+<h2><span class="mw-headline" id="Context">Context</span></h2>
+
+<p>There are multiple lenses through which the evolution of modern architecture may be viewed. Some historians see it as a social matter, closely tied to the project of <a href="/wiki/Modernity" title="Modernity">Modernity</a> and thus <a class="mw-redirect" href="/wiki/The_Enlightenment" title="The Enlightenment">the Enlightenment</a>. Modern architecture developed, in their opinion, as a result of social and political revolutions. Others see Modern architecture as primarily driven by technological and engineering developments. Still other historians regard Modernism as a matter of taste, a reaction against <a href="/wiki/Eclecticism_in_art" title="Eclecticism in art">eclecticism</a> and the lavish stylistic excesses of <a href="/wiki/Victorian_architecture" title="Victorian architecture">Victorian</a> and <a href="/wiki/Edwardian_architecture" title="Edwardian architecture">Edwardian architecture</a>.</p>
+<p>With the <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a>, the availability of newly-available building materials such as <a href="/wiki/Iron" title="Iron">iron</a>, <a href="/wiki/Steel" title="Steel">steel</a>, and <a class="mw-redirect" href="/wiki/Sheet_glass" title="Sheet glass">sheet glass</a> drove the invention of new building techniques. In 1796, <a href="/wiki/Shrewsbury" title="Shrewsbury">Shrewsbury</a> mill owner Charles Bage first used his '<a class="mw-redirect" href="/wiki/Fireproof" title="Fireproof">fireproof</a>' design, which relied on cast iron and brick with flag stone floors. Such construction greatly strengthened the structure of mills, which enabled them to accommodate much bigger machines. Due to poor knowledge of iron's properties as a construction material, a number of early mills collapsed. It was not until the early 1830s that <a href="/wiki/Eaton_Hodgkinson" title="Eaton Hodgkinson">Eaton Hodgkinson</a> introduced the <a href="/wiki/Section_beam" title="Section beam">section beam</a>, leading to widespread use of iron construction. This kind of austere <a href="/wiki/Industrial_architecture" title="Industrial architecture">industrial architecture</a> utterly transformed the landscape of northern Britain, leading to the description of places like <a href="/wiki/Manchester" title="Manchester">Manchester</a> and parts of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> as <a href="/wiki/And_did_those_feet_in_ancient_time#Satanic_Mills" title="And did those feet in ancient time">"Dark satanic mills"</a>. <a href="/wiki/The_Crystal_Palace" title="The Crystal Palace">The Crystal Palace</a> by <a href="/wiki/Joseph_Paxton" title="Joseph Paxton">Joseph Paxton</a> at the <a class="mw-redirect" href="/wiki/Great_Exhibition" title="Great Exhibition">Great Exhibition</a> of 1851 was an early example of iron and glass construction, followed in 1864 by the first glass and metal <a href="/wiki/Curtain_wall_(architecture)" title="Curtain wall (architecture)">curtain wall</a>. A further development was that of the steel-framed skyscraper in <a href="/wiki/Chicago" title="Chicago">Chicago</a> around 1890 by <a href="/wiki/William_Le_Baron_Jenney" title="William Le Baron Jenney">William Le Baron Jenney</a> and <a href="/wiki/Louis_Sullivan" title="Louis Sullivan">Louis Sullivan</a>.</p>
+<h2><span class="mw-headline" id="Early_modernism_in_Europe_.281900-1914.29">Early modernism in Europe (1900-1914)</span></h2>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Glasgow_School_of_Art" title="Glasgow School of Art">Glasgow School of Art</a> by <a class="mw-redirect" href="/wiki/Charles_Rennie_MacIntosh" title="Charles Rennie MacIntosh">Charles Rennie MacIntosh</a> (1896-99)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 102px">
+<div style="width: 102px">
+
+<div class="gallerytext">
+<p>Reinforced concrete apartment building by <a href="/wiki/Auguste_Perret" title="Auguste Perret">Auguste Perret</a>, Paris (1903)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Austrian_Postal_Savings_Bank" title="Austrian Postal Savings Bank">Austrian Postal Savings Bank</a> in Vienna by <a href="/wiki/Otto_Wagner" title="Otto Wagner">Otto Wagner</a> (1904-1906)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 206.66666666667px">
+<div style="width: 206.66666666667px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/AEG" title="AEG">AEG</a> Turbine factory by <a href="/wiki/Peter_Behrens" title="Peter Behrens">Peter Behrens</a> (1909)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Steiner_House" title="Steiner House">Steiner House</a> in Vienna by <a href="/wiki/Adolf_Loos" title="Adolf Loos">Adolf Loos</a> (1910)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Stoclet_Palace" title="Stoclet Palace">Stoclet Palace</a> by <a href="/wiki/Josef_Hoffmann" title="Josef Hoffmann">Josef Hoffmann</a>, Brussels, (1906-1911)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9es" title="Théâtre des Champs-Élysées">Théâtre des Champs-Élysées</a> in Paris by <a href="/wiki/Auguste_Perret" title="Auguste Perret">Auguste Perret</a> (1911-1913)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 114.66666666667px">
+<div style="width: 114.66666666667px">
+
+<div class="gallerytext">
+<p>Stepped concrete apartment building in Paris by <a href="/wiki/Henri_Sauvage" title="Henri Sauvage">Henri Sauvage</a> (1912-1914)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 252px">
+<div style="width: 252px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Fagus_Factory" title="Fagus Factory">Fagus Factory</a> in <a href="/wiki/Alfeld" title="Alfeld">Alfeld</a> by <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a> and <a href="/wiki/Adolf_Meyer_(architect)" title="Adolf Meyer (architect)">Adolf Meyer</a> (1911-13)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 166px">
+<div style="width: 166px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Glass_Pavilion" title="Glass Pavilion">Glass Pavilion</a> in <a href="/wiki/Cologne" title="Cologne">Cologne</a> by German architect <a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a> (1914)</p>
+</div>
+</div>
+</li>
+</ul>
+<p>At the end of the 19th century, a few architects began to challenge the traditional <a href="/wiki/Beaux-Arts_architecture" title="Beaux-Arts architecture">Beaux Arts</a> and <a href="/wiki/Neoclassical_architecture" title="Neoclassical architecture">Neoclassical</a> styles that dominated architecture in Europe and the United States. The <a href="/wiki/Glasgow_School_of_Art" title="Glasgow School of Art">Glasgow School of Art</a> 1896-99) designed by <a class="mw-redirect" href="/wiki/Charles_Rennie_MacIntosh" title="Charles Rennie MacIntosh">Charles Rennie MacIntosh</a>, had a facade dominated by large vertical bays of windows. The <a href="/wiki/Art_Nouveau" title="Art Nouveau">Art Nouveau</a> style was launched in the 1890s by <a href="/wiki/Victor_Horta" title="Victor Horta">Victor Horta</a> in Belgium and <a href="/wiki/Hector_Guimard" title="Hector Guimard">Hector Guimard</a> in France; it introduced new styles of decoration, based on vegetal and floral forms. In Barcelona, <a class="mw-redirect" href="/wiki/Antonio_Gaudi" title="Antonio Gaudi">Antonio Gaudi</a> conceived architecture as a form of sculpture; the facade of the <a class="mw-redirect" href="/wiki/Casa_Battlo" title="Casa Battlo">Casa Battlo</a> in <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a> (1904-1907) had no straight lines; it was encrusted with colorful mosaics of stone and ceramic tiles </p>
+<p>Architects also began to experiment with new materials and techniques, which gave them greater freedom to create new forms. In 1903-1904 in Paris <a href="/wiki/Auguste_Perret" title="Auguste Perret">Auguste Perret</a> and <a href="/wiki/Henri_Sauvage" title="Henri Sauvage">Henri Sauvage</a> began to use <a href="/wiki/Reinforced_concrete" title="Reinforced concrete">reinforced concrete</a>, previously only used for industrial structures, to build apartment buildings. Reinforced concrete, which could be molded into any shape, and which could create enormous spaces without the need of supporting pillars, replaced stone and brick as the primary material for modernist architects. The first concrete apartment buildings by Perret and Sauvage were covered with ceramic tiles, but in 1905 Perret built the first concrete parking garage on 51 rue de Ponthieu in Paris; here the concrete was left bare, and the space between the concrete was filled with glass windows. <a href="/wiki/Henri_Sauvage" title="Henri Sauvage">Henri Sauvage</a> added another construction innovation in an apartment building on Rue Vavin in Paris (1912-1914); the reinforced concrete building was in steps, with each floor set back from the floor below, creating a series of terraces. Between 1910 and 1913, Auguste Perret built the <a href="/wiki/Th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9es" title="Théâtre des Champs-Élysées">Théâtre des Champs-Élysées</a>, a masterpiece of reinforced concrete construction, with Art Deco sculptural bas-reliefs on he facade by <a href="/wiki/Antoine_Bourdelle" title="Antoine Bourdelle">Antoine Bourdelle</a>. Because of the concrete construction, no columns blocked the spectator's view of the stage. </p>
+<p><a href="/wiki/Otto_Wagner" title="Otto Wagner">Otto Wagner</a>, in Vienna, was another pioneer of the new style. In his book <i>Moderne Arkchtekture</i> (1895) he had called for a more rationalist style of architecture, based on "modern life". He designed a stylized ornamental metro station at <a href="/wiki/Karlsplatz" title="Karlsplatz">Karlsplatz</a> in Vienna (1888-89), then an ornamental <a href="/wiki/Art_Nouveau" title="Art Nouveau">Art Nouveau</a> residence, Majolika House (1898), before moving to a much more geometric and simplified style, without ornament, in the <a href="/wiki/Austrian_Postal_Savings_Bank" title="Austrian Postal Savings Bank">Austrian Postal Savings Bank</a> (1904-1906). Wagner declared his intention to express the function of the building in its exterior. The reinforced concrete exterior was covered with plaques of marble attached with bolts of polished aluminum. The interior was purely functional and spare, a large open space of steel, glass and concrete where the only decoration was the structure itself. .</p>
+<p>The Viennese architect <a href="/wiki/Adolf_Loos" title="Adolf Loos">Adolf Loos</a> also began removing any ornament from his buildings. His <a href="/wiki/Steiner_House" title="Steiner House">Steiner House</a>, in Vienna (1910), was an example of what he called <a class="mw-redirect" href="/wiki/Rationalist_architecture" title="Rationalist architecture">rationalist architecture</a>; it had a simple stucco rectangual facade with square windows and no ornament. . The fame of the new movement, which became known as the <a href="/wiki/Vienna_Secession" title="Vienna Secession">Vienna Secession</a> spread beyond Austria. <a href="/wiki/Josef_Hoffmann" title="Josef Hoffmann">Josef Hoffmann</a>, a student of Wagner, constructed a landmark of early modernist architecture, the <a class="mw-redirect" href="/wiki/Palais_Stoclet" title="Palais Stoclet">Palais Stoclet</a>, in Brussels, in 1906-1911. This residence, built of brick covered with Norwegian marble, was composed of geometric blocks, wings and a tower. A large pool in front of the house reflected its cubic forms. The interior was decorated with paintings by <a href="/wiki/Gustav_Klimt" title="Gustav Klimt">Gustav Klimt</a> and other artists, and the architect even designed clothing for the family to match the architecture.</p>
+<p>In Germany, a modernist industrial movement, <a href="/wiki/Deutscher_Werkbund" title="Deutscher Werkbund">Deutscher Werkbund</a> (German Work Federation) had been created in Munich in 1907 by <a href="/wiki/Hermann_Muthesius" title="Hermann Muthesius">Hermann Muthesius</a>, a prominent architectural commentator. Its goal was to bring together designers and industrialists, to turn out well-designed, high quality products, and in the process to invent a new type of architecture.  The organization originally included twelve architects and twelve business firms, but quickly expanded. The architects include <a href="/wiki/Peter_Behrens" title="Peter Behrens">Peter Behrens</a>, <a class="mw-redirect" href="/wiki/Theodor_Fischer" title="Theodor Fischer">Theodor Fischer</a> (who served as its first president), <a href="/wiki/Josef_Hoffmann" title="Josef Hoffmann">Josef Hoffmann</a> and <a href="/wiki/Richard_Riemerschmid" title="Richard Riemerschmid">Richard Riemerschmid</a>.  In 1909 Behrens designed one of the earliest and most influential industrial buildings in the modernist style, the AEG turbine factory, a functional monument of steel and concrete. In 1911-1913, <a href="/wiki/Adolf_Meyer_(architect)" title="Adolf Meyer (architect)">Adolf Meyer</a> and <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a>, who had both worked for Behrens, built another revolutionary industrial plant, the Fagus factory in Alfeld an der Leine, a building without ornament where every construction element was on display. The Werkbund organized a major exposition of modernist design in Cologne just a few weeks before the outbreak of the First World War in August 1914. For the 1914 Cologne exhibition, <a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a> built a revolutionary glass pavilion..</p>
+<h2><span class="mw-headline" id="Early_American_modernism_.281900-1914.29">Early American modernism (1900-1914)</span></h2>
+<div class="hatnote" role="note">See also: <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a>, <a href="/wiki/Joseph_Eichler" title="Joseph Eichler">Joseph Eichler</a>, and <a href="/wiki/Richard_Neutra" title="Richard Neutra">Richard Neutra</a></div>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 244.66666666667px">
+<div style="width: 244.66666666667px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/William_H._Winslow_House" title="William H. Winslow House">William H. Winslow House</a>, by Frank Lloyd Wright, Oak Park, Illinois (1893-94)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Arthur_Heurtley_House" title="Arthur Heurtley House">Arthur Heurtley House</a> in Oak Park, Illinois (1902)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 189.33333333333px">
+<div style="width: 189.33333333333px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Larkin_Administration_Building" title="Larkin Administration Building">Larkin Administration Building</a> by <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a>, <a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo, New York</a> (1904-1906)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 101.33333333333px">
+<div style="width: 101.33333333333px">
+
+<div class="gallerytext">
+<p>Interior of <a href="/wiki/Unity_Temple" title="Unity Temple">Unity Temple</a> by <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a>, <a href="/wiki/Oak_Park,_Illinois" title="Oak Park, Illinois">Oak Park</a>, Illinois (1905-1908)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Robie_House" title="Robie House">Robie House</a> by <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a>, <a href="/wiki/Chicago" title="Chicago">Chicago</a> (1909)</p>
+</div>
+</div>
+</li>
+</ul>
+<p><a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a> was a highly original and independent American architect who refused to be categorized in any one architectural movement. Like <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a> and <a class="mw-redirect" href="/wiki/Mies_Van_der_Rohe" title="Mies Van der Rohe">Mies Van der Rohe</a>, he had no formal architectural training. In 1887-93 he worked in the Chicago office of <a href="/wiki/Louis_Sullivan" title="Louis Sullivan">Louis Sullivan</a>, who pioneered the first tall steel-frame office buildings in Chicago, and who famously stated "form follows function."  Wright set out to break all the traditional rules. Wright was particularly famous for his <a class="mw-redirect" href="/wiki/Prairie_Houses" title="Prairie Houses">Prairie Houses</a>, including the <a href="/wiki/Winslow_House_(River_Forest,_Illinois)" title="Winslow House (River Forest, Illinois)">Winslow House</a> in <a href="/wiki/River_Forest,_Illinois" title="River Forest, Illinois">River Forest, Illinois</a>(1893-94),;<a href="/wiki/Arthur_Heurtley_House" title="Arthur Heurtley House">Arthur Heurtley House</a> (1902) and <a href="/wiki/Robie_House" title="Robie House">Robie House</a> (1909); sprawling, geometric residences without decoration, with strong horizontal lines which seemed to grow out of the earth, and which echoed the wide flat spaces of the American prairie. His <a href="/wiki/Larkin_Administration_Building" title="Larkin Administration Building">Larkin Building</a> (1904-1906) in <a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo, New York</a>, <a href="/wiki/Unity_Temple" title="Unity Temple">Unity Temple</a> (1905) in <a href="/wiki/Oak_Park,_Illinois" title="Oak Park, Illinois">Oak Park, Illinois</a> and <a href="/wiki/Unity_Temple" title="Unity Temple">Unity Temple</a> had highly original forms and no connection with historical precedents. </p>
+<h3><span class="mw-headline" id="The_Birth_of_the_skyscraper">The Birth of the skyscraper</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Early_skyscrapers" title="Early skyscrapers">Early skyscrapers</a></div>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 99.333333333333px">
+<div style="width: 99.333333333333px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Home_Insurance_Building" title="Home Insurance Building">Home Insurance Building</a> in Chicago by <a href="/wiki/William_Le_Baron_Jenney" title="William Le Baron Jenney">William Le Baron Jenney</a> (1883}</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 108.66666666667px">
+<div style="width: 108.66666666667px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Prudential_(Guaranty)_Building" title="Prudential (Guaranty) Building">Prudential (Guaranty) Building</a> by <a href="/wiki/Louis_Sullivan" title="Louis Sullivan">Louis Sullivan</a> in <a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo, New York</a> (1896)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 117.33333333333px">
+<div style="width: 117.33333333333px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Flatiron_Building" title="Flatiron Building">Flatiron Building</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a> (1903)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 118px">
+<div style="width: 118px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Carson,_Pirie,_Scott_and_Company_Building" title="Carson, Pirie, Scott and Company Building">Carson, Pirie, Scott and Company Building</a> in Chicago by <a href="/wiki/Louis_Sullivan" title="Louis Sullivan">Louis Sullivan</a> (1904-1906)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 242px">
+<div style="width: 242px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Woolworth_Building" title="Woolworth Building">Woolworth Building</a> and the New York skyline in 1913. It was modern on the inside but <a class="mw-redirect" href="/wiki/Neo-Gothic" title="Neo-Gothic">neo-Gothic</a> on the outside.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 121.33333333333px">
+<div style="width: 121.33333333333px">
+
+<div class="gallerytext">
+<p>The neo-Gothic crown of the <a href="/wiki/Woolworth_Building" title="Woolworth Building">Woolworth Building</a> by <a href="/wiki/Cass_Gilbert" title="Cass Gilbert">Cass Gilbert</a> (1912)</p>
+</div>
+</div>
+</li>
+</ul>
+<p>At the end of the 19th century, the first <a class="mw-redirect" href="/wiki/Skyscrapers" title="Skyscrapers">skyscrapers</a> began to appear in the United States. They were a response to the shortage of land and high cost of real estate in the center of the fast-growing American cities, and the availability of new technologies, including fireproof steel frames and improvements in the safety <a href="/wiki/Elevator" title="Elevator">elevator</a> invented by <a href="/wiki/Elisha_Otis" title="Elisha Otis">Elisha Otis</a> in 1852. The first steel-framed "skyscraper", The <a href="/wiki/Home_Insurance_Building" title="Home Insurance Building">Home Insurance Building</a> in Chicago, was ten stories high. It was designed by <a href="/wiki/William_Le_Baron_Jenney" title="William Le Baron Jenney">William Le Baron Jenney</a> in 1883, and was briefly the tallest building in the world. It was surpassed by the <a href="/wiki/Home_Insurance_Building" title="Home Insurance Building">Home Insurance Building</a> of <a href="/wiki/Louis_Sullivan" title="Louis Sullivan">Louis Sullivan</a> in <a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo, New York</a>. sullivan built another monumental new structure, the <a href="/wiki/Carson,_Pirie,_Scott_and_Company_Building" title="Carson, Pirie, Scott and Company Building">Carson, Pirie, Scott and Company Building</a>, in the heart of Chicago in 1904-06. While these buildings were revolutionary in their steel frames and height, the designs of their facades were in the more traditional neo-renaissance, <a class="mw-redirect" href="/wiki/Neo-Gothic" title="Neo-Gothic">Neo-Gothic</a> and <a href="/wiki/Beaux-Arts_architecture" title="Beaux-Arts architecture">Beaux-Arts architecture</a>. The <a href="/wiki/Woolworth_Building" title="Woolworth Building">Woolworth Building</a>, designed by <a href="/wiki/Cass_Gilbert" title="Cass Gilbert">Cass Gilbert</a>, was completed in 1912, and was the tallest building in the world until the completion of the <a href="/wiki/Chrysler_Building" title="Chrysler Building">Chrysler Building</a> in 1929. Its exterior was in the <a class="mw-redirect" href="/wiki/Neo-Gothic" title="Neo-Gothic">Neo-Gothic</a> style, complete with decorative buttresses, arches and spires, which caused it be be nicknamed the "Cathedral of Commerce." </p>
+<h2><span class="mw-headline" id="The_Rise_of_Modernism_.281919-1930.29">The Rise of Modernism (1919-1930)</span></h2>
+<p>After the first World War, a prolonged struggle began between architects who favored the more traditional styles of <a class="mw-redirect" href="/wiki/Neo-classicism" title="Neo-classicism">neo-classicism</a> and the <a href="/wiki/Beaux-Arts_architecture" title="Beaux-Arts architecture">Beaux-Arts architecture</a> style, and the modernists, led by <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a> and <a href="/wiki/Robert_Mallet-Stevens" title="Robert Mallet-Stevens">Robert Mallet-Stevens</a> in France, <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a> and <a class="mw-redirect" href="/wiki/Mies_Van_Der_Rohe" title="Mies Van Der Rohe">Mies Van Der Rohe</a> in Germany, and <a href="/wiki/Konstantin_Melnikov" title="Konstantin Melnikov">Konstantin Melnikov</a> in the new <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>, who wanted only pure forms and the elimination of any decoration. <a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a> architects such as <a href="/wiki/Auguste_Perret" title="Auguste Perret">Auguste Perret</a> and <a href="/wiki/Henri_Sauvage" title="Henri Sauvage">Henri Sauvage</a> often made a compromise between the two, combining modernist forms and stylized decoration.</p>
+<h3><span class="mw-headline" id="Le_Corbusier_and_Mallet-Stevens">Le Corbusier and Mallet-Stevens</span></h3>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 227.33333333333px">
+<div style="width: 227.33333333333px">
+
+<div class="gallerytext">
+<p>The Villa La Roche-Jeanerette (now <a href="/wiki/Fondation_Le_Corbusier" title="Fondation Le Corbusier">Fondation Le Corbusier</a>) by <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a>, Paris (1923-24)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 209.33333333333px">
+<div style="width: 209.33333333333px">
+
+<div class="gallerytext">
+<p>Corbusier Haus in Weissenhof Estate, Stuttgart, Germany (1927)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 227.33333333333px">
+<div style="width: 227.33333333333px">
+
+<div class="gallerytext">
+<p>Citrohan Haus in Weissenhof Estate, Stuttgart, Germany by Le Corbusier (1927)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Villa_Savoye" title="Villa Savoye">Villa Savoye</a> in <a href="/wiki/Poissy" title="Poissy">Poissy</a> by Le Corbusier (1928-31)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 228px">
+<div style="width: 228px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Villa_Paul_Poiret" title="Villa Paul Poiret">Villa Paul Poiret</a> by <a href="/wiki/Robert_Mallet-Stevens" title="Robert Mallet-Stevens">Robert Mallet-Stevens</a> (1921-1925)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>The <a class="new" href="/w/index.php?title=Villa_Noilles&amp;action=edit&amp;redlink=1" title="Villa Noilles (page does not exist)">Villa Noilles</a> in <a class="mw-redirect" href="/wiki/Hyeres" title="Hyeres">Hyeres</a> by Robert Mallet-Stevens (1923)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>Hôtel Martel rue Mallet-Stevens, by <a href="/wiki/Robert_Mallet-Stevens" title="Robert Mallet-Stevens">Robert Mallet-Stevens</a> (1926-1927)</p>
+</div>
+</div>
+</li>
+</ul>
+<p>The dominant figure in the rise of modernism in France was Charles-Édouard Jeanneret, a Swiss-French architect who in 1920 took the name <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a>. In 1920 he co-founded a journal called '<i>L'Espirit Nouveau</i> and energetically promoted architecture that was functional, pure, and free of any decoration or historical associations. He was also a passionate advocate of a new urbanism, based on planned cities. In 1922 he presented a design of a city for three million people, whose inhabitants lived in identical sixty-story tall skyscrapers surrounded by open parkland. He designed modular houses, which would be mass-produced on the same plan and assembled into apartment blocks, neighborhoods and cities. In 1923 he published "Toward an Architecture", with his famous slogan, "a machine is a house to live in."  He tirelessly promoted his ideas through slogans, articles, books, conferences, and participation in Expositions.</p>
+<p>To illustrate his ideas, in the 1920s he built a series of houses and villas in and around Paris. They were all built according to a common system, based upon the use of reinforced concrete, and of reinforced concrete pylons in the interior which supported the structure, allowing glass curtain walls on the facade and open floor plans, independent of the structure. They were always white, and had no ornament or decoration on the outside or inside. The best-known of these houses was the <a href="/wiki/Villa_Savoye" title="Villa Savoye">Villa Savoye</a>, built in 1928-1931 in the Paris suburb of <a href="/wiki/Poissy" title="Poissy">Poissy</a>. An elegant white box wrapped with a ribbon of glass windows around on the facade, with living space that opened upon an interior garden and countryside around, raised up by a row of white pylons in the center of a large lawn, it became an icon of modernist architecture.</p>
+<h3><span class="mw-headline" id="The_Bauhaus_and_the_German_Werkbund">The Bauhaus and the German Werkbund</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a></div>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 204.66666666667px">
+<div style="width: 204.66666666667px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> school building at <a href="/wiki/Dessau" title="Dessau">Dessau, Germany</a>, designed by <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a> (1926)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>A Bauhaus design for a worker's apartment, by <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a> (1928-30)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 226px">
+<div style="width: 226px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Barcelona_Pavilion" title="Barcelona Pavilion">Barcelona Pavilion</a> (modern reconstruction) by <a class="mw-redirect" href="/wiki/Mies_van_de_Rohe" title="Mies van de Rohe">Mies van de Rohe</a> (1929)</p>
+</div>
+</div>
+</li>
+</ul>
+<p>In Germany, two important modernist movements appeared after the first World War, The <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> was a school organized <a href="/wiki/Weimar" title="Weimar">Weimar</a> in 1919 under the direction of <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a>. Gropius was the son of the official state architect of Berlin, who studied before the war with <a href="/wiki/Peter_Behrens" title="Peter Behrens">Peter Behrens</a>, and designed the modernist Fagus turbine factory. The Bauhaus was a fusion of the prewar Academy of Arts and the school of technology. In 1926 it was transferred from Weimar to Dessau; Gropius designed the new school and student dormitories in the new, purely functional modernist style he was encouraging. The school brought together modernists in all fields; the faculty included the modernist painters <a class="mw-redirect" href="/wiki/Vasily_Kandinsky" title="Vasily Kandinsky">Vasily Kandinsky</a> <a href="/wiki/Josef_Albers" title="Josef Albers">Joseph Albers</a> and <a href="/wiki/Paul_Klee" title="Paul Klee">Paul Klee</a>, and the designer <a href="/wiki/Marcel_Breuer" title="Marcel Breuer">Marcel Breuer</a>.</p>
+<p>Gropius became an important theorist of modernism, writing ‘’The Idea and Construction’’ in 1923. He was an advocate of standardization in architecture, and the mass construction of rationally-designed apartment blocks for factory workers. In 1928 he was commissioned by the <a href="/wiki/Siemens" title="Siemens">Siemens</a> company to build apartment for workers in the suburbs of Berlin, and in 1929 the proposed the construction of clusters of slender eight to ten story high rise apartment towers for workers.</p>
+<p>While Gropius was active at the Bauhaus, <a href="/wiki/Ludwig_Mies_van_der_Rohe" title="Ludwig Mies van der Rohe">Ludwig Mies van der Rohe</a> led the modernist architectural movement in Berlin. Inspired by the <a href="/wiki/De_Stijl" title="De Stijl">De Stijl</a> movement in the Netherlands, he build clusters of concrete summer houses and proposed a project for a glass office tower. He became the vice president of the German ‘’Werkbund’’, and became the head of the Bauhaus from 1930t to 1932. proposing a wide variety of modernist plans for urban reconstruction. His most famous modernist work was the German pavilion for the 1929 international exposition in Barcelona. It was a work of pure modernism, with glass and concrete walls and clean, horizontal lines. Though it was only a temporary structure, and was torn down in 1930, it became, along with Le Corbusier’s <a href="/wiki/Villa_Savoye" title="Villa Savoye">Villa Savoye</a>, one of best-known landmarks of modernist architecture. A reconstructed version now stands on the original site in Barcelona. </p>
+<p>When the Nazis came to power in Germany, they viewed the Bauhaus as a training ground for communists, and closed the school in 1932. Gropius left Germany and went to England, then to the United States. He and Marel Breuer where he and <a href="/wiki/Marcel_Breuer" title="Marcel Breuer">Marcel Breuer</a> both joined the faculty of the <a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a>, and became the teachers of a generation of American postwar architects. In 1937 Mies Van der Rohe also moved to the United States,he became one of the most famous designers of postwar American skyscrapers. </p>
+<h3><span class="mw-headline" id="Expressionism">Expressionism</span></h3>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 111.33333333333px">
+<div style="width: 111.33333333333px">
+
+<div class="gallerytext">
+<p>Foyer of the Großes Schauspielhaus, or Great Theater, in Berlin by <a href="/wiki/Hans_Poelzig" title="Hans Poelzig">Hans Poelzig</a> (1919)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Einstein_Tower" title="Einstein Tower">Einstein Tower</a> by <a href="/wiki/Erich_Mendelsohn" title="Erich Mendelsohn">Erich Mendelsohn</a> (1920-24)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 157.33333333333px">
+<div style="width: 157.33333333333px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Mossehaus" title="Mossehaus">Mossehaus</a> in Berlin by <a href="/wiki/Erich_Mendelsohn" title="Erich Mendelsohn">Erich Mendelsohn</a>, an early example of streamline moderne (1921-23)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 104px">
+<div style="width: 104px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Chilehaus" title="Chilehaus">Chilehaus</a> in <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a> by <a class="mw-redirect" href="/wiki/Fritz_H%C3%B6ger" title="Fritz Höger">Fritz Höger</a> (1921-24)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 229.33333333333px">
+<div style="width: 229.33333333333px">
+
+<div class="gallerytext">
+<p>Horseshoe-shaped public housing project by <a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a> (1925)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 373.33333333333px">
+<div style="width: 373.33333333333px">
+
+<div class="gallerytext">
+<p>The main building of <a class="mw-redirect" href="/wiki/Goethe_University" title="Goethe University">Goethe University</a>, originally the <a href="/wiki/IG_Farben_Building" title="IG Farben Building">IG Farben Building</a> in <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a>, designed by <a href="/wiki/Hans_Poelzig" title="Hans Poelzig">Hans Poelzig</a> (1928-30)</p>
+</div>
+</div>
+</li>
+</ul>
+<p><a href="/wiki/Expressionism" title="Expressionism">Expressionism</a>, which appeared in Germany between 1910 and 1925, was a counter-movement against the strictly functional architecture of the Bauhaus and Werkbund. Its advocates, including <a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a>, <a href="/wiki/Hans_Poelzig" title="Hans Poelzig">Hans Poelzig</a>, <a class="mw-redirect" href="/wiki/Fritz_Hoger" title="Fritz Hoger">Fritz Hoger</a> and <a href="/wiki/Erich_Mendelsohn" title="Erich Mendelsohn">Erich Mendelsohn</a>, wanted to create architecture that was poetic, expressive, and optimistic. Mendelsohn (who rejected the term) designed churches, silos, observatories and factories which were highly imaginative, but were never built. In 1920, he finally was able to construct one of his works in the city of Potsdam; an observatory and research center called the <a href="/wiki/Einsteinium" title="Einsteinium">Einsteinium</a>, named in tribute to <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a>. It was supposed to be built of reinforced concrete, but because of technical problems it was finally built of traditional materials covered with plaster. His sculptural form, very different from the austere rectangular forms of the Bauhaus, first won him commissions to build movie theaters and retail stores. His <a href="/wiki/Mossehaus" title="Mossehaus">Mossehaus</a> in Berlin was an early model for the <a class="mw-redirect" href="/wiki/Streamline_moderne" title="Streamline moderne">streamline moderne</a> style. <a class="mw-redirect" href="/wiki/Fritz_H%C3%B6ger" title="Fritz Höger">Fritz Höger</a> was another notable Expressionist architect of the period. His <a href="/wiki/Chilehaus" title="Chilehaus">Chilehaus</a> was built as the headquarters of a shipping company, and was modeled after a giant steamship, a triangual building with a sharply pointed bow. It was constructed of dark brick, and used external piers to express its vertical structure. Its external decoration borrowed from Gothic cathedrals, as did its internal arcades. <a href="/wiki/Hans_Poelzig" title="Hans Poelzig">Hans Poelzig</a> was another notable expressionist architect. In 1919 he built the <i><a href="/wiki/Gro%C3%9Fes_Schauspielhaus" title="Großes Schauspielhaus">Großes Schauspielhaus</a></i>, an immense theater in Berlin, seating five thousand spectators for theater impresario <a href="/wiki/Max_Reinhardt" title="Max Reinhardt">Max Reinhardt</a>. It featured elongated shapes like stalagmites hanging down from its gigantic dome, and lights on massive columns in its foyer. He also constructed the <a class="mw-redirect" href="/wiki/IG_Farben_building" title="IG Farben building">IG Farben building</a>, a massive corporate headquarters, now the main building of <a class="mw-redirect" href="/wiki/Goethe_University" title="Goethe University">Goethe University</a> in Frankfurt. <a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a> specialized in building large scale apartment complexes for working-class Berliners. He built twelve thousand individual units, sometimes in buildings with unusual shapes, such as a giant horseshoe. Unlike most other modernists, he used bright exterior colors to give his buildings more life.</p>
+<p>Making notable use of sculptural forms and the novel use of concrete as artistic elements, examples include <a href="/wiki/Rudolf_Steiner" title="Rudolf Steiner">Rudolf Steiner</a>'s <a href="/wiki/Goetheanum" title="Goetheanum">Second Goetheanum</a>, built from 1926 near <a href="/wiki/Basel" title="Basel">Basel</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> and the <a class="mw-redirect" href="/wiki/Einsteinturm" title="Einsteinturm">Einsteinturm</a> in Potsdam, Germany. The style was characterised by an early-<a class="mw-redirect" href="/wiki/Modernist_architecture" title="Modernist architecture">modernist</a> adoption of novel materials, formal innovation, and very unusual massing, sometimes inspired by natural biomorphic forms, sometimes by the new technical possibilities offered by the mass production of brick, steel and especially glass. Many expressionist architects fought in World War I and their experiences, combined with the political turmoil and social upheaval that followed the <a class="mw-redirect" href="/wiki/German_Revolution" title="German Revolution">German Revolution</a> of 1919, resulted in a utopian outlook and a romantic socialist agenda. Economic conditions severely limited the number of built commissions between 1914 and the mid-1920s, resulting in many of the most important expressionist works remaining as projects on paper, such as <a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a>'s <i>Alpine Architecture</i> and <a href="/wiki/Hermann_Finsterlin" title="Hermann Finsterlin">Hermann Finsterlin</a>'s <i>Formspiels</i>. Ephemeral exhibition buildings were numerous and highly significant during this period. <a href="/wiki/Scenography" title="Scenography">Scenography</a> for theatre and films provided another outlet for the expressionist imagination, and provided supplemental incomes for designers attempting to challenge conventions in a harsh economic climate. A particular type, using bricks to create its forms (rather than concrete) is known as <a href="/wiki/Brick_Expressionism" title="Brick Expressionism">Brick Expressionism</a>.</p>
+<h3><span class="mw-headline" id="Russian_Constructivism">Russian Constructivism</span></h3>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 114px">
+<div style="width: 114px">
+
+<div class="gallerytext">
+<p>Model of the Tower for the Third International, by <a href="/wiki/Vladimir_Tatlin" title="Vladimir Tatlin">Vladimir Tatlin</a> (1919)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 248px">
+<div style="width: 248px">
+
+<div class="gallerytext">
+<p>the <a class="mw-redirect" href="/wiki/Lenin_Mausoleum" title="Lenin Mausoleum">Lenin Mausoleum</a> in Moscow by <a href="/wiki/Alexey_Shchusev" title="Alexey Shchusev">Alexey Shchusev</a> (1924)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 111.33333333333px">
+<div style="width: 111.33333333333px">
+
+<div class="gallerytext">
+<p>The USSR Pavilion at the 1925 Paris Exposition of Decorative Arts, by <a href="/wiki/Konstantin_Melnikov" title="Konstantin Melnikov">Konstantin Melnikov</a> (1925)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>Rusakov Workers' Club, Moscow, by <a href="/wiki/Konstantin_Melnikov" title="Konstantin Melnikov">Konstantin Melnikov</a> (1928)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202px">
+<div style="width: 202px">
+
+<div class="gallerytext">
+<p>Derzhprom (the House of Industry), Kharkiv, by Sergey Serafimovich, Samul Kravets and Marc Felger (1928)</p>
+</div>
+</div>
+</li>
+</ul>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Constructivist_architecture" title="Constructivist architecture">Constructivist architecture</a></div>
+<p>After the <a href="/wiki/Russian_Revolution" title="Russian Revolution">Russian Revolution</a> of 1917, Russian avant-garde artists and architects began searching for a new Soviet style which could replace traditional neoclassicism. The new architectural movements were closely tied with the literary and artistic movements of the period, the <a href="/wiki/Futurism" title="Futurism">futurism</a> of poet <a class="mw-redirect" href="/wiki/Vladimir_Mayakovskiy" title="Vladimir Mayakovskiy">Vladimir Mayakovskiy</a>, the <a href="/wiki/Suprematism" title="Suprematism">Suprematism</a> of painter <a class="mw-redirect" href="/wiki/Kasimir_Malevich" title="Kasimir Malevich">Kasimir Malevich</a>, and the colorful <a href="/wiki/Rayonism" title="Rayonism">Rayonism</a> of painter <a href="/wiki/Mikhail_Larionov" title="Mikhail Larionov">Mikhail Larionov</a>. The most most startling design that emerged was the tower proposed by painter and sculptor <a href="/wiki/Vladimir_Tatlin" title="Vladimir Tatlin">Vladimir Tatlin</a> for the Moscow meeting of the Third <a href="/wiki/Communist_International" title="Communist International">Communist International</a> in 1920: he proposed two interlaced towers of of metal four hundred meters high, with four geometric volumes suspended from cables. The movement of Russian <a href="/wiki/Constructivist_architecture" title="Constructivist architecture">Constructivist architecture</a> was launched in 1921 by a group of artists led by <a class="mw-redirect" href="/wiki/Aleksandr_Rodchenko" title="Aleksandr Rodchenko">Aleksandr Rodchenko</a>. Their manifesto proclaimed that their goal was to find the "communist expression of material structures." Soviet architects began to construct workers' clubs, communal apartment houses, and communal kitchens for feeding whole neighborhoods. </p>
+<p>One of the first prominent constructivist architects to emerge in Moscow was <a href="/wiki/Konstantin_Melnikov" title="Konstantin Melnikov">Konstantin Melnikov</a>,the number of working clubs - including <a href="/wiki/Rusakov_Workers%27_Club" title="Rusakov Workers' Club">Rusakov Workers' Club</a> (1928) - and his own living house, <a class="mw-redirect" href="/wiki/Melnikov_House" title="Melnikov House">Melnikov House</a> (1929) near <a href="/wiki/Arbat_Street" title="Arbat Street">Arbat Street</a> in <a href="/wiki/Moscow" title="Moscow">Moscow</a>. Melnikov traveled to Paris in 1925 where he built the Soviet Pavilion for the <a href="/wiki/International_Exhibition_of_Modern_Decorative_and_Industrial_Arts" title="International Exhibition of Modern Decorative and Industrial Arts">International Exhibition of Modern Decorative and Industrial Arts</a> in Paris in 1925; it was a highly geometric vertical construction of glass and steel crossed by a diagonal stairway, and crowned with a hammer and sickle. The leading group of constructivist architects, led by <a href="/wiki/Vesnin_brothers" title="Vesnin brothers">Vesnin brothers</a> and <a href="/wiki/Moisei_Ginzburg" title="Moisei Ginzburg">Moisei Ginzburg</a>, was publishing the 'Contemporary Architecture' journal. This group created several major constructivist projects in the wake of the First Five Year Plan - including colossal <a href="/wiki/Dnieper_Hydroelectric_Station" title="Dnieper Hydroelectric Station">Dnieper Hydroelectric Station</a> (1932) - and made an attempt to start the standardization of living blocks with Ginzburg's <a href="/wiki/Narkomfin_building" title="Narkomfin building">Narkomfin building</a>. A number of architects from the pre-Soviet period also took up the constructivist style. The most famous example was <a href="/wiki/Lenin%27s_Mausoleum" title="Lenin's Mausoleum">Lenin's Mausoleum</a> in Moscow (1924), by <a href="/wiki/Alexey_Shchusev" title="Alexey Shchusev">Alexey Shchusev</a> (1924)</p>
+<p>The main centers of constructivist architecture were Moscow and Leningrad; however, during the industrialization lots of constructivist buildings were erected in provincial cities. The regional industrial centers, including <a href="/wiki/Yekaterinburg" title="Yekaterinburg">Ekaterinburg</a>, <a href="/wiki/Kharkiv" title="Kharkiv">Kharkiv</a> or <a href="/wiki/Ivanovo" title="Ivanovo">Ivanovo</a>, were rebuilt in the constructivist manner; some cities, like <a href="/wiki/Magnitogorsk" title="Magnitogorsk">Magnitogorsk</a> or <a href="/wiki/Zaporizhia" title="Zaporizhia">Zaporizhia</a>, were constructed anew (the so-called <i>socgorod</i>, or 'socialist city').</p>
+<p>The style fell markedly out of favor in the 1930s, replaced by the more grandiose nationalist styles that Stalin favored. Constructivist architects and even <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a> projects for the new <a href="/wiki/Palace_of_the_Soviets" title="Palace of the Soviets">Palace of the Soviets</a> from 1931 to 1933, but the winner was an early Stalinist building in the style termed <a href="/wiki/Postconstructivism" title="Postconstructivism">Postconstructivism</a>. The last major Russian constructivist building, by <a href="/wiki/Boris_Iofan" title="Boris Iofan">Boris Iofan</a>, was built for the <a href="/wiki/Exposition_Internationale_des_Arts_et_Techniques_dans_la_Vie_Moderne" title="Exposition Internationale des Arts et Techniques dans la Vie Moderne">Paris World Exhibition</a> (1937), where it faced the pavilion of Nazi Germany by Hitler's architect <a href="/wiki/Albert_Speer" title="Albert Speer">Albert Speer</a>. </p>
+<h3><span class="mw-headline" id="Modernism_becomes_a_movement_-_the_CIAM_.281928.29">Modernism becomes a movement - the CIAM (1928)</span></h3>
+<p>By the late 1920s, modernism had become an important movement in Europe. Architecture, which previously had been predominantly national, began to become international. They architects traveled, met each other, and shared ideas. Several modernists, including <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a>, had participated in the competition for the headquarters of the <a href="/wiki/League_of_Nations" title="League of Nations">League of Nations</a> in 1927. In the same year, the German Werkbund organized an architectural exposition at the <a href="/wiki/Weissenhof_Estate" title="Weissenhof Estate">Weissenhof Estate</a> <a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a>. Seventeen leading modernist architects in Europe were invited to design twenty-one houses; <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a>, and <a class="mw-redirect" href="/wiki/Mies_Van_der_Rohe" title="Mies Van der Rohe">Mies Van der Rohe</a> played a major part. In 1927 Le Corbusier, Pierre Chareau and others proposed the foundation of an international conference to establish the basis for a common style. The first meeting of the <i><a href="/wiki/Congr%C3%A8s_International_d%27Architecture_Moderne" title="Congrès International d'Architecture Moderne">Congrès Internationaux d'Architecture Moderne</a></i> or International Congresses of Modern Architects (CIAM), was held in a chateau on <a class="mw-redirect" href="/wiki/Lake_Leman" title="Lake Leman">Lake Leman</a> in Switzerland June 26-28, 1928. Those attending included Le Corbusier, <a href="/wiki/Robert_Mallet-Stevens" title="Robert Mallet-Stevens">Robert Mallet-Stevens</a>, <a href="/wiki/Auguste_Perret" title="Auguste Perret">Auguste Perret</a>, <a href="/wiki/Pierre_Chareau" title="Pierre Chareau">Pierre Chareau</a> and <a class="mw-disambig" href="/wiki/Tony_Garnier" title="Tony Garnier">Tony Garnier</a> from France; <a href="/wiki/Victor_Bourgeois" title="Victor Bourgeois">Victor Bourgeois</a> from Belgium; <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a>, <a href="/wiki/Erich_Mendelsohn" title="Erich Mendelsohn">Erich Mendelsohn</a>, <a href="/wiki/Ernst_May" title="Ernst May">Ernst May</a> and <a class="mw-redirect" href="/wiki/Mies_Van_der_Rohe" title="Mies Van der Rohe">Mies Van der Rohe</a> from Germany; <a class="mw-disambig" href="/wiki/Josef_Frank" title="Josef Frank">Josef Frank</a> from Austria; <a href="/wiki/Mart_Stam" title="Mart Stam">Mart Stam</a> and <a href="/wiki/Gerrit_Rietveld" title="Gerrit Rietveld">Gerrit Rietveld</a> from the Netherlands,and <a href="/wiki/Adolf_Loos" title="Adolf Loos">Adolf Loos</a> from Czechoslovakia. A delegation of Soviet architects was invited to attend, but they were unable to obtain visas. Later members included <a href="/wiki/Josep_Llu%C3%ADs_Sert" title="Josep Lluís Sert">Josep Lluís Sert</a> of Spain and <a href="/wiki/Alvar_Aalto" title="Alvar Aalto">Alvar Aalto</a> of Finland. No one attended from the United States. A second meeting was organized in 1930 in Brussels by Victor Bourgeois on the topic "Rational methods for groups of habitations". A third meeting, on "The functional city", was scheduled for Moscow in 1932, but was cancelled at the last minute. Instead the delegates held their meeting on a cruise ship traveling between Marseille and Athens. On board, they together drafted a text on how modern cities should be organized. The text, called The <a href="/wiki/Athens_Charter" title="Athens Charter">Athens Charter</a>, after considerable editing by Corbusier and others, was finally published in 1957 and became an influential text for city planners in the 1950s and 1960s. The group met once more in Paris in 1937 to discuss public housing and was scheduled to meet in the United States in 1939, but the meeting was cancelled because of the war. The legacy of the CIAM was a roughly common style and doctrine which helped define modern architecture in Europe and the United States after World War II. .</p>
+<h2><span class="mw-headline" id="Art_Deco">Art Deco</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a></div>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 315.33333333333px">
+<div style="width: 315.33333333333px">
+
+<div class="gallerytext">
+<p>Pavilion of the <a href="/wiki/Galeries_Lafayette" title="Galeries Lafayette">Galeries Lafayette</a> Department Store at the <a href="/wiki/International_Exhibition_of_Modern_Decorative_and_Industrial_Arts" title="International Exhibition of Modern Decorative and Industrial Arts">Paris International Exposition of Decorative Arts</a> (1925)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135.33333333333px">
+<div style="width: 135.33333333333px">
+
+<div class="gallerytext">
+<p>The <a class="mw-redirect" href="/wiki/Grand_Rex" title="Grand Rex">Grand Rex</a> movie theater in Paris (1932)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 269.33333333333px">
+<div style="width: 269.33333333333px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Palais_de_Chaillot" title="Palais de Chaillot">Palais de Chaillot</a> by <a href="/wiki/Louis-Hippolyte_Boileau" title="Louis-Hippolyte Boileau">Louis-Hippolyte Boileau</a>, <a href="/wiki/Jacques_Carlu" title="Jacques Carlu">Jacques Carlu</a> and <a href="/wiki/L%C3%A9on_Az%C3%A9ma" title="Léon Azéma">Léon Azéma</a> from the <a href="/wiki/Exposition_Internationale_des_Arts_et_Techniques_dans_la_Vie_Moderne" title="Exposition Internationale des Arts et Techniques dans la Vie Moderne">1937 Paris International Exposition</a></p>
+</div>
+</div>
+</li>
+</ul>
+<p>The <a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a> architectural style (called <i>Style Moderne</i> in <a href="/wiki/France" title="France">France</a>), was modern, but it was not modernist; it had many features of modernism, including the use of reinforced concrete, glass, steel, chrome, and it rejected traditional historical models, such as the <a class="mw-redirect" href="/wiki/Beaux-Arts_style" title="Beaux-Arts style">Beaux-Arts style</a> and <a class="mw-redirect" href="/wiki/Neo-classicism" title="Neo-classicism">Neo-classicism</a>; but, unlike the modernist styles of Le Corbusier and Mies Van der Rohe, it made lavish use of decoration and color. It reveled in the symbols of modernity; lightning flashes, sunrises, and zig-zags. Art Deco had begun in France before World War I and spread through Europe; in the 1920s and 1930s it became a highly popular style in the United States, South America, India, China, Australia and Japan. In Europe, Art Deco was particularly popular for department stores and movie theaters. The style reached its peak in Europe at the <a href="/wiki/International_Exhibition_of_Modern_Decorative_and_Industrial_Arts" title="International Exhibition of Modern Decorative and Industrial Arts">International Exhibition of Modern Decorative and Industrial Arts</a> in 1925, which featured art deco pavilions and decoration from twenty countries. Only two pavilions were purely modernist; the Esprit Nouveau pavilion of Le Corbusier, which represented his idea for a mass=produced housing unit, and the pavilion of the USSR, by <a href="/wiki/Konstantin_Melnikov" title="Konstantin Melnikov">Konstantin Melnikov</a> in a flamboyantly <a href="/wiki/Futurist" title="Futurist">futurist</a> style. </p>
+<p>Later French landmarks in the Art Deco style included the <a class="new" href="/w/index.php?title=Rex_Theater&amp;action=edit&amp;redlink=1" title="Rex Theater (page does not exist)">Rex Theater</a> in Paris, <a href="/wiki/La_Samaritaine" title="La Samaritaine">La Samaritaine</a> department store by <a href="/wiki/Henri_Sauvage" title="Henri Sauvage">Henri Sauvage</a> ((1926–28) and the Social and Economic Council building in Paris (1937–38) by <a href="/wiki/Auguste_Perret" title="Auguste Perret">Auguste Perret</a>, and the <a href="/wiki/Palais_de_Tokyo" title="Palais de Tokyo">Palais de Tokyo</a> and <a href="/wiki/Palais_de_Chaillot" title="Palais de Chaillot">Palais de Chaillot</a>, both built by collectives of architects for the 1937 Paris <a href="/wiki/Exposition_Internationale_des_Arts_et_Techniques_dans_la_Vie_Moderne" title="Exposition Internationale des Arts et Techniques dans la Vie Moderne">Exposition Internationale des Arts et Techniques dans la Vie Moderne</a>. .</p>
+<h3><span class="mw-headline" id="American_Art_Deco.3B_the_skyscraper_style_.281919-1932.29">American Art Deco; the skyscraper style (1919-1932)</span></h3>
+<div class="hatnote" role="note">Main articles: <a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a> and <a href="/wiki/Streamline_Moderne" title="Streamline Moderne">Streamline Moderne</a></div>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 152px">
+<div style="width: 152px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/American_Radiator_Building" title="American Radiator Building">American Radiator Building</a> in New York City by <a href="/wiki/Raymond_Hood" title="Raymond Hood">Raymond Hood</a> (1924)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 111.33333333333px">
+<div style="width: 111.33333333333px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Chrysler_Building" title="Chrysler Building">Chrysler Building</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a>, by <a href="/wiki/William_Van_Alen" title="William Van Alen">William Van Alen</a> (1928–30)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 283.33333333333px">
+<div style="width: 283.33333333333px">
+
+<div class="gallerytext">
+<p>Lower Manhattan in 1931</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 234px">
+<div style="width: 234px">
+
+<div class="gallerytext">
+<p>Crown of the <a href="/wiki/General_Electric_Building" title="General Electric Building">General Electric Building</a> (also also known as 570 Lexington Avenue) by <a href="/wiki/Cross_%26_Cross" title="Cross &amp; Cross">Cross &amp; Cross</a> (1933)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 150.66666666667px">
+<div style="width: 150.66666666667px">
+
+<div class="gallerytext">
+<p>30 Rockefeller Center, now the <a class="mw-redirect" href="/wiki/Comcast_Building" title="Comcast Building">Comcast Building</a>, by <a href="/wiki/Raymond_Hood" title="Raymond Hood">Raymond Hood</a> (1933)</p>
+</div>
+</div>
+</li>
+</ul>
+<p>In the late 1920s and early 1930s, an exuberant American variant of Art Deco appeared in the <a href="/wiki/Chrysler_Building" title="Chrysler Building">Chrysler Building</a>, <a href="/wiki/Empire_State_Building" title="Empire State Building">Empire State Building</a> and <a href="/wiki/Rockefeller_Center" title="Rockefeller Center">Rockefeller Center</a> in New York Ciy. The first skyscrapers in Chicago and New York had been designed in a neo-gothic or neoclassical style, but these buildings were very different; they combined modern materials and technology (stainless steel, concrete, aluminum, chrome-plated steel) with Art Deco geometry; stylized zig-zags, lightning flashes, fountains, sunrises, and, at the top of the Chrysler building, Art Deco "gargoyles" in the form of stainless steel radiator ornaments. The interiors of these new buildings, sometimes termed Cathedrals of Commerce", were lavishly decorated in bright contrasting colors, with geometric patterns variously influenced by Egyptian and Mayan pyramids, African textile patterns, and European cathedrals, <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a> himself experimented with <a href="/wiki/Mayan_Revival_architecture" title="Mayan Revival architecture">Mayan Revival</a>,in the concrete cube-based <a href="/wiki/Ennis_House" title="Ennis House">Ennis House</a> of 1924 in Los Angeles. The style appeared in the late 1920s and 1930s in all major American cities. The style was used most often in office buildings, but it also appeared in the enormous movie palaces that were built in large cities when sound films were introduced. </p>
+<h3><span class="mw-headline" id="The_streamline_style">The streamline style</span></h3>
+<p>The beginning of the <a href="/wiki/Great_Depression" title="Great Depression">Great Depression</a> in 1929 brought an end to lavishly-decorated Art Deco architecture and a temporary halt to the construction of new skyscrapers. It also brought in a new style, called "Streamline Moderne" or sometimes just Streamline. This style, sometimes modeled after for the form of ocean liners, featured rounded corners, strong horizontal lines, and often nautical features, such as superstructures and steel railings. It was associated with modernity and especially with transportation; the style was often used for new airport terminals, train and bus stations, and for gas stations and diners built along the growing American highway system. In the 1930s the style was used not only in buildings, but in railroad locomotives, and even refrigerators and vacuum cleaners. It both borrowed from <a href="/wiki/Industrial_design" title="Industrial design">industrial design</a> and influenced it. </p>
+<p>More restrained forms with national imagery were adopted. In the United States, it took the form of "<a href="/wiki/Stripped_Classicism" title="Stripped Classicism">Stripped Classicism</a>" (alternatively, "<a href="/wiki/PWA_Moderne" title="PWA Moderne">PWA Moderne</a>" or "WPA Moderne") a stark version of the <a href="/wiki/Neoclassicism" title="Neoclassicism">Neoclassicism</a> of Federal buildings earlier in the century. It application ranged in scale from local post-offices to <a href="/wiki/The_Pentagon" title="The Pentagon">the Pentagon</a>. At the same time (as noted above), the rise in nationalism was reflected in the <a href="/wiki/Stalinist_architecture" title="Stalinist architecture">Stalinist architecture</a> of the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>, <a href="/wiki/Fascist_architecture" title="Fascist architecture">Fascist architecture</a> of Italy, and <a href="/wiki/Nazi_architecture" title="Nazi architecture">Nazi architecture</a> of Germany, what historian Kenneth Frampton termed the "New Tradition". To a less political extent, such an idea of modernized tradition could also be seen in contemporaneous <a href="/wiki/Mycenaean_Revival_architecture" title="Mycenaean Revival architecture">Mycenaean Revival architecture</a>.</p>
+<p>During and following World War II, this broad branch of modern architecture declined, with the rise of the International Style and other mid-century architecture.</p>
+<h2><span class="mw-headline" id="American_modernism_-_Frank_Lloyd_Wright.2C_Rudolph_Schindler.2C_Richard_Neutra_.281919-1939.29">American modernism - Frank Lloyd Wright, Rudolph Schindler, Richard Neutra (1919-1939)</span></h2>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 302.66666666667px">
+<div style="width: 302.66666666667px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Ennis_House" title="Ennis House">Ennis House</a> in Los Angeles, by Frank Lloyd Wright (1924)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135.33333333333px">
+<div style="width: 135.33333333333px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Fallingwater" title="Fallingwater">Fallingwater</a> by Frank Lloyd Wright (1928-34)</p>
+</div>
+</div>
+</li>
+</ul>
+<div class="hatnote" role="note">Main articles: <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a>, <a href="/wiki/Rudolph_Schindler_(architect)" title="Rudolph Schindler (architect)">Rudolph Schindler (architect)</a>, and <a href="/wiki/Richard_Neutra" title="Richard Neutra">Richard Neutra</a></div>
+<p>During the 1920s and 1930s, Frank Lloyd Wright resolutely refused to associate himself with any architectural movements. He considered his architecture to be entirely unique and his own. Between 1916 and 1922, he broke away from his earlier prairie house style and worked instead on houses decorated with textured blocks of cement; this became known as his "Mayan style", after the pyramids of the ancient Mayan civilization. He experimented for a time with modular mass-produced housing. He identified his architecture as "Usonian", a combination of USA, "utopian" and "organic social order". His business was severely affected by the beginning of the <a href="/wiki/Great_Depression" title="Great Depression">Great Depression</a> that began in 1929; he had fewer wealthy clients who wanted to experiment. Between 1928 and 1935, he built only two buildings: a hotel near <a href="/wiki/Chandler,_Arizona" title="Chandler, Arizona">Chandler, Arizona</a>, and the most famous of all his residences, <a href="/wiki/Fallingwater" title="Fallingwater">Fallingwater</a> (1934-37), a vacation house in Pennsylvania for Edgar J. Kaufman. Fallingwater is a remarkable structure of concrete slabs suspended over a waterfall, perfectly uniting architecture and nature. </p>
+<h3><span class="mw-headline" id="Wartime_innovation">Wartime innovation</span></h3>
+
+<p><a href="/wiki/World_War_II" title="World War II">World War II</a> (1939–1945) and its aftermath was a major factor in driving innovation in building technology, and in turn, architectural possibilities. The wartime industrial demands resulting in a supply shortage (of such things as steel and other metals), in turn leading to the adoption of new materials, and advancement or novel use of old ones. Similarly, surplus postwar industrial capacity accelerated the use of new materials and techniques, particular architectural aluminium (as a result of advances made in its use in aircraft, etc., during the war). At the same time, there was a rapid demand for structures during the war (such as military and governmental facilities) as well as for housing after the war.</p>
+<p>These factors encouraged experiments with <a href="/wiki/Prefabricated_building" title="Prefabricated building">prefabricated building</a>. Though examples of prefabrication have existed since the beginning of the Industrial Revolution, with notable examples during the Interwar period such as the <a href="/wiki/Diner" title="Diner">diner</a>, the semi-circular metal <a href="/wiki/Nissen_hut" title="Nissen hut">Nissen hut</a> of World War I revived as the <a href="/wiki/Quonset_hut" title="Quonset hut">Quonset hut</a>, the post-war enameled-steel <a href="/wiki/Lustron_house" title="Lustron house">Lustron house</a> (1947–1950), and Buckminster Fuller's experimental aluminum <a class="mw-redirect" href="/wiki/Dymaxion_House" title="Dymaxion House">Dymaxion House</a>.</p>
+<h2><span class="mw-headline" id="International_Style_.281945-1960.29">International Style (1945-1960)</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/International_Style_(architecture)" title="International Style (architecture)">International Style (architecture)</a></div>
+
+
+<p>In 1932 (prior to World War II), the International Exhibition of Modern Architecture was held at the <a href="/wiki/Museum_of_Modern_Art" title="Museum of Modern Art">Museum of Modern Art</a> in New York City. <a href="/wiki/Philip_Johnson" title="Philip Johnson">Philip Johnson</a> and collaborator <a href="/wiki/Henry-Russell_Hitchcock" title="Henry-Russell Hitchcock">Henry-Russell Hitchcock</a> drew together many distinct threads and trends in architecture, identified them as stylistically similar and having a common purpose, and consolidated them into the <a class="mw-redirect" href="/wiki/International_style_(architecture)" title="International style (architecture)">International style</a>. This was a turning point. However, for the remainder of the <a href="/wiki/Interwar_period" title="Interwar period">Interwar period</a>, the Moderne styles overshadowed this movement.</p>
+<p>With the labeling of modernist art and architecture in Germany as <a href="/wiki/Degenerate_art" title="Degenerate art">degenerate</a>, followed by <a href="/wiki/World_War_II" title="World War II">World War II</a>, important figures of the <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> and <a href="/wiki/New_Objectivity" title="New Objectivity">New Objectivity</a> fled to the United States: <a href="/wiki/Marcel_Breuer" title="Marcel Breuer">Marcel Breuer</a> and <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a> went to the <a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a> (the former becoming part of a group known as the "<a href="/wiki/Harvard_Five" title="Harvard Five">Harvard Five</a>"), <a href="/wiki/Ludwig_Mies_van_der_Rohe" title="Ludwig Mies van der Rohe">Ludwig Mies van der Rohe</a> <a href="/wiki/Chicago_school_(architecture)#Second_Chicago_School" title="Chicago school (architecture)">to Chicago</a>, with others going to <a href="/wiki/Black_Mountain_College" title="Black Mountain College">Black Mountain College</a>. Still others fled to British Palestine, contributing to the design of the <a href="/wiki/White_City_(Tel_Aviv)" title="White City (Tel Aviv)">White City of Tel Aviv</a>.</p>
+<p>While high-style modernist architectural design never became dominant in single-dwelling residential buildings in the United States, in institutional and commercial architecture Modernism became the pre-eminent, and in the schools (for leaders of the architectural profession) the only acceptable, design solution from about 1932 to about 1984.</p>
+<p>Architects who worked in the International style wanted to break with architectural tradition and design simple, unornamented buildings. The most commonly used materials are glass for the facade (usually a <a href="/wiki/Curtain_wall_(architecture)" title="Curtain wall (architecture)">curtain wall</a>), steel for exterior support, and concrete for the floors and interior supports; floor plans were functional and logical. The style became most evident in the design of skyscrapers. Perhaps its most famous manifestations include the <a class="mw-redirect" href="/wiki/United_Nations_headquarters" title="United Nations headquarters">United Nations headquarters</a> (Le Corbusier, <a href="/wiki/Oscar_Niemeyer" title="Oscar Niemeyer">Oscar Niemeyer</a>, Sir Howard Robertson), the <a href="/wiki/Seagram_Building" title="Seagram Building">Seagram Building</a> and the <a href="/wiki/Toronto-Dominion_Centre" title="Toronto-Dominion Centre">Toronto-Dominion Centre</a> (Ludwig Mies van der Rohe), and <a href="/wiki/Lever_House" title="Lever House">Lever House</a> (<a href="/wiki/Skidmore,_Owings_%26_Merrill" title="Skidmore, Owings &amp; Merrill">Skidmore, Owings &amp; Merrill</a>).</p>
+<p>In the United States, a prominent early residential example was the <a href="/wiki/Lovell_House" title="Lovell House">Lovell House</a> in Los Angeles, designed by Austrian expatriate <a href="/wiki/Richard_Neutra" title="Richard Neutra">Richard Neutra</a> in the 1920s. Other examples include the <a href="/wiki/Case_Study_Houses" title="Case Study Houses">Case Study Houses</a>. Commissioned between 1945 and 1966, the twenty or so homes that were built primarily in and around Los Angeles, designed by architects such as Neutra and Americans <a href="/wiki/Charles_and_Ray_Eames" title="Charles and Ray Eames">Charles and Ray Eames</a> (the <a href="/wiki/Eames_House" title="Eames House">Eames House</a>) have attracted hundreds of thousands of visitors since their completion, and have influenced many architects over the years, notably the British architect, Michael Manser, whose domestic work is best exemplified by <a href="/wiki/Capel_Manor_House" title="Capel Manor House">Capel Manor House</a> in Kent. These and other Modern residences tend to focus on humanizing the otherwise harsh ideal, making them more livable and ultimately more appealing to real people. Many of these designs use a similar tactic: blurring the line between indoor and outdoor spaces. This is achieved by embracing "the box" while at the same time dissolving it into the background with minimal structure and large glass walls, as was particularly the case with the <a class="mw-redirect" href="/wiki/Farnsworth_House_(Plano,_Illinois)" title="Farnsworth House (Plano, Illinois)">Farnsworth House</a> by Mies van der Rohe and the <a href="/wiki/Glass_House" title="Glass House">Glass House</a> by Philip Johnson, the later part of a set of residences by the "Harvard Five" in <a href="/wiki/New_Canaan,_Connecticut" title="New Canaan, Connecticut">New Canaan, Connecticut</a>. Some critics claim that these spaces remain too cold and static for the average person to function, however. The materials utilized in a large number of Modern homes are not hidden behind a softening facade. While this may make them somewhat less desirable for the general public, most modernist architects see this as a necessary and pivotal tenet of Modernism: uncluttered and purely <a href="/wiki/Minimalism" title="Minimalism">Minimal</a> design.</p>
+<h2><span class="mw-headline" id="Urban_design_and_mass_housing">Urban design and mass housing</span></h2>
+
+
+<div class="hatnote" role="note">Main articles: <a href="/wiki/Congr%C3%A8s_International_d%27Architecture_Moderne" title="Congrès International d'Architecture Moderne">Congrès International d'Architecture Moderne</a> and <a href="/wiki/Athens_Charter" title="Athens Charter">Athens Charter</a></div>
+<div class="hatnote" role="note">See also: <a href="/wiki/Urban_renewal" title="Urban renewal">Urban renewal</a></div>
+<p>During the <a href="/wiki/Interwar_period" title="Interwar period">interwar period</a> high-quality architecture was built on a large scale in some growing European cities including Berlin, Frankfurt, Vienna, and Rotterdam for broad sections of the population, including poorer people. In particular the <a href="/wiki/Berlin_Modernism_Housing_Estates" title="Berlin Modernism Housing Estates">Berlin housing estates</a> built before the beginning of <a class="mw-redirect" href="/wiki/National_Socialism" title="National Socialism">National Socialism</a> set standards worldwide. They are seen right up to today as a major political and organisational achievement and therefore have been added to the UNESCO World heritage list in 2008.</p>
+<p>As a result of the economically difficult situation during the <a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar Republic</a>, housing construction, which up to that time had been mainly privately financed and profit-oriented, had found itself at a dead end. Inflation was on the up and for citizens on low incomes decent housing was becoming increasingly unaffordable.</p>
+<p>Consequently, the search was on to find new models for state-initiated housing construction, which could then be implemented with a passion from 1920 on following the creation of <a class="mw-redirect" href="/wiki/Greater_Berlin" title="Greater Berlin">Greater Berlin</a> and the accompanying reform of local and regional government. The requirements for the type of flats to be built and the facilities they were to have were clearly defined, and the city was divided into different building zones. Following some basic ideas of the <a href="/wiki/Garden_city_movement" title="Garden city movement">Garden city movement</a> two- to three-storey housing estates that were well integrated into the landscape of the suburbs of the city were planned. The first large estate of this type with more than 2,000 residential units was the so-called <a class="mw-redirect" href="/wiki/Hufeisensiedlung_(%22Horseshoe_Estate%22)" title='Hufeisensiedlung ("Horseshoe Estate")'><i>Hufeisensiedlung</i> (Horseshoe Estate)</a> designed by <a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a> in Berlin.</p>
+<p>After World War II the <a class="mw-redirect" href="/wiki/Congr%C3%A8s_Internationaux_d%27Architecture_Moderne" title="Congrès Internationaux d'Architecture Moderne">Congrès Internationaux d'Architecture Moderne</a> (CIAM) was a force in shaping modernist <a href="/wiki/Urban_planning" title="Urban planning">urban planning</a>, and consequently the design of cities and the structures within, from 1928 to 1959. Its 1933 meeting resulted in the basis of what became the <a href="/wiki/Athens_Charter" title="Athens Charter">Athens Charter</a>, which would drive urban planning practice for much of the mid-20th century. Following its principles, in the late 1950s the entirely-new city of <a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a> was built as a new capital for <a href="/wiki/Brazil" title="Brazil">Brazil</a>, designed by <a class="mw-redirect" href="/wiki/Lucio_Costa" title="Lucio Costa">Lucio Costa</a>, with prominent works for it designed by <a href="/wiki/Oscar_Niemeyer" title="Oscar Niemeyer">Oscar Niemeyer</a>. Le Corbusier applied CIAM's principles in his design for the city of <a href="/wiki/Chandigarh" title="Chandigarh">Chandigarh</a> in India.</p>
+<p>The devastation that WWII wrought in Europe, Asia, and the Pacific and subsequent post-war housing shortages resulted in a vast building and rebuilding of cities, with a variety of techniques employed for the creation of mass-housing. One attempt to solve this was by using the <a href="/wiki/Tower_block" title="Tower block">Tower block</a>. In the Eastern Bloc, mass housing took the form of prefabricated <a href="/wiki/Panel_building" title="Panel building">panel buildings</a>, such as the <a href="/wiki/Plattenbau" title="Plattenbau">Plattenbau</a> of East Germany, <a href="/wiki/Khrushchyovka" title="Khrushchyovka">Khrushchyovka</a> of Russia and the <a href="/wiki/Panel%C3%A1k" title="Panelák">Panelák</a> of Czechoslovakia.</p>
+<h2><span class="mw-headline" id="Mid-Century_reactions">Mid-Century reactions <span id="Mid-Century"></span></span></h2>
+
+<div class="hatnote" role="note">Further information: <a class="mw-redirect" href="/wiki/Mid-Century_modern" title="Mid-Century modern">Mid-Century modern</a></div>
+<p>As the International Style took hold, others architects reacted to or strayed from its purely functionalist forms, while at the same time retaining highly modernist characteristics. <a href="/wiki/Eero_Saarinen" title="Eero Saarinen">Eero Saarinen</a>, <a href="/wiki/Alvar_Aalto" title="Alvar Aalto">Alvar Aalto</a> and <a href="/wiki/Oscar_Niemeyer" title="Oscar Niemeyer">Oscar Niemeyer</a> were three of the most prolific architects and designers in this movement, which has influenced contemporary modernism.</p>
+
+
+
+<p>Le Corbusier once described buildings as "machines for living", but people are not machines and it was suggested that they do not want to live in machines. During the middle of the century, some architects began experimenting in organic forms that they felt were more human and accessible. <a href="/wiki/Mid-century_modern" title="Mid-century modern">Mid-century modernism</a>, or organic modernism, was very popular, due to its democratic and playful nature. Expressionist exploration of form was revived, such as in the <a href="/wiki/Sydney_Opera_House" title="Sydney Opera House">Sydney Opera House</a> in Australia by <a href="/wiki/J%C3%B8rn_Utzon" title="Jørn Utzon">Jørn Utzon</a>. Eero Saarinen invoked suggestions of flight in his designs for the terminal at <a class="mw-redirect" href="/wiki/Dulles_International_Airport" title="Dulles International Airport">Dulles International Airport</a> outside of Washington, D.C, or the <a class="mw-redirect" href="/wiki/TWA_Terminal" title="TWA Terminal">TWA Terminal</a> in New York, both finished in 1962. The <a href="/wiki/Mission_66" title="Mission 66">Mission 66</a> project of the United States National Park Service was also built during this time.</p>
+<p>Contributing to these expressions were structural advances that enabled new forms to be possible or desirable. <a href="/wiki/F%C3%A9lix_Candela" title="Félix Candela">Félix Candela</a>, a Spanish expatriate living in Mexico, and Italian engineer <a href="/wiki/Pier_Luigi_Nervi" title="Pier Luigi Nervi">Pier Luigi Nervi</a>, made particular strides in the use of reinforced concrete and <a href="/wiki/Concrete_shell" title="Concrete shell">concrete shell</a> construction. In 1954, <a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a> patented the <a href="/wiki/Geodesic_dome" title="Geodesic dome">geodesic dome</a>.</p>
+<p>Another stylistic reaction was "<a href="/wiki/New_Formalism_(architecture)" title="New Formalism (architecture)">New Formalism</a>" (or "Neo-Formalism", sometimes shortened to "Formalism"). Like the pre-war "Stripped Classicism", "New Formalism" blended elements of <a href="/wiki/Classicism" title="Classicism">classicism</a> (at their most abstracted levels) with modernist designs. Characteristics drawing on classicism include rigid symmetry, use of columns and colonnades or arcades, and use of high-end materials (such as marble or granite), yet works in this vein also characteristically use the flat roofs common with the International Style. Architects working in this mode included <a class="mw-redirect" href="/wiki/Edward_Durrell_Stone" title="Edward Durrell Stone">Edward Durrell Stone</a>, <a href="/wiki/Minoru_Yamasaki" title="Minoru Yamasaki">Minoru Yamasaki</a>, and some of the middle-period work of <a href="/wiki/Philip_Johnson" title="Philip Johnson">Philip Johnson</a>, with examples in the United States including the <a class="mw-redirect" href="/wiki/Kennedy_Center" title="Kennedy Center">Kennedy Center</a> (1971) and the <a href="/wiki/National_Museum_of_American_History" title="National Museum of American History">National Museum of American History</a> (1964) in Washington, D.C., and the <a href="/wiki/Lincoln_Center_for_the_Performing_Arts" title="Lincoln Center for the Performing Arts">Lincoln Center for the Performing Arts</a> (mid-1960s) in New York.</p>
+
+<p>Arising shortly after the end of World War II, a particular set of stylistic tendencies in the United States during this time is known as <a class="mw-redirect" href="/wiki/Googie" title="Googie">Googie</a> (or "populuxe"), derived from futuristic visions inspired by the imagery of the <a href="/wiki/Atomic_Age" title="Atomic Age">Atomic Age</a> and <a href="/wiki/Space_Age" title="Space Age">Space Age</a>, with motifs such as <a href="/wiki/Rutherford_model#Symbolism" title="Rutherford model">atomic orbital patterns</a> and "flying saucers", respectively, such as in the <a href="/wiki/Space_Needle" title="Space Needle">Space Needle</a> in Seattle. Though the style was unique to the United States, similar iconography can be seen in the <a href="/wiki/Atomium" title="Atomium">Atomium</a> in Brussels.</p>
+<p>A distinctly Mexican take on modernism, "plastic integration", was a syncretization of Mexican artistic traditions (such as <a href="/wiki/Mexican_muralism" title="Mexican muralism">muralism</a>) with International Style forms, and can be seen in the later works of <a href="/wiki/Luis_Barrag%C3%A1n" title="Luis Barragán">Luis Barragán</a> and <a href="/wiki/Juan_O%27Gorman" title="Juan O'Gorman">Juan O'Gorman</a>, epitomized by the <a href="/wiki/Ciudad_Universitaria" title="Ciudad Universitaria">Ciudad Universitaria</a> of <a class="mw-redirect" href="/wiki/UNAM" title="UNAM">UNAM</a> in Mexico City.</p>
+<h3><span class="mw-headline" id="Brutalism_and_monumentality">Brutalism and monumentality</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Brutalist_architecture" title="Brutalist architecture">Brutalist architecture</a></div>
+
+
+<p>Architects such as <a href="/wiki/Louis_Kahn" title="Louis Kahn">Louis Kahn</a>, <a href="/wiki/Paul_Rudolph_(architect)" title="Paul Rudolph (architect)">Paul Rudolph</a>, <a href="/wiki/Marcel_Breuer" title="Marcel Breuer">Marcel Breuer</a>, <a class="mw-redirect" href="/wiki/I.M._Pei" title="I.M. Pei">I.M. Pei</a> and others responded to the "light" glass curtain walls advocated by Ludwig Mies van der Rohe, by creating architecture with an emphasis on more substantial materials, such as concrete and brick, and creating works with a "monumental" quality. "Brutalism" is a term derived from the use of "<a href="/wiki/B%C3%A9ton_brut" title="Béton brut">Béton brut</a>" ("raw concrete"), unadorned, often with the mold marks remaining, though as a stylistic tendency, Brutalism would ultimately be applied more broadly to include the use of other materials such as <a href="/wiki/Brickwork" title="Brickwork">brickwork</a> in a similar fashion. The term was first used in architecture by <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a>.</p>
+<h2><span class="mw-headline" id="Late_20th-century_reactions_and_movements">Late 20th-century reactions and movements</span></h2>
+<h3><span class="mw-headline" id="High-tech_architecture">High-tech architecture</span></h3>
+<div class="hatnote" role="note">Further information: <a href="/wiki/High-tech_architecture" title="High-tech architecture">High-tech architecture</a></div>
+<p>High-tech architecture, also known as Late Modernism or Structural Expressionism, is an architectural style that emerged in the 1970s, incorporating elements of high-tech industry and technology into building design. High-tech architecture appeared as a revamped modernism, an extension of those previous ideas helped by even more technological advances. This category serves as a bridge between modernism and post-modernism, however there remain gray areas as to where one category ends and the other begins. In the 1980s, high-tech architecture became more difficult to distinguish from post-modern architecture. Some of its themes and ideas were later absorbed into the style of neo-futurism art and architectural movement.</p>
+<h3><span class="mw-headline" id="Postmodern_architecture">Postmodern architecture</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Postmodern_architecture" title="Postmodern architecture">Postmodern architecture</a></div>
+
+
+<p>Modern architecture met with some criticism, which began in the 1960s on the grounds that it seemed universal, elitist, and lacked meaning. <a class="mw-redirect" href="/wiki/Siegfried_Giedion" title="Siegfried Giedion">Siegfried Giedion</a> in the 1961 introduction to his evolving text, <i>Space, Time and Architecture</i> (first written in 1941), began "At the moment a certain confusion exists in contemporary architecture, as in painting; a kind of pause, even a kind of exhaustion." At the Metropolitan Museum of Art, a 1961 symposium discussed the question "Modern Architecture: Death or Metamorphosis?"</p>
+
+<p>The loss of traditionalist structures to make way for new modernist construction, especially via the <a class="mw-redirect" href="/wiki/Urban_Renewal" title="Urban Renewal">Urban Renewal</a> movement, led to further criticism, particularly the <a href="/wiki/Pennsylvania_Station_(1910%E2%80%931963)" title="Pennsylvania Station (1910–1963)">demolition of New York Penn Station</a> in 1963. That same year, controversy materialized around the <a class="mw-redirect" href="/wiki/Pan_Am_Building" title="Pan Am Building">Pan Am Building</a> that loomed over <a href="/wiki/Grand_Central_Terminal" title="Grand Central Terminal">Grand Central Terminal</a>, taking advantage of the modernist real estate concept of "<a href="/wiki/Air_rights" title="Air rights">air rights</a>", In criticism by <a href="/wiki/Ada_Louise_Huxtable" title="Ada Louise Huxtable">Ada Louise Huxtable</a> and <a class="mw-redirect" href="/wiki/Douglass_Haskell" title="Douglass Haskell">Douglass Haskell</a> it was seen to "sever" the Park Avenue streetscape and "tarnish" the reputations of its consortium of architects: <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a>, <a href="/wiki/Pietro_Belluschi" title="Pietro Belluschi">Pietro Belluschi</a> and the builders <a href="/wiki/Emery_Roth" title="Emery Roth">Emery Roth &amp; Sons</a>. The proposal for a tower over the terminal itself resulted in the landmark U.S. Supreme Court case <i><a href="/wiki/Penn_Central_Transportation_Co._v._New_York_City" title="Penn Central Transportation Co. v. New York City">Penn Central Transportation Co. v. New York City</a></i>, upholding the city's landmark laws. Alongside these preservation efforts came the increasing respectability and fashionability of more traditional styles.</p>
+<p>Architects explored <a href="/wiki/Postmodern_architecture" title="Postmodern architecture">Postmodern architecture</a> which offered a blend of some pre-modern elements, and deliberately sought to move away from rectilinear designs, towards more eclectic styles. Even Philip Johnson came to admit that he was "bored with the box." By the 1980s, postmodern architecture appeared to trend over modernism.</p>
+<p>High Postmodern aesthetics lacked traction and by the mid-1990s, a new surge of modern architecture once again established international pre-eminence. As part of this revival, much of the criticism of the modernists was re-evaluated; and a modernistic style once again dominates in institutional and commercial contemporary practice. Although modern and postmodern design compete with a revival of traditional architectural design in commercial and institutional architecture; residential design continues to be dominated by a traditional aesthetic.</p>
+<h3><span class="mw-headline" id="Neomodern_architecture">Neomodern architecture</span></h3>
+<div class="hatnote" role="note">Further information: <a href="/wiki/Neomodern" title="Neomodern">Neomodern</a></div>
+<p>Neomodernism is a reaction to Postmodernism and its embrace of pre-modern elements of design. Examples of modern architecture in the 21st century include <a href="/wiki/One_World_Trade_Center" title="One World Trade Center">One World Trade Center</a> (2013) in New York City and <a href="/wiki/Tour_First" title="Tour First">Tour First</a> (2011), the tallest office building in the <a href="/wiki/Paris" title="Paris">Paris</a> metropolitan area. Emporis named Chicago's Modern <a href="/wiki/Aqua_(skyscraper)" title="Aqua (skyscraper)">Aqua Tower</a> (2009) its skyscraper of the year.</p>
+<h3><span class="mw-headline" id="Neofuturistic_architecture">Neofuturistic architecture</span></h3>
+<div class="hatnote" role="note">Further information: <a class="mw-redirect" href="/wiki/Neo-Futurism" title="Neo-Futurism">Neo-Futurism</a></div>
+<p>Neo-futurism is a departure from <a class="mw-redirect" href="/wiki/Post-modernism" title="Post-modernism">post-modernism</a> connected with an <a class="mw-redirect" href="/wiki/Idealistic" title="Idealistic">idealistic</a> belief in a better future. Neofuturist urbanists, architects, designers and artists believe in cities releasing emotions, driven by eco-sustainability and ethical values and implementing new materials and new technologies to provide a better quality of life for residents. Pioneered from early 60s and late 70s by Finnish American architect <a href="/wiki/Eero_Saarinen" title="Eero Saarinen">Eero Saarinen</a>; American architect Adrian Wilson and <a href="/wiki/Charles_Luckman" title="Charles Luckman">Charles Luckman</a>; Danish architects <a href="/wiki/Henning_Larsen" title="Henning Larsen">Henning Larsen</a> and <a href="/wiki/J%C3%B8rn_Utzon" title="Jørn Utzon">Jørn Utzon</a>; the architectural movement was later named <a class="mw-redirect" href="/wiki/Neo-Futurism" title="Neo-Futurism">Neo-Futurism</a> by French architect Denis Laming. He designed all of the buildings in <a href="/wiki/Futuroscope" title="Futuroscope">Futuroscope</a>, whose Kinemax is the flagship building. In the early 21st century, <a class="mw-redirect" href="/wiki/Neo-Futurism" title="Neo-Futurism">Neo-Futurism</a> has been relaunched in December 2006 by innovation designer <a href="/wiki/Vito_Di_Bari" title="Vito Di Bari">Vito Di Bari</a> with the futuristic vision for the city of Milan at the time of the Universal <a href="/wiki/Expo_2015" title="Expo 2015">Expo 2015</a> included in the candidature presented to BIE (<a href="/wiki/Bureau_of_International_Expositions" title="Bureau of International Expositions">Bureau of International Expositions</a>) and envisioning "the convergence of art, cutting edge technologies and ethical values", later defined by Spanish architect <a href="/wiki/Santiago_Calatrava" title="Santiago Calatrava">Santiago Calatrava</a> as "a fusion of architecture, art and engineering" and by Danish architect <a href="/wiki/Bjarke_Ingels" title="Bjarke Ingels">Bjarke Ingels</a> as "a pragmatic utopian architecture that takes on the creation of socially and environmentally perfect places." Architects working in this mode include Pritzker Architecture Prize Iraqi-British architect <a href="/wiki/Zaha_Hadid" title="Zaha Hadid">Zaha Hadid</a> and Japanese <a href="/wiki/Ryue_Nishizawa" title="Ryue Nishizawa">Ryue Nishizawa</a>; Lubetkin Prize Winner British <a href="/wiki/Thomas_Heatherwick" title="Thomas Heatherwick">Thomas Heatherwick</a>, Spanish architects <a href="/wiki/Santiago_Calatrava" title="Santiago Calatrava">Santiago Calatrava</a>, Fermín Vázquez, and Enric Massip-Bosch and artists such as Indian sculptor <a href="/wiki/Anish_Kapoor" title="Anish Kapoor">Anish Kapoor</a>, Italian large-scale buildings artist Mario Arlati and Dutch kinetic sculptor <a href="/wiki/Theo_Jansen" title="Theo Jansen">Theo Jansen</a>.</p>
+<h3><span class="mw-headline" id="New_Urbanism_and_New_Classical_Architecture">New Urbanism and New Classical Architecture</span></h3>
+<p>Concurrently, the recent movements of <a href="/wiki/New_Urbanism" title="New Urbanism">New Urbanism</a> and <a class="mw-redirect" href="/wiki/New_Classical_Architecture" title="New Classical Architecture">New Classical Architecture</a> promote a sustainable approach towards construction, that appreciates and develops <a href="/wiki/Smart_growth" title="Smart growth">smart growth</a>, <a href="/wiki/Vernacular_architecture" title="Vernacular architecture">architectural tradition</a> and <a href="/wiki/Classical_architecture" title="Classical architecture">classical design</a>. This in contrast to modernist and <a href="/wiki/International_Style_(architecture)" title="International Style (architecture)">globally uniform</a> architecture, as well as leaning against solitary <a href="/wiki/Housing_estate" title="Housing estate">housing estates</a> and <a href="/wiki/Urban_sprawl" title="Urban sprawl">suburban sprawl</a>. Both trends started in the 1980s. The <a href="/wiki/Driehaus_Architecture_Prize" title="Driehaus Architecture Prize">Driehaus Architecture Prize</a> is an award that recognizes efforts in New Urbanism and New Classical Architecture, and is endowed with a prize money twice as high as that of the modernist <a href="/wiki/Pritzker_Architecture_Prize" title="Pritzker Architecture Prize">Pritzker Prize</a>.</p>
+<h2><span class="mw-headline" id="Examples_of_contemporary_modern_architecture">Examples of contemporary modern architecture</span></h2>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 264px">
+<div style="width: 264px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Warszawa_Centralna_railway_station" title="Warszawa Centralna railway station">Warszawa Centralna railway station</a> (1975) in <a href="/wiki/Warsaw" title="Warsaw">Warsaw</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 207.33333333333px">
+<div style="width: 207.33333333333px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Crystal_Cathedral" title="Crystal Cathedral">Crystal Cathedral</a> (1980) in <a href="/wiki/Garden_Grove,_California" title="Garden Grove, California">Garden Grove, California</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 128px">
+<div style="width: 128px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Tour_Total" title="Tour Total">Tour Total</a> (1985) in the <a href="/wiki/Paris" title="Paris">Paris</a> suburb <a href="/wiki/Courbevoie" title="Courbevoie">Courbevoie</a>, <a href="/wiki/La_D%C3%A9fense" title="La Défense">La Défense</a> district</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 266px">
+<div style="width: 266px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Auditorio_de_Tenerife" title="Auditorio de Tenerife">Auditorio de Tenerife</a> in <a href="/wiki/Santa_Cruz_de_Tenerife" title="Santa Cruz de Tenerife">Santa Cruz de Tenerife</a> (2003)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 62px">
+<div style="width: 62px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Eureka_Tower" title="Eureka Tower">Eureka Tower</a> (2006) in <a href="/wiki/Melbourne" title="Melbourne">Melbourne</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 114.66666666667px">
+<div style="width: 114.66666666667px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Trump_International_Hotel_and_Tower_(Chicago)" title="Trump International Hotel and Tower (Chicago)">Trump International Hotel and Tower</a> (2009) in <a href="/wiki/Chicago" title="Chicago">Chicago</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 128px">
+<div style="width: 128px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa" title="Museo Nacional Centro de Arte Reina Sofía">Reina Sofía Museum</a> in <a href="/wiki/Madrid" title="Madrid">Madrid</a> (2013)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 304.66666666667px">
+<div style="width: 304.66666666667px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Ciudad_de_las_Artes_y_las_Ciencias" title="Ciudad de las Artes y las Ciencias">Ciudad de las Artes y las Ciencias</a> in <a class="mw-redirect" href="/wiki/Valencia_(Spain)" title="Valencia (Spain)">Valencia</a> (1998)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 254.66666666667px">
+<div style="width: 254.66666666667px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/University_Library_Freiburg" title="University Library Freiburg">University Library</a> (2015) in Freiburg</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Preservation">Preservation</span></h2>
+
+
+<p>Several works or collections of modern architecture have been designated by <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> as <a class="mw-redirect" href="/wiki/World_Heritage_Sites" title="World Heritage Sites">World Heritage Sites</a>. In addition to the early experiments associated with Art Nouveau, these include a number of the structures mentioned above in this article: the <a href="/wiki/Rietveld_Schr%C3%B6der_House" title="Rietveld Schröder House">Rietveld Schröder House</a> in Utrecht, the <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> structures in Weimar and Dessau, the <a href="/wiki/Berlin_Modernism_Housing_Estates" title="Berlin Modernism Housing Estates">Berlin Modernism Housing Estates</a>, the <a href="/wiki/White_City_(Tel_Aviv)" title="White City (Tel Aviv)">White City of Tel Aviv</a>, the city of <a class="mw-redirect" href="/wiki/Brasilia" title="Brasilia">Brasilia</a>, the <a href="/wiki/Ciudad_Universitaria" title="Ciudad Universitaria">Ciudad Universitaria</a> of <a class="mw-redirect" href="/wiki/UNAM" title="UNAM">UNAM</a> in Mexico City and the <a href="/wiki/University_City_of_Caracas" title="University City of Caracas">University City of Caracas</a> in Venezuela, and the <a href="/wiki/Sydney_Opera_House" title="Sydney Opera House">Sydney Opera House</a>.</p>
+<p>Private organizations such as <a href="/wiki/Docomomo_International" title="Docomomo International">Docomomo International</a>, the <a href="/wiki/World_Monuments_Fund" title="World Monuments Fund">World Monuments Fund</a>, and the Recent Past Preservation Network are working to safeguard and document imperiled Modern architecture. In 2006, the World Monuments Fund launched <a href="/wiki/World_Monuments_Fund#Modernism_at_Risk" title="World Monuments Fund"><i>Modernism at Risk</i></a>, an advocacy and conservation program.</p>
+<p>Following the destruction caused by <a href="/wiki/Hurricane_Katrina" title="Hurricane Katrina">Hurricane Katrina</a>, Modern structures in <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a> have been increasingly slated for demolition. Plans are underway to demolish many of the city's Modern public schools, as well as large portions of the city's Civic Plaza. <a href="/wiki/Federal_Emergency_Management_Agency" title="Federal Emergency Management Agency">Federal Emergency Management Agency</a> (FEMA) funds will contribute to razing the State Office Building and State Supreme Court Building, both designed by the collaborating architectural firms of August Perez and Associates; Goldstein, Parham and Labouisse; and Favrot, Reed, Mathes and Bergman. The New Orleans Recovery School District has proposed demolitions of schools designed by Charles R. Colbert, Curtis and Davis, and Ricciuti Associates. The 1959 Lawrence and Saunders building for the New Orleans International Longshoremen's Association Local 1419 is currently threatened with demolition although the union supports its conservation.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:P_parthenon.svg"><img alt="icon" class="noviewer" data-file-height="360" data-file-width="400" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/31px-P_parthenon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/47px-P_parthenon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/P_parthenon.svg/62px-P_parthenon.svg.png 2x" width="31"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Architecture" title="Portal:Architecture">Architecture portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Modern_furniture" title="Modern furniture">Modern furniture</a></li>
+<li><a href="/wiki/Modern_art" title="Modern art">Modern art</a></li>
+<li><a class="mw-redirect" href="/wiki/International_style_(architecture)" title="International style (architecture)">International style (architecture)</a></li>
+<li><a href="/wiki/Organic_architecture" title="Organic architecture">Organic architecture</a></li>
+<li><a href="/wiki/Critical_regionalism" title="Critical regionalism">Critical regionalism</a></li>
+<li><a href="/wiki/Congr%C3%A8s_International_d%27Architecture_Moderne" title="Congrès International d'Architecture Moderne">Congrès International d'Architecture Moderne</a></li>
+</ul>
+<h2></h2>
+<h3><span class="mw-headline" id="Notes_and_Citations">Notes and Citations</span></h3>
+
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span></h3>
+<ul>
+<li><cite class="citation book">Bony, Anne (2012). <i>L'Architecture Moderne</i> (in French). Larousse. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-2-03-587641-6" title="Special:BookSources/978-2-03-587641-6">978-2-03-587641-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.aufirst=Anne&amp;rft.aulast=Bony&amp;rft.btitle=L%27Architecture+Moderne&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=978-2-03-587641-6&amp;rft.pub=Larousse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Burchard, John; Bush-Brown, Albert (1966). <i>The Architecture of America- A Social and Cultural History</i>. Atlantic, Little and Brown.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.au=Bush-Brown%2C+Albert&amp;rft.aufirst=John&amp;rft.aulast=Burchard&amp;rft.btitle=The+Architecture+of+America-+A+Social+and+Cultural+History&amp;rft.date=1966&amp;rft.genre=book&amp;rft.pub=Atlantic%2C+Little+and+Brown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Duncan, Alastair (1988). <i>Art déco</i>. Thames &amp; Hudson. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/2-87811-003-X" title="Special:BookSources/2-87811-003-X">2-87811-003-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.aufirst=Alastair&amp;rft.aulast=Duncan&amp;rft.btitle=Art+d%C3%A9co&amp;rft.date=1988&amp;rft.genre=book&amp;rft.isbn=2-87811-003-X&amp;rft.pub=Thames+%26+Hudson&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Ducher, Rpbert (2014). <i>La charactéristique des styles</i> (in French). Flammarion. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-2-0813-4383-2" title="Special:BookSources/978-2-0813-4383-2">978-2-0813-4383-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.aufirst=Rpbert&amp;rft.aulast=Ducher&amp;rft.btitle=La+charact%C3%A9ristique+des+styles&amp;rft.date=2014&amp;rft.genre=book&amp;rft.isbn=978-2-0813-4383-2&amp;rft.pub=Flammarion&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Journel, Guillemette Morel (2015). <i>Le Corbusier- Construire la Vie Moderne</i> (in French). Editions du Patrimoine: Centre des Monument Nationaux. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-2-7577-0419-6" title="Special:BookSources/978-2-7577-0419-6">978-2-7577-0419-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.aufirst=Guillemette+Morel&amp;rft.aulast=Journel&amp;rft.btitle=Le+Corbusier-+Construire+la+Vie+Moderne&amp;rft.date=2015&amp;rft.genre=book&amp;rft.isbn=978-2-7577-0419-6&amp;rft.pub=Editions+du+Patrimoine%3A+Centre+des+Monument+Nationaux&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Le Corbusier (1925). <i>L'Art décoratif d'aujourdhui</i> (in French). G. Crés et Cie.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.au=Le+Corbusier&amp;rft.btitle=L%27Art+d%C3%A9coratif+d%27aujourdhui&amp;rft.date=1925&amp;rft.genre=book&amp;rft.pub=G.+Cr%C3%A9s+et+Cie&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Le Corbusier (1923). <i>Vers use architecture</i> (in French). Flammarion (1995). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-2-0812-1744-7" title="Special:BookSources/978-2-0812-1744-7">978-2-0812-1744-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.au=Le+Corbusier&amp;rft.btitle=Vers+use+architecture&amp;rft.date=1923&amp;rft.genre=book&amp;rft.isbn=978-2-0812-1744-7&amp;rft.pub=Flammarion+%281995%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book" id="CITEREFPoisson2009">Poisson, Michel (2009). <i>1000 Immeubles et monuments de Paris</i> (in French). Parigramme. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-2-84096-539-8" title="Special:BookSources/978-2-84096-539-8">978-2-84096-539-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.aufirst=Michel&amp;rft.aulast=Poisson&amp;rft.btitle=1000+Immeubles+et+monuments+de+Paris&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-2-84096-539-8&amp;rft.pub=Parigramme&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Tietz, Jurgen (1999). <i>THe Story of Architecture of the 20th century</i>. Konemann. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-8290-2045-7" title="Special:BookSources/3-8290-2045-7">3-8290-2045-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AModern+architecture&amp;rft.aufirst=Jurgen&amp;rft.aulast=Tietz&amp;rft.btitle=THe+Story+of+Architecture+of+the+20th+century&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=3-8290-2045-7&amp;rft.pub=Konemann&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.voanews.com/learningenglish/home/arts-entertainment/Six-Building-Designers-Who-Are-Redefining-Modern-Architecture--119725454.html" rel="nofollow">Six Building Designers Who Are Redefining Modern Architecture</a>, an April 2011 radio and Internet report by the <a href="/wiki/Special_English" title="Special English">Special English</a> service of the <a href="/wiki/Voice_of_America" title="Voice of America">Voice of America</a>.</li>
+<li><a class="external text" href="http://architect.architectures.sk" rel="nofollow">Famous architects – Biographies of well-known architects, almost all of the Modern Movement.</a></li>
+<li><a class="external text" href="http://calitreview.com/2007/03/26/architecture-and-modernism/" rel="nofollow">Architecture and Modernism</a></li>
+<li><a class="external text" href="http://www.aia.org/aiarchitect/thisweek08/0307/0307t.cfm/" rel="nofollow">"Preservation of Modern Buildings" edition of <i>AIA Architect</i></a></li>
+<li><a class="external text" href="http://www.brussels50s60s.be" rel="nofollow">Brussels50s60s.be</a>, Overview of the architecture of the 1950s and 1960s in Brussels</li>
+<li><a class="external text" href="http://omeka.tplcs.ca/virtual-exhibits/exhibits/show/torontocityhall" rel="nofollow">A Grand Design: The Toronto City Hall Design Competition</a> Modernist designs from the 1958 international competition</li>
+</ul>
+
+
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:315927-0!*!0!!en!4!* and timestamp 20161105105535 and revision id 746738016
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

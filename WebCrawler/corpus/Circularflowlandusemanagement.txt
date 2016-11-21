@@ -1,0 +1,44 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p><b>Circular flow land use management</b>, or <i>CircUse</i>, is a name for a particular process in which neglected land in urban areas is put to better uses. <i>CircUse</i> as a concept aims to be integrated with existing structures and uses, and is put into practice on a broad scale. The concept also looks to reduce the consumption of un-built land through prioritizing inner development over outer development. In Germany the approach of circular flow land use management has been developed and tested by the German Institute for Urban Affairs (Deutsches Institut für Urbanistik) on behalf of the German Federal Ministry of Transport, Building and Urban Affairs (BMVBS) and German Federal Office for Building and Regional Planning (BBR).</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Concept_of_Land_Use">Concept of Land Use</span></h2>
+<p>The concept of circular flow land use management can be described with the slogan “reduce - recycle – avoid”. To create sustainable land uses, actions have to be supported to find new innovative ways to “reduce” the consumption of land by new development “recycle” or put back into use abandoned and derelict sites, and “avoid” future land use decisions that are not sustainable. The concept puts a high value upon the development of inner districts through infill measures. This approach takes into consideration issues related to <a href="/wiki/Urban_sprawl" title="Urban sprawl">urban sprawl</a>, <a href="/wiki/Urban_planning" title="Urban planning">urban planning</a>, <a href="/wiki/Brownfield_land" title="Brownfield land">brownfield land</a>, and <a class="mw-redirect" href="/wiki/Land_use_planning" title="Land use planning">land use planning</a>. The concept was developed by the German Institute for Urban Affairs (Difu) and the Federal Office for Building and Regional Planning (BBR) between 2003 and 2007 during the ExWoSt research field “circular land use management in cities and urban regions” (Kreislaufwirtschaft in der städtischen/stadtregionalen Flächennuntzung -. Fläche im Kreis)</p>
+<h2><span class="mw-headline" id="Practical_Application">Practical Application</span></h2>
+<p>To incorporate the circular flow land use management concept into the practice of city planning in Central Europe, the project “Circular Flow Land Use Management (CircUse)” was initiated by the European Union Central Europe organization  as well as co-financed by the <a href="/wiki/European_Regional_Development_Fund" title="European Regional Development Fund">European Regional Development Fund</a>. The CircUse project involves 12 partner organizations and 3 associated organizations in the six countries of Austria, Czech Republic, Germany, Italy, Poland and Slovakia. The lead organization is the Institute for the Ecology of Urban Areas (IETU), located in Katowice, Poland. The main core outputs of the CircUse project will be:</p>
+<ul>
+<li>A Circular Flow Land Use Management Strategy</li>
+<li>Position paper on existing and new instruments</li>
+<li>Separate training materials for professionals and school children</li>
+<li>Management structures (one newly formed and another modified from its previous form) that incorporate the CircUse principles</li>
+<li>Developed action plans for six pilot regions</li>
+<li>A Land Management Data Tool available as a software package</li>
+<li>A compendium summarizing the entire project</li>
+</ul>
+<h2><span class="mw-headline" id="Timeframe">Timeframe</span></h2>
+<p>The CircUse project was initiated in March 2010 and is scheduled to run until the end of February 2013.</p>
+<h2><span class="mw-headline" id="Similar_Projects">Similar Projects</span></h2>
+<p>CircUse also builds on the experiences the German "ExWoSt Research Field: Circular land use management in cities and urban regions” (ExWoSt Themafeld: Kreislaufwirtschaft in der städtischen/stadtregionalen Flächennutzung)  and the German Federal Ministry of Education and Research (BMBF) Research Programme "Research for the Reduction of Land Consumption and for Sustainable Land Management" (Forschung für die Reduzierung der Flächeninanspruchnahme und ein nachhaltiges Flächenmanagement). Similar projects carried out by other organizations include the European Union PLUREL project.</p>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.circuse.eu" rel="nofollow">Project Website</a></li>
+<li><a class="external text" href="http://www.circuse.eu/index.php?option=com_showdown&amp;typeid=1&amp;Itemid=33" rel="nofollow">Project Results</a></li>
+<li><a class="external text" href="http://www.refina-info.de" rel="nofollow">REFINA Project</a></li>
+<li><a class="external text" href="http://www.plurel.net" rel="nofollow">PLUREL Project</a></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Federal Ministry of Transport, Building and Urban Affairs (BMVBS), Federal Office for Building and Regional Planning (BBR) (published by.) (2007): Kreislaufwirtschaft in der städtischen/stadtregionalen Flächennutzung, revised by Thomas Preuß et al. (German Institute of Urban Affairs et al.) and Fabian Dosch et al. (BBR), Bonn (Werkstatt publication series: Praxis, No. 51).</li>
+<li>Federal Office for Building and Regional Planning (BBR) (published by) (2006): Perspektive Flächenkreislaufwirtschaft special publications series for the ExWoSt research field Fläche im Kreis, Vol. 1: Theoretische Grundlagen und Planspielkonzeption, revised by Thomas Preuß et al. (German Institute of Urban Affairs et al.) and Fabian Dosch et al., (BBR), Bonn.</li>
+<li>Federal Office for Building and Regional Planning (BBR) (published by) (2006): Perspektive Flächenkreislaufwirtschaft special publications series for the ExWoSt research field Fläche im Kreis, Vol. 2: Was leisten bestehende Instrumente?, revised by Thomas Preuß et al. (German Institute of Urban Affairs et al.) and Fabian Dosch et al., (BBR), Bonn.</li>
+<li>Federal Office for Building and Regional Planning (BBR) (published by) (2007): Perspektive Flächenkreislaufwirtschaft special publications series for the ExWoSt research field Fläche im Kreis, Vol. 3: Neue Instrumente für neue Ziele, revised by Thomas Preuß et al. (German Institute of Urban Affairs et al.) and Fabian Dosch et al., (BBR), Bonn.</li>
+<li>Preuß, Thomas and Ferber, Uwe (2008): Circular land use management in cities and urban regions – a policy mix utilizing existing and newly conceived instruments to implement an innovative strategic and policy approach, German Institute of Urban Affairs (Difu), Difu-Paper, Berlin.</li>
+<li>Preuß, Thomas and Ferber, Uwe(2006): Circular Flow Land Use Management: New Strategic, Planning and Instrumental Approaches for Mobilisation of Brownfields, German Institute of Urban Affairs, Occasional paper, Berlin.</li>
+<li>Bock, Stephanie, Hinzen, Ajo and Libbe, Jens (published by) (2011): Nachhaltiges Flächenmanagement – Ein Handbuch für die Praxis. Ergebnisse aus der REFINA-Forschung, Berlin.</li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:36116472-0!*!0!!en!4!* and timestamp 20161110234839 and revision id 748886441
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

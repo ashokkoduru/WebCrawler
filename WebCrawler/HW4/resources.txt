@@ -1,0 +1,4 @@
+To implement this Retriever, I have used the information from following links
+
+1. BeautifulSoup as a HTML parser.
+2. MatplotLib to plot the Zipf law

@@ -1,0 +1,141 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">See also: <a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></div>
+<p><b>Ecological engineering</b> is an emerging study of integrating <a href="/wiki/Ecology" title="Ecology">ecology</a> and <a href="/wiki/Engineering" title="Engineering">engineering</a>, concerned with the design, monitoring, and construction of <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a>. According to Mitsch (1996) "the design of sustainable ecosystems intends to integrate <a class="mw-redirect" href="/wiki/Human_society" title="Human society">human society</a> with its <a href="/wiki/Natural_environment" title="Natural environment">natural environment</a> for the benefit of both".</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>Ecological engineering emerged as a new idea in the early 1960s, but its definition has taken several decades to refine, its implementation is still undergoing adjustment, and its broader recognition as a new paradigm is relatively recent. Ecological engineering was introduced by <a href="/wiki/Howard_T._Odum" title="Howard T. Odum">Howard Odum</a> and others as utilizing <a href="/wiki/Renewable_energy" title="Renewable energy">natural energy</a> sources as the predominant input to manipulate and control environmental systems.</p>
+<p>Mitsch and Jorgensen wrote that ecological engineering is designing societal services such that they benefit society and nature, and later noted the design should be systems based, sustainable, and integrate society with its natural environment. Odum emphasized that <a href="/wiki/Self-organization" title="Self-organization">self-organizational</a> properties were a central feature to ecological engineering.</p>
+<p>Mitsch and Jørgensen were the first to define ecological engineering and provide ecological engineering principles. Later they refined the definition and increased the number of principles. They defined and characterized ecological engineering in a 1989 book and clarified it further in their 2004 book (see Literature). They suggest the goal of ecological engineering is:</p>
+<ol>
+<li>the <a href="/wiki/Restoration_ecology" title="Restoration ecology">restoration of ecosystems</a> that have been substantially disturbed by human activities such as <a class="mw-redirect" href="/wiki/Environmental_pollution" title="Environmental pollution">environmental pollution</a> or <a class="new" href="/w/index.php?title=Land_disturbance&amp;action=edit&amp;redlink=1" title="Land disturbance (page does not exist)">land disturbance</a>, and</li>
+<li>the development of new sustainable ecosystems that have both human and ecological values.</li>
+</ol>
+<p>They summarized the five concepts key to ecological engineering as:</p>
+<ol>
+<li>it is based on the self-designing <a href="/wiki/Carrying_capacity" title="Carrying capacity">capacity of ecosystems</a>,</li>
+<li>it can be a field test of ecological theory,</li>
+<li>it relies on integrated system approaches,</li>
+<li>it conserves <a class="mw-redirect" href="/wiki/Non-renewable_energy" title="Non-renewable energy">non-renewable energy</a>, and</li>
+<li>it supports <a class="mw-redirect" href="/wiki/Biological_conservation" title="Biological conservation">biological conservation</a>.</li>
+</ol>
+<p>Bergen et al. defined ecological engineering as:</p>
+<ol>
+<li>utilizing ecological science and theory,</li>
+<li>applying to all types of ecosystems,</li>
+<li>adapting engineering design methods, and</li>
+<li>acknowledging a guiding value system.</li>
+</ol>
+<p>Barrett (1999) offers a more literal definition of the term: "the design, construction, operation and management (that is, engineering) of landscape/aquatic structures and associated plant and animal communities (that is, ecosystems) to benefit humanity and, often, nature." Barrett continues: "other terms with equivalent or similar meanings include <a href="/wiki/Ecotechnology" title="Ecotechnology">ecotechnology</a> and two terms most often used in the <a href="/wiki/Erosion_control" title="Erosion control">erosion control</a> field: soil bioengineering and biotechnical engineering. However, ecoengineering should not be confused with '<a href="/wiki/Biotechnology" title="Biotechnology">biotechnology</a>' when describing genetic engineering at the cellular level, or '<a class="mw-redirect" href="/wiki/Bioengineering" title="Bioengineering">bioengineering</a>' meaning construction of artificial body parts."</p>
+<p>This <a href="/wiki/Engineering" title="Engineering">engineering</a> discipline combines basic and applied science from engineering, ecology, economics, and natural sciences for the restoration and construction of aquatic and terrestrial ecosystems. The field of ecological engineering is increasing in breadth and depth as more opportunities to design and use ecosystems as interfaces between technology and environment are explored.</p>
+<p>Implementation of ecological engineering has focused on the creation or restoration of ecosystems, from <a href="/wiki/Land_degradation" title="Land degradation">degraded</a> <a class="mw-redirect" href="/wiki/Wetlands" title="Wetlands">wetlands</a> to multi-celled tubs and <a href="/wiki/Greenhouse" title="Greenhouse">greenhouses</a> that integrate microbial, fish, and plant services to process human <a href="/wiki/Wastewater" title="Wastewater">wastewater</a> into products such as fertilizers, flowers, and <a href="/wiki/Drinking_water" title="Drinking water">drinking water</a>.</p>
+<p>Potential applications of ecological engineering in cities have included the field of <a href="/wiki/Landscape_architecture" title="Landscape architecture">landscape architecture</a>, <a href="/wiki/Urban_planning" title="Urban planning">urban planning</a>, and <a href="/wiki/Urban_horticulture" title="Urban horticulture">urban horticulture</a>, which can be synthesized into urban <a class="mw-redirect" href="/wiki/Stormwater_management" title="Stormwater management">stormwater management</a>. Potential applications of ecological engineering in rural landscapes have included wetland treatment and community <a href="/wiki/Reforestation" title="Reforestation">reforestation</a> through traditional ecological knowledge.</p>
+<p>Recent lifestyle and habitat planning examples include the <a href="/wiki/Permaculture" title="Permaculture">permaculture</a> movement.</p>
+<h2><span class="mw-headline" id="Design_guidelines">Design guidelines</span></h2>
+<p>Ecological engineering design will follow a cycle similar to <a class="mw-redirect" href="/wiki/Engineering_design" title="Engineering design">engineering design</a> - problem formulation (goal), problem analysis (constraints), alternative solutions search, decision among alternatives, and specification of a complete solution. Elements that distinguish ecological engineering design are elaborated by many authors, however a singular approach is still absent. Typically, the design goal involves protecting an at-risk ecosystem, restoring a degraded ecosystem, or creating a new sustainable ecosystem to satisfy needs of nature and society.</p>
+<p>A temporal framework is provided by Matlock et al., stating the design solutions are considered in ecological time. In selecting between alternatives, the design should incorporate <a href="/wiki/Ecological_economics" title="Ecological economics">ecological economics</a> in design evaluation and acknowledge a guiding value system which promotes biological conservation.</p>
+<ul>
+<li>applying to all types of ecosystems,</li>
+<li>adapting engineering design methods, and</li>
+<li>Design steps should be based on utilizing ecological science and theory,</li>
+<li>the self-designing capacity of ecosystems;</li>
+<li>accept the <a href="/wiki/Adaptive_management" title="Adaptive management">adaptive management</a> theory of learning from mistakes as the design will field test <a class="mw-redirect" href="/wiki/Ecological_theory" title="Ecological theory">ecological theory</a>;</li>
+<li>utilize integrated <a class="new" href="/w/index.php?title=System_approach&amp;action=edit&amp;redlink=1" title="System approach (page does not exist)">system approaches</a>; and</li>
+<li>conserve non-renewable energy.</li>
+</ul>
+<h2><span class="mw-headline" id="Academic_curriculum">Academic curriculum</span></h2>
+<p>An academic curriculum has been proposed for ecological engineering, and institutions around the world are starting programs. Key elements of this curriculum are:</p>
+<ul>
+<li>quantitative ecology,</li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">systems ecology</a>,</li>
+<li><a href="/wiki/Restoration_ecology" title="Restoration ecology">restoration ecology</a>,</li>
+<li><a class="mw-redirect" href="/wiki/Ecological_modeling" title="Ecological modeling">ecological modeling</a>,</li>
+<li>ecological engineering,</li>
+<li>economics of ecological engineering, and</li>
+<li>technical <a href="/wiki/Course_(education)#Elective_and_required_courses" title="Course (education)">electives</a>.</li>
+</ul>
+<p>Complementing this set of courses are prerequisites courses in physical, biological, and chemical subject areas, and integrated design experiences. According to Matlock et al., the design should identify constraints, characterize solutions in ecological time, and incorporate ecological economics in design evaluation. Economics of ecological engineering has been demonstrated using energy principles for a wetland., and using nutrient valuation for a dairy farm </p>
+<h2><span class="mw-headline" id="Literature">Literature</span></h2>
+<ul>
+<li><a href="/wiki/Howard_T._Odum" title="Howard T. Odum">Howard T. Odum</a> (1963), "Man and Ecosystem" Proceedings, Lockwood Conference on the Suburban Forest and Ecology, in: <i>Bulletin Connecticut Agric. Station</i>.</li>
+<li><cite class="citation book">W.J. Mitsch and S.E. Jørgensen (1989). <i>Ecological Engineering: An Introduction to Ecotechnology</i>. New York: <a class="mw-redirect" href="/wiki/John_Wiley_and_Sons" title="John Wiley and Sons">John Wiley and Sons</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+engineering&amp;rft.au=W.J.+Mitsch+and+S.E.+J%C3%B8rgensen&amp;rft.btitle=Ecological+Engineering%3A+An+Introduction+to+Ecotechnology&amp;rft.date=1989&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=John+Wiley+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a class="mw-redirect" href="/wiki/W.J._Mitsch" title="W.J. Mitsch">W.J. Mitsch</a> (1993), <i>Ecological engineering—"a cooperative role with the planetary life–support systems</i>. <i><a href="/wiki/Environmental_Science_%26_Technology" title="Environmental Science &amp; Technology">Environmental Science &amp; Technology</a></i> 27:438-445.</li>
+<li><cite class="citation journal">K. R. Barrett (1999). "Ecological engineering in water resources: The benefits of collaborating with nature". <i>Water International</i>. <b>24</b>: 182–188. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1080%2F02508069908692160" rel="nofollow">10.1080/02508069908692160</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+engineering&amp;rft.atitle=Ecological+engineering+in+water+resources%3A+The+benefits+of+collaborating+with+nature&amp;rft.au=K.+R.+Barrett&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1080%2F02508069908692160&amp;rft.jtitle=Water+International&amp;rft.pages=182-188&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">P.C. Kangas (2004). <i>Ecological Engineering: Principles and Practice</i>. Boca Raton, Florida: Lewis Publishers, <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1566705998" title="Special:BookSources/978-1566705998">978-1566705998</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+engineering&amp;rft.au=P.C.+Kangas&amp;rft.btitle=Ecological+Engineering%3A+Principles+and+Practice&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-1566705998&amp;rft.place=Boca+Raton%2C+Florida&amp;rft.pub=Lewis+Publishers%2C+CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">W.J. Mitsch and S.E. Jørgensen (2004). <i>Ecological Engineering and Ecosystem Restoration</i>. New York: John Wiley and Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0471332640" title="Special:BookSources/978-0471332640">978-0471332640</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcological+engineering&amp;rft.au=W.J.+Mitsch+and+S.E.+J%C3%B8rgensen&amp;rft.btitle=Ecological+Engineering+and+Ecosystem+Restoration&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-0471332640&amp;rft.place=New+York&amp;rft.pub=John+Wiley+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>H.D. van Bohemen (2004), <a class="external text" href="http://repository.tudelft.nl/view/ir/uuid:6dcd9b4a-bf75-4b8c-8c40-435fe861988b/" rel="nofollow"><i>Ecological Engineering and Civil Engineering works</i></a>, Doctoral thesis TU Delft, The Netherlands.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 18em; -webkit-column-width: 18em; column-width: 18em;">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Ecological_engineering_methods" title="Ecological engineering methods">Ecological engineering methods</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Permaforestry" title="Permaforestry">Permaforestry</a></li>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a class="mw-redirect" href="/wiki/Home_gardens" title="Home gardens">Home gardens</a></li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass (ecology)</a></li>
+<li><a href="/wiki/Forest_farming" title="Forest farming">Forest farming</a></li>
+<li><a href="/wiki/Analog_forestry" title="Analog forestry">Analog forestry</a></li>
+<li><a href="/wiki/Terra_preta" title="Terra preta">Terra preta</a></li>
+<li><a href="/wiki/Wildcrafting" title="Wildcrafting">Wildcrafting</a></li>
+<li><a href="/wiki/Agroforestry" title="Agroforestry">Agroforestry</a></li>
+<li><a href="/wiki/Buffer_strip" title="Buffer strip">Buffer strip</a></li>
+<li><a href="/wiki/Great_Green_Wall" title="Great Green Wall">Great Green Wall</a></li>
+<li><a href="/wiki/Great_Plains_Shelterbelt" title="Great Plains Shelterbelt">Great Plains Shelterbelt</a> (1934- )</li>
+<li><a href="/wiki/Three-North_Shelter_Forest_Program" title="Three-North Shelter Forest Program">Three-North Shelter Forest Program</a></li>
+<li><a href="/wiki/Great_Plan_for_the_Transformation_of_Nature" title="Great Plan for the Transformation of Nature">Great Plan for the Transformation of Nature</a> - an example of applied ecological engineering in the 1940s and 1950s</li>
+<li><a href="/wiki/Macro-engineering" title="Macro-engineering">Macro-engineering</a></li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a></li>
+<li><a href="/wiki/Human_ecology" title="Human ecology">Human ecology</a></li>
+<li><a href="/wiki/Collaborative_innovation_network" title="Collaborative innovation network">Collaborative innovation network</a></li>
+<li><a href="/wiki/Energy-efficient_landscaping" title="Energy-efficient landscaping">Energy-efficient landscaping</a></li>
+<li><a class="mw-redirect" href="/wiki/Hedgerow" title="Hedgerow">Hedgerow</a></li>
+<li><a href="/wiki/Sahara_Forest_Project" title="Sahara Forest Project">Proposed Sahara forest project</a></li>
+<li><a href="/wiki/Sand_fence" title="Sand fence">Sand fence</a></li>
+<li><a href="/wiki/Seawater_greenhouse" title="Seawater greenhouse">Seawater greenhouse</a></li>
+<li><a href="/wiki/Windbreak" title="Windbreak">Windbreak</a></li>
+<li><a href="/wiki/Constructed_wetland" title="Constructed wetland">Constructed wetland</a></li>
+<li><a href="/wiki/Afforestation" title="Afforestation">Afforestation</a></li>
+<li><a href="/wiki/Deforestation_during_the_Roman_period" title="Deforestation during the Roman period">Deforestation during the Roman period</a></li>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a class="mw-redirect" href="/wiki/Megaprojects" title="Megaprojects">Megaprojects</a></li>
+<li><a href="/wiki/Agroecology" title="Agroecology">Agroecology</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.ecological-engineering.com/defs.html" rel="nofollow">What is "ecological engineering"?</a> Webtext, Ecological Engineering Group, 2007.</li>
+<li><a class="external text" href="http://groups.engr.oregonstate.edu/eess/" rel="nofollow">Ecological Engineering Student Society</a> Website, EESS, Oregon State University, 2011.</li>
+<li><a class="external text" href="http://www.cfw.ufl.edu/ecological_engineering.asp" rel="nofollow">Ecological Engineering</a> webtext by Howard T.Odum Center for Wetlands at the University of Florida, 2007.</li>
+</ul>
+
+<ul>
+<li><a class="external text" href="http://aeesociety.org/" rel="nofollow">American Ecological Engineering Society</a>, homepage.</li>
+<li><a class="external text" href="http://groups.engr.oregonstate.edu/eess/" rel="nofollow">Ecological Engineering Student Society</a> Website, EESS, Oregon State University, 2011.</li>
+<li><a class="external text" href="http://www.aspwe.org" rel="nofollow">American Society of Professional Wetland Engineers</a>, homepage, wiki.</li>
+<li><a class="external text" href="http://www.ecological-engineering.com/" rel="nofollow">Ecological Engineering Group</a>, homepage.</li>
+<li><a class="external text" href="http://www.iees.ch/" rel="nofollow">International Ecological Engineering Society</a> homepage.</li>
+</ul>
+
+<ul>
+<li><a class="external text" href="http://www.elsevier.com/wps/find/journaldescription.cws_home/522751/description#description" rel="nofollow">Ecological Engineering</a> since 1992, with a general description of the field.</li>
+<li><a class="external text" href="http://www.springerlink.com/content/112761/" rel="nofollow">Landscape and Ecological Engineering</a> since 2005.</li>
+</ul>
+
+
+
+
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="icon" class="noviewer" data-file-height="510" data-file-width="800" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/32px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/64px-Sustainable_development.svg.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li>
+</ul>
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1633173-0!*!0!!en!4!* and timestamp 20161110025209 and revision id 747609420
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

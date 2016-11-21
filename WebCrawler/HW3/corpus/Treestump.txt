@@ -1,0 +1,46 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+
+<p>After a <a href="/wiki/Tree" title="Tree">tree</a> has been cut and felled, the <b>stump</b> or <b>tree stump</b> is usually a small remaining portion of the trunk with the <a href="/wiki/Root" title="Root">roots</a> still in the ground. Stumps may show the age-defining rings of a tree. The study of these rings is known as <a href="/wiki/Dendrochronology" title="Dendrochronology">dendrochronology</a>.</p>
+
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Regeneration">Regeneration</span></h2>
+<p>Stumps and mama humps (both those on the ground and stumps of removed branches) are sometimes able to regenerate into new trees. Often, a <a href="/wiki/Deciduous" title="Deciduous">deciduous tree</a> that has been cut will re-sprout in multiple places around the edge of the stump or from the roots. Depending on whether the tree is being removed permanently or whether the <a href="/wiki/Forest" title="Forest">forest</a> is expected to recover, this can be either desirable or undesirable. Stump sprouts can grow very quickly and sometimes become viable trees themselves either for aesthetics or timber, due to the existing root structure; however, the cut portion of the trunk may weaken the sprouts and introduce disease into the newly forming tree(s).</p>
+
+
+<p>The process of deliberately cutting a tree to a stump to regrow is known as <a href="/wiki/Coppicing" title="Coppicing">coppicing</a>.</p>
+<h2><span class="mw-headline" id="Stump_removal">Stump removal</span></h2>
+<p>Tree stumps can be difficult to remove from the ground. They can be dug out, shredded with a <a href="/wiki/Stump_grinder" title="Stump grinder">stump grinder</a> or burnt.</p>
+<p>A common method for stump removal is to use one of the many chemical stump removal products, so long as immediate results are not needed. These stump removers are mostly made of <a href="/wiki/Potassium_nitrate" title="Potassium nitrate">potassium nitrate</a> (KNO<sub>3</sub>) and act by rapidly increasing the decay of the stump. After an average of 4–6 weeks, the stump will be rotten through and easily fragmented in manageable pieces. If time is a limiting factor, setting fire to the stump is effective because once the potassium nitrate has been absorbed it acts as an effective oxidizer.</p>
+<p>Historically, an explosive called <i>stumping powder</i> was used to blast stumps into bits.</p>
+<h2><span class="mw-headline" id="Stump_harvesting">Stump harvesting</span></h2>
+<p>In plantation forests in parts of Europe, stumps are sometimes pulled out of the ground using a specially adapted tracked <a href="/wiki/Excavator" title="Excavator">excavator</a>, to supply wood fuel for <a href="/wiki/Biomass" title="Biomass">biomass</a> power stations. <a href="/wiki/Stump_harvesting" title="Stump harvesting">Stump harvesting</a> may provide an increasing component of the woody material required by the biomass power sector.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Tree_template.svg"><img alt="icon" class="noviewer" data-file-height="48" data-file-width="48" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tree_template.svg/28px-Tree_template.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tree_template.svg/42px-Tree_template.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tree_template.svg/56px-Tree_template.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Trees" title="Portal:Trees">Trees portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Living_stump" title="Living stump">Living stump</a></li>
+<li><a href="/wiki/Stump_harvesting" title="Stump harvesting">Stump harvesting</a></li>
+</ul>
+<h2></h2>
+
+<ul>
+<li>Buckley, G.P. 1992. Ecology and Management of Coppice Woodlands. <i>Springer</i> 336 pages,<a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0412431106">ISBN 0-412-43110-6</a>, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780412431104">ISBN 978-0-412-43110-4</a>.</li>
+<li>Schenk, H.J., and R.B. Jackson. 2002. The global biogeography of roots. <i>Ecological Monographs</i> <b>72</b> (3): 311-328.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://ex-epsilon.slu.se/archive/00002832/" rel="nofollow">Stump harvesting in Sweden</a></li>
+<li><a class="external text" href="http://www.dina.dk/phd/s/s8/Reports/Nuutti_report.pdf" rel="nofollow">Regeneration after stump harvesting</a></li>
+<li><a class="external text" href="http://www.tekes.fi/eng/publications/kannotengl1.pdf" rel="nofollow">Stumps as a resource in Finland</a></li>
+<li><a class="external text" href="http://www.jyu.fi/science/laitokset/bioenv/en/sections/eko/research/stumpharvesting" rel="nofollow">Stump harvesting and forest decomposers</a></li>
+</ul>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5248941-0!*!0!!en!4!* and timestamp 20161031190030 and revision id 747151532
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

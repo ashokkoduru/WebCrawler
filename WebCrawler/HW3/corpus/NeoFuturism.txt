@@ -1,0 +1,303 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p><b>Neo-futurism</b> is a late 20th–early 21st century movement in <a href="/wiki/The_arts" title="The arts">the arts</a>, <a href="/wiki/Design" title="Design">design</a>, and <a href="/wiki/Architecture" title="Architecture">architecture</a>. It could be seen as a departure from the attitude of <a class="mw-redirect" href="/wiki/Post-modernism" title="Post-modernism">post-modernism</a> and represents an <a href="/wiki/Idealism" title="Idealism">idealistic</a> belief in a better future and "a need to periodize the modern rapport with the technological".</p>
+<p>This <a href="/wiki/Avant-garde" title="Avant-garde">avant-garde</a> movement is a futuristic rethinking of the aesthetic and functionality of rapidly growing cities. The industrialization that began worldwide following the end of the <a class="mw-redirect" href="/wiki/Second_World_War" title="Second World War">Second World War</a> gave wind to new streams of thought in life, art and architecture, leading to post-modernism, neo-modernism and then neo-futurism.</p>
+<p>In the Western countries, <a href="/wiki/Futurist_architecture" title="Futurist architecture">futurist architecture</a> evolved into <a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a>, the <a href="/wiki/Googie_architecture" title="Googie architecture">Googie movement</a> and <a href="/wiki/High-tech_architecture" title="High-tech architecture">high-tech architecture</a>, and finally into Neo-Futurism. Neo-futuristic urbanists, architects, designers and artists believe in cities releasing emotions, driven by eco-<a href="/wiki/Sustainability" title="Sustainability">sustainability</a>, ethical values and implementing new materials and new technologies to provide a better quality of life for city-dwellers.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Origins">Origins</span></h2>
+<p>Pioneered in the late 1960s and early 70s by <a href="/wiki/Thought_leader" title="Thought leader">thought leader</a> Hal Foster; American architects <a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a> and <a class="mw-redirect" href="/wiki/John_C._Portman,_Jr." title="John C. Portman, Jr.">John C. Portman, Jr.</a>; Finnish-American architect and industrial designer <a href="/wiki/Eero_Saarinen" title="Eero Saarinen">Eero Saarinen</a>, <a href="/wiki/Archigram" title="Archigram">Archigram</a>, a British avant-garde architectural group (<a href="/wiki/Peter_Cook" title="Peter Cook">Peter Cook</a>, Warren Chalk, <a href="/wiki/Ron_Herron" title="Ron Herron">Ron Herron</a>, Dennis Crompton, <a href="/wiki/Michael_Webb_(architect)" title="Michael Webb (architect)">Michael Webb</a> and David Greene) based at the <a href="/wiki/Architectural_Association_School_of_Architecture" title="Architectural Association School of Architecture">Architectural Association</a>, London; American avant-garde architectural group ArchiGO, centered around the <a href="/wiki/Illinois_Institute_of_Technology" title="Illinois Institute of Technology">Illinois Institute of Technology</a>; Danish architect <a href="/wiki/Henning_Larsen" title="Henning Larsen">Henning Larsen</a>; Czech architect <a href="/wiki/Jan_Kaplick%C3%BD" title="Jan Kaplický">Jan Kaplický</a>; Swedish artist Simon Stålenhag; Italian <a href="/wiki/Light_art" title="Light art">light sculptor</a> Marco Lodola; American concept artist <a href="/wiki/Syd_Mead" title="Syd Mead">Syd Mead</a>; American theatre screenwriter Greg Allen and Russian poets Andrei Voznesensky, Serge Segay and Rea Nikonova.</p>
+<p>Although it was never built, the Fun Palace (1961) interpreted by architect <a href="/wiki/Cedric_Price" title="Cedric Price">Cedric Price</a> as a "giant neo-futurist machine" influenced other architects, notably <a href="/wiki/Richard_Rogers" title="Richard Rogers">Richard Rogers</a> and <a href="/wiki/Renzo_Piano" title="Renzo Piano">Renzo Piano</a>, whose <a href="/wiki/Centre_Georges_Pompidou" title="Centre Georges Pompidou">Pompidou Centre</a> extended many of Price's ideas.</p>
+<h2><span class="mw-headline" id="Definition">Definition</span></h2>
+<p>Neo-futurism was relaunched in 2007 after the dissemination of "The Neo-Futuristic City <a href="/wiki/Manifesto" title="Manifesto">Manifesto</a>" included in the candidature presented to the <a href="/wiki/Bureau_of_International_Expositions" title="Bureau of International Expositions">Bureau of International Expositions</a> (BIE) and written by innovation designer <a href="/wiki/Vito_Di_Bari" title="Vito Di Bari">Vito Di Bari</a>, a former executive director at the <a class="mw-redirect" href="/wiki/United_Nations_Educational,_Scientific_and_Cultural_Organization" title="United Nations Educational, Scientific and Cultural Organization">United Nations Educational, Scientific and Cultural Organization</a> (UNESCO), to outline his vision for the city of <a href="/wiki/Milan" title="Milan">Milan</a> at the time of the Universal <a href="/wiki/Expo_2015" title="Expo 2015">Expo 2015</a>. Di Bari defined his neo-futuristic vision as the "cross-pollination of art, cutting edge technologies and ethical values combined to create a pervasively higher quality of life"; he referenced the <a href="/wiki/Sustainable_development#Culture" title="Sustainable development">Fourth Pillar of Sustainable Development Theory</a> and reported that the name had been inspired by the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> report <i><a href="/wiki/Our_Common_Future" title="Our Common Future">Our Common Future</a></i>.</p>
+<p><a href="/wiki/Jean-Louis_Cohen" title="Jean-Louis Cohen">Jean-Louis Cohen</a> has defined neo-futurism as "a corollary to technology, being the structures built today byproducts of new materials to create previously impossible forms." Etan J. Ilfeld wrote that in the contemporary neo-futurist aesthetics "the machine becomes an integral element of the creative process itself, and generates the emergence of artistic modes that would have been impossible prior to computer technology." Reyner Banham's definition of "une architecture autre" is a call for an architecture that technologically overcomes all previous architectures but possessing an expressive form, as Banham stated about neo-futuristic "Archigram’s Plug-in Computerized City, form does not have to follow function into oblivion."</p>
+<h2><span class="mw-headline" id="People">People</span></h2>
+<p>The relaunch of neo-futurism in the 21st century has been creatively inspired by the Iraqi-British <a href="/wiki/Pritzker_Architecture_Prize" title="Pritzker Architecture Prize">Pritzker Architecture Prize</a>-winning architect <a href="/wiki/Zaha_Hadid" title="Zaha Hadid">Zaha Hadid</a>, Spanish architect <a href="/wiki/Santiago_Calatrava" title="Santiago Calatrava">Santiago Calatrava</a>  and by Vito DiBari.</p>
+<p>Neo-Futurist architects, designers and artists are French architect <a class="new" href="/w/index.php?title=Denis_Laming&amp;action=edit&amp;redlink=1" title="Denis Laming (page does not exist)">Denis Laming</a><span class="noprint" style="font-size:85%; font-style: normal;"> (<a class="extiw" href="https://fr.wikipedia.org/wiki/Denis_Laming" title="fr:Denis Laming">fr</a>)</span>; American artists Josh Hadar, Erin Sparler, Marlow Rodale, <a class="new" href="/w/index.php?title=Studio-X&amp;action=edit&amp;redlink=1" title="Studio-X (page does not exist)">Studio-X</a> Lawrie Masson; Panayiotis Terzis, and Miguel Ovalle; urban-noise artist Joseph Young; French designer Patrick Jouin British artist <a class="external text" href="http://www.oliviapeake.com" rel="nofollow">Olivia Peake</a>; Japanese designer Yuima Nakazato, Swedish artist Simon Stålenhag, Italian artist <a class="new" href="/w/index.php?title=Luca_Bestetti&amp;action=edit&amp;redlink=1" title="Luca Bestetti (page does not exist)">Luca Bestetti</a> and Greek artist Charis Tsevis. Neo-futurism has absorbed sоme оf the <a href="/wiki/High-tech_architecture" title="High-tech architecture">high-tech architecture</a>’s themes аnd ideas, incorporating elements оf high-tech industry аnd technology іntо building design: technology and context is the focus of some architects of this movement such as Buckminster Fuller, Norman Foster, Kenzo Tange, Renzo Piano, Richard Rogers, Frei Otto, and Santiago Calatrava.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/TWA_Flight_Center" title="TWA Flight Center">TWA Terminal</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a> by <a href="/wiki/Eero_Saarinen" title="Eero Saarinen">Eero Saarinen</a>, 1962</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Washington_Dulles_International_Airport" title="Washington Dulles International Airport">Dulles International Airport</a> in <a href="/wiki/Chantilly,_Virginia" title="Chantilly, Virginia">Chantilly</a> by <a href="/wiki/Eero_Saarinen" title="Eero Saarinen">Eero Saarinen</a>, 1963</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Gateway_Arch" title="Gateway Arch">Gateway Arch</a> in <a class="mw-redirect" href="/wiki/St._Louis,_Missouri" title="St. Louis, Missouri">St. Louis</a> by <a href="/wiki/Eero_Saarinen" title="Eero Saarinen">Eero Saarinen</a>, 1965</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Montreal_Biosph%C3%A8re" title="Montreal Biosphère">Montreal Biosphère</a> in <a href="/wiki/Montreal" title="Montreal">Montreal</a> by <a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a>, 1967</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Olympic_Stadium_(Montreal)" title="Olympic Stadium (Montreal)">Tour de Montréal</a> in <a href="/wiki/Montreal" title="Montreal">Montreal</a> by <a href="/wiki/Roger_Taillibert" title="Roger Taillibert">Roger Taillibert</a>, 1987</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Kunsthaus_Graz" title="Kunsthaus Graz">Kunsthaus Graz</a> in <a href="/wiki/Graz" title="Graz">Graz</a> by <a href="/wiki/Peter_Cook_(architect)" title="Peter Cook (architect)">Peter Cook</a> and <a href="/wiki/Colin_Fournier" title="Colin Fournier">Colin Fournier</a>, 2003</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Copenhagen_Opera_House" title="Copenhagen Opera House">Copenhagen Opera House</a> in <a href="/wiki/Copenhagen" title="Copenhagen">Copenhagen</a> by <a href="/wiki/Henning_Larsen" title="Henning Larsen">Henning Larsen</a>, 2004</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The Pavilions of <a href="/wiki/Futuroscope" title="Futuroscope">Futuroscope</a> in <a href="/wiki/Poitiers" title="Poitiers">Poitiers</a> by Denis Laming, 1984</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>London <a class="mw-redirect" href="/wiki/City_Hall_(London)" title="City Hall (London)">City Hall</a> in <a href="/wiki/London" title="London">London</a> by <a href="/wiki/Norman_Foster,_Baron_Foster_of_Thames_Bank" title="Norman Foster, Baron Foster of Thames Bank">Norman Foster</a>, 2002</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/British_Library_of_Political_and_Economic_Science" title="British Library of Political and Economic Science">British Library of Political and Economic Science</a> in London by Norman Foster, 2000</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The futuristic interior roof of <a href="/wiki/Hong_Kong_International_Airport" title="Hong Kong International Airport">Hong Kong International Airport</a> in <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> by Norman Foster, 1998</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Tessellation" title="Tessellation">tessellated</a> glass roof of the <a href="/wiki/British_Museum" title="British Museum">British Museum</a>'s <a href="/wiki/Queen_Elizabeth_II_Great_Court" title="Queen Elizabeth II Great Court">Great Court</a> in London by Norman Foster, 2000</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The new <a href="/wiki/Wembley_Stadium" title="Wembley Stadium">Wembley Stadium</a> in London by Norman Foster, 2007</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/30_St_Mary_Axe" title="30 St Mary Axe">30 St Mary Axe</a> in London by Norman Foster, 2003</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><i><a href="/wiki/L%27Oceanogr%C3%A0fic" title="L'Oceanogràfic">L'Oceanogràfic</a></i> in the <i><a href="/wiki/City_of_Arts_and_Sciences" title="City of Arts and Sciences">City of Arts and Sciences</a></i> in <a href="/wiki/Valencia" title="Valencia">Valencia</a> by <a href="/wiki/F%C3%A9lix_Candela" title="Félix Candela">Félix Candela</a>, 2003</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><i><a href="/wiki/L%27%C3%80gora" title="L'Àgora">L'Àgora</a></i> in the <i>City of Arts and Sciences</i> in Valencia by <a href="/wiki/Santiago_Calatrava" title="Santiago Calatrava">Santiago Calatrava</a>, 2009</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><i><a class="mw-redirect" href="/wiki/El_Palau_de_les_Arts_Reina_Sof%C3%ADa" title="El Palau de les Arts Reina Sofía">El Palau de les Arts Reina Sofía</a></i> in the <i>City of Arts and Sciences</i> in Valencia by Santiago Calatrava, 2005</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Turning_Torso" title="Turning Torso">Turning Torso</a> in <a href="/wiki/Malm%C3%B6" title="Malmö">Malmö</a> by Santiago Calatrava, 2005</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><i><a class="new" href="/w/index.php?title=L%27Hemisf%C3%A8ric&amp;action=edit&amp;redlink=1" title="L'Hemisfèric (page does not exist)">L'Hemisfèric</a></i> in the <i><a href="/wiki/City_of_Arts_and_Sciences#Buildings" title="City of Arts and Sciences">City of Arts and Sciences</a></i> in Valencia by Santiago Calatrava, 1998</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Auditorio_de_Tenerife" title="Auditorio de Tenerife">Auditorio de Tenerife</a> in <a href="/wiki/Santa_Cruz_de_Tenerife" title="Santa Cruz de Tenerife">Santa Cruz de Tenerife</a> by Santiago Calatrava, 2003</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Iceberg_Skating_Palace" title="Iceberg Skating Palace">Iceberg Palace</a> in <a href="/wiki/Sochi" title="Sochi">Sochi</a> by Andrey Bokov, 2012</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Tokyo_Skytree" title="Tokyo Skytree">Skytree</a> in <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a> by <a href="/wiki/Nikken_Sekkei" title="Nikken Sekkei">Nikken Sekkei</a>, 2012</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Heydar_Aliyev_Cultural_Center" title="Heydar Aliyev Cultural Center">Heydar Aliyev Cultural Center</a> in <a href="/wiki/Baku" title="Baku">Baku</a> by <a href="/wiki/Zaha_Hadid" title="Zaha Hadid">Zaha Hadid</a>, 2012</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/London_Aquatics_Centre" title="London Aquatics Centre">London Aquatics Centre</a> in <a href="/wiki/Stratford,_London" title="Stratford, London">Stratford</a> by Zaha Hadid, 2011</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Hungerburgbahn" title="Hungerburgbahn">Hungerburgbahn</a> top station in <a href="/wiki/Hungerburg" title="Hungerburg">Hungerburg</a> by Zaha Hadid, 2007</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Jockey_Club_Innovation_Tower" title="Jockey Club Innovation Tower">Jockey Club Innovation Tower</a> in <a href="/wiki/Kowloon" title="Kowloon">Kowloon</a> by Zaha Hadid, 2013</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Puente_del_Alamillo" title="Puente del Alamillo">Alamillo Bridge</a> in <a href="/wiki/Seville" title="Seville">Seville</a> by <a href="/wiki/Santiago_Calatrava" title="Santiago Calatrava">Santiago Calatrava</a>, 1992</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Burj_Khalifa" title="Burj Khalifa">Burj Khalifa</a> in <a href="/wiki/Dubai" title="Dubai">Dubai</a> by <a href="/wiki/Adrian_Smith_(architect)" title="Adrian Smith (architect)">Adrian Smith</a>, 2010</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a class="mw-redirect" href="/wiki/Emirates_Spinnaker_Tower" title="Emirates Spinnaker Tower">Emirates Spinnaker Tower</a> in <a href="/wiki/Portsmouth" title="Portsmouth">Portsmouth</a> by HGP Greentree Allchurch &amp; Evans, 2005</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Evolution_Tower" title="Evolution Tower">Evolution Tower</a> in <a href="/wiki/Moscow_International_Business_Center" title="Moscow International Business Center">Moscow International Business Center</a> by Philipp Nikandrov, 2014</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/The_Shard" title="The Shard">The Shard</a> in <a href="/wiki/London" title="London">London</a> by <a href="/wiki/Renzo_Piano" title="Renzo Piano">Renzo Piano</a>, 2012</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Museum_of_Tomorrow" title="Museum of Tomorrow">Museum of Tomorrow</a> in <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a> by Santiago Calatrava, 2015</p>
+</div>
+</div>
+</li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation book"><a href="/wiki/Jean-Louis_Cohen" title="Jean-Louis Cohen">Cohen, Jean-Louis</a> (2012). <i>The Future of Architecture. Since 1889</i>. London: <a href="/wiki/Phaidon_Press" title="Phaidon Press">Phaidon Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0714845982" title="Special:BookSources/978-0714845982">978-0714845982</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeo-futurism&amp;rft.aufirst=Jean-Louis&amp;rft.aulast=Cohen&amp;rft.btitle=The+Future+of+Architecture.+Since+1889&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=978-0714845982&amp;rft.place=London&amp;rft.pub=Phaidon+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web"><a href="/wiki/Vito_Di_Bari" title="Vito Di Bari">Di Bari V.</a> (2007). <a class="external text" href="http://neo-futurism.com/Brochure_ManifestoFuturismo.pdf" rel="nofollow">"100 years: From Manifesto of futurist architecture to the Neofuturistic city manifesto"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeo-futurism&amp;rft.au=Di+Bari+V.&amp;rft.btitle=100+years%3A+From+Manifesto+of+futurist+architecture+to+the+Neofuturistic+city+manifesto&amp;rft.date=2007&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fneo-futurism.com%2FBrochure_ManifestoFuturismo.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal"><a href="/wiki/Hal_Foster_(art_critic)" title="Hal Foster (art critic)">Foster, Hal</a> (1987). <a class="external text" href="http://www.jstor.org/stable/29543561" rel="nofollow">"Neo-Futurism: Architecture and Technology"</a>. <i>AA Files</i>. <a href="/wiki/Architectural_Association_School_of_Architecture" title="Architectural Association School of Architecture">Architectural Association School of Architecture</a>. <b>14</b>: 25–27<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeo-futurism&amp;rft.atitle=Neo-Futurism%3A+Architecture+and+Technology&amp;rft.aufirst=Hal&amp;rft.aulast=Foster&amp;rft.date=1987&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jstor.org%2Fstable%2F29543561&amp;rft.jtitle=AA+Files&amp;rft.pages=25-27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal"><a href="/wiki/Hal_Foster_(art_critic)" title="Hal Foster (art critic)">Foster, Hal</a> (1994). <a class="external text" href="http://www.jstor.org/stable/779051" rel="nofollow">"What's Neo about the Neo-Avant-Garde?"</a>. <i><a href="/wiki/October_(journal)" title="October (journal)">October</a></i>. <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a>. <b>70</b>: 5–32<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeo-futurism&amp;rft.atitle=What%27s+Neo+about+the+Neo-Avant-Garde%3F&amp;rft.aufirst=Hal&amp;rft.aulast=Foster&amp;rft.date=1994&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jstor.org%2Fstable%2F779051&amp;rft.jtitle=October&amp;rft.pages=5-32&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=70"><span style="display:none;"> </span></span></li>
+<li>Rowena Easton, The NeoFuturist Manifesto, 2008 <a class="external free" href="http://www.neofuturist.org/manifesto.php" rel="nofollow">http://www.neofuturist.org/manifesto.php</a></li>
+<li><cite class="citation book">Klein, Caroline; Lieb, Stefanie (2013). <i>Futuristic: Visions of Future Living</i>. Cologne: DAAB Media. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3942597098" title="Special:BookSources/978-3942597098">978-3942597098</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeo-futurism&amp;rft.aufirst=Caroline&amp;rft.aulast=Klein&amp;rft.au=Lieb%2C+Stefanie&amp;rft.btitle=Futuristic%3A+Visions+of+Future+Living&amp;rft.date=2013&amp;rft.genre=book&amp;rft.isbn=978-3942597098&amp;rft.place=Cologne&amp;rft.pub=DAAB+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>A History of Neo-Futurism, Erica Anne Milkovich, 2010 - Avant-garde (Aesthetics)</li>
+<li>Gunther Berghaus, From Futurism to Neo-Futurism, in Avant-garde/Neo-avant-garde, 2005, published by Dietrich Scheunemann, Rodopi BV <a class="external free" href="http://www.rodopi.nl/senj.asp?BookId=Avant+17" rel="nofollow">http://www.rodopi.nl/senj.asp?BookId=Avant+17</a></li>
+<li>Colin Rowe, Fred Koetter, After the Millennium, in Collage City, 1983, published by Architecture - The MIT Press, Cambridge, MA</li>
+<li>Etan Jonathan Ilfeld, Beyond Contemporary Art, 2012, Vivays Publishing, London</li>
+<li>Anthony Vidler, Histories of the immediate present, 2008 MIT Press, Massachusetts Institute of Technology <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780262720519">ISBN 978-0-262-72051-9</a></li>
+<li>Reyner Banham, “A Clip-on Architecture,” Architectural Design 35, no. 11</li>
+<li>Reyner Banham: Historian of the Immediate Future (Cambridge: MIT Press, 2002)</li>
+<li>Ru Brown, FUTURISM IS DEAD LONG LIVE FUTURISM The legacy of techno-love in contemporary design, 2011, University of Washington - MDes Design Investigations</li>
+<li>Gabriel Gyang Dung, Bridget Mlumun Akaakohol, J.C. Akor - The Concept Of Sustainable Development And The Challenges Of Economic Growth And Development In Nigeria - July 2014, Department of Economics, College of Education, Katsina-Ala.</li>
+</ul>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3341704-0!*!0!!en!4!* and timestamp 20161110154550 and revision id 747025279
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

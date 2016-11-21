@@ -1,0 +1,166 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p>Substances, mixtures and exposure circumstances in this list have been classified by the <a href="/wiki/International_Agency_for_Research_on_Cancer" title="International Agency for Research on Cancer">IARC</a> as <i><b>Group 1</b>: The agent (mixture) is <a class="mw-redirect" href="/wiki/Carcinogenic" title="Carcinogenic">carcinogenic</a> to humans. The exposure circumstance entails exposures that are carcinogenic to humans.</i> This category is used when there is <i>sufficient evidence</i> of carcinogenicity in humans. Exceptionally, an agent (mixture) may be placed in this category when evidence of carcinogenicity in humans is less than sufficient but there is <i>sufficient evidence</i> of carcinogenicity in experimental animals and strong evidence in exposed humans that the agent (mixture) acts through a relevant mechanism of carcinogenicity.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Agents">Agents</span></h2>
+<h3><span class="mw-headline" id="Substances">Substances</span></h3>
+<ul>
+<li><a href="/wiki/2-Naphthylamine" title="2-Naphthylamine">2-Naphthylamine</a></li>
+<li><a href="/wiki/Acetaldehyde" title="Acetaldehyde">Acetaldehyde</a> associated with consumption of alcoholic beverages</li>
+<li><a href="/wiki/4-Aminobiphenyl" title="4-Aminobiphenyl">4-Aminobiphenyl</a></li>
+<li><a href="/wiki/Aflatoxin" title="Aflatoxin">Aflatoxins</a></li>
+<li><a href="/wiki/Aristolochic_acid" title="Aristolochic acid">Aristolochic acids</a>, and plants containing them</li>
+<li><a href="/wiki/Arsenic" title="Arsenic">Arsenic</a> and inorganic <a href="/wiki/Inorganic_compounds_by_element#Arsenic" title="Inorganic compounds by element">arsenic compounds</a></li>
+<li><a href="/wiki/Asbestos" title="Asbestos">Asbestos</a></li>
+<li><a href="/wiki/Azathioprine" title="Azathioprine">Azathioprine</a></li>
+<li><a href="/wiki/Benzene" title="Benzene">Benzene</a></li>
+<li><a href="/wiki/Benzidine" title="Benzidine">Benzidine</a>, and <a class="mw-redirect" href="/wiki/Dyes" title="Dyes">dyes</a> metabolized to</li>
+<li><a href="/wiki/Benzo(a)pyrene" title="Benzo(a)pyrene">Benzo[<i>a</i>]pyrene</a></li>
+<li><a href="/wiki/Beryllium" title="Beryllium">Beryllium</a> and <a href="/wiki/Inorganic_compounds_by_element#Beryllium" title="Inorganic compounds by element">beryllium compounds</a></li>
+<li><a class="mw-redirect" href="/wiki/Chlornapazine" title="Chlornapazine">Chlornapazine</a> (<i>N</i>,<i>N</i>-Bis(2-chloroethyl)-2-naphthylamine)</li>
+<li><a class="mw-redirect" href="/wiki/Bis(chloromethyl)ether" title="Bis(chloromethyl)ether">Bis(chloromethyl)ether</a></li>
+<li><a href="/wiki/Chloromethyl_methyl_ether" title="Chloromethyl methyl ether">Chloromethyl methyl ether</a></li>
+<li><a href="/wiki/1,3-Butadiene" title="1,3-Butadiene">1,3-Butadiene</a></li>
+<li><a class="mw-redirect" href="/wiki/1,4-Butanediol_dimethanesulfonate" title="1,4-Butanediol dimethanesulfonate">1,4-Butanediol dimethanesulfonate</a> (Busulphan, Myleran)</li>
+<li><a href="/wiki/Cadmium" title="Cadmium">Cadmium</a> and <a href="/wiki/Inorganic_compounds_by_element#Cadmium" title="Inorganic compounds by element">cadmium compounds</a></li>
+<li><a href="/wiki/Chlorambucil" title="Chlorambucil">Chlorambucil</a></li>
+<li><a class="mw-redirect" href="/wiki/Methyl-CCNU" title="Methyl-CCNU">Methyl-CCNU</a> (1-(2-Chloroethyl)-3-(4-methylcyclohexyl)-1-nitrosourea; Semustine)</li>
+<li><a href="/wiki/Chromium" title="Chromium">Chromium</a>(VI) compounds</li>
+<li><a href="/wiki/Ciclosporin" title="Ciclosporin">Ciclosporin</a></li>
+<li><i><a href="/wiki/Clonorchis_sinensis" title="Clonorchis sinensis">Clonorchis sinensis</a></i> (infection with)</li>
+<li><a href="/wiki/Cyclophosphamide" title="Cyclophosphamide">Cyclophosphamide</a></li>
+<li><a href="/wiki/1,2-Dichloropropane" title="1,2-Dichloropropane">1,2-Dichloropropane</a></li>
+<li><a class="mw-redirect" href="/wiki/Diethylstilboestrol" title="Diethylstilboestrol">Diethylstilboestrol</a></li>
+<li><a class="mw-redirect" href="/wiki/Epstein-Barr_virus" title="Epstein-Barr virus">Epstein-Barr virus</a></li>
+<li><a href="/wiki/Hormone_replacement_therapy_(menopause)" title="Hormone replacement therapy (menopause)">Estrogen therapy</a>, postmenopausal</li>
+<li><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a> in alcoholic beverages</li>
+<li><a href="/wiki/Erionite" title="Erionite">Erionite</a></li>
+<li><a href="/wiki/Ethylene_oxide" title="Ethylene oxide">Ethylene oxide</a></li>
+<li><a href="/wiki/Etoposide" title="Etoposide">Etoposide</a> alone, and in combination with <a href="/wiki/Cisplatin" title="Cisplatin">cisplatin</a> and <a href="/wiki/Bleomycin" title="Bleomycin">bleomycin</a></li>
+<li><a class="mw-redirect" href="/wiki/Fluoro-edenite" title="Fluoro-edenite">Fluoro-edenite fibrous amphibole</a></li>
+<li><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a></li>
+<li><a href="/wiki/Gallium_arsenide" title="Gallium arsenide">Gallium arsenide</a></li>
+<li><i><a href="/wiki/Helicobacter_pylori" title="Helicobacter pylori">Helicobacter pylori</a></i> (infection with)</li>
+<li><a href="/wiki/Hepatitis_B_virus" title="Hepatitis B virus">Hepatitis B virus</a> (chronic infection with)</li>
+<li><a href="/wiki/Hepatitis_C_virus" title="Hepatitis C virus">Hepatitis C virus</a> (chronic infection with)</li>
+<li><a class="mw-redirect" href="/wiki/Human_herpesvirus_8" title="Human herpesvirus 8">Human herpesvirus 8</a> (Kaposi sarcoma-associated herpesvirus)</li>
+<li><a class="mw-redirect" href="/wiki/Human_immunodeficiency_virus" title="Human immunodeficiency virus">Human immunodeficiency virus</a> type 1 (infection with)</li>
+<li><a class="mw-redirect" href="/wiki/Human_papillomavirus" title="Human papillomavirus">Human papillomavirus</a> type 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59 and 66</li>
+<li><a href="/wiki/Human_T-lymphotropic_virus_1" title="Human T-lymphotropic virus 1">Human T-cell lymphotropic virus type 1</a> (HTLV-I)</li>
+<li><a href="/wiki/Ionizing_radiation" title="Ionizing radiation">Ionizing radiation</a> (all types)</li>
+<li><a href="/wiki/Lindane" title="Lindane">Lindane</a></li>
+<li><a href="/wiki/Melphalan" title="Melphalan">Melphalan</a></li>
+<li><a href="/wiki/Methoxsalen" title="Methoxsalen">Methoxsalen</a> (8-Methoxypsoralen) plus ultraviolet A radiation</li>
+<li><a href="/wiki/4,4%27-Methylenebis(2-chloroaniline)" title="4,4'-Methylenebis(2-chloroaniline)">4,4'-Methylenebis(2-chloroaniline)</a> (MOCA)</li>
+<li><a class="mw-redirect" href="/wiki/MOPP_(medicine)" title="MOPP (medicine)">MOPP</a> and other combined chemotherapy including alkylating agents</li>
+<li><a class="mw-redirect" href="/wiki/Mustard_gas" title="Mustard gas">Mustard gas</a> (Sulfur mustard)</li>
+<li><a href="/wiki/2-Naphthylamine" title="2-Naphthylamine">2-Naphthylamine</a></li>
+<li><a href="/wiki/Neutron_radiation" title="Neutron radiation">Neutron radiation</a></li>
+<li><a href="/wiki/Nickel#Compounds" title="Nickel">Nickel compounds</a></li>
+<li><a class="mw-redirect" href="/wiki/4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone" title="4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone">4-(<i>N</i>-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone</a> (NNK)</li>
+<li><a href="/wiki/N-Nitrosonornicotine" title="N-Nitrosonornicotine"><i>N</i>-Nitrosonornicotine</a> (NNN)</li>
+<li><i><a href="/wiki/Opisthorchis_viverrini" title="Opisthorchis viverrini">Opisthorchis viverrini</a></i> (infection with)</li>
+<li><a href="/wiki/Air_pollution" title="Air pollution">Outdoor air pollution</a></li>
+<li><a class="mw-redirect" href="/wiki/Particulate_matter" title="Particulate matter">Particulate matter</a> in outdoor air pollution</li>
+<li><a class="mw-redirect" href="/wiki/2,3,4,7,8-Pentachlorodibenzofuran" title="2,3,4,7,8-Pentachlorodibenzofuran">2,3,4,7,8-Pentachlorodibenzofuran</a></li>
+<li><a class="mw-redirect" href="/wiki/3,4,5,3%E2%80%99,4%E2%80%99-Pentachlorobiphenyl" title="3,4,5,3’,4’-Pentachlorobiphenyl">3,4,5,3’,4’-Pentachlorobiphenyl</a>(PCB-126)</li>
+<li><a href="/wiki/Phosphorus" title="Phosphorus">Phosphorus</a>-32, as phosphate</li>
+<li><a href="/wiki/Plutonium" title="Plutonium">Plutonium</a></li>
+<li><a href="/wiki/Isotopes_of_iodine#Notable_radioisotopes" title="Isotopes of iodine">Radioiodines</a>, short-lived isotopes, including iodine-131, from atomic reactor accidents and nuclear weapons detonation (exposure during childhood)</li>
+<li><a href="/wiki/Radionuclide#Alpha_emission_only" title="Radionuclide">Radionuclides</a>, α-particle-emitting, internally deposited</li>
+<li><a href="/wiki/Radionuclide#Beta_emission_only" title="Radionuclide">Radionuclides</a>, β-particle-emitting, internally deposited</li>
+<li><a class="mw-redirect" href="/wiki/Radium-224" title="Radium-224">Radium-224</a> and its decay products</li>
+<li><a class="mw-redirect" href="/wiki/Radium-226" title="Radium-226">Radium-226</a> and its decay products</li>
+<li><a class="mw-redirect" href="/wiki/Radium-228" title="Radium-228">Radium-228</a> and its decay products</li>
+<li><a class="mw-redirect" href="/wiki/Radon-222" title="Radon-222">Radon-222</a> and its decay products</li>
+<li><i><a href="/wiki/Schistosoma_haematobium" title="Schistosoma haematobium">Schistosoma haematobium</a></i> (infection with)</li>
+<li><a class="mw-redirect" href="/wiki/Silica" title="Silica">Silica</a> dust, crystalline (inhaled in the form of <a href="/wiki/Quartz" title="Quartz">quartz</a> or <a href="/wiki/Cristobalite" title="Cristobalite">cristobalite</a> from occupational sources)</li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Solar radiation</a></li>
+<li><a href="/wiki/Talc" title="Talc">Talc</a> containing <a href="/wiki/Asbestos" title="Asbestos">asbestiform</a> fibres</li>
+<li><a href="/wiki/Tamoxifen" title="Tamoxifen">Tamoxifen</a></li>
+<li><a class="mw-redirect" href="/wiki/2,3,7,8-Tetrachlorodibenzo-para-dioxin" title="2,3,7,8-Tetrachlorodibenzo-para-dioxin">2,3,7,8-Tetrachlorodibenzo-<i>p</i>-dioxin</a> (TCDD)</li>
+<li><a class="mw-redirect" href="/wiki/Thiotepa" title="Thiotepa">Thiotepa</a> (1,1',1"-Phosphinothioylidynetrisaziridine)</li>
+<li><a class="mw-redirect" href="/wiki/Thorium-232" title="Thorium-232">Thorium-232</a> and its decay products, administered intravenously as <a href="/wiki/Thorotrast" title="Thorotrast">a colloidal dispersion of thorium-232 dioxide</a></li>
+<li><a href="/wiki/Treosulfan" title="Treosulfan">Treosulfan</a></li>
+<li><a href="/wiki/Trichloroethylene" title="Trichloroethylene">Trichloroethylene</a></li>
+<li><i>o</i>-<a href="/wiki/Toluidine" title="Toluidine">Toluidine</a></li>
+<li><a href="/wiki/Vinyl_chloride" title="Vinyl chloride">Vinyl chloride</a></li>
+<li><a class="mw-redirect" href="/wiki/Ultraviolet_Radiation" title="Ultraviolet Radiation">Ultraviolet Radiation</a></li>
+<li><a href="/wiki/X-ray" title="X-ray">X-Radiation</a> and <a class="mw-redirect" href="/wiki/Gamma_radiation" title="Gamma radiation">Gamma radiation</a></li>
+</ul>
+<h3><span class="mw-headline" id="Mixtures">Mixtures</span></h3>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Aflatoxins" title="Aflatoxins">Aflatoxins</a> (naturally occurring mixtures of)</li>
+<li><a class="mw-redirect" href="/wiki/Alcoholic_beverage" title="Alcoholic beverage">Alcoholic beverages</a></li>
+<li><a href="/wiki/Areca_nut" title="Areca nut">Areca nut</a></li>
+<li><a class="mw-redirect" href="/wiki/Betel_quid" title="Betel quid">Betel quid</a> with tobacco</li>
+<li><a class="mw-redirect" href="/wiki/Betel_quid" title="Betel quid">Betel quid</a> without tobacco</li>
+<li>Coal-tar <a href="/wiki/Pitch_(resin)" title="Pitch (resin)">pitches</a></li>
+<li><a class="mw-redirect" href="/wiki/Coal-tar" title="Coal-tar">Coal-tars</a></li>
+<li>Coal, indoor emissions from household combustion of</li>
+<li><a href="/wiki/Diesel_exhaust" title="Diesel exhaust">Engine exhaust, diesel</a></li>
+<li><a href="/wiki/Hormone_replacement_therapy_(menopause)" title="Hormone replacement therapy (menopause)">Estrogen-progestogen menopausal therapy</a>, (combined)</li>
+<li><a href="/wiki/Combined_oral_contraceptive_pill" title="Combined oral contraceptive pill">Estrogen-progestogen oral contraceptives</a> (combined)<a href="/wiki/List_of_IARC_Group_1_carcinogens#Notes_and_references" title="List of IARC Group 1 carcinogens">3</a></li>
+<li><a href="/wiki/Nuclear_fission_product" title="Nuclear fission product">Fission products</a>, including <a href="/wiki/Strontium-90" title="Strontium-90">Strontium-90</a></li>
+<li><a href="/wiki/Leather" title="Leather">Leather</a> dust</li>
+<li><a href="/wiki/Mineral_oil" title="Mineral oil">Mineral oils</a>, untreated and mildly treated</li>
+<li><a href="/wiki/Paint" title="Paint">Paints</a> containing <a href="/wiki/Benzene" title="Benzene">benzene</a></li>
+<li><a href="/wiki/Phenacetin" title="Phenacetin">Phenacetin</a>, <a href="/wiki/Analgesic" title="Analgesic">analgesic</a> mixtures containing</li>
+<li>Plants containing <a href="/wiki/Aristolochic_acid" title="Aristolochic acid">aristolochic acid</a></li>
+<li><a href="/wiki/Polychlorinated_biphenyl" title="Polychlorinated biphenyl">Polychlorinated biphenyls</a>, dioxin-like</li>
+<li><a href="/wiki/Processed_meat" title="Processed meat">Processed meats</a>, consumption of </li>
+<li><a href="/wiki/Salted_fish" title="Salted fish">Salted fish</a> (Chinese-style)</li>
+<li><a class="mw-redirect" href="/wiki/Shale-oil" title="Shale-oil">Shale-oils</a></li>
+<li><a href="/wiki/Soot" title="Soot">Soot</a> (as found in occupational exposure of chimney sweeps)</li>
+<li><a class="mw-redirect" href="/wiki/Wood_dust" title="Wood dust">Wood dust</a></li>
+</ul>
+<h3><span class="mw-headline" id="Exposure_circumstances">Exposure circumstances</span></h3>
+<ul>
+<li><a href="/wiki/Acheson_process" title="Acheson process">Acheson process</a>, occupational exposure associated with</li>
+<li>Acid mists, strong inorganic</li>
+<li><a href="/wiki/Aluminium" title="Aluminium">Aluminium</a> production</li>
+<li><a class="mw-redirect" href="/wiki/Auramine" title="Auramine">Auramine</a> production</li>
+<li><a href="/wiki/Shoemaking" title="Shoemaking">Boot and shoe manufacture</a> and repair (see leather Dust and benzene)</li>
+<li><a href="/wiki/Chimney_sweep" title="Chimney sweep">Chimney sweeping</a> (see Soot)</li>
+<li><a href="/wiki/Coal_gas" title="Coal gas">Coal gasification</a></li>
+<li><a href="/wiki/Coal_tar#Coal_tar_distillers" title="Coal tar">Coal tar distillation</a></li>
+<li><a href="/wiki/Coke_(fuel)" title="Coke (fuel)">Coke (fuel)</a> production</li>
+<li>Furniture and cabinet making (see wood dust)</li>
+<li><a class="mw-redirect" href="/wiki/Haematite" title="Haematite">Haematite</a> mining (underground) with exposure to <a href="/wiki/Radon" title="Radon">radon</a></li>
+<li><a href="/wiki/Iron" title="Iron">Iron</a> and <a href="/wiki/Steel" title="Steel">steel</a> founding (occupational exposure to)</li>
+<li><a class="mw-redirect" href="/wiki/Isopropanol" title="Isopropanol">Isopropanol</a> manufacture (strong-acid process)</li>
+<li><a href="/wiki/Glass" title="Glass">Glass</a>, making of</li>
+<li><a href="/wiki/Fuchsine" title="Fuchsine">Magenta dyes</a>, manufacture of</li>
+<li><a href="/wiki/Painting" title="Painting">Painting</a> (see benzene)</li>
+<li>Paving and roofing with coal tar pitch</li>
+<li><a class="mw-redirect" href="/wiki/Rubber" title="Rubber">Rubber</a> manufacturing industry</li>
+<li><a class="mw-redirect" href="/wiki/Sandblasting" title="Sandblasting">Sandblasting</a> (see silica dust)</li>
+<li><a href="/wiki/Smokeless_tobacco" title="Smokeless tobacco">Smokeless tobacco</a></li>
+<li><a class="mw-redirect" href="/wiki/Secondhand_smoke" title="Secondhand smoke">Tobacco smoke</a>, second hand</li>
+<li><a href="/wiki/Tobacco_smoking" title="Tobacco smoking">Tobacco smoking</a></li>
+<li><a class="mw-redirect" href="/wiki/Tanning_bed" title="Tanning bed">Ultraviolet-emitting tanning devices</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<ol>
+<li>This evaluation applies to the group of compounds as a whole and not necessarily to all individual compounds within the group.</li>
+<li>Evaluated as a group.</li>
+<li>There is also conclusive evidence that these agents have a protective effect against cancers of the ovary and endometrium.</li>
+<li>Ethanol is not carcinogenic, but is metabolised to <a href="/wiki/Acetaldehyde" title="Acetaldehyde">acetaldehyde</a>, which is carcinogenic.</li>
+<li>Specific radionuclides for which there is sufficient evidence for carcinogenicity to humans are also listed individually as Group 1 agents.</li>
+<li>There is also conclusive evidence that this agent (<a href="/wiki/Tamoxifen" title="Tamoxifen">tamoxifen</a>) reduces the risk of contralateral breast cancer.</li>
+</ol>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://monographs.iarc.fr/ENG/Classification/" rel="nofollow">Description of the list of classifications</a>, <a href="/wiki/International_Agency_for_Research_on_Cancer" title="International Agency for Research on Cancer">IARC</a>
+<ul>
+<li><a class="external text" href="http://monographs.iarc.fr/ENG/Classification/latest_classif.php" rel="nofollow">List of classifications</a> (latest version)</li>
+<li><a class="external text" href="http://monographs.iarc.fr/ENG/Classification/Table4.pdf" rel="nofollow">List of classifications by cancer site</a> (last updated on 5 November 2015)</li>
+</ul>
+</li>
+</ul>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1882322-0!*!0!!en!*!* and timestamp 20161110133030 and revision id 735978226
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

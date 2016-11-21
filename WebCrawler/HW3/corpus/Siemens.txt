@@ -1,0 +1,374 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">This article is about a German engineering company. For the former Fujitsu-Siemens company, see <a href="/wiki/Fujitsu_Siemens_Computers" title="Fujitsu Siemens Computers">Fujitsu Siemens Computers</a>. For other uses, see <a class="mw-disambig" href="/wiki/Siemens_(disambiguation)" title="Siemens (disambiguation)">Siemens (disambiguation)</a>.</div>
+
+<p><b>Siemens <a href="/wiki/Aktiengesellschaft" title="Aktiengesellschaft">AG</a></b> (<small>German pronunciation:</small> <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_German" title="Help:IPA for German">[ˈziːmɛns]</a></span>) is a German company <a href="/wiki/Headquarters" title="Headquarters">headquartered</a> in <a href="/wiki/Berlin" title="Berlin">Berlin</a> and <a href="/wiki/Munich" title="Munich">Munich</a> and the largest engineering company in Europe with branch offices abroad.</p>
+<p>The principal divisions of the company are <i>Industry</i>, <i>Energy</i>, <i>Healthcare</i>, and <i>Infrastructure &amp; Cities</i>, which represent the main activities of the company. The company is a prominent maker of medical diagnostics equipment and its medical health-care division, which generates about 12 percent of the company's total sales, is its second-most profitable unit, after the industrial automation division. The company is a component of the <a href="/wiki/Euro_Stoxx_50" title="Euro Stoxx 50">Euro Stoxx 50</a> <a href="/wiki/Stock_market_index" title="Stock market index">stock market index</a>. Siemens and its subsidiaries employ approximately 362,000 people worldwide and reported global revenue of around €75.6 billion in 2015 according to their annual report.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<h3><span class="mw-headline" id="1847_to_1901">1847 to 1901</span></h3>
+
+<p><a href="/wiki/Siemens_%26_Halske" title="Siemens &amp; Halske">Siemens &amp; Halske</a> was founded by <a href="/wiki/Werner_von_Siemens" title="Werner von Siemens">Werner von Siemens</a> and <a href="/wiki/Johann_Georg_Halske" title="Johann Georg Halske">Johann Georg Halske</a> on 12 October 1847. Based on the <a class="mw-redirect" href="/wiki/Telegraph" title="Telegraph">telegraph</a>, his invention used a needle to point to the sequence of letters, instead of using <a href="/wiki/Morse_code" title="Morse code">Morse code</a>. The company, then called <i>Telegraphen-Bauanstalt von Siemens &amp; Halske</i>, opened its first workshop on 12 October.</p>
+<p>In 1848, the company built the first long-distance telegraph line in Europe; 500 km from Berlin to <a class="mw-redirect" href="/wiki/Frankfurt_am_Main" title="Frankfurt am Main">Frankfurt am Main</a>. In 1850, the founder's younger brother, Carl Wilhelm Siemens, later <a href="/wiki/Carl_Wilhelm_Siemens" title="Carl Wilhelm Siemens">Sir William Siemens</a>, started to represent the company in London. The <a href="/wiki/Siemens_Brothers" title="Siemens Brothers">London agency</a> became a branch office in 1858. In the 1850s, the company was involved in building long distance telegraph networks in Russia. In 1855, a company branch headed by another brother, <a href="/wiki/Carl_Heinrich_von_Siemens" title="Carl Heinrich von Siemens">Carl Heinrich von Siemens</a>, opened in <a class="mw-redirect" href="/wiki/St_Petersburg" title="St Petersburg">St Petersburg</a>, Russia. In 1867, Siemens completed the monumental Indo-European (<a href="/wiki/Kolkata" title="Kolkata">Calcutta</a> to <a href="/wiki/London" title="London">London</a>) telegraph line.</p>
+
+<p>In 1867, Werner von Siemens described a <a href="/wiki/Dynamo" title="Dynamo">dynamo</a> without permanent magnets. A similar system was also independently invented by <a href="/wiki/Charles_Wheatstone" title="Charles Wheatstone">Charles Wheatstone</a>, but Siemens became the first company to build such devices. In 1881, a Siemens <a href="/wiki/Alternating_current" title="Alternating current">AC</a> <a href="/wiki/Alternator" title="Alternator">Alternator</a> driven by a <a href="/wiki/Watermill" title="Watermill">watermill</a> was used to power the world's first electric street lighting in the town of <a href="/wiki/Godalming" title="Godalming">Godalming</a>, United Kingdom. The company continued to grow and diversified into <a class="mw-redirect" href="/wiki/Electric_trains" title="Electric trains">electric trains</a> and <a class="mw-redirect" href="/wiki/Light_bulbs" title="Light bulbs">light bulbs</a>. In 1890, the founder retired and left running the company to his brother Carl and sons Arnold and Wilhelm. In 1887, it opened its first office in Japan.</p>
+<h3><span class="mw-headline" id="1901_to_1933">1901 to 1933</span></h3>
+
+<p>Siemens &amp; Halske (S &amp; H) was incorporated in 1897, and then merged parts of its activities with Schuckert &amp; Co., Nuremberg in 1903 to become <a href="/wiki/Siemens-Schuckert" title="Siemens-Schuckert">Siemens-Schuckert</a>. In 1907, Siemens (<a href="/wiki/Siemens_%26_Halske" title="Siemens &amp; Halske">Siemens &amp; Halske</a> and <a href="/wiki/Siemens-Schuckert" title="Siemens-Schuckert">Siemens-Schuckert</a>) had 34,324 employees and was the seventh-largest company in the German empire by number of employees. (see <a href="/wiki/List_of_German_companies_by_employees_in_1907" title="List of German companies by employees in 1907">List of German companies by employees in 1907</a>)</p>
+<p>In 1919, S &amp; H and two other companies jointly formed the <a href="/wiki/Osram" title="Osram">Osram</a> <a class="mw-redirect" href="/wiki/Lightbulb" title="Lightbulb">lightbulb</a> company.</p>
+<p>During the 1920s and 1930s, S &amp; H started to manufacture <a class="mw-redirect" href="/wiki/Radios" title="Radios">radios</a>, <a href="/wiki/Television_set" title="Television set">television sets</a>, and <a class="mw-redirect" href="/wiki/Electron_microscopes" title="Electron microscopes">electron microscopes</a>.</p>
+<p>In 1932, <a class="extiw" href="https://de.wikipedia.org/wiki/Reiniger,_Gebbert_%26_Schall" title="de:Reiniger, Gebbert &amp; Schall">Reiniger, Gebbert &amp; Schall</a> (Erlangen), <a class="new" href="/w/index.php?title=Ph%C3%B6nix_AG&amp;action=edit&amp;redlink=1" title="Phönix AG (page does not exist)">Phönix AG</a> (Rudolstadt) and <a class="new" href="/w/index.php?title=Siemens-Reiniger-Veifa_mbH&amp;action=edit&amp;redlink=1" title="Siemens-Reiniger-Veifa mbH (page does not exist)">Siemens-Reiniger-Veifa mbH</a> (Berlin) merged to form the <a class="mw-redirect" href="/wiki/Siemens-Reiniger-Werke_AG" title="Siemens-Reiniger-Werke AG">Siemens-Reiniger-Werke AG</a> (SRW), the third of the so-called parent companies that merged in 1966 to form the present-day Siemens AG.</p>
+<p>In the 1920s, Siemens constructed the <a class="mw-redirect" href="/wiki/Ardnacrusha_power_plant" title="Ardnacrusha power plant">Ardnacrusha</a> Hydro Power station on the <a href="/wiki/River_Shannon" title="River Shannon">River Shannon</a> in the then <a href="/wiki/Irish_Free_State" title="Irish Free State">Irish Free State</a>, and it was a world first for its design. The company is remembered for its desire to raise the wages of its under-paid workers only to be overruled by the <a href="/wiki/Cumann_na_nGaedheal" title="Cumann na nGaedheal">Cumann na nGaedheal</a> government.</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="1933_to_1945">1933 to 1945</span></h3>
+
+
+<p>Siemens (at the time: <a href="/wiki/Siemens-Schuckert" title="Siemens-Schuckert">Siemens-Schuckert</a>) exploited the forced labour of deported people in <a class="mw-redirect" href="/wiki/Extermination_camps" title="Extermination camps">extermination camps</a>. The company owned a plant in <a href="/wiki/Auschwitz_concentration_camp" title="Auschwitz concentration camp">Auschwitz concentration camp</a>.</p>
+<p>During the final years of <a href="/wiki/World_War_II" title="World War II">World War II</a>, numerous plants and factories in Berlin and other major cities were destroyed by Allied air raids. To prevent further losses, manufacturing was therefore moved to alternative places and regions not affected by the air war. The goal was to secure continued production of important war-related and everyday goods. According to records, Siemens was operating almost 400 alternative or relocated manufacturing plants at the end of 1944 and in early 1945.</p>
+<p>In 1972, Siemens sued German satirist F.C. Delius for his satirical history of the company, <i>Unsere Siemenswelt</i>, and it was determined much of the book contained false claims although the trial itself publicized Siemens' history in Nazi Germany. The company supplied electrical parts to <a href="/wiki/Nazi_concentration_camps" title="Nazi concentration camps">Nazi concentration camps</a> and <a class="mw-redirect" href="/wiki/Death_camps" title="Death camps">death camps</a>. The factories had poor working conditions, where malnutrition and death were common. Also, the scholarship has shown that the camp factories were created, run, and supplied by the <a class="mw-redirect" href="/wiki/SS" title="SS">SS</a>, in conjunction with company officials, sometimes high-level officials.</p>
+<p>Siemens businessman and <a href="/wiki/Nazi_Party" title="Nazi Party">Nazi Party</a> member <a href="/wiki/John_Rabe" title="John Rabe">John Rabe</a> is, however, credited with saving many Chinese lives during the infamous <a href="/wiki/Nanking_Massacre" title="Nanking Massacre">Nanking Massacre</a>. He later toured Germany lecturing on the atrocities committed by Japanese forces in Nanking.</p>
+<h3><span class="mw-headline" id="1945_to_2001">1945 to 2001</span></h3>
+<p>In the 1950s, and from their new base in <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, S&amp;H started to manufacture <a href="/wiki/Computer" title="Computer">computers</a>, <a href="/wiki/Semiconductor_device" title="Semiconductor device">semiconductor devices</a>, <a class="mw-redirect" href="/wiki/Washing_machines" title="Washing machines">washing machines</a>, and <a class="mw-redirect" href="/wiki/Artificial_pacemaker" title="Artificial pacemaker">pacemakers</a>. In 1966, <a href="/wiki/Siemens_%26_Halske" title="Siemens &amp; Halske">Siemens &amp; Halske</a> (S&amp;H, founded in 1847), <a href="/wiki/Siemens-Schuckert" title="Siemens-Schuckert">Siemens-Schuckertwerke</a> (SSW, founded in 1903) and <a class="mw-redirect" href="/wiki/Siemens-Reiniger-Werke" title="Siemens-Reiniger-Werke">Siemens-Reiniger-Werke</a> (SRW, founded in 1932) merged to form Siemens AG. In 1969, Siemens formed Kraftwerk Union with <a href="/wiki/AEG" title="AEG">AEG</a> by pooling their nuclear power businesses.</p>
+
+<p>The company's first digital telephone exchange was produced in 1980. In 1988, Siemens and <a href="/wiki/General_Electric_Company_plc" title="General Electric Company plc">GEC</a> acquired the UK defence and technology company <a href="/wiki/Plessey" title="Plessey">Plessey</a>. Plessey's holdings were split, and Siemens took over the <a href="/wiki/Avionics" title="Avionics">avionics</a>, <a href="/wiki/Radar" title="Radar">radar</a> and traffic control businesses—as <a href="/wiki/Siemens_Plessey" title="Siemens Plessey">Siemens Plessey</a>.</p>
+<p>In 1985, Siemens bought <a class="mw-redirect" href="/wiki/Allis-Chalmers_Manufacturing_Company" title="Allis-Chalmers Manufacturing Company">Allis-Chalmers</a>' interest in the partnership company <a class="new" href="/w/index.php?title=Siemens-Allis&amp;action=edit&amp;redlink=1" title="Siemens-Allis (page does not exist)">Siemens-Allis</a> (formed 1978) which supplied electrical control equipment. It was incorporated into Siemens' Energy and Automation division.</p>
+<p>In 1987, Siemens reintegrated Kraftwerk Union, the unit overseeing nuclear power business.</p>
+<p>In 1991, Siemens acquired <a class="mw-redirect" href="/wiki/Nixdorf_Computer_AG" title="Nixdorf Computer AG">Nixdorf Computer AG</a> and renamed it <a href="/wiki/Siemens_Nixdorf_Informationssysteme" title="Siemens Nixdorf Informationssysteme">Siemens Nixdorf Informationssysteme</a> AG, in order to produce <a href="/wiki/Personal_computer" title="Personal computer">personal computers</a>.</p>
+<p>In October 1991, Siemens acquired the Industrial Systems Division of <a href="/wiki/Texas_Instruments" title="Texas Instruments">Texas Instruments</a>, Inc, based in <a href="/wiki/Johnson_City,_Tennessee" title="Johnson City, Tennessee">Johnson City, Tennessee</a>. This division was organized as Siemens Industrial Automation, Inc., and was later absorbed by Siemens Energy and Automation, Inc.</p>
+<p>In 1992, Siemens bought out <a href="/wiki/IBM" title="IBM">IBM</a>'s half of <a href="/wiki/ROLM" title="ROLM">ROLM</a> (Siemens had bought into ROLM five years earlier), thus creating SiemensROLM Communications; eventually dropping ROLM from the name later in the 1990s.</p>
+<p>In 1997, Siemens agreed to sell the defence arm of <a href="/wiki/Siemens_Plessey" title="Siemens Plessey">Siemens Plessey</a> to <a href="/wiki/British_Aerospace" title="British Aerospace">British Aerospace</a> (BAe) and a German aerospace company, <a class="mw-redirect" href="/wiki/DaimlerChrysler_Aerospace" title="DaimlerChrysler Aerospace">DaimlerChrysler Aerospace</a>. BAe and DASA acquired the British and German divisions of the operation respectively.</p>
+<p>In October 1997, Siemens Financial Services (SFS) was founded to act as competence center for financing issues and as a manager of financial risks within Siemens.</p>
+<p>In 1998, Siemens acquired <a href="/wiki/Westinghouse_Electric_Company" title="Westinghouse Electric Company">Westinghouse Power Generation</a> for more than $1.5 billion from CBS corp and moving Siemens from third to second the world power generation market.</p>
+<p>In 1999, Siemens' semiconductor operations were spun off into a new company called <a href="/wiki/Infineon_Technologies" title="Infineon Technologies">Infineon Technologies</a>. In the same year, Siemens Nixdorf Informationssysteme AG became part of <a href="/wiki/Fujitsu_Siemens_Computers" title="Fujitsu Siemens Computers">Fujitsu Siemens Computers</a> AG, with its <a href="/wiki/Retail_banking" title="Retail banking">retail banking</a> technology group becoming <a href="/wiki/Wincor_Nixdorf" title="Wincor Nixdorf">Wincor Nixdorf</a>.</p>
+<p>In 2000, Shared Medical Systems Corporation was acquired by the Siemens' Medical Engineering Group, eventually becoming part of <a class="mw-redirect" href="/wiki/Siemens_Medical_Solutions" title="Siemens Medical Solutions">Siemens Medical Solutions</a>.</p>
+<p>Also in 2000, Atecs-Mannesman was acquired by Siemens, The sale was finalised in April 2001 with 50% of the shares acquired, acquisition, <i>Mannesmann VDO AG</i> merged into Siemens Automotive forming Siemens VDO Automotive AG, <i>Atecs Mannesmann Dematic Systems</i> merged into Siemens Production and Logistics forming Siemens Dematic AG, <i>Mannesmann Demag Delaval</i> merged into the Power Generation division of Siemens AG. Other parts of the company were acquired by <a href="/wiki/Robert_Bosch_GmbH" title="Robert Bosch GmbH">Robert Bosch GmbH</a> at the same time.</p>
+<h3><span class="mw-headline" id="2001_to_2011">2001 to 2011</span></h3>
+
+<p>In 2001, Chemtech Group of Brazil was incorporated into the Siemens Group; it provides industrial process optimisation, consultancy and other engineering services.</p>
+<p>Also in 2001, Siemens formed joint venture Framatome with <a href="/wiki/Areva" title="Areva">Areva SA</a> of France by merging much of the companies' nuclear businesses.</p>
+<p>In 2002, Siemens sold some of its business activities to <a class="mw-redirect" href="/wiki/Kohlberg_Kravis_Roberts_%26_Co." title="Kohlberg Kravis Roberts &amp; Co.">Kohlberg Kravis Roberts &amp; Co.</a> L.P. (KKR), with its metering business included in the sale package.</p>
+<p>In 2003, Siemens acquired the flow division of <a href="/wiki/Danfoss" title="Danfoss">Danfoss</a> and incorporated it into the Automation and Drives division. Also in 2003 Siemens acquired IndX software (realtime data organisation and presentation). The same year in an unrelated development Siemens reopened its office in <a href="/wiki/Kabul" title="Kabul">Kabul</a>. Also in 2003 agreed to buy Alstom Industrial Turbines; a manufacturer of small, medium and industrial gas turbines for €1.1 billion. On 11 February 2003, Siemens planned to shorten phones' shelf life by bringing out annual Xelibri lines, with new devices launched as spring -summer and autumn-winter collections. On 6 March 2003, the company opened an office in San Jose. On 7 March 2003, the company announced that it planned to gain 10 per cent of the mainland China market for handsets. On 18 March 2003, the company unveiled the latest in its series of Xelibri fashion phones.</p>
+<p>In 2004, the wind energy company Bonus Energy in <a href="/wiki/Brande" title="Brande">Brande</a>, Denmark was acquired, forming <a href="/wiki/Siemens_Wind_Power" title="Siemens Wind Power">Siemens Wind Power</a> division. Also in 2004 Siemens invested in Dasan Networks (South Korea, broadband network equipment) acquiring ~40% of the shares, <a class="mw-redirect" href="/wiki/Nokia_Siemens" title="Nokia Siemens">Nokia Siemens</a> disinvested itself of the shares in 2008. The same year Siemens acquired Photo-Scan (UK, <a class="mw-redirect" href="/wiki/CCTV" title="CCTV">CCTV</a> systems), US Filter Corporation (water and Waste Water Treatment Technologies/ Solutions, acquired from <a href="/wiki/Veolia" title="Veolia">Veolia</a>), Hunstville Electronics Corporation (automobile electronics, acquired from <a href="/wiki/Chrysler" title="Chrysler">Chrysler</a>), and Chantry Networks (<a class="mw-redirect" href="/wiki/WLAN" title="WLAN">WLAN</a> equipment).</p>
+<p>In 2005, Siemens sold the <a class="mw-redirect" href="/wiki/Siemens_mobile" title="Siemens mobile">Siemens mobile</a> manufacturing business to <a href="/wiki/BenQ" title="BenQ">BenQ</a>, forming the <a href="/wiki/BenQ-Siemens" title="BenQ-Siemens">BenQ-Siemens</a> division. Also in 2005 Siemens acquired Flender Holding GmbH (<a href="/wiki/Bocholt,_Germany" title="Bocholt, Germany">Bocholt</a>, Germany, gears/industrial drives), Bewator AB (building security systems), Wheelabrator Air Pollution Control, Inc. (Industrial and power station dust control systems), AN Windenegrie GmbH. (Wind energy), Power Technologies Inc. (<a class="mw-redirect" href="/wiki/Schenectady" title="Schenectady">Schenectady</a>, USA, energy industry software and training), CTI Molecular Imaging (<a href="/wiki/Positron_emission_tomography" title="Positron emission tomography">Positron emission tomography</a> and <a href="/wiki/Molecular_imaging" title="Molecular imaging">molecular imaging</a> systems), Myrio (<a href="/wiki/IPTV" title="IPTV">IPTV</a> systems), Shaw Power Technologoes International Ltd (UK/USA, electrical engineering consulting, acquired from <a class="mw-redirect" href="/wiki/Shaw_Group" title="Shaw Group">Shaw Group</a>), and Transmitton (<a class="mw-redirect" href="/wiki/Ashby_de_la_Zouch" title="Ashby de la Zouch">Ashby de la Zouch</a> UK, rail and other industry control and asset management).</p>
+<p>In 2006, Siemens announced the purchase of Bayer Diagnostics, which was incorporated into the Medical Solutions Diagnostics division on 1 January 2007, also in 2006 Siemens acquired Controlotron (New York) (ultrasonic flow meters) Also in 2006 Siemens acquired Diagnostic Products Corp., Kadon Electro Mechanical Services Ltd. (now TurboCare Canada Ltd.), Kühnle, Kopp, &amp; Kausch AG, Opto Control, and VistaScape Security Systems</p>
+
+<p>In March 2007, a Siemens board member was temporarily arrested and accused of illegally financing a business-friendly labour association which competes against the union <a href="/wiki/IG_Metall" title="IG Metall">IG Metall</a>. He has been released on bail. Offices of the labour union and of Siemens have been searched. Siemens denies any wrongdoing. In April the Fixed Networks, Mobile Networks and Carrier Services divisions of Siemens merged with <a href="/wiki/Nokia" title="Nokia">Nokia</a>'s Network Business Group in a 50/50 joint venture, creating a fixed and mobile network company called <a class="mw-redirect" href="/wiki/Nokia_Siemens_Networks" title="Nokia Siemens Networks">Nokia Siemens Networks</a>. Nokia delayed the merger due to bribery investigations against Siemens. In October 2007, a court in Munich found that the company had bribed public officials in Libya, Russia, and Nigeria in return for the awarding of contracts; four former Nigerian Ministers of Communications were among those named as recipients of the payments. The company admitted to having paid the bribes and agreed to pay a fine of 201 million euros. In December 2007, the Nigerian government cancelled a contract with Siemens due to the bribery findings.</p>
+<p>Also in 2007, Siemens acquired Vai Ingdesi Automation (Argentina, Industrial Automation), <a href="/wiki/UGS_Corp." title="UGS Corp.">UGS Corp.</a>, Dade Behring, Sidelco (<a href="/wiki/Quebec" title="Quebec">Quebec</a>, Canada), S/D Engineers Inc., and Gesellschaft für Systemforschung und Dienstleistungen im Gesundheitswesen mbH (GSD) (Germany).</p>
+<p>In July 2008, Siemens AG announced a joint venture of the <a class="mw-redirect" href="/wiki/Siemens_Enterprise_Communications" title="Siemens Enterprise Communications">Enterprise Communications</a> business with <a href="/wiki/The_Gores_Group" title="The Gores Group">the Gores Group</a>, renamed <a class="mw-redirect" href="/wiki/Unify_GmbH_%26_Co._KG" title="Unify GmbH &amp; Co. KG">Unify</a> in 2013. The Gores Group holding a majority interest of 51% stake, with Siemens AG holding a minority interest of 49%.</p>
+<p>In August 2008, Siemens Project Ventures invested $15 million in the <a href="/wiki/Arava_Power_Company" title="Arava Power Company">Arava Power Company</a>. In a press release published that month, <a href="/wiki/Peter_L%C3%B6scher" title="Peter Löscher">Peter Löscher</a>, President and CEO of Siemens AG said: “This investment is another consequential step in further strengthening our green and sustainable technologies”. Siemens now holds a 40% stake in the company. </p>
+<p>In January 2009, Siemens announced to sell its 34% stake in Framatome, complaining limited managerial influence. In March, it announced to form an alliance with <a href="/wiki/Rosatom" title="Rosatom">Rosatom</a> of Russia to engage in nuclear-power activities.</p>
+<p>In April 2009, <a href="/wiki/Fujitsu_Siemens_Computers" title="Fujitsu Siemens Computers">Fujitsu Siemens Computers</a> became <a href="/wiki/Fujitsu_Technology_Solutions" title="Fujitsu Technology Solutions">Fujitsu Technology Solutions</a> as a result of Fujitsu buying out Siemens' share of the company.</p>
+<p>In October 2009, Siemens signed a $418 million contract to buy <a href="/wiki/Solel" title="Solel">Solel Solar Systems</a> an Israeli company in the solar thermal power business.</p>
+<p>In December 2010, Siemens agreed to sell its IT Solutions and Services subsidiary for €850 million to <a href="/wiki/Atos" title="Atos">Atos</a>. As part of the deal, Siemens agreed to take a 15% stake in the enlarged Atos, to be held for a minimum of five years. In addition, Siemens concluded a seven-year outsourcing contract worth around €5.5 billion, under which Atos will provide managed services and systems integration to Siemens.</p>
+<h3><span class="mw-headline" id="2011_to_present">2011 to present</span></h3>
+<p>In March 2011, it was decided to list <a href="/wiki/Osram" title="Osram">Osram</a> on the stock market in the autumn, but CEO Peter Löscher said Siemens intended to retain a long-term interest in the company, which was already independent from the technological and managerial viewpoints.</p>
+<p>In September 2011, Siemens, which had been responsible for constructing all 17 of Germany's existing nuclear power plants, announced that it would exit the <a class="mw-redirect" href="/wiki/Nuclear_sector" title="Nuclear sector">nuclear sector</a> following the <a href="/wiki/Fukushima_Daiichi_nuclear_disaster" title="Fukushima Daiichi nuclear disaster">Fukushima disaster</a> and the subsequent changes to German energy policy. Chief executive Peter Löscher has supported the German government's planned <i><a class="mw-redirect" href="/wiki/Energiewende" title="Energiewende">Energiewende</a></i>, its transition to renewable energy technologies, calling it a "project of the century" and saying Berlin's target of reaching 35% renewable energy sources by 2020 was feasible.</p>
+<p>In November 2012, Siemens acquired the Rail division of <a href="/wiki/Invensys" title="Invensys">Invensys</a> for £1.7 billion. In the same month, Siemens made the announcement of acquiring a <a href="/wiki/Privately_held_company" title="Privately held company">privately held company</a>, LMS International NV.</p>
+<p>In August 2013, Nokia acquired 100% of the company Nokia Siemens Networks, with a buy-out of Siemens AG, ending Siemens role in telecommunication.</p>
+<p>In August 2013, Siemens won a $966.8 million order for power plant components from oil firm <a href="/wiki/Saudi_Aramco" title="Saudi Aramco">Saudi Aramco</a>, the largest bid it has ever received from the Saudi company.</p>
+<p>In 2014, Siemens plans to build a $264 million facility for making offshore wind turbines in Paull, England, as Britain’s wind power rapidly expands. Siemens chose the Hull area on the east coast of England because it is close to other large offshore projects planned in coming years. The new plant is expected to begin producing turbine rotor blades in 2016. The plant and the associated service center, in <a class="mw-redirect" href="/wiki/Green_Port_Hull" title="Green Port Hull">Green Port Hull</a> nearby, will employ about 1,000 workers. The facilities will serve the UK market, where the electricity that major power producers generate from wind grew by about 38 percent in 2013, representing about 6 percent of total electricity, according to government figures. There are also plans to increase Britain’s wind-generating capacity at least threefold by 2020, to 14 gigawatts.</p>
+<p>In May 2014, Rolls-Royce agreed to sell its gas turbine and compressor energy business to Siemens for £1 Billion. In June 2014 Siemens and <a href="/wiki/Mitsubishi_Heavy_Industries" title="Mitsubishi Heavy Industries">Mitsubishi Heavy Industries</a> announced their formation of joint ventures to bid for <a href="/wiki/Alstom" title="Alstom">Alstom</a>'s troubled energy and transportation businesses (in locomotives, steam turbines, and aircraft engines). A rival bid by <a href="/wiki/General_Electric" title="General Electric">General Electric</a> (GE) has been criticized by French government sources, who consider Alstom's operations as a "vital national interest" at a moment when the French unemployment level stands above 10% and some voters are turning towards the far-right.</p>
+<p>In September 2014, Siemens said it would buy U.S. oilfield equipment maker <a href="/wiki/Dresser-Rand_Group" title="Dresser-Rand Group">Dresser-Rand Group</a> Inc for $7.6 billion.</p>
+<h2><span class="mw-headline" id="Products.2C_services_and_contribution">Products, services and contribution</span></h2>
+
+<p>Siemens offers a wide range of electrical engineering- and electronics-related products and services. Its products can be broadly divided into the following categories: buildings-related products; drives, automation and industrial plant-related products; energy-related products; lighting; medical products; and transportation and logistics-related products.</p>
+<p>Siemens buildings-related products include building-automation equipment and systems; building-operations equipment and systems; building fire-safety equipment and systems; building-security equipment and systems; and low-voltage switchgear including circuit protection and distribution products.</p>
+<p>Siemens drives, automation and industrial plant-related products include motors and drives for conveyor belts; pumps and compressors; heavy duty motors and drives for rolling steel mills; compressors for oil and gas pipelines; mechanical components including gears for wind turbines and cement mills; automation equipment and systems and controls for production machinery and machine tools; and industrial plant for water processing and raw material processing.</p>
+<p>Siemens energy-related products include gas and steam turbines; generators; compressors; on- and offshore wind turbines; high-voltage transmission products; power transformers; high-voltage switching products and systems; alternating and direct current transmission systems; medium-voltage components and systems; and power automation products.</p>
+<p>Siemens OSRAM subsidiary produces lighting products including incandescent, halogen, compact fluorescent, fluorescent, high-intensity discharge and Xenon lamps; opto-electronic semiconductor light sources such as light emitting diodes (LEDs), organic LEDs, high power laser diodes, LED systems and LED luminaires; electronic equipment including electronic ballasts; lighting control and management systems; and related precision components.</p>
+<p>Siemens medical products include clinical information technology systems; hearing instruments; in-vitro diagnostics equipment; imaging equipment including angiography, computed tomography, fluoroscopy, magnetic resonance, mammography, molecular imaging ultrasound, and x-ray equipment; and radiation oncology and particle therapy equipment. As of 2015, Siemens finalized the sale of its hearing-aid (hearing instruments) business to Sivantos.</p>
+<p>Siemens transportation and logistics-related products include equipment and systems for rail transportation including rail vehicles for mass transit, regional and long-distance transportation, locomotives, equipment and systems for rail electrification, central control systems, interlockings, and automated train controls; equipment and systems for road traffic including traffic detection, information and guidance; equipment and systems for airport logistics including cargo tracking and baggage handling; and equipment and systems for postal automation including letter parcel sorting.</p>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 182.66666666667px">
+<div style="width: 182.66666666667px">
+
+<div class="gallerytext">
+<p>A Siemens high-voltage transformer</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162.66666666667px">
+<div style="width: 162.66666666667px">
+
+<div class="gallerytext">
+<p>A Siemens SPECT/CT scanner in operation</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 182.66666666667px">
+<div style="width: 182.66666666667px">
+
+<div class="gallerytext">
+<p>A Siemens wind power generator</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 122px">
+<div style="width: 122px">
+
+<div class="gallerytext">
+<p>A Siemens steam turbine rotor</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 92px">
+<div style="width: 92px">
+
+<div class="gallerytext">
+<p>A Siemens train in operation</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 182px">
+<div style="width: 182px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Bangkok_Skytrain" title="Bangkok Skytrain">Bangkok Skytrain</a> built by Siemens</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Operations">Operations</span></h2>
+<p>Siemens is incorporated in Germany and has its corporate headquarters in Munich. It has operations in around 190 countries and approximately 285 production and manufacturing facilities. Siemens had around 360,000 employees as of 30 September 2011.</p>
+<p>Electrification, automation and digitalization are the long-term growth fields of Siemens. In order to take full advantage of the market potential in these fields, Siemens businesses are bundled into nine divisions and healthcare as a separately managed business.</p>
+<ul>
+<li>Power and Gas</li>
+</ul>
+<ul>
+<li>Wind Power and Renewables</li>
+</ul>
+<ul>
+<li>Power Generation Services</li>
+</ul>
+<ul>
+<li>Energy Management</li>
+</ul>
+<ul>
+<li>Building Technologies</li>
+</ul>
+<ul>
+<li>Mobility</li>
+</ul>
+<ul>
+<li>Digital Factory</li>
+</ul>
+<ul>
+<li>Process Industries and Drives</li>
+</ul>
+<ul>
+<li>Financial Services</li>
+</ul>
+<ul>
+<li>Healthineers</li>
+</ul>
+<h3><span class="mw-headline" id="Research_and_development">Research and development</span></h3>
+<p>In 2011, Siemens invested a total of €3.925 billion in research and development, equivalent to 5.3% of revenues. As of 30 September 2011, Siemens had approximately 11,800 Germany-based employees engaged in research and development and approximately 16,000 in the rest of the world, of whom the majority were based in one of Austria, China, Croatia, Denmark, France, India, Mexico, Slovakia, Sweden, Switzerland, the United Kingdom and the United States. As of 30 September 2011, Siemens held approximately 53,300 patents worldwide.</p>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 209.33333333333px">
+<div style="width: 209.33333333333px">
+
+<div class="gallerytext">
+<p>Siemens' headquarters, Munich (front)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 172.66666666667px">
+<div style="width: 172.66666666667px">
+
+<div class="gallerytext">
+<p>Siemens office building in Munich-Giesing</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 231.33333333333px">
+<div style="width: 231.33333333333px">
+
+<div class="gallerytext">
+<p>Siemens-Tower in Berlin-<a href="/wiki/Siemensstadt" title="Siemensstadt">Siemensstadt</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 178px">
+<div style="width: 178px">
+
+<div class="gallerytext">
+<p>"Wernerwerk" (Werner's Factory) in Berlin-Siemensstadt</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>Wernerwerk II in Berlin-Siemensstadt</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 193.33333333333px">
+<div style="width: 193.33333333333px">
+
+<div class="gallerytext">
+<p>Wernerwerk XV in Berlin-Siemensstadt</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 190.66666666667px">
+<div style="width: 190.66666666667px">
+
+<div class="gallerytext">
+<p>Siemens office building in <a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 120.66666666667px">
+<div style="width: 120.66666666667px">
+
+<div class="gallerytext">
+<p>Siemens office building in Erlangen</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215.33333333333px">
+<div style="width: 215.33333333333px">
+
+<div class="gallerytext">
+<p>Siemens site in Munich-Perlach</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 154.66666666667px">
+<div style="width: 154.66666666667px">
+
+<div class="gallerytext">
+<p><a href="/wiki/SiemensForum_M%C3%BCnchen" title="SiemensForum München">Siemens Forum Munich</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>Siemens Gas Turbine Factory, formerly <a href="/wiki/Ruston_(engine_builder)" title="Ruston (engine builder)">Ruston &amp; Hornsby</a> Pelham Works, <a href="/wiki/Lincoln,_England" title="Lincoln, England">Lincoln, England</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Joint_ventures">Joint ventures</span></h2>
+<p>Siemens' current joint ventures include:</p>
+<ul>
+<li>Siemens Traction Equipment Ltd. (STEZ), <a href="/wiki/Zhuzhou" title="Zhuzhou">Zhuzhou</a> China, is a joint venture between Siemens, <a class="mw-redirect" href="/wiki/Zhuzhou_CSR_Times_Electric" title="Zhuzhou CSR Times Electric">Zhuzhou CSR Times Electric Co., Ltd.</a> (TEC) and <a class="mw-redirect" href="/wiki/Zhuzhou_Electric_Locomotive_Co.,_Ltd." title="Zhuzhou Electric Locomotive Co., Ltd.">CSR Zhuzhou Electric Locomotive Co., Ltd.</a> (ZELC). which produces AC drive electric locomotives and AC locomotive traction components.</li>
+</ul>
+<p>Silcar was a joint venture between Siemens Ltd and Thiess Services Pty Ltd until 2013. Silcar is a 3,000 person Australian organisation providing productivity and reliability for large scale and technically complex plant assets. Services include asset management, design, construction, operations and maintenance. Silcar operates across a range of industries and essential services including power generation, electrical distribution, manufacturing, mining and telecommunications. In July 2013, Thiess took full control.</p>
+<ul>
+<li>OMNETRIC Group, A Siemens &amp; Accenture Company</li>
+</ul>
+<p>In 2014, Siemens and Accenture formed a joint venture company called <a class="external text" href="http://www.OMNETRICGroup.com" rel="nofollow">OMNETRIC Group</a>.</p>
+<h2><span class="mw-headline" id="Shareholders">Shareholders</span></h2>
+<p>The company has issued 881.000.000 shares of common stock. The largest single shareholder continues to be the founding shareholder, the <a href="/wiki/Siemens_family" title="Siemens family">Siemens family</a>, with a stake of 6.5%. 62% are held by institutional <a class="mw-redirect" href="/wiki/Asset_manager" title="Asset manager">asset managers</a>, the largest being two divisions of the world's largest asset manager <a href="/wiki/BlackRock" title="BlackRock">BlackRock</a>. 83.97% of the shares are considered <a href="/wiki/Public_float" title="Public float">public float</a>, however including such strategic investors as the State of <a href="/wiki/Qatar" title="Qatar">Qatar</a> (DIC Company Ltd.) with 3,04%, the <a href="/wiki/Government_Pension_Fund_of_Norway" title="Government Pension Fund of Norway">Government Pension Fund of Norway</a> with 2,5% and the Siemens AG itself with 3,04%. 19% are held by private investors, 13% by investors that are considered unidentifiable. 26% are owned by German investors, 21% by US investors, followed by the UK (11%), France (8%), Switzerland (8%) and a number of others (26%).</p>
+<h2><span class="mw-headline" id="Senior_management">Senior management</span></h2>
+<p><b>Chairmen of the Siemens-Schuckertwerke Managing Board (1903 to 1966)</b></p>
+<ul>
+<li>Alfred Berliner (1903 to 1912)</li>
+<li>Carl Friedrich von Siemens (1912 to 1919)</li>
+<li>Otto Heinrich (1919 to 1920)</li>
+<li>Carl Köttgen (1920 to 1939)</li>
+<li>Rudolf Bingel (1939 to 1945)</li>
+<li>Wolf-Dietrich von Witzleben (1945 to 1949)</li>
+<li>Günther Scharowsky (1949 to 1951)</li>
+<li>Friedrich Bauer (1951 to 1962)</li>
+<li>Bernhard Plettner (1962 to 1966)</li>
+</ul>
+<p><b>Chairmen of the Siemens &amp; Halske / Siemens-Schuckertwerke Supervisory Board (1918 to 1966)</b></p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Wilhelm_von_Siemens" title="Wilhelm von Siemens">Wilhelm von Siemens</a> (1918 to 1919)</li>
+<li><a href="/wiki/Carl_Friedrich_von_Siemens" title="Carl Friedrich von Siemens">Carl Friedrich von Siemens</a> (1919 to 1941)</li>
+<li><a href="/wiki/Hermann_von_Siemens" title="Hermann von Siemens">Hermann von Siemens</a> (1941 to 1946)</li>
+<li>Friedrich Carl Siemens (1946 to 1948)</li>
+<li><a href="/wiki/Hermann_von_Siemens" title="Hermann von Siemens">Hermann von Siemens</a> (1948 to 1956)</li>
+<li>Ernst von Siemens (1956 to 1966)</li>
+</ul>
+
+<p><b>Chairmen of the Siemens AG Managing Board (1966 to present)</b></p>
+<ul>
+<li>Hans Kerschbaum, Adolf Lohse, Bernhard Plettner (Presidency of the Managing Board) (1966 to 1967)</li>
+<li>Erwin Hachmann, Bernhard Plettner, Gerd Tacke (Presidency of the Managing Board) (1967 to 1968)</li>
+<li>Gerd Tacke (1968 to 1971)</li>
+<li>Bernhard Plettner (1971 to 1981)</li>
+<li>Karlheinz Kaske (1981 to 1992)</li>
+<li><a href="/wiki/Heinrich_von_Pierer" title="Heinrich von Pierer">Heinrich von Pierer</a> (1992 to 2005)</li>
+<li><a href="/wiki/Klaus_Kleinfeld" title="Klaus Kleinfeld">Klaus Kleinfeld</a> (2005 to 2007)</li>
+<li><a href="/wiki/Peter_L%C3%B6scher" title="Peter Löscher">Peter Löscher</a> (2007 to 2013)</li>
+<li><a href="/wiki/Joe_Kaeser" title="Joe Kaeser">Joe Kaeser</a> (2013 to present)</li>
+</ul>
+
+<p><b>Chairmen of the Siemens AG Supervisory Board (1966 to present)</b></p>
+<ul>
+<li>Ernst von Siemens (1966 to 1971)</li>
+<li>Peter von Siemens (1971 to 1981)</li>
+<li>Bernhard Plettner (1981 to 1988)</li>
+<li>Heribald Närger (1988 to 1993)</li>
+<li>Hermann Franz (1993 to 1998)</li>
+<li>Karl-Hermann Baumann (1998 to 2005)</li>
+<li><a href="/wiki/Heinrich_von_Pierer" title="Heinrich von Pierer">Heinrich von Pierer</a> (2005 to 2007)</li>
+<li>Gerhard Cromme (2007 to present)</li>
+</ul>
+<p><b>Managing Board (present day)</b> </p>
+<ul>
+<li><a href="/wiki/Joe_Kaeser" title="Joe Kaeser">Joe Kaeser</a> (CEO, 2013 to present)</li>
+<li><a href="/wiki/Roland_Busch" title="Roland Busch">Roland Busch</a> (CEO Infrastructure &amp; Cities Sector)</li>
+<li>Lisa Davis</li>
+<li>Klaus Helmrich (Chief Technology Officer)</li>
+<li>Janina Kugel</li>
+<li>Siegfried Russwurm (CEO Industry Sector)</li>
+<li>Ralf P. Thomas (<a class="mw-redirect" href="/wiki/Chief_Financial_Officer" title="Chief Financial Officer">CFO</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="The_Siemens_Graduate_Program_.28The_SGP.29">The Siemens Graduate Program (The SGP)</span></h2>
+<p>The Siemens Graduate Program, which has existed since 1922, is the first university graduate program to be established at Siemens. It is an international two-year development program for Master Graduates and PhDs available in various global regions (for example Germany, Denmark, UK, Belgium, France, Spain, Switzerland, Russia, China, India, United Arab Emirates, Saudi Arabia, Kuwait, Egypt, Brazil, and USA). The SGP consists of three work assignments, one of them abroad, within one of the Siemens Divisions, each lasting eight months. The participants are working at least in two different functional areas during their rotations and are accompanied by a personal mentor for the duration of the program.</p>
+<h2><span class="mw-headline" id="Controversies">Controversies</span></h2>
+<h3><span class="mw-headline" id="Argentine">Argentine</span></h3>
+<p>In 2014 a former Siemens executive Andres Truppel pleaded guilty to funneling nearly $100 million in bribes to Argentine government officials to win the ID card project for Siemens. Two months later Siemens agreed to pay a $1.6 billion penalty to US and German authorities to resolve the case.</p>
+<h3><span class="mw-headline" id="European_Union">European Union</span></h3>
+<p>In January 2007, Siemens was fined €396 million by the <a href="/wiki/European_Commission" title="European Commission">European Commission</a> for <a href="/wiki/Price_fixing" title="Price fixing">price fixing</a> in EU electricity markets through a <a href="/wiki/Cartel" title="Cartel">cartel</a> involving 11 companies, including <a class="mw-redirect" href="/wiki/ABB_Asea_Brown_Boveri" title="ABB Asea Brown Boveri">ABB</a>, <a href="/wiki/Alstom" title="Alstom">Alstom</a>, <a href="/wiki/Fuji_Electric" title="Fuji Electric">Fuji Electric</a>, <a class="mw-redirect" href="/wiki/Hitachi_Japan" title="Hitachi Japan">Hitachi Japan</a>, AE Power Systems, <a class="mw-redirect" href="/wiki/Mitsubishi_Electric_Corp" title="Mitsubishi Electric Corp">Mitsubishi Electric Corp</a>, <a href="/wiki/Schneider_Electric" title="Schneider Electric">Schneider</a>, <a href="/wiki/Areva" title="Areva">Areva</a>, <a href="/wiki/Toshiba" title="Toshiba">Toshiba</a> and <a href="/wiki/VA_Tech_Wabag" title="VA Tech Wabag">VA Tech</a>. According to the Commission, "between 1988 and 2004, the companies rigged bids for procurement contracts, fixed prices, allocated projects to each other, shared markets and exchanged commercially important and confidential information." Siemens was given the highest fine of €396 million, more than half of the total, for its alleged leadership role in the activity.</p>
+<p>Siemens agreed to pay a record $1.34 billion in fines in December 2008 after being investigated for bribery. The investigation found questionable payments of roughly €1.3 billion, from 2002 to 2006 that triggered a broad range of inquiries in Germany, the United States and other countries. In May 2007 a German court convicted two former executives of paying about €6 million in bribes from 1999 to 2002 to help Siemens win <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> <a href="/wiki/Gas_turbine" title="Gas turbine">turbine</a> supply contracts with <a href="/wiki/Enel" title="Enel">Enel</a>, an Italian energy company. The contracts were valued at about €450 million. Siemens was fined €38 million.</p>
+<h3><span class="mw-headline" id="Iran">Iran</span></h3>
+<p><a class="mw-redirect" href="/wiki/Nokia_Siemens" title="Nokia Siemens">Nokia Siemens</a> supplied telecommunications equipment to the Iranian telecom company that included the ability to intercept and monitor telecommunications, a facility known as "<a class="mw-redirect" href="/wiki/Lawful_intercept" title="Lawful intercept">lawful intercept</a>". The equipment was believed to have been used in the suppression of the <a class="mw-redirect" href="/wiki/2009_Iranian_election_protests" title="2009 Iranian election protests">2009 Iranian election protests</a>, leading to criticism of the company, including by the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a>. Nokia-Siemens later divested its call monitoring business, and reduced its activities in Iran.</p>
+<h3><span class="mw-headline" id="Greece">Greece</span></h3>
+<p>Siemens has been <a href="/wiki/Siemens_Greek_bribery_scandal" title="Siemens Greek bribery scandal">accused of bribing Greek officials</a>. In 2008, it was revealed that Siemens had bribed the two main political parties of <a href="/wiki/Greece" title="Greece">Greece</a> for approximately 10 years to be the sole provider of mechanical and electrical equipment of the Greek state. After the exposure the German authorities moved to arrest the representatives of Siemens in Greece, who had managed to escape from the Greek authorities. The German judicial system didn't allow the Greek authorities to cross-question the representatives. As a result, there wasn't any solid evidence against the corrupt politicians, who weren't arrested and continue to be active in the Greek political system. Meanwhile, the Greek state cancelled the planned business deals. In August 2012, the Greek government signed a settlement with Siemens for these corruption cases worth 330 million euros.</p>
+<h3><span class="mw-headline" id="Japan">Japan</span></h3>
+<p>The name of Siemens AG is also linked to the 1914 <a href="/wiki/Siemens_scandal" title="Siemens scandal">Siemens scandal</a> in Japan.</p>
+<h3><span class="mw-headline" id="Israel">Israel</span></h3>
+<p>In 2014 Israeli prosecutors decreed that Siemens should pay US$42.7 million penalty and appoint an external inspector to supervise its business in Israel in exchange for state prosecutors dropping charges of securities fraud. According to the indictment, "Siemens systematically paid bribes to Israel Electric Corporation executives so they would utilize their positions in order to favor and advance the interests of Siemens".</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Weiher, Siegfried von /Herbert Goetzeler (1984). <i>The Siemens Company, Its Historical Role in the Progress of Electrical Engineering 1847–1980</i>, 2nd ed. Berlin and Munich.</li>
+<li>Feldenkirchen, Wilfried (2000). <i>Siemens, From Workshop to Global Player</i>, Munich.</li>
+<li>Feldenkirchen, Wilfried / Eberhard Posner (2005): <i>The Siemens Entrepreneurs</i>, Continuity and Change, 1847–2005, Ten Portraits, Munich.</li>
+<li>Greider, William (1997). <i>One World, Ready or Not</i>. Penguin Press. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0713992115">ISBN 0-7139-9211-5</a>.</li>
+<li>Margarete Buber: 303f As prisoners of Stalin and Hitler, Frankf / Main, Berlin 1993</li>
+<li>See Carola Sachse: Jewish forced labor and non-Jewish women and men at Siemens from 1940 to 1945, in: International Scientific Correspondence, No. 1/1991, pp. 12–24; Karl-Heinz Roth: forced labor in the Siemens Group (1938 -1945). Facts, controversies, problems, in: Hermann Kaienburg (ed.): concentration camps and the German Economy 1939–1945 (Social studies, H. 34), Opladen 1996, pp. 149–168; Wilfried Feldenkirchen: 1918–1945 Siemens, Munich 1995, Ulrike fire, Claus Füllberg-Stolberg, Sylvia Kempe: work at Ravensbrück concentration camp, in: Women in concentration camps. Bergen-Belsen. Ravensbrück, Bremen, 1994, pp. 55–69; Ursula Krause-Schmitt: The path to the Siemens stock led past the crematorium, in: Information. German Resistance Study Group, Frankfurt / Main, 18 Jg, No. 37/38, Nov. 1993, pp. 38–46; Sigrid Jacobeit: working at Siemens in Ravensbrück, in: Dietrich Eichholz (eds) War and economy. Studies on German economic history 1939–1945, Berlin 1999.</li>
+<li>Bundesarchiv Berlin, NS 19, No. 968, Communication on the creation of the barracks for the Siemens &amp; Halske, the planned production and the planned expansion for 2,500 prisoners "after direct discussions with this company": Economic and Administrative Main Office of the SS ( WVHA), Oswald Pohl, secretly, to Reichsführer SS (RFSS), Heinrich Himmler, dated 20 October 1942.</li>
+<li>Karl-Heinz Roth: forced labor in the Siemens Group, with a summary table, page 157 See also Ursula Krause-Schmitt: "The road to Siemens stock led to the crematorium past over," pp. 36f, where, according to the catalogs of the International Tracing Service Arolsen and Martin Weinmann (eds.).. The Nazi camp system, Frankfurt / Main 1990 and Feldkirchen: Siemens 1918–1945, pp. 198–214, and in particular the associated annotations 91–187.</li>
+<li>MSS in the estate include Wanda Kiedrzy'nska, in: National Library of Poland, Warsaw, Manuscript Division, Sygn. akc 12013/1 and archive the memorial I/6-7-139 RA: see also: Woman Ravensbruck concentration camp. An overall presentation, State Justice Administration in Ludwigsburg, IV ART 409-Z 39/59, April 1972, pp. 129ff.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.siemens.com/" rel="nofollow">Official website</a></span></span></li>
+</ul>
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:168632-0!*!0!!en!4!* and timestamp 20161108141345 and revision id 748498250
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,115 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p><b>Sustainable seafood</b> is <a href="/wiki/Seafood" title="Seafood">seafood</a> that is either <a href="/wiki/Wild_fisheries" title="Wild fisheries">caught</a> or <a href="/wiki/Aquaculture" title="Aquaculture">farmed</a> in ways that consider the long-term vitality of harvested species and the well-being of the oceans, as well as the livelihoods of fisheries-dependent communities. It was first promoted through the sustainable seafood movement which began in the 1990s. This operation highlights <a href="/wiki/Overfishing" title="Overfishing">overfishing</a> and environmentally destructive fishing methods. Through a number of initiatives, the movement has increased awareness and raised concerns over the way our seafood is obtained.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Importance">Importance</span></h2>
+
+<p><a class="mw-redirect" href="/wiki/Marine_environment" title="Marine environment">Marine environments</a> are currently under immense pressure. Their problems primarily arise through <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">anthropogenic</a> causes, such as overfishing and environmental destruction. However, research suggests that fisheries are able to recover or stabilize their populations when responsible management and regulations are in place. Unfortunately, most seafood that is obtained is done so through “irresponsible fishing practices that continue to modify some marine ecosystem.” This has resulted in record depleted stocks. For example, “85 percent of the world’s fisheries are fished at or beyond their maximum sustainable limit.” Considering the rising global population and the pressure that it has, and will continue to exert on the Earth's resources, a more sustainable method of fishing is necessary if humans wish to utilize its natural abundance.</p>
+<h2><span class="mw-headline" id="Sustainable_Seafood_Movement">Sustainable Seafood Movement</span></h2>
+<p>The Sustainable Seafood Movement is an initiative born through the realization that the <a class="mw-redirect" href="/wiki/Marine_ecosystems" title="Marine ecosystems">marine ecosystems</a> of the world were being overexploited and destroyed. It began in the 1990s and was driven by <a href="/wiki/Social_marketing" title="Social marketing">social marketing</a> through <a class="mw-redirect" href="/wiki/Ecolabeling" title="Ecolabeling">Ecolabel</a> and awareness campaigns. Through social marketing, the collaboration between environmental <a class="mw-redirect" href="/wiki/Non-governmental_organizations" title="Non-governmental organizations">Non-governmental organizations</a> (NGOs) and industry allowed for the consumer to make informed choices, potentially contributing to the conservation of marine <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>.</p>
+<h3><span class="mw-headline" id="Ecolabeling">Ecolabeling</span></h3>
+<p>Ecolabeling programs evaluate the production process with set environmental standards by an independent third party. Should the process fulfill the specific requirements, the producer or marketer may purchase a license to use an ecolabel in its marketing. This label allows the consumer to know that the product was produced sustainably. Labeling is not only an effective regulatory tool in encouraging consumers to make environmentally friendly choices, but it also provides a financial benefit to producers. In 1996 the <a href="/wiki/Marine_Stewardship_Council" title="Marine Stewardship Council">Marine Stewardship Council</a> (MSC) implemented the first certification program Since then, they have not only made a distinct effort to maintain the health of ecosystems, but they have also contributed to more financial success for producers. For instance, once the American Albacore Fishing Association had its tuna certified to the MSC standard, they were able to obtain premium prices for their product. For the small fishing community in Bonita, California, certification allowed them to sell direct, as opposed to depending on the instability on the dock. They were able to make a profit of $2,260 rather than $1,700 per tonne. More companies and organizations are choosing to use environmentally sustainable production, such as ecolabeling, to gain a greater market share and higher profits.</p>
+<h3><span class="mw-headline" id="Awareness_Campaigns">Awareness Campaigns</span></h3>
+<p>Awareness campaigns focus on educating the public and encouraging them to purchase products that consider the vitality of marine species. They do so through boycotts of certain species and products as well as through seafood guides. Seafood guides highlight which species are acceptable to consume and which are not based on their environmental impact. Guides are typically constructed into three categories, some using the analogy of a traffic light's colours: red, yellow, and green. These rankings are based on how the fish responds to fishing pressure, abundance, gear impact, <a href="/wiki/Bycatch" title="Bycatch">Bycatch</a>, and management. Red represents items to avoid, yellow is a good alternative, and green is the best choice. Several organizations, including the <a href="/wiki/Monterey_Bay_Aquarium" title="Monterey Bay Aquarium">Monterey Bay Aquarium</a>, have developed their own guides or wallet cards to be distributed to the public.</p>
+<p>In September 2016, a partnership of Google and <a href="/wiki/Oceana_(non-profit_group)" title="Oceana (non-profit group)">Oceana</a> and <a class="new" href="/w/index.php?title=Skytruth&amp;action=edit&amp;redlink=1" title="Skytruth (page does not exist)">Skytruth</a> introduced <a href="/wiki/Global_Fishing_Watch" title="Global Fishing Watch">Global Fishing Watch</a>, a website designed to assist citizens of the globe in monitoring fishing activities.</p>
+<h2><span class="mw-headline" id="Seafood_Guide">Seafood Guide</span></h2>
+<p>The Seafood Guide below, made by SeaChoice, highlights which species are best to eat, and which should be avoided based on their management, abundance, and whether they have been caught or farmed in environmentally sustainable ways. It allows consumers to be informed of their choices and vote with their wallets.</p>
+
+<h2><span class="mw-headline" id="Fishing_Methods">Fishing Methods</span></h2>
+
+<p>There are a wide variety of fishing methods used. Each has its own environment impact that varies on intensity. The table below highlights a fishing method along with its environmental repercussions.</p>
+
+<h2><span class="mw-headline" id="National_Oceanic_and_Atmospheric_Administration_.28NOAA.29">National Oceanic and Atmospheric Administration (NOAA)</span></h2>
+<p>The <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a> (NOAA) is a national <a href="/wiki/Government_agency" title="Government agency">government agency</a> that has authority over conservation, marine fisheries, and management. The NOAA has created FishWatch to help guide concerned consumers to sustainable seafood choices. The fisheries in the United States are overseen by the Ten National Standards of the <a href="/wiki/Magnuson%E2%80%93Stevens_Fishery_Conservation_and_Management_Act" title="Magnuson–Stevens Fishery Conservation and Management Act">Magnuson–Stevens Fishery Conservation and Management Act</a>. Therefore, the National Standards are protecting the fish population and eliminating overfishing. Along with the Magnuson-Stevens Act, U.S. fisheries are also regulated under the <a class="mw-redirect" href="/wiki/Endangered_Species_Act" title="Endangered Species Act">Endangered Species Act</a> and Marine Mammal Act.</p>
+<p>The NOAA fisheries service has started using aquaculture to produce sustainable seafood. <a href="/wiki/Aquaculture" title="Aquaculture">Aquaculture</a> is fish or shellfish farming. The aquaculture fisheries hatch and raise the fish until market size. By using aquaculture the wild fish will be able to repopulate without the threat of overfishing. The aquaculture fish have a variety of uses including: food, nutritional, and pharmaceutical. Two types of aquaculture exist. Marine aquaculture farms the fish species that live in the ocean and fresh water aquaculture is the fish species that live in freshwater. NOAA is focusing on an alternative seafood source to help with repopulate and save the ocean's ecosystems.</p>
+<h2><span class="mw-headline" id="Marine_Stewardship_Council_.28MSC.29">Marine Stewardship Council (MSC)</span></h2>
+<p>The <a href="/wiki/Marine_Stewardship_Council" title="Marine Stewardship Council">Marine Stewardship Council</a> is a global non-profit organization looking to conserve the oceans. Their mission is to use a combination of certified fisheries and ecolabeling to make the people aware of how important it is to preserve our oceans. The MSC works with fisheries, scientist, seafood companies, conservation groups and the public to encourage environmental friendly seafood choices. The two main ways the MSC regulates sustainable seafood is by setting standards for certified fisheries and ecolabeling.</p>
+<p>The certified fisheries are judged on the three standards the MSC provides. Although the MSC does not certified the fisheries, but are certified by a third party system to remove any bias. The standards were created to decrease overfishing and maintain healthy ecosystems. The three standards are:</p>
+<ul>
+<li>Maintaining Sustainable Fish Stocks</li>
+</ul>
+
+<ul>
+<li>Environmental Impact</li>
+</ul>
+
+<ul>
+<li>Effective Management</li>
+</ul>
+
+
+<p>Once a fishery has been reviewed and certified, their certification lasts for 5 years. In that 5 years, the fishery will be inspected and held to the environmental standards of the MSC. After the 5 years has passed, the fishery will have to go through the approval process again.</p>
+<p>The second way the MSC regulates seafood to the public is by using their <a href="/wiki/Ecolabel" title="Ecolabel">ecolabel</a>. The ecolabel on seafood products guarantees the seafood has come from a sustainable source and certified fishery. The ecolabel can be found around the world. The consumer can feel good about buying seafood with a MSC ecolabel.</p>
+<p>Before a seafood product can carry the MSC eco-label, the fishery must acquire the MSC Fisheries <a href="/wiki/Certification" title="Certification">Certification</a>. Additionally, all companies in the supply chain that take ownership of the product including distributors, wholesalers, manufacturers, pack houses, traders, retailers, catering organizations and restaurants must acquire the MSC Chain of Custody Certification.</p>
+<h3><span class="mw-headline" id="Criticism_of_the_Marine_Stewardship_Council">Criticism of the Marine Stewardship Council</span></h3>
+<p>Critics condemn the Marine Stewardship Council for certifying specific fisheries that may be in trouble, harmful to the environment, or where there is a lack of information available. For example, the Antarctic toothfish fishery in the Ross Sea was awarded an MSC label, despite a lack of basic information on the stock itself. A <i>Marine Policy</i> study that analyzed the stocks of MSC fisheries found that 31% of the stocks were overfished, and 11% did not have suitable information available.</p>
+<p>Richard Page, a Greenpeace oceans campaigner stated "I will go as far as to say consumers are being duped. They think they are buying fish that are sustainable and can eat them with a clean conscience." </p>
+<h2><span class="mw-headline" id="Friend_of_the_Sea">Friend of the Sea</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Friend_of_the_Sea" title="Friend of the Sea">Friend of the Sea</a></div>
+<p><a href="/wiki/Friend_of_the_Sea" title="Friend of the Sea">Friend of the Sea</a> is a non-profit international organization that supports the conservation of oceans. It was founded by Dr. Paolo Bay who started the sustainable seafood movement in Europe. Friends of the Sea uses aquaculture and certified fisheries to maintain the seafood stock. The certified fisheries are audited by <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a>. The criteria to become a certified fishery is:</p>
+<ul>
+<li>The fish stock may not be <a class="mw-redirect" href="/wiki/Overexploited" title="Overexploited">overexploited</a></li>
+<li>No <a href="/wiki/Habitat_destruction" title="Habitat destruction">habitat destruction</a></li>
+<li>No <a href="/wiki/Bycatch" title="Bycatch">bycatch</a> of endangered species</li>
+<li>Must follow all laws and regulations</li>
+<li>Reduction of the <a href="/wiki/Carbon_footprint" title="Carbon footprint">carbon footprint</a></li>
+</ul>
+<p>Currently 30 fisheries around the world are certified under the Friends of the Sea.</p>
+<p>The Friends of The Sea also participate in the certification of aquaculture. The establishment of aquaculture helps reduce the number of wild species caught. The ISO also audits the aquaculture farms before certification. The criteria of aquaculture is:</p>
+<ul>
+<li>There is no environmental impact where the farm is placed</li>
+<li>Must follow all waste water guidelines</li>
+<li>A very low percentage of escapes</li>
+<li>No genetically modified organisms, growth hormones, or antibiotics</li>
+<li>Reduction of the carbon footprint</li>
+</ul>
+<p>In 2004, aquaculture accounted for 32% of the total production of fish. Aquaculture is becoming more popular with an 8% rise per year in the last 30 years. Currently there are 75 aquaculture certified by Friends of the Sea.</p>
+<h2><span class="mw-headline" id="Chefs_and_restaurants">Chefs and restaurants</span></h2>
+<p>Due to growing public concern about <a href="/wiki/Overfishing" title="Overfishing">overfishing</a>, many seafood restaurants have begun to offer more sustainable seafood options, with some restaurants specializing in sustainable seafood, exemplified by <a href="/wiki/Miya%27s" title="Miya's">Miya's</a>, a restaurant headed by chef <a href="/wiki/Bun_Lai" title="Bun Lai">Bun Lai</a>, a 2016 White House Champions of Change for Sustainable Seafood recipient.  <a href="/wiki/Miya%27s" title="Miya's">Miya'sis</a> on the vanguard of the sustainable seafood movement as the first sushi restaurant to specialize in sustainable seafood. Today, there are <a href="/wiki/Sustainable_sushi" title="Sustainable sushi">sustainable sushi</a> restaurants throughout the U.S., Canada, and England, and many more sustainable seafood restaurants in general.Due to eco-labeling, seafood guides, traceability schemes, sourcing policies, and awareness initiatives there are more chefs and restaurants involved in the sustainable seafood movement than ever before.</p>
+<p>Organizations such as <a href="/wiki/Seafood_Choices_Alliance" title="Seafood Choices Alliance">Seafood Choices Alliance</a> have helped educate chefs about the choices they make in order to encourage more chefs and restaurants to offer sustainable options. This is in line with the Strict International standards set by 'Eco Friendly Chef' www.ecofriendlychef.com and 'Eco Friendly Approved' www.EcoFriendlyApproved.com in association with Oceans 5. www.oceans-5.com</p>
+<h2><span class="mw-headline" id="Advisory_lists">Advisory lists</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Sustainable_seafood_advisory_lists_and_certification" title="Sustainable seafood advisory lists and certification">Sustainable seafood advisory lists and certification</a></div>
+<ul>
+<li><a class="external text" href="http://www.montereybayaquarium.org/cr/cr_seafoodwatch/download.aspx/" rel="nofollow">Sustainable fish by region</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Environmental_Defense_Fund" title="Environmental Defense Fund">Environmental Defense Fund</a></li>
+<li><a href="/wiki/Fisheries_Law_Centre" title="Fisheries Law Centre">Fisheries Law Centre</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_seafoods" title="List of seafoods">List of seafoods</a></li>
+<li><a href="/wiki/Marine_Stewardship_Council" title="Marine Stewardship Council">Marine Stewardship Council</a></li>
+<li><i><a href="/wiki/One_Fish,_Two_Fish,_Crawfish,_Bluefish" title="One Fish, Two Fish, Crawfish, Bluefish">One Fish, Two Fish, Crawfish, Bluefish</a></i> (book)</li>
+<li><a class="mw-redirect" href="/wiki/List_of_harvested_aquatic_animals_by_weight" title="List of harvested aquatic animals by weight">List of harvested aquatic animals by weight</a></li>
+<li><a href="/wiki/Sea_Fish_Industry_Authority" title="Sea Fish Industry Authority">Sea Fish Industry Authority</a></li>
+<li><a href="/wiki/Seafood_Choices_Alliance" title="Seafood Choices Alliance">Seafood Choices Alliance</a></li>
+<li><a href="/wiki/Seafood_Watch" title="Seafood Watch">Seafood Watch</a></li>
+<li><a href="/wiki/Overfishing" title="Overfishing">Overfishing</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries management</a></li>
+<li><a href="/wiki/Fisheries_science" title="Fisheries science">Fisheries science</a></li>
+<li><a href="/wiki/Fisheries_law" title="Fisheries law">Fisheries law</a></li>
+<li><a href="/wiki/Illegal,_unreported_and_unregulated_fishing" title="Illegal, unreported and unregulated fishing">Illegal, unreported and unregulated fishing</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><cite class="citation journal">Jacquet, J.; <a href="/wiki/Daniel_Pauly" title="Daniel Pauly">Pauly, D.</a> (2008). <a class="external text" href="http://www.fisheries.ubc.ca/students/jjacquet/TradeSecrets.pdf" rel="nofollow">"Trade secrets: renaming and mislabeling of seafood"</a> <span style="font-size:85%;">(PDF)</span>. <i>Marine Policy</i>. <b>32</b>: 309–318. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2Fj.marpol.2007.06.007" rel="nofollow">10.1016/j.marpol.2007.06.007</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASustainable+seafood&amp;rft.atitle=Trade+secrets%3A+renaming+and+mislabeling+of+seafood&amp;rft.aufirst=J.&amp;rft.aulast=Jacquet&amp;rft.au=Pauly%2C+D.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.fisheries.ubc.ca%2Fstudents%2Fjjacquet%2FTradeSecrets.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.marpol.2007.06.007&amp;rft.jtitle=Marine+Policy&amp;rft.pages=309-318&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=32"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Jacquet, J.; <a href="/wiki/Daniel_Pauly" title="Daniel Pauly">Pauly, D.</a> (2007). <a class="external text" href="http://www.fisheries.ubc.ca/archive/students/jjacquet/MP31.pdf" rel="nofollow">"The rise of consumer awareness campaigns in an era of collapsing fisheries"</a> <span style="font-size:85%;">(PDF)</span>. <i>Marine Policy</i>. <b>31</b>: 308–313. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2Fj.marpol.2006.09.003" rel="nofollow">10.1016/j.marpol.2006.09.003</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASustainable+seafood&amp;rft.atitle=The+rise+of+consumer+awareness+campaigns+in+an+era+of+collapsing+fisheries&amp;rft.aufirst=J.&amp;rft.aulast=Jacquet&amp;rft.au=Pauly%2C+D.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.fisheries.ubc.ca%2Farchive%2Fstudents%2Fjjacquet%2FMP31.pdf&amp;rft_id=info%3Adoi%2F10.1016%2Fj.marpol.2006.09.003&amp;rft.jtitle=Marine+Policy&amp;rft.pages=308-313&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><cite class="citation web"><a class="external text" href="http://waittinstitute.org/sustainableseafood/" rel="nofollow">"Sustainable Seafood Factsheet"</a>. Waitt Institute<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASustainable+seafood&amp;rft.btitle=Sustainable+Seafood+Factsheet&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwaittinstitute.org%2Fsustainableseafood%2F&amp;rft.pub=Waitt+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a class="external text" href="http://www.davidsuzuki.org/issues/oceans/projects/sustainable-seafood/" rel="nofollow">David Suzuki Foundation: Choosing Sustainable Seafood</a></li>
+<li><a class="external text" href="http://www.fishsource.org/" rel="nofollow">FishSource</a></li>
+<li><a class="external text" href="http://ocean.si.edu/ocean-and-you/sustainable-seafood/" rel="nofollow">Smithsonian's Ocean Portal</a> Sustainable seafood section</li>
+<li><a class="external text" href="http://www.montereybayaquarium.org/cr/seafoodwatch.aspx/" rel="nofollow">Seafood Watch</a></li>
+<li><a class="external text" href="http://www.seachoice.org/" rel="nofollow">SeaChoice</a></li>
+<li><a class="external text" href="http://www.fishchoice.com/" rel="nofollow">FishChoice</a></li>
+<li><a class="external text" href="http://www.oceanwise.ca/about/sustainable-seafood" rel="nofollow">Ocean Wise</a></li>
+<li><a class="external text" href="http://www.oceanoutcomes.org/" rel="nofollow">Ocean Outcomes</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13761926-0!*!0!!en!4!* and timestamp 20161108171244 and revision id 748523986
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

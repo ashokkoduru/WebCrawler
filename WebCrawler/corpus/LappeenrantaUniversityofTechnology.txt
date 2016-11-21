@@ -1,0 +1,99 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p><b>Lappeenranta University of Technology</b> (<b>LUT</b>) (in Finnish: until 2003 <i>Lappeenrannan teknillinen korkeakoulu</i>, LTKK, and from 2003 <i>Lappeenrannan teknillinen yliopisto</i>, LTY) was established in 1969. The university campus is situated on the shore of lake <a href="/wiki/Saimaa" title="Saimaa">Saimaa</a>, about 7 kilometres from the city center. In the 1950s and 1960s, the Finnish government made plans to establish the University of <a class="mw-redirect" href="/wiki/Eastern_Finland" title="Eastern Finland">Eastern Finland</a> in Lappeenranta, but it was ultimately decentralized in three cities: <a href="/wiki/Lappeenranta" title="Lappeenranta">Lappeenranta</a>, <a href="/wiki/Kuopio" title="Kuopio">Kuopio</a>, and <a href="/wiki/Joensuu" title="Joensuu">Joensuu</a>. Only the departments of engineering were located in Lappeenranta at that time. The Department of Business Administration was established and teaching of economics began in 1991.</p>
+<p>Nowadays, LUT’s strategic focus areas are green energy and technology, the creation of sustainable competitiveness and operation as a hub of international Russian relations. Being located near the eastern boundary of <a href="/wiki/Finland" title="Finland">Finland</a>, the university also offers comprehensive know-how related to <a href="/wiki/Russia" title="Russia">Russia</a>. Furthermore, LUT cooperates closely with business life, and Technology Centre Kareltek is situated beside the university. LUT is state run and state funded, like all <a class="mw-redirect" href="/wiki/Universities_in_Finland" title="Universities in Finland">universities in Finland</a>.</p>
+<p>In 2011 LUT started its Green Campus project. LUT Green Campus is a unique research and educational environment, where the university's expertise in energy as well as its own innovations are put to practical use. Green Campus is an example on how science and technology can be used to solve environmental problems and build a sustainable world.</p>
+<p>There are about 960 staff members and 6,900 students in the university. In LUT one can graduate in the following degrees: Bachelor of Science (Econ), Bachelor of Science (Tech), Master of Science (Tech), Master of Science (Econ), Licentiate of Science (Econ), Licentiate of Science (Tech), Doctor of Science (Tech), Doctor of Science (Econ), and Doctor of Philosophy. LUT has several internationally accredited Master´s programmes. Master's degree programme in International Marketing Management was awarded EFMD`s EPAS-accreditation for five years in 2012. EUR-ACE and ASIIN-accredited programmes LUT has in Chemical Engineering, in Energy Technology, in Environmental Technology,in Mechanical Engineering, in Electrical Engineering and in Industrial Management.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Organisation">Organisation</span></h2>
+<h3><span class="mw-headline" id="Board">Board</span></h3>
+<ul>
+<li>Chairman Tuomo Rönkö, CEO of Maintpartner Group</li>
+<li>Laura Lares, CEO of Woimistamo</li>
+<li>Jyri Häkämies, CEO of Confederation of Finnish Industries</li>
+<li>René Nyberg, Ambassador</li>
+<li>Liisa Rohweder, Secretary General, WWF Finland</li>
+<li>Jarmo Partanen, Professor, Head of LUT Energy</li>
+<li>Kaisu Puumalainen, Professor of Strategy Research, LUT</li>
+<li>Martti Lindh, Senior Laboratory Technician</li>
+<li>Mia Lehto, Business student, LUT</li>
+</ul>
+<h3><span class="mw-headline" id="Rectors">Rectors</span></h3>
+<ul>
+<li>Rector D.Sc. (B.A.) Juha-Matti Saksa</li>
+<li>Vice Rector (Research) Jari Hämäläinen, Ph.D., Professor</li>
+<li>Vice Rector (Education) Jaana Sandström D.Sc. (Tech.), Professor</li>
+</ul>
+<h2><span class="mw-headline" id="Schools_and_Departments">Schools and Departments</span></h2>
+
+<p>The University has three schools, all of which have their related departments as follows:</p>
+<h3><span class="mw-headline" id="LUT_School_of_Technology">LUT School of Technology</span></h3>
+<ul>
+<li>LUT Energy</li>
+<li>LUT Electrical Engineering</li>
+<li>LUT Chemistry</li>
+<li>LUT Mechanical Engineering</li>
+<li>Department of Mathematics and Physics</li>
+</ul>
+<h3><span class="mw-headline" id="LUT_School_of_Industrial_Engineering_and_Management">LUT School of Industrial Engineering and Management</span></h3>
+<ul>
+<li>Innovation Management</li>
+<li>Value Network Management</li>
+<li>Software Engineering and Information Management</li>
+</ul>
+<h3><span class="mw-headline" id="LUT_School_of_Business">LUT School of Business</span></h3>
+
+<ul>
+<li>Accounting</li>
+<li>Business Law</li>
+<li>Finance (MSF Master's Degree Programme in Strategic Finance)</li>
+<li>International Marketing (MIMM; Master's Degree in International Marketing Management in English)</li>
+<li>International Technology and Innovation Management (MITIM; Master’s Degree Programme in English)</li>
+<li>Knowledge Management</li>
+<li>Management and Organizations</li>
+<li>Strategy Research</li>
+<li>Supply Management</li>
+</ul>
+<h2><span class="mw-headline" id="Research_institutes">Research institutes</span></h2>
+<ul>
+<li>South Karelian Institute</li>
+<li>Centre for Separation Technology (CST)</li>
+<li>Technology Business Research Center (TBRC)</li>
+<li>Northern Dimension Research Centre (NORDI)</li>
+<li>Carelian Drives and Motor Centre (CDMC)</li>
+<li>Centre of Computational Engineering and Integrated Design (CEID)</li>
+</ul>
+<h2><span class="mw-headline" id="The_Viipuri_Prize">The Viipuri Prize</span></h2>
+<p>The Viipuri Prize, established by the Society for Viipuri School of Economics, is awarded for outstanding achievements in the field of strategy research. The Prize is given every second year to a scholar who is among the most prominent in his or her field of study on a global scale, and whose work powerfully affects the research agenda at LUT School of Business.</p>
+<p>The following scholars have been awarded the Viipuri Prize:</p>
+<ul>
+<li><a href="/wiki/David_Teece" title="David Teece">David Teece</a>, <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> (2003)</li>
+<li><a href="/wiki/James_G._March" title="James G. March">James G. March</a>, <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> (2004)</li>
+<li><a href="/wiki/Peter_Buckley_(academic)" title="Peter Buckley (academic)">Peter Buckley</a>, <a href="/wiki/University_of_Leeds" title="University of Leeds">University of Leeds</a> (2006)</li>
+<li><a href="/wiki/Sidney_G._Winter" title="Sidney G. Winter">Sidney G. Winter</a>, <a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a> (2008)</li>
+<li><a href="/wiki/C._K._Prahalad" title="C. K. Prahalad">C. K. Prahalad</a>, <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a> (2010)</li>
+<li><a href="/wiki/John_Kay_(economist)" title="John Kay (economist)">John Kay</a>, <a href="/wiki/London_School_of_Economics" title="London School of Economics">London School of Economics</a> (2012)</li>
+</ul>
+<h3><span class="mw-headline" id="Former_rectors">Former rectors</span></h3>
+<ul>
+<li>Viljo Immonen, 1969 – 1970</li>
+<li>Erkki Kinnunen, 1971 – 1975</li>
+<li>Niilo Teeri, 1975 – 1977</li>
+<li>Juhani Jaakkola</li>
+<li>Markku Lukka, 1998 – 2008</li>
+<li>Ilkka Pöyhönen, 2008 – 2014</li>
+<li>Anneli Pauli, 2014 – 2016</li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.lut.fi/en/" rel="nofollow">Official site</a></li>
+<li><a class="external text" href="http://www.ltky.fi/en" rel="nofollow">LUT Student Union</a></li>
+</ul>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:659818-0!*!0!!en!4!* and timestamp 20161109110937 and revision id 720530083
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

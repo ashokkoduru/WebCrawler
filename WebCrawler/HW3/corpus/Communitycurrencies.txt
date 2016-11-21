@@ -1,0 +1,25 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+
+<p>A <b>community currency</b> is a type of <a href="/wiki/Complementary_currency" title="Complementary currency">complementary currency</a> that is used by groups with a common bond, like members of a locality, or association. For example, a <a href="/wiki/Local_currency" title="Local currency">local currency</a> is a community currency.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span></h2>
+<p>Community currencies try to fulfill specific societal needs. Community currencies are <a class="mw-redirect" href="/wiki/Complementary_currencies" title="Complementary currencies">complementary currencies</a> limited to a specific community. This could be geographical (<a class="mw-redirect" href="/wiki/Local_currencies" title="Local currencies">local currencies</a>), but also business-based or even online. They are specifically designed to meet the needs of a specific group and aim explicitly at contributing to more equal and sustainable societies. The idea behind this type of currency is thus to redesign money in order for it to better serve the society and the environment. Their design varies in function of their purpose; different purposes are identified by Community Currencies in Action:</p>
+
+
+
+
+<h2><span class="mw-headline" id="Philosophy">Philosophy</span></h2>
+<p>According to the <a href="/wiki/New_Economics_Foundation" title="New Economics Foundation">New Economics Foundation</a> partner Community Currencies in Action:</p>
+
+<p>Community currencies therefore aim at using money as a tool to achieve certain social or environmental objectives.</p>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><cite class="citation web"><a class="external text" href="http://www.paulglover.org/currencybook.html" rel="nofollow">"Hometown Money: How to Enrich Your Community with Local Currency"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACommunity+currency&amp;rft.btitle=Hometown+Money%3A+How+to+Enrich+Your+Community+with+Local+Currency&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.paulglover.org%2Fcurrencybook.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:749691-0!*!0!!en!4!* and timestamp 20161106050401 and revision id 737493647
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,53 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="hatnote" role="note">Not to be confused with <a href="/wiki/Tank_transporter" title="Tank transporter">Tank transporter</a>, <a href="/wiki/Gas_van" title="Gas van">Gas van</a>, or <a href="/wiki/Tanker_(ship)" title="Tanker (ship)">Tanker (ship)</a>.</div>
+
+
+
+
+
+
+<p>A <b>tank truck</b> or <b>tanker truck</b> (<a href="/wiki/United_States" title="United States">United States</a> usage) or <b>tanker</b> (<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> usage), is a <a href="/wiki/Motor_vehicle" title="Motor vehicle">motor vehicle</a> designed to carry <a class="mw-redirect" href="/wiki/Liquids" title="Liquids">liquefied loads</a>, <a href="/wiki/Bulk_cargo" title="Bulk cargo">dry bulk</a> cargo or <a href="/wiki/Gas" title="Gas">gases</a> on roads. The largest such vehicles are similar to <a class="mw-redirect" href="/wiki/Railroad" title="Railroad">railroad</a> <a href="/wiki/Tank_car" title="Tank car">tank cars</a> which are also designed to carry liquefied loads. Many variants exist due to the wide variety of liquids that can be transported. Tank trucks tend to be large; they may be <a href="/wiki/Thermal_insulation" title="Thermal insulation">insulated</a> or non-insulated; <a class="mw-redirect" href="/wiki/Pressurized" title="Pressurized">pressurized</a> or non-pressurized; and designed for single or multiple loads (often by means of internal divisions in their tank). Some are <a href="/wiki/Semi-trailer_truck" title="Semi-trailer truck">semi-trailer trucks</a>. They are difficult to drive due to their high center of gravity.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Size_and_volume">Size and volume</span></h2>
+<p>Tank trucks are described by their size or volume capacity. Large trucks typically have capacities ranging from 5,500 to 11,600 <a class="mw-redirect" href="/wiki/US_gallon" title="US gallon">US gallons</a> (20,800 to 43,900 <a href="/wiki/Litre" title="Litre">L</a>; 4,580 to 9,660 <a class="mw-redirect" href="/wiki/Imperial_gallon" title="Imperial gallon">imp gal</a>). In Australia, <a href="/wiki/Road_train" title="Road train">road trains</a> up to three cars long (known as A-Triple tankers) carry loads in excess of 100,000 L. Longer road trains transporting liquids are also in use.</p>
+<p>A tank truck is distinguished by its shape, usually a cylindrical tank upon the vehicle lying horizontally. Some less visible distinctions amongst tank trucks have to do with their intended use: compliance with human food regulations, refrigeration capability, acid resistance, pressurization capability, and more. The tanks themselves will almost always contain multiple compartments or baffles to prevent load movement destabilizing the vehicle.</p>
+<h2><span class="mw-headline" id="Common_large_tank_trucks">Common large tank trucks</span></h2>
+<p>Large tank trucks are used for example to transport <a href="/wiki/Gasoline" title="Gasoline">gasoline</a> to <a href="/wiki/Filling_station" title="Filling station">filling stations</a>. They also transport a wide variety of liquid goods such as <a class="mw-redirect" href="/wiki/Liquid_sugar" title="Liquid sugar">liquid sugar</a>, <a href="/wiki/Molasses" title="Molasses">molasses</a>, <a href="/wiki/Milk" title="Milk">milk</a>, <a href="/wiki/Wine" title="Wine">wine</a>, <a class="mw-redirect" href="/wiki/Juices" title="Juices">juices</a>, <a href="/wiki/Water" title="Water">water</a>, <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>, <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel</a>, and <a class="mw-redirect" href="/wiki/Industrial_chemicals" title="Industrial chemicals">industrial chemicals</a>.</p>
+<p>Tank trucks are constructed of various materials depending on what products they are hauling. These materials include <a href="/wiki/Aluminium" title="Aluminium">aluminium</a>, <a href="/wiki/Carbon_steel" title="Carbon steel">carbon steel</a>, <a href="/wiki/Stainless_steel" title="Stainless steel">stainless steel</a>, and <a class="mw-redirect" href="/wiki/Fiberglass_reinforced_plastic" title="Fiberglass reinforced plastic">fiberglass reinforced plastic</a> (FRP).</p>
+<p>Some tank trucks are able to carry multiple products at once due to compartmentalization of the tank into 2, 3, 4, 5, 6 or in some rare cases more tank compartments. This allows for an increased number of delivery options. These trucks are commonly used to carry different grades of gasoline to service stations to carry all products needed in one trip.</p>
+<h2><span class="mw-headline" id="Common_small_tank_trucks">Common small tank trucks</span></h2>
+
+
+<p>Smaller tank trucks, with a capacity of less than 3,000 US gallons (11,000 L; 2,500 imp gal) are typically used to deal with light liquid cargo within a local community. A common example is a <a class="mw-redirect" href="/wiki/Cesspool_emptier" title="Cesspool emptier">septic service truck</a> used to vacuum clean several <a href="/wiki/Septic_tank" title="Septic tank">septic tanks</a> and then deliver the septic material to a collection site. These tank trucks typically have a maximum capacity of 3,000 US gallons (11,000 L; 2,500 imp gal). They are equipped with a pumping system to serve their particular need.</p>
+<p>Another common use is to deliver fuel such as <a class="mw-redirect" href="/wiki/Liquified_petroleum_gas" title="Liquified petroleum gas">liquified petroleum gas</a> (LPG) to households, commerces and industries. The smallest of these trucks usually carry about 1,000 US gallons (3,800 L; 830 imp gal) of LPG under pressure. Typically LPG tank trucks carry up to 3499 US gallons of product (usually liquid propane), on a 2 axle bobtail truck. 3500 US gallons (13,200 L; 2,900 imp gal) and greater requires a 3 axle truck (tank wagon).</p>
+<p>Tank trucks are also used to fuel aircraft at airports.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="500" data-file-width="1000" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sinnbild_LKW.svg/32px-Sinnbild_LKW.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sinnbild_LKW.svg/48px-Sinnbild_LKW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sinnbild_LKW.svg/64px-Sinnbild_LKW.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Trucks" title="Portal:Trucks">Trucks portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Bowser_(tanker)" title="Bowser (tanker)">Bowser (tanker)</a></li>
+<li><a href="/wiki/Pipeline_and_Hazardous_Materials_Safety_Administration" title="Pipeline and Hazardous Materials Safety Administration">Pipeline and Hazardous Materials Safety Administration</a> (PHMSA)</li>
+<li><a href="/wiki/Semi-trailer_truck" title="Semi-trailer truck">Semi-trailer truck</a></li>
+<li><a href="/wiki/Tank_car" title="Tank car">Tank cars</a></li>
+<li><a href="/wiki/Tank_chassis" title="Tank chassis">Tank chassis</a></li>
+<li><a href="/wiki/Tank_container" title="Tank container">Tanktainers</a></li>
+<li><a href="/wiki/Dodge_Airflow_truck" title="Dodge Airflow truck">Dodge Airflow truck</a></li>
+<li><a href="/wiki/The_Terminator" title="The Terminator">The Terminator</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://usafleetsupply.com/tankers.asp" rel="nofollow">Driving Tank Trucks for a Living</a></li>
+</ul>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2863776-0!*!0!!en!4!* and timestamp 20161110084300 and revision id 748774303
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

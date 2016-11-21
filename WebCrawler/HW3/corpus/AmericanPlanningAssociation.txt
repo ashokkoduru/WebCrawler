@@ -1,0 +1,49 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p>The <b>American Planning Association</b> (<b>APA</b>) is a professional organization representing the field of <a href="/wiki/Urban_planning" title="Urban planning">urban planning</a> in the <a href="/wiki/United_States" title="United States">United States</a>. The APA was formed in 1978 when two separate professional planning organizations, the American Institute of Planners and the American Society of Planning Officials, were merged into a single organization. The <a href="/wiki/American_Institute_of_Certified_Planners" title="American Institute of Certified Planners">American Institute of Certified Planners</a> is now the organization's professional branch.</p>
+<p>The association also publishes the <i><a class="mw-redirect" href="/wiki/Journal_of_the_American_Planning_Association" title="Journal of the American Planning Association">Journal of the American Planning Association</a></i> ("JAPA", <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0194-4363" rel="nofollow">0194-4363</a>). JAPA was founded in 1935 as <i>Planners' Journal</i>, and was from 1943 known as <i>Journal of the American Institute of Planners</i> (<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0002-8991" rel="nofollow">0002-8991</a>).</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Functions">Functions</span></h2>
+<p>Like many professional organizations, the American Planning Association's main function is to serve as a forum for the exchange of ideas between people who work in the field of <a href="/wiki/Urban_planning" title="Urban planning">urban planning</a>. The organization keeps track of the various improvement efforts underway around the country, which may include the improvement or construction of new <a class="mw-redirect" href="/wiki/Parks" title="Parks">parks</a>, <a class="mw-redirect" href="/wiki/Highways" title="Highways">highways</a> and roads, or <a class="mw-redirect" href="/wiki/Residential_development" title="Residential development">residential developments</a>.</p>
+<p>The organization is also a starting point for people looking for employment.</p>
+<p>The association holds an annual conference which attracts planners and planning students from throughout the United States, Canada and the world. The 2015 conference was held in <a class="mw-redirect" href="/wiki/Seattle,_WA" title="Seattle, WA">Seattle, WA</a> and the 2014 conference in <a class="mw-redirect" href="/wiki/Atlanta,_GA" title="Atlanta, GA">Atlanta, GA</a>.</p>
+<p>Future conferences are planned for:</p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/New_York,_NY" title="New York, NY">New York, NY</a> (2017)</li>
+<li><a class="mw-redirect" href="/wiki/New_Orleans,_LA" title="New Orleans, LA">New Orleans, LA</a> (2018)</li>
+<li><a class="mw-redirect" href="/wiki/San_Francisco,_California" title="San Francisco, California">San Francisco, CA</a> (2019)</li>
+<li><a href="/wiki/Houston" title="Houston">Houston, TX</a> (2020)</li>
+</ul>
+<p>Other recent conferences have been held in the following cities:</p>
+<ul>
+<li>2016 - <a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix, AZ</a></li>
+<li>2015 - <a href="/wiki/Seattle" title="Seattle">Seattle, WA</a></li>
+<li>2014 - <a href="/wiki/Atlanta" title="Atlanta">Atlanta, GA</a></li>
+<li>2013 - <a class="mw-redirect" href="/wiki/Chicago,_IL" title="Chicago, IL">Chicago, IL</a>;</li>
+<li>2012 - <a class="mw-redirect" href="/wiki/Los_Angeles,_CA" title="Los Angeles, CA">Los Angeles, CA</a>;</li>
+<li>2011 - <a class="mw-redirect" href="/wiki/Boston,_MA" title="Boston, MA">Boston, MA</a>;</li>
+<li>2010 - <a class="mw-redirect" href="/wiki/New_Orleans,_LA" title="New Orleans, LA">New Orleans, LA</a>;</li>
+<li>2009 - <a class="mw-redirect" href="/wiki/Minneapolis,_MN" title="Minneapolis, MN">Minneapolis, MN</a>;</li>
+<li>2008 - <a href="/wiki/Las_Vegas_Valley" title="Las Vegas Valley">Las Vegas, NV</a>;</li>
+<li>2007 - <a class="mw-redirect" href="/wiki/Philadelphia,_PA" title="Philadelphia, PA">Philadelphia, PA</a>;</li>
+<li>2006 - <a class="mw-redirect" href="/wiki/San_Antonio,_TX" title="San Antonio, TX">San Antonio, TX</a>;</li>
+<li>2005 - <a class="mw-redirect" href="/wiki/San_Francisco,_California" title="San Francisco, California">San Francisco, CA</a></li>
+<li>2004 - <a class="mw-redirect" href="/wiki/Washington,_DC" title="Washington, DC">Washington, DC</a>,</li>
+</ul>
+<p>The association is subdivided into 47 state/regional chapters, such as the <a class="new" href="/w/index.php?title=NJAPA&amp;action=edit&amp;redlink=1" title="NJAPA (page does not exist)">NJAPA</a> (New Jersey Chapter of the APA)  or the <a class="new" href="/w/index.php?title=Western_Central_Chapter_of_the_APA&amp;action=edit&amp;redlink=1" title="Western Central Chapter of the APA (page does not exist)">Western Central Chapter of the APA</a>.</p>
+<h2><span class="mw-headline" id="Chapters">Chapters</span></h2>
+<p>APA members in the United States are required to belong to a local chapter. Many APA Chapters meet regularly, and most are a source for local conferences and education, networking. Each of 47 local chapters publishes a newsletter and maintains a presence on the web and on social media.</p>
+<h2><span class="mw-headline" id="Divisions">Divisions</span></h2>
+<p>To manage the various interests of American planners, the APA has created 21 divisions. APA divisions offer professional <a href="/wiki/Social_network" title="Social network">networking</a> opportunities for planners. They also produce newsletters and special publications, develop conference sessions, collaborate with related organizations, and contribute to policy work. The divisions focus on planning strategies for professionals with focused interests.</p>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.planning.org/" rel="nofollow">American Planning Association</a></li>
+<li><a class="external text" href="http://www.planning.org/japa/" rel="nofollow">JAPA</a></li>
+<li><a class="external text" href="http://www.planning.org/conference/" rel="nofollow">Annual National Planning Conference</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:565928-0!*!0!!en!*!* and timestamp 20161110073210 and revision id 685480481
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

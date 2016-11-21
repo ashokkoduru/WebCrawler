@@ -1,0 +1,47 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p>A <b>biorefinery</b> is a facility that integrates biomass conversion processes and equipment to produce fuels, power, heat, and value-added chemicals from <a href="/wiki/Biomass" title="Biomass">biomass</a>. The biorefinery concept is analogous to today's <a class="mw-redirect" href="/wiki/Petroleum_refinery" title="Petroleum refinery">petroleum refinery</a>, which produce multiple fuels and products from <a href="/wiki/Petroleum" title="Petroleum">petroleum</a>.</p>
+<p>The <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> Bioenergy Task 42 on Biorefineries has defined biorefining as the sustainable processing of biomass into a spectrum of bio-based products (food, feed, chemicals, materials) and bioenergy (biofuels, power and/or heat).</p>
+<p>By producing multiple products, a biorefinery takes advantage of the various components in biomass and their intermediates therefore maximizing the value derived from the biomass feedstock. A biorefinery could, for example, produce one or several low-volume, but high-value, chemical or <a href="/wiki/Nutraceutical" title="Nutraceutical">nutraceutical</a> products and a low-value, but high-volume liquid transportation fuel such as <a href="/wiki/Biodiesel" title="Biodiesel">biodiesel</a> or <a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">bioethanol</a> (see also <a href="/wiki/Alcohol_fuel" title="Alcohol fuel">alcohol fuel</a>). At the same time generating electricity and process heat, through <a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">combined heat and power</a> (CHP) technology, for its own use and perhaps enough for sale of electricity to the local utility. The high-value products increase profitability, the high-volume fuel helps meet energy needs, and the power production helps to lower energy costs and reduce <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> emissions from traditional power plant facilities. Although some facilities exist that can be called bio-refineries, the bio-refinery has yet to be fully realized. Future biorefineries may play a major role in producing chemicals and materials that are traditionally produced from <a href="/wiki/Petroleum" title="Petroleum">petroleum</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Examples">Examples</span></h2>
+<p>The fully operational <a href="/wiki/Blue_Marble_Energy" title="Blue Marble Energy">Blue Marble Energy</a> company has multiple biorefineries located in Odessa, WA and Missoula, MT.</p>
+<p>Canada's first Integrated Biorefinery, developed on anaerobic digestion technology by <a href="/wiki/Himark_BioGas" title="Himark BioGas">Himark BioGas</a> is located in <a class="mw-redirect" href="/wiki/Hairy_Hill,_Alberta" title="Hairy Hill, Alberta">Hairy Hill, Alberta</a>. The Biorefinery utilizes Source Separated Organics from the metro <a href="/wiki/Edmonton" title="Edmonton">Edmonton</a> region, Open Pen Feedlot Manure, and Food Processing Waste.</p>
+<p>Several potential biorefinery examples have been proposed, starting from feedstocks such as <a href="/wiki/Tobacco" title="Tobacco">tobacco</a>, <a href="/wiki/Flax" title="Flax">flax</a> <a href="/wiki/Straw" title="Straw">straw</a> and the residues from the production of <a class="mw-redirect" href="/wiki/Bioethanol" title="Bioethanol">bioethanol</a>.</p>
+<p><a href="/wiki/Chemrec" title="Chemrec">Chemrec's</a> technology for <a href="/wiki/Black_liquor" title="Black liquor">black liquor</a> <a href="/wiki/Gasification" title="Gasification">gasification</a> and production of <a href="/wiki/Second-generation_biofuels" title="Second-generation biofuels">second-generation biofuels</a> such as <a class="mw-redirect" href="/wiki/Biomethanol" title="Biomethanol">biomethanol</a> or Bio<a href="/wiki/Dimethyl_ether" title="Dimethyl ether">DME</a> is integrated with a host <a href="/wiki/Pulp_mill" title="Pulp mill">pulp mill</a> and utilizes a major <a class="mw-redirect" href="/wiki/Sulfate_process" title="Sulfate process">sulfate</a> or <a href="/wiki/Sulfite_process" title="Sulfite process">sulfite process</a> waste product as feedstock.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuels</a></li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Bioplastic" title="Bioplastic">Bioplastic</a></li>
+<li><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon neutrality</a></li>
+<li><a class="mw-redirect" href="/wiki/Combined_heat_and_power" title="Combined heat and power">Combined heat and power</a> (CHP)</li>
+<li><a href="/wiki/Gasification" title="Gasification">Gasification</a></li>
+<li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy commercialization</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://news.uns.purdue.edu/x/2007a/070201LadischBio.html" rel="nofollow">Tactical Biorefinery</a></li>
+<li><a class="external text" href="http://www.green-sugar.eu" rel="nofollow">Saccharification</a></li>
+<li><a class="external text" href="http://www.biosynergy.eu" rel="nofollow">Biosynergy</a></li>
+<li><a class="external text" href="http://www.algae.wur.nl/UK/technologies/biorefinery/" rel="nofollow">Biorefinery from biomass</a></li>
+<li><a class="external text" href="http://www.wisbiorefine.org/proc/apr.pdf" rel="nofollow">Aqueous-Phase Reforming</a>.</li>
+<li><a class="external text" href="http://www.wisbiorefine.org/" rel="nofollow">Wisconsin Biorefining Development Initiative</a>.</li>
+<li><a class="external text" href="http://www.youtube.com/watch?v=xL_fVnKYjrg&amp;feature=related" rel="nofollow">Biorefinery Film</a></li>
+<li><a class="external text" href="http://www.bluemarbleenergy.net" rel="nofollow">Active Biorefinery Facilities</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1637397-0!*!0!!en!4!* and timestamp 20161026221427 and revision id 668377091
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

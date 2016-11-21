@@ -72,7 +72,7 @@ class Indexer:
         content = content.split()
         final_content = ''
         for eachword in content:
-            if len(eachword)>1 and eachword[0] == '-':
+            if len(eachword) > 1 and eachword[0] == '-':
                 eachword = eachword[1:]
             eachword = eachword.lower()
             eachword = eachword.strip('.,-')
@@ -102,7 +102,7 @@ class Indexer:
         parsed_corpus = os.path.join(cwd, 'parsed_corpus')
         os.chdir(parsed_corpus)
         for eachfile in glob.glob('*.txt'):
-            print eachfile
+            # print eachfile
             file_content = open(eachfile)
             content = file_content.read()
             fname = eachfile[:len(eachfile) - 4]
@@ -208,9 +208,9 @@ class Indexer:
         f.close()
 
 def hw3_tasks():
-    # ind = Indexer()
+    ind = Indexer()
     # This method builds the clean corpus from raw corpus
-    # ind.build_parsed_corpus()
+    ind.build_parsed_corpus()
     # print ind.parse_page(s)
     # ind.save_docids()
     # print len(ind.build_n_gram_index(1))

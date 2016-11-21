@@ -1,0 +1,94 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p>An <b>enhanced geothermal system</b> (<b>EGS</b>) generates <a class="mw-redirect" href="/wiki/Geothermal_electricity" title="Geothermal electricity">geothermal electricity</a> without the need for natural <a href="/wiki/Convection" title="Convection">convective</a> hydrothermal resources. Until recently, geothermal power systems have exploited only resources where naturally occurring heat, water, and rock <a href="/wiki/Permeability_(earth_sciences)" title="Permeability (earth sciences)">permeability</a> are sufficient to allow energy extraction. However, by far most of geothermal energy within reach of conventional techniques is in dry and impermeable rock. EGS technologies enhance and/or create geothermal resources in this hot dry rock (HDR) through 'hydraulic stimulation'.</p>
+<p>When natural cracks and pores do not allow economic flow rates, the <a class="mw-redirect" href="/wiki/Permeability_(fluid)" title="Permeability (fluid)">permeability</a> can be enhanced by pumping high-pressure cold water down an <a href="/wiki/Injection_well" title="Injection well">injection well</a> into the rock. The injection increases the fluid pressure in the naturally fractured rock, triggering shear events that enhance the system's permeability. As long as the injection pressure is maintained, a high matrix permeability is not required, nor are <a href="/wiki/Hydraulic_fracturing_proppants" title="Hydraulic fracturing proppants">hydraulic fracturing proppants</a> required to maintain the fractures in an open state. This process is termed hydro-shearing, perhaps to differentiate it from <a href="/wiki/Hydraulic_fracturing" title="Hydraulic fracturing">hydraulic tensile fracturing</a>, used in the oil and gas industry, which can create new fractures through the rock in addition to expanding the existing fractures.</p>
+<p>Water travels through fractures in the rock, capturing the rock's heat until forced out of a second borehole as very hot water. The water's heat is converted into <a href="/wiki/Electricity" title="Electricity">electricity</a> using either a <a href="/wiki/Steam_turbine" title="Steam turbine">steam turbine</a> or a <a class="mw-redirect" href="/wiki/Binary_power_plant_system" title="Binary power plant system">binary power plant system</a>. All of the water, now cooled, is injected back into the ground to heat up again in a <a href="/wiki/Closed-loop_transfer_function" title="Closed-loop transfer function">closed loop</a>.</p>
+<p>EGS technologies can function as baseload resources that produce power 24 hours a day. Unlike hydrothermal, EGS may be feasible anywhere in the world, depending on the economic limits of drill depth. Good locations are over deep <a href="/wiki/Granite" title="Granite">granite</a> covered by a 3–5 kilometres (1.9–3.1 mi) layer of insulating sediments that slow heat loss. An EGS plant is expected to have an economical lifetime of 20-30 years using current technology.</p>
+<p>EGS systems are currently being developed and tested in <a href="/wiki/France" title="France">France</a>, <a href="/wiki/Australia" title="Australia">Australia</a>, <a href="/wiki/Japan" title="Japan">Japan</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, the <a href="/wiki/United_States" title="United States">U.S.</a> and <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>. The largest EGS project in the world is a 25-<a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">megawatt</a> demonstration plant currently being developed in <a href="/wiki/Cooper_Basin" title="Cooper Basin">Cooper Basin</a>, Australia. Cooper Basin has the potential to generate 5,000–10,000 MW.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Research_and_development">Research and development</span></h2>
+<h3><span class="mw-headline" id="Australia">Australia</span></h3>
+<p>The Australian government has provided research funding for the development of Hot Dry Rock technology.</p>
+<p>On 30 May 2007, then Australian opposition environmental spokesperson and former <a class="mw-redirect" href="/wiki/Minister_for_the_Environment,_Heritage_and_the_Arts_(Australia)" title="Minister for the Environment, Heritage and the Arts (Australia)">Minister for the Environment, Heritage and the Arts</a> <a href="/wiki/Peter_Garrett" title="Peter Garrett">Peter Garrett</a> announced that if elected at the <a href="/wiki/Australian_federal_election,_2007" title="Australian federal election, 2007">2007 Australian Federal Election</a>, the <a href="/wiki/Australian_Labor_Party" title="Australian Labor Party">Australian Labor Party</a> would use taxpayer money to subsidise putting the necessary drilling rigs in place. In an interview, he promised:</p>
+<blockquote>
+<p>"There are some technical difficulties and challenges there, but those people who are keen on getting Australia into geothermal say we've got this great access to resource and one of the things, interestingly, that's held them back is not having the capacity to put the drilling plants in place. And so what we intend this $50 million to go towards is to provide one-for-one dollars. Match <a href="/wiki/Australian_dollar" title="Australian dollar">$1</a> from us, $1 from the industry so that they can get these drilling rigs on to site and really get the best sites identified and get the industry going."</p>
+</blockquote>
+<h3><span class="mw-headline" id="European_Union">European Union</span></h3>
+<p>The EU's EGS R&amp;D project at <a href="/wiki/Soultz-sous-For%C3%AAts" title="Soultz-sous-Forêts">Soultz-sous-Forêts</a>, France, has recently connected its 1.5 MW demonstration plant to the grid. The Soultz project has explored the connection of multiple stimulated zones and the performance of triplet well configurations (1 injector/2 producers).</p>
+<p><a href="/wiki/Induced_seismicity_in_Basel" title="Induced seismicity in Basel">Induced seismicity in Basel</a> led to the cancellation of the EGS project there.</p>
+<p>The Portuguese government awarded, in December 2008, an exclusive license to Geovita Ltd to prospect and explore geothermal energy in one of the best areas in continental Portugal. An area of about 500 square kilometers is being studied by Geovita together with the Earth Sciences department of the University of Coimbra's Science and Technology faculty, and the installation of an Enhanced Geothermal System (EGS) is foreseen.</p>
+<h4><span class="mw-headline" id="United_Kingdom">United Kingdom</span></h4>
+<p>Cornwall is set to host a 3MW demonstration project, based at the Eden Project, that could pave the way for a series of 50-MW commercial-scale geothermal power stations in suitable areas across the country.</p>
+<p>A commercial-scale project near Redruth is also planned. The plant, which has been granted planning permission, would generate 10 MW of electricity and 55 MW of thermal energy and is scheduled to become operational in 2013–2014.</p>
+<h3><span class="mw-headline" id="United_States">United States</span></h3>
+<h4><span class="mw-headline" id="Early_days_.E2.80.94_Fenton_Hill">Early days — Fenton Hill</span></h4>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Hot_dry_rock_geothermal_energy" title="Hot dry rock geothermal energy">Hot dry rock geothermal energy</a></div>
+<p>The first EGS effort — then termed Hot Dry Rock — took place at Fenton Hill, New Mexico with a project run by the federal Los Alamos Laboratory. It was the first attempt to make a deep, full-scale EGS reservoir.</p>
+<p>The EGS reservoir at Fenton Hill was first completed in 1977 at a depth of about 2.6 km, with rock temperatures of 185 C. In 1979 the reservoir was enlarged with additional hydraulic stimulation and was operated for about 1 year. The results demonstrated that heat could be extracted at reasonable rates from a hydraulically stimulated region of low-permeability hot crystalline rock. In 1986, a second reservoir was prepared for initial hydraulic circulation and heat extraction testing. In a 30-day flow test with a constant reinjection temperature of 20 C, the production temperature steadily increased to about 190 C, corresponding to a thermal power level of about 10 MW. Due to budget cuts, further study at Fenton Hill was discontinued.</p>
+<h4><span class="mw-headline" id="Working_at_the_edges.E2.80.94using_EGS_technology_to_improve_hydrothermal_resources">Working at the edges—using EGS technology to improve hydrothermal resources</span></h4>
+<p>EGS funding languished for the next few years, and by the next decade, US efforts focused on the less ambitious goal of improving the productivity of existing hydrothermal resources. According to the fiscal year 2004 Budget Request to Congress from DOE's Office of Energy Efficiency and Renewable Energy, </p>
+<blockquote class="templatequote">
+<p>EGS are engineered reservoirs that have been created to extract heat from economically unproductive geothermal resources. EGS technology includes those methods and equipment that enhance the removal of energy from a resource by increasing the productivity of the reservoir. Better productivity may result from improving the reservoir’s natural permeability and/or providing additional fluids to transport heat.</p>
+</blockquote>
+<p>In fiscal year 2002, preliminary designs for five projects employing EGS technology were completed and the Coso Hot Springs geothermal field at the US Naval Weapons Air Station in China Lake, California was selected for full-scale development. Two additional projects were selected for preliminary analysis at Desert Peak in Nevada and Glass Mountain in California. Funding for this effort totaled $1.5 million. The effort was continued in 2003 with an additional $3.5 million. </p>
+<p>In 2009, The US Department of Energy (<a class="mw-redirect" href="/wiki/USDOE" title="USDOE">USDOE</a>) issued two <a class="mw-redirect" href="/wiki/Funding_Opportunity_Announcement" title="Funding Opportunity Announcement">Funding Opportunity Announcements</a> (FOAs) related to enhanced geothermal systems. Together, the two FOAs offered up to $84 million over six years. </p>
+<p>The DOE followed up with another FOA in 2009, of stimulus funding from the American Reinvestment and Recovery Act for $350 million, including $80 million aimed specifically at EGS projects,</p>
+<h4><span class="mw-headline" id="FORGE">FORGE</span></h4>
+<p>In February 2014, the Department of Energy announced the intent to establish "a dedicated subsurface laboratory called the Frontier Observatory for Research in Geothermal Energy (FORGE)" in order to investigate and develop enhanced geothermal technology. In April 2015, it was announced that the proposed sites had been narrowed to five, expected to be reduced to at most three the following year. Eventually, the selected site will host the FORGE laboratory, which will provide annual solicitations for research to be performed there.</p>
+<h2><span class="mw-headline" id="Induced_seismicity">Induced seismicity</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Induced_seismicity" title="Induced seismicity">Induced seismicity</a></div>
+<p>Some induced seismicity is inevitable and expected in EGS, which involves pumping fluids at pressure to enhance or create permeability through the use of hydro-shearing and hydraulic fracturing techniques. Hydro-shear stimulation methods seek to expand and extend the connectivity of the rock's existing fractures to create a better fluid network for the transfer of heat from the rock to the fluid. Seismicity events at the Geysers geothermal field in California have been strongly correlated with injection data.</p>
+<p>The case of <a href="/wiki/Induced_seismicity_in_Basel" title="Induced seismicity in Basel">induced seismicity in Basel</a> merits special mention; it led the city (which is a partner) to suspend the project and conduct a seismic hazard evaluation, which resulted in the cancellation of the project in December 2009.</p>
+<p>According to the Australian government, risks associated with "hydrofracturing induced seismicity are low compared to that of natural earthquakes, and can be reduced by careful management and monitoring" and "should not be regarded as an impediment to further development of the Hot Rock geothermal energy resource". However, the risks of induced seismicity vary from site to site and should be considered before large scale fluid injection is begun.</p>
+<h2><span class="mw-headline" id="CO2_EGS">CO<sub>2</sub> EGS</span></h2>
+<p>The Geothermal Energy Centre of Excellence at the University of Queensland has been awarded <a class="mw-redirect" href="/wiki/AUD" title="AUD">AUD</a> 18.3 million for EGS research, a large portion of which will be used to develop CO<sub>2</sub> EGS technologies.</p>
+<p>Research conducted at Los Alamos National Laboratories and Lawrence Berkeley National Laboratories examined the use of <a href="/wiki/Supercritical_carbon_dioxide" title="Supercritical carbon dioxide">supercritical CO<sub>2</sub></a>, instead of water, as the geothermal working fluid, with favorable results. CO<sub>2</sub> has numerous advantages for EGS:</p>
+
+<p>CO<sub>2</sub> is, however, much more expensive and somewhat more difficult to work with than water.</p>
+<h2><span class="mw-headline" id="EGS_potential_in_the_United_States">EGS potential in the United States</span></h2>
+
+<p>A 2006 report by <a class="mw-redirect" href="/wiki/MIT" title="MIT">MIT</a>, and funded by the <a class="mw-redirect" href="/wiki/U.S._Department_of_Energy" title="U.S. Department of Energy">U.S. Department of Energy</a>, conducted the most comprehensive analysis to date on the potential and technical status of EGS. The 18-member panel, chaired by Professor Jefferson Tester of MIT, reached several significant conclusions:</p>
+<ol>
+<li>Resource size: The report calculated the United States total EGS resources from 3–10 km of depth to be over 13,000 <a href="/wiki/Joule" title="Joule">zettajoules</a>, of which over 200 ZJ would be extractable, with the potential to increase this to over 2,000 ZJ with technology improvements — sufficient to provide all the world's current energy needs for several <a href="/wiki/Millennium" title="Millennium">millennia</a>. The report found that total geothermal resources, including hydrothermal and geo-pressured resources, to equal 14,000 ZJ — or roughly 140,000 times the total U.S. annual primary energy use in 2005.</li>
+<li>Development potential: With an R&amp;D investment of $1 billion over 15 years, the report estimated that 100 GWe (gigawatts of electricity) or more could be installed by 2050 in the United States. The report further found that "recoverable" resources (accessible with today's technology) were between 1.2–12.2 TW for the conservative and moderate recovery scenarios respectively.</li>
+<li>Cost: The report found that EGS could be capable of producing electricity for as low as 3.9 cents/kWh. EGS costs were found to be sensitive to four main factors:
+<ol>
+<li>Temperature of the resource</li>
+<li>Fluid flow through the system measured in liters/second</li>
+<li>Drilling costs</li>
+<li>Power conversion efficiency</li>
+</ol>
+</li>
+</ol>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Caprock" title="Caprock">Caprock</a></li>
+<li><a class="mw-redirect" href="/wiki/Geothermal_energy_exploration_in_Central_Australia" title="Geothermal energy exploration in Central Australia">Geothermal energy exploration in Central Australia</a></li>
+<li><a href="/wiki/Geothermal_energy_in_the_United_States" title="Geothermal energy in the United States">Geothermal energy in the United States</a></li>
+<li><a href="/wiki/Geothermal_exploration" title="Geothermal exploration">Geothermal exploration</a></li>
+<li><a href="/wiki/Iceland_Deep_Drilling_Project" title="Iceland Deep Drilling Project">Iceland Deep Drilling Project</a></li>
+<li><a href="/wiki/Rosemanowes_Quarry" title="Rosemanowes Quarry">Rosemanowes Quarry</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/EERE" title="EERE">EERE</a>:
+<ul>
+<li><a class="external text" href="http://www1.eere.energy.gov/geothermal/geothermal_basics.html" rel="nofollow">Geothermal basics</a></li>
+<li><a class="external text" href="http://www1.eere.energy.gov/ba/pba/pdfs/geo_hotdry_rock.pdf" rel="nofollow">Hot Dry Rock (HDR)</a></li>
+<li><a class="external text" href="http://www1.eere.energy.gov/geothermal/egs_animation.html" rel="nofollow">How an Enhanced Geothermal System Works</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/NREL" title="NREL">NREL</a>: <a class="external text" href="http://www.nrel.gov/gis/tools_gt_prospector.html" rel="nofollow">Interactive Data Map - Geothermal Prospector Tool</a> (see Geothermal - Deep Enhanced Geothermal Potential)</li>
+<li><a class="external text" href="http://au.legalbusinessonline.com/news/breaking-news/31608/details.aspx" rel="nofollow">Geothermal investment rocks says DLA Phillips Fox</a></li>
+<li><a class="external text" href="http://www.science.org.au/events/conferences-and-workshops/australiachina/raham.pdf" rel="nofollow">20 slide presentation inc geothermal maps of Australia</a></li>
+<li><a class="external text" href="http://www.megsorg.org" rel="nofollow">MEGSorg</a></li>
+<li><a class="external text" href="http://www.google.org/egs/" rel="nofollow">EGS</a> at <a href="/wiki/Google.org" title="Google.org">Google.org</a></li>
+</ul>
+<p><br/></p>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12951705-0!*!0!!en!4!* and timestamp 20161029084749 and revision id 742528671
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

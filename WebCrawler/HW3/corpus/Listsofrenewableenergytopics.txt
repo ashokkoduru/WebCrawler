@@ -1,0 +1,51 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a> is generally defined as energy that comes from <a href="/wiki/Renewable_resource" title="Renewable resource">resources</a> which are naturally replenished on a human timescale, such as <a href="/wiki/Sunlight" title="Sunlight">sunlight</a>, <a href="/wiki/Wind" title="Wind">wind</a>, <a href="/wiki/Rain" title="Rain">rain</a>, <a href="/wiki/Tidal_power" title="Tidal power">tides</a>, <a href="/wiki/Wave_power" title="Wave power">waves</a>, and <a href="/wiki/Geothermal_energy" title="Geothermal energy">geothermal heat</a>. Renewable energy replaces conventional fuels in four distinct areas: <a href="/wiki/Electricity_generation" title="Electricity generation">electricity generation</a>, air and water heating/cooling, <a href="/wiki/Motor_fuel" title="Motor fuel">motor fuels</a>, and <a href="/wiki/Stand-alone_power_system" title="Stand-alone power system">rural (off-grid)</a> energy services. Based on <a href="/wiki/REN21" title="REN21">REN21</a>'s 2014 report, renewables contributed 19 percent to our <a href="/wiki/World_energy_consumption" title="World energy consumption">global energy consumption</a> and 22 percent to our electricity generation in 2012 and 2013, respectively.</p>
+<p>These are <b>lists about renewable energy</b>:</p>
+<div class="div-col columns column-width" style="-moz-column-width: 15em; -webkit-column-width: 15em; column-width: 15em;">
+<ul>
+<li><a href="/wiki/Index_of_solar_energy_articles" title="Index of solar energy articles">Index of solar energy articles</a></li>
+<li><a href="/wiki/List_of_books_about_renewable_energy" title="List of books about renewable energy">List of books about renewable energy</a></li>
+<li><a href="/wiki/List_of_concentrating_solar_thermal_power_companies" title="List of concentrating solar thermal power companies">List of concentrating solar thermal power companies</a></li>
+<li><a href="/wiki/List_of_countries_by_electricity_production_from_renewable_sources" title="List of countries by electricity production from renewable sources">List of countries by electricity production from renewable sources</a></li>
+<li><a href="/wiki/List_of_energy_storage_projects" title="List of energy storage projects">List of energy storage projects</a></li>
+<li><a href="/wiki/Lists_of_environmental_topics" title="Lists of environmental topics">Lists of environmental topics</a></li>
+<li><a href="/wiki/List_of_geothermal_power_stations" title="List of geothermal power stations">List of geothermal power stations</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_hydroelectric_power_stations" title="List of hydroelectric power stations">List of hydroelectric power stations</a></li>
+<li><a href="/wiki/List_of_largest_hydroelectric_power_stations" title="List of largest hydroelectric power stations">List of largest hydroelectric power stations</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms" title="List of offshore wind farms">List of offshore wind farms</a></li>
+<li><a href="/wiki/Lists_of_offshore_wind_farms_by_country" title="Lists of offshore wind farms by country">Lists of offshore wind farms by country</a></li>
+<li><a href="/wiki/Lists_of_offshore_wind_farms_by_water_area" title="Lists of offshore wind farms by water area">Lists of offshore wind farms by water area</a></li>
+<li><a href="/wiki/List_of_onshore_wind_farms" title="List of onshore wind farms">List of onshore wind farms</a></li>
+<li><a href="/wiki/List_of_onshore_wind_farms_in_the_United_Kingdom" title="List of onshore wind farms in the United Kingdom">List of onshore wind farms in the United Kingdom</a></li>
+<li><a href="/wiki/List_of_people_associated_with_renewable_energy" title="List of people associated with renewable energy">List of people associated with renewable energy</a></li>
+<li><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">List of photovoltaics companies</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+<li><a href="/wiki/List_of_pioneering_solar_buildings" title="List of pioneering solar buildings">List of pioneering solar buildings</a></li>
+<li><a href="/wiki/List_of_renewable_energy_companies_by_stock_exchange" title="List of renewable energy companies by stock exchange">List of renewable energy companies by stock exchange</a></li>
+<li><a href="/wiki/List_of_renewable_energy_organizations" title="List of renewable energy organizations">List of renewable energy organizations</a></li>
+<li><a href="/wiki/List_of_renewable_energy_topics_by_country" title="List of renewable energy topics by country">List of renewable energy topics by country</a></li>
+<li><a href="/wiki/List_of_rooftop_photovoltaic_installations" title="List of rooftop photovoltaic installations">List of rooftop photovoltaic installations</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_solar_powered_products" title="List of solar powered products">List of solar powered products</a></li>
+<li><a href="/wiki/List_of_solar_thermal_power_stations" title="List of solar thermal power stations">List of solar thermal power stations</a></li>
+<li><a href="/wiki/List_of_U.S._states_by_electricity_production_from_renewable_sources" title="List of U.S. states by electricity production from renewable sources">List of U.S. states by electricity production from renewable sources</a></li>
+<li><a href="/wiki/Lists_of_wind_farms_by_country" title="Lists of wind farms by country">Lists of wind farms by country</a></li>
+<li><a href="/wiki/List_of_wind_farms_in_Australia" title="List of wind farms in Australia">List of wind farms in Australia</a></li>
+<li><a href="/wiki/List_of_wind_farms_in_Canada" title="List of wind farms in Canada">List of wind farms in Canada</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_wind_farms_in_Iran" title="List of wind farms in Iran">List of wind farms in Iran</a></li>
+<li><a href="/wiki/List_of_wind_farms_in_Romania" title="List of wind farms in Romania">List of wind farms in Romania</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_wind_farms_in_Sweden" title="List of wind farms in Sweden">List of wind farms in Sweden</a></li>
+<li><a href="/wiki/List_of_wind_farms_in_the_United_States" title="List of wind farms in the United States">List of wind farms in the United States</a></li>
+<li><a href="/wiki/List_of_wind_turbine_manufacturers" title="List of wind turbine manufacturers">List of wind turbine manufacturers</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Outline_of_solar_energy" title="Outline of solar energy">Outline of solar energy</a></li>
+<li><a href="/wiki/Outline_of_wind_energy" title="Outline of wind energy">Outline of wind energy</a></li>
+</ul>
+<h2></h2>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30741937-0!*!0!!*!*!* and timestamp 20161104113645 and revision id 722961545
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

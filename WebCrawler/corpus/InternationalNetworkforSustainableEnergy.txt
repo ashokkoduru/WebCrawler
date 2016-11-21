@@ -1,0 +1,36 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+
+<p>The <b>International Network for Sustainable Energy</b> (<b>INFORSE</b>) is an <a href="/wiki/International" title="International">international</a>, <a class="mw-redirect" href="/wiki/Non-profit_organisation" title="Non-profit organisation">non-profit organisation</a> (NGO) network of <a href="/wiki/Environmental_organization" title="Environmental organization">environmental organizations</a> promoting <a href="/wiki/Sustainable_energy" title="Sustainable energy">sustainable energy</a> to protect <a href="/wiki/Environment_(biophysical)" title="Environment (biophysical)">the environment</a> and to decrease <a href="/wiki/Poverty" title="Poverty">poverty</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Activities">Activities</span></h2>
+<ul>
+<li>Develops scenarios for a transition to a 100% renewables energy supply with factor four <a href="/wiki/Efficient_energy_use" title="Efficient energy use">energy efficiency</a> by 2050. A global, EU-27 and European national scenarios are developed. The name of the sustainable energy model is <i>INFORSE Vision 2050</i>.,</li>
+<li>World-wide database of about 1000 contacts, web based resources on EU policy, school materials, successes</li>
+<li>Online course material (DIERET)</li>
+<li>Quarterly newsletter: Sustainable Energy News (SEN) published since 1992</li>
+<li>Participation on UN Conferences as NGO observer as INFORSE has <a class="mw-redirect" href="/wiki/Consultative_Status" title="Consultative Status">Consultative Status</a> at UN <a class="mw-redirect" href="/wiki/ECOSOC" title="ECOSOC">ECOSOC</a> and <a class="mw-redirect" href="/wiki/UNFCCC" title="UNFCCC">UNFCCC</a>. Participation at e.g.,:
+<ul>
+<li><a class="mw-redirect" href="/wiki/UN" title="UN">UN</a> <a href="/wiki/Commission_on_Sustainable_Development" title="Commission on Sustainable Development">Commission on Sustainable Development</a> (CSD) (CSD9, CSD14 and CSD15 in New York)</li>
+<li><a class="mw-redirect" href="/wiki/UNFCCC" title="UNFCCC">UNFCCC</a> (e.g., Exhibition and side event at COP 14, Poznan, 2008; and COP 15 Copenhagen</li>
+<li>Beijing International Renewable Energy Conference (BIREC 2005), Beijing, China</li>
+<li>Renewables'04, Bonn <a href="/wiki/International_Renewable_Energy_Conference" title="International Renewable Energy Conference">International Renewable Energy Conference</a>, Bonn 2004</li>
+<li>WSSD, <a class="mw-redirect" href="/wiki/World_Summit_on_Sustainable_Development" title="World Summit on Sustainable Development">World Summit on Sustainable Development</a> (Earth Summit 2002) in Johannesburg in 2002.</li>
+</ul>
+</li>
+<li>Participation on <a href="/wiki/European_Union" title="European Union">EU</a> Consultations, Press Releases.</li>
+<li>Organising European NGO Policy Seminars.</li>
+<li>Exhibition, participation at EU events, e.g., EU Green Week, Sustainable Energy Week. See more at <a href="/wiki/INFORSE-Europe" title="INFORSE-Europe">INFORSE-Europe</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>INFORSE was established in 1992 at the Global Forum, which was a parallel forum to the <a class="mw-redirect" href="/wiki/UNCED" title="UNCED">UNCED</a> Conference so called <a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit</a>. In 1998, INFORSE got consultative status to United Nation's <a class="mw-redirect" href="/wiki/ECOSOC" title="ECOSOC">ECOSOC</a>. INFORSE is working through Regional Coordinators in Asia, Africa, Europe, Americas. The INFORSE Secretariat is in Denmark. In 2002, <a href="/wiki/INFORSE-Europe" title="INFORSE-Europe">INFORSE-Europe</a> was registered in Denmark as an NGO network working on European level.</p>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.inforse.org" rel="nofollow">INFORSE</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18177547-0!*!0!!en!4!* and timestamp 20161110225319 and revision id 728469223
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

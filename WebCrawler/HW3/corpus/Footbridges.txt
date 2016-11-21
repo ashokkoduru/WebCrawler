@@ -1,0 +1,186 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p>A <b>footbridge</b> (also called a <b>pedestrian bridge</b>, <b>pedestrian overpass</b>, or <b>pedestrian overcrossing</b>) is a bridge designed for pedestrians and in some cases cyclists, animal traffic, and horse riders, instead of vehicular traffic. Footbridges complement the <a href="/wiki/Landscape" title="Landscape">landscape</a> and can be used decoratively to visually link two distinct areas or to signal a transaction. In many <a href="/wiki/Developed_country" title="Developed country">developed countries</a>, footbridges are both functional and can be beautiful works of art and sculpture. For poor rural communities in the developing world, a footbridge may be a community's only access to medical clinics, schools and markets, which would otherwise be unreachable when rivers are too high to cross. <a href="/wiki/Simple_suspension_bridge" title="Simple suspension bridge">Simple suspension bridge</a> designs have been developed to be <a href="/wiki/Sustainability" title="Sustainability">sustainable</a> and easily constructible in such rural areas using only local materials and labor.</p>
+<p>An enclosed footbridge between two buildings is sometimes known as a <a href="/wiki/Skyway" title="Skyway">skyway</a>. Bridges providing for both pedestrians and cyclists are often referred to as <a href="/wiki/Pedestrian_separation_structure" title="Pedestrian separation structure">greenbridges</a> and form an important part of <a href="/wiki/Sustainable_transport" title="Sustainable transport">sustainable transport</a> movement towards more sustainable cities. Footbridges are often situated to allow pedestrians to cross water or railways in areas where there are no nearby roads to necessitate a road bridge. They are also located across roads to let pedestrians cross safely without slowing down the traffic. The latter is a type of <a href="/wiki/Pedestrian_separation_structure" title="Pedestrian separation structure">pedestrian separation structure</a>, examples of which are particularly found near schools, to help prevent children running in front of moving cars.</p>
+<p>Small footbridges can also be used for a technical effect in ornamental gardens.</p>
+<p>Types footbridges include:</p>
+<ul>
+<li><a href="/wiki/Simple_suspension_bridge" title="Simple suspension bridge">Simple suspension bridge</a></li>
+<li><a href="/wiki/Clapper_bridge" title="Clapper bridge">Clapper bridge</a></li>
+<li><a href="/wiki/Moon_bridge" title="Moon bridge">Moon bridge</a></li>
+<li><a class="mw-redirect" href="/wiki/Step-stone_bridge" title="Step-stone bridge">Step-stone bridge</a></li>
+<li><a href="/wiki/Zig-zag_bridge" title="Zig-zag bridge">Zig-zag bridge</a></li>
+<li><a class="mw-redirect" href="/wiki/Wood_plank" title="Wood plank">Plank</a></li>
+<li><a href="/wiki/Boardwalk" title="Boardwalk">Boardwalk</a></li>
+<li><a href="/wiki/Joist" title="Joist">Joisted</a></li>
+<li><a href="/wiki/Truss" title="Truss">Simple truss</a></li>
+</ul>
+<p>The residential-scale footbridges all <a class="mw-redirect" href="/wiki/Span_(architecture)" title="Span (architecture)">span</a> a short distance and can be used for a broad range of applications. Complicated <a href="/wiki/Engineering" title="Engineering">engineering</a> is not needed and the footbridges are built with readily available materials and basic tools.</p>
+<p>Different types of design footbridges include:</p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Timber" title="Timber">Timber</a> footbridges</li>
+<li><a href="/wiki/Steel" title="Steel">Steel</a> footbridges</li>
+<li><a href="/wiki/Concrete" title="Concrete">Concrete</a> footbridge</li>
+</ul>
+<p>Footbridges can also be built in the same ways as road or rail bridges; particularly <a href="/wiki/Suspension_bridge" title="Suspension bridge">suspension bridges</a> and <a href="/wiki/Beam_bridge" title="Beam bridge">beam bridges</a>. Some former road bridges have had their traffic diverted to alternative crossings and have become pedestrian bridges; examples in the UK include <a href="/wiki/The_Iron_Bridge" title="The Iron Bridge">The Iron Bridge</a> at <a href="/wiki/Ironbridge" title="Ironbridge">Ironbridge</a>, <a href="/wiki/Shropshire" title="Shropshire">Shropshire</a>, the <a href="/wiki/Old_Bridge,_Pontypridd" title="Old Bridge, Pontypridd">Old Bridge</a> at <a href="/wiki/Pontypridd" title="Pontypridd">Pontypridd</a> and <a href="/wiki/Windsor_Bridge" title="Windsor Bridge">Windsor Bridge</a> at <a href="/wiki/Windsor,_Berkshire" title="Windsor, Berkshire">Windsor, Berkshire</a>.</p>
+<p>Most footbridges are equipped with <a href="/wiki/Guard_rail" title="Guard rail">guard rails</a> to reduce the risk of pedestrians falling. Where they pass over busy roads or railways, they may also include a fence or <a href="/wiki/Suicide_barrier" title="Suicide barrier">other such barrier</a> to prevent pedestrians from jumping, or throwing projectiles onto the traffic below.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Advantages">Advantages</span></h2>
+<p>Provides safe and sustainable crossings and provides technical assistance to local government and communities need simple, easily applied guidelines on the selection and <a href="/wiki/Construction" title="Construction">construction</a> of effective water crossings. Much rural travel takes place on local paths, tracks and village roads. These provide essential access to water, firewood, farm plots and the classified road network. Communities and/or local government are generally responsible for this <a href="/wiki/Infrastructure" title="Infrastructure">infrastructure</a>.</p>
+<h2><span class="mw-headline" id="Disadvantages">Disadvantages</span></h2>
+<p>Pedestrian overpasses over highways or railroads are expensive, especially when elevators or long ramps for wheelchair users are required. Without elevators or ramps, people with mobility handicaps will not be able to use the structure. Often, people will prefer to walk across a busy road at grade rather than expend the effort to climb up the bridge and go over it. Overpasses should only be used where the number of users justify the costs.</p>
+<p>Narrow, enclosed structures can result in perceptions of low personal security among users. Wider structures and good lighting can help reduce this.</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>Footbridges are small, but important, because they are usually presented in <a class="mw-redirect" href="/wiki/Townscape" title="Townscape">townscape</a>. The appearance of footbridges, and indeed of any other bridges, in a town, is a major concern for designers. People have to live with these structures, usually seeing them every day. In the towns that are big on architectural or scenic interest, conflicting demands may arise and bridges will be built.</p>
+<p>Footbridges, in fact, can be elegant or beautiful, and are built on a more human scale than large road and <a class="mw-redirect" href="/wiki/Railway_bridges" title="Railway bridges">railway bridges</a>. Railway footbridges tend to be somewhat <a class="mw-redirect" href="/wiki/Utilitarian" title="Utilitarian">utilitarian</a>, which were present in the earlier years. Apart from those in stations and in towns, they are generally not much seen, even by the passengers who go under them.</p>
+<h2><span class="mw-headline" id="In_developing_countries">In developing countries</span></h2>
+
+<p>Since the early 1980s, several charities have developed manualized footbridge designs that are <a class="mw-redirect" href="/wiki/Sustainable" title="Sustainable">sustainable</a> for use in <a class="mw-redirect" href="/wiki/Developing_countries" title="Developing countries">developing countries</a>. The first charity to develop such standardized designs was Helvetas, located in Zurich, Switzerland. Designs that can be sustainably and efficiently used in developing countries are typically made available to the public gratis. The number of bridges built using such <a href="/wiki/Wire_rope" title="Wire rope">wire rope</a> technology in developing countries number over 6,000 (versus a worldwide need of 500,000.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span></h2>
+
+<p>The record for the longest footbridge in the world is claimed by the <a class="mw-redirect" href="/wiki/Poughkeepsie_Bridge" title="Poughkeepsie Bridge">Poughkeepsie Bridge</a> across the <a href="/wiki/Hudson_River" title="Hudson River">Hudson River</a> at <a href="/wiki/Poughkeepsie,_New_York" title="Poughkeepsie, New York">Poughkeepsie, New York</a>. Originally built for trains, it was recently restored as a pedestrian walkway. The footbridge has a total length of 2,063 meters (6,768 feet). Before it was demolished in 2011, the <a href="/wiki/Hornibrook_Bridge" title="Hornibrook Bridge">Hornibrook Bridge</a> which crossed <a href="/wiki/Bramble_Bay" title="Bramble Bay">Bramble Bay</a> in <a href="/wiki/Queensland" title="Queensland">Queensland</a>, Australia was longer than the Poughkeepsie Bridge at 2.8 km (1.7 mi). Other examples include:</p>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li>The <a href="/wiki/Bank_Bridge" title="Bank Bridge">Bank Bridge</a> and the <a href="/wiki/Bridge_of_Four_Lions" title="Bridge of Four Lions">Bridge of Four Lions</a> in <a href="/wiki/Saint_Petersburg" title="Saint Petersburg">Saint Petersburg</a></li>
+<li>The <a href="/wiki/Big_Dam_Bridge" title="Big Dam Bridge">Big Dam Bridge</a> in <a href="/wiki/Little_Rock,_Arkansas" title="Little Rock, Arkansas">Little Rock, Arkansas</a></li>
+<li>The <a href="/wiki/Capilano_Suspension_Bridge" title="Capilano Suspension Bridge">Capilano Suspension Bridge</a> in <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a></li>
+<li>The <a href="/wiki/Chain_of_Rocks_Bridge" title="Chain of Rocks Bridge">Chain of Rocks Bridge</a> near <a class="mw-redirect" href="/wiki/St._Louis,_Missouri" title="St. Louis, Missouri">St. Louis, Missouri</a></li>
+<li>The <a href="/wiki/Davenport_Skybridge" title="Davenport Skybridge">Davenport Skybridge</a> in <a href="/wiki/Davenport,_Iowa" title="Davenport, Iowa">Davenport, Iowa</a></li>
+<li>The <a href="/wiki/Dunlop_Bridge" title="Dunlop Bridge">Dunlop Bridge</a> in <a href="/wiki/Circuit_de_la_Sarthe" title="Circuit de la Sarthe">Circuit de la Sarthe</a>, <a href="/wiki/Le_Mans" title="Le Mans">Le Mans</a>, <a href="/wiki/Sarthe" title="Sarthe">Sarthe</a></li>
+<li>The <a href="/wiki/Esplanade_Riel" title="Esplanade Riel">Esplanade Riel</a> in <a class="mw-redirect" href="/wiki/Winnipeg,_Manitoba" title="Winnipeg, Manitoba">Winnipeg, Manitoba</a></li>
+<li>The <a href="/wiki/Gateshead_Millennium_Bridge" title="Gateshead Millennium Bridge">Gateshead Millennium Bridge</a></li>
+<li>The <a class="mw-redirect" href="/wiki/Goodwill_Bridge,_Brisbane" title="Goodwill Bridge, Brisbane">Goodwill Bridge</a> at <a class="mw-redirect" href="/wiki/Brisbane,_Australia" title="Brisbane, Australia">Brisbane, Australia</a></li>
+<li>The <a href="/wiki/Ha%27penny_Bridge" title="Ha'penny Bridge">Ha'penny Bridge</a> in <a href="/wiki/Dublin" title="Dublin">Dublin</a>, <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></li>
+<li>The <a href="/wiki/Bob_Kerrey_Pedestrian_Bridge" title="Bob Kerrey Pedestrian Bridge">Bob Kerrey Pedestrian Bridge</a>, Omaha, Nebraska</li>
+<li>The <a href="/wiki/Jade_Belt_Bridge" title="Jade Belt Bridge">Jade Belt Bridge</a> in the <a href="/wiki/Summer_Palace" title="Summer Palace">Summer Palace</a> in <a href="/wiki/Beijing" title="Beijing">Beijing</a></li>
+<li>The <a href="/wiki/Kingsgate_Bridge" title="Kingsgate Bridge">Kingsgate Bridge</a> in <a href="/wiki/Durham,_England" title="Durham, England">Durham, England</a></li>
+<li>The <a href="/wiki/Liberty_Bridge_at_Falls_Park_on_the_Reedy" title="Liberty Bridge at Falls Park on the Reedy">Liberty Bridge at Falls Park on the Reedy</a> in <a href="/wiki/Greenville,_South_Carolina" title="Greenville, South Carolina">Greenville, South Carolina</a></li>
+<li>The <a class="mw-redirect" href="/wiki/London_Millennium_Bridge" title="London Millennium Bridge">Millennium Bridge</a> and the high-level walkways in <a href="/wiki/Tower_Bridge" title="Tower Bridge">Tower Bridge</a> in London</li>
+<li>The <a href="/wiki/Newport_Southbank_Bridge" title="Newport Southbank Bridge">Newport Southbank Bridge</a> between <a href="/wiki/Newport,_Kentucky" title="Newport, Kentucky">Newport, Kentucky</a> and <a href="/wiki/Cincinnati" title="Cincinnati">Cincinnati</a></li>
+<li>The <a href="/wiki/Pont_des_Arts" title="Pont des Arts">Pont des Arts</a> in Paris</li>
+<li>The <a href="/wiki/Ponte_Milvio" title="Ponte Milvio">Ponte Milvio</a> in Rome</li>
+<li>The <a href="/wiki/Ponte_Sant%27Angelo" title="Ponte Sant'Angelo">Ponte Sant'Angelo</a> in Rome</li>
+<li>The <a href="/wiki/Andreyevsky_Bridge" title="Andreyevsky Bridge">Pushkinsky</a> and <a href="/wiki/Krasnoluzhsky_Bridge" title="Krasnoluzhsky Bridge">Bogdan Khmelnitsky Pedestrian</a> bridges in Moscow</li>
+<li>The <a href="/wiki/Corktown_Footbridge" title="Corktown Footbridge">Corktown Footbridge</a> in <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a></li>
+<li><a href="/wiki/The_Rolling_Bridge" title="The Rolling Bridge">The Rolling Bridge</a> at <a href="/wiki/Paddington_Basin" title="Paddington Basin">Paddington Basin</a>, London</li>
+<li>The <a class="mw-redirect" href="/wiki/Southbank_footbridge" title="Southbank footbridge">Southbank footbridge</a> in <a href="/wiki/Southbank,_Victoria" title="Southbank, Victoria">Southbank, Victoria</a></li>
+<li>The <a class="mw-redirect" href="/wiki/Shelby_Street_Bridge" title="Shelby Street Bridge">Shelby Street Bridge</a> in <a href="/wiki/Nashville,_Tennessee" title="Nashville, Tennessee">Nashville, Tennessee</a></li>
+<li>The <a class="mw-redirect" href="/wiki/Eglinton_Tournament_bridge" title="Eglinton Tournament bridge">Tournament Bridge</a></li>
+<li>The pedestrian walkway over the <a href="/wiki/Tropicana_%E2%80%93_Las_Vegas_Boulevard_intersection" title="Tropicana – Las Vegas Boulevard intersection">Tropicana – Las Vegas Boulevard intersection</a> in <a href="/wiki/Paradise,_Nevada" title="Paradise, Nevada">Paradise, Nevada</a></li>
+<li>The <a href="/wiki/Waco_Suspension_Bridge" title="Waco Suspension Bridge">Waco Suspension Bridge</a> in <a href="/wiki/Waco,_Texas" title="Waco, Texas">Waco, Texas</a></li>
+<li>The <a class="mw-redirect" href="/wiki/Webb_bridge" title="Webb bridge">Webb bridge</a> in <a class="mw-redirect" href="/wiki/Melbourne_Docklands" title="Melbourne Docklands">Melbourne Docklands</a></li>
+<li>The Walnut Street Bridges in <a class="mw-redirect" href="/wiki/Walnut_Street_Bridge_(Harrisburg)" title="Walnut Street Bridge (Harrisburg)">Harrisburg, Pennsylvania</a> and <a href="/wiki/Walnut_Street_Bridge_(Tennessee)" title="Walnut Street Bridge (Tennessee)">Chattanooga, Tennessee</a></li>
+<li>The <a href="/wiki/Willimantic_Footbridge" title="Willimantic Footbridge">Willimantic Footbridge</a> in <a href="/wiki/Willimantic,_Connecticut" title="Willimantic, Connecticut">Willimantic, Connecticut</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Railways">Railways</span></h2>
+
+<p>It was originally usual for passengers to cross from one <a href="/wiki/Railway_platform" title="Railway platform">railway platform</a> to another by stepping over the tracks, but from the mid-19th century onwards safety demanded the provision of a footbridge (or <a href="/wiki/Subway_(underpass)" title="Subway (underpass)">underpass</a>) at busier places. However, in some quieter areas, crossing the line by walking over the tracks is possible.</p>
+<h2><span class="mw-headline" id="Design">Design</span></h2>
+<p>Design of footbridges normally follows the same principles as for other bridges. However, because they are normally significantly lighter than vehicular bridges, they are more vulnerable to <a href="/wiki/Vibration" title="Vibration">vibration</a> and therefore <a class="mw-redirect" href="/wiki/Dynamic_(physics)" title="Dynamic (physics)">dynamics</a> effects are often given more attention in design. International attention has been drawn to this issue in recent years by problems on the <a class="mw-redirect" href="/wiki/Pont_de_Solf%C3%A9rino" title="Pont de Solférino">Pont de Solférino</a> in Paris and the <a class="mw-redirect" href="/wiki/Millennium_Bridge_(London)" title="Millennium Bridge (London)">Millennium Bridge</a> in London.</p>
+<p>To ensure footbridges are accessible to <a href="/wiki/Disability" title="Disability">disabled</a> and other mobility-impaired people, careful consideration is also given to provision of access <a href="/wiki/Elevator" title="Elevator">lifts</a> or <a href="/wiki/Wheelchair_ramp" title="Wheelchair ramp">ramps</a>, as required by relevant legislation (e.g. <a href="/wiki/Disability_Discrimination_Act_1995" title="Disability Discrimination Act 1995">Disability Discrimination Act 1995</a> in the UK). Some old bridges in Venice are now equipped with a <a href="/wiki/Stairlift" title="Stairlift">stairlift</a> so that residents with a disability can cross them.</p>
+<h2><span class="mw-headline" id="Catwalk">Catwalk</span></h2>
+<div class="hatnote" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Catwalk_(disambiguation)" title="Catwalk (disambiguation)">catwalk (disambiguation)</a>.</div>
+<p>Narrow footbridges or walkways to allow workers access to parts of a structure otherwise difficult to reach are referred as <b>catwalks</b> or <b>cat walks</b>. Such catwalks are located above a stage (<a href="/wiki/Catwalk_(theater)" title="Catwalk (theater)">theater catwalk</a>) in a theater, between parts of a building, along the side of a bridge, on the inside of a tunnel, on the outside of any large <a href="/wiki/Storage_tank" title="Storage tank">storage tank</a> in a <a href="/wiki/Refinery" title="Refinery">refinery</a> or elsewhere etc. The walkway on the outside (top) of a <a href="/wiki/Railroad_car" title="Railroad car">railroad cars</a> such as <a href="/wiki/Boxcar" title="Boxcar">boxcars</a>, before <a href="/wiki/Railway_air_brake" title="Railway air brake">air brakes</a> came into use, or on top of some <a href="/wiki/Covered_hopper" title="Covered hopper">covered hopper</a> cars is also called a <b>catwalk</b>. With the exception of those on top of railroad cars, catwalks are equipped with <a href="/wiki/Guard_rail" title="Guard rail">railings</a> or <a href="/wiki/Handrail" title="Handrail">handrails</a>.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/BP_Pedestrian_Bridge" title="BP Pedestrian Bridge">BP Pedestrian Bridge</a> is a concealed box girder beam bridge in <a href="/wiki/Millennium_Park" title="Millennium Park">Millennium Park</a>, <a href="/wiki/Chicago" title="Chicago">Chicago</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>A <a href="/wiki/Stressed_ribbon_bridge" title="Stressed ribbon bridge">stressed ribbon bridge</a> for pedestrians, bicycles, and pipelines in <a href="/wiki/Grants_Pass,_Oregon" title="Grants Pass, Oregon">Grants Pass, Oregon</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>Melbourne's <a href="/wiki/Sandridge_Bridge" title="Sandridge Bridge">Sandridge Bridge</a> which overpasses the <a href="/wiki/Yarra_River" title="Yarra River">Yarra River</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 255.33333333333px">
+<div style="width: 255.33333333333px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Puente_de_la_Mujer" title="Puente de la Mujer">Puente de la Mujer</a> in <a href="/wiki/Puerto_Madero" title="Puerto Madero">Puerto Madero</a> is a footbridge and <a href="/wiki/Swing_bridge" title="Swing bridge">swing bridge</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 182px">
+<div style="width: 182px">
+
+<div class="gallerytext">
+<p>A pedestrian overcross in <a href="/wiki/Nanjing_Road" title="Nanjing Road">Nanjing Road</a>, <a href="/wiki/Shanghai" title="Shanghai">Shanghai</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>A footbridge over the Fujikawa (Fuji) river at <a href="/wiki/Suruga_Province" title="Suruga Province">Suruga</a> in Shizuoka Prefecture in Japan</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215.33333333333px">
+<div style="width: 215.33333333333px">
+
+<div class="gallerytext">
+<p>A footbridge with four <a href="/wiki/Elevator" title="Elevator">elevators</a> on each corner of a four-way <a href="/wiki/Intersection_(road)" title="Intersection (road)">intersection</a> in Tokyo</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>A footbridge over a canal in <a href="/wiki/Venice" title="Venice">Venice</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 182px">
+<div style="width: 182px">
+
+<div class="gallerytext">
+<p>A footbridge for hikers in <a href="/wiki/Washington_(state)" title="Washington (state)">Washington State</a>'s <a href="/wiki/Mount_Baker-Snoqualmie_National_Forest" title="Mount Baker-Snoqualmie National Forest">Mount Baker-Snoqualmie National Forest</a>, USA.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/Boardwalk" title="Boardwalk">Boardwalk</a></li>
+<li><a href="/wiki/Duckboards" title="Duckboards">Duckboards</a></li>
+<li><a href="/wiki/Footpath" title="Footpath">Footpath</a></li>
+<li><a href="/wiki/Gantry_(road_sign)" title="Gantry (road sign)">Gantry (road sign)</a></li>
+<li><a href="/wiki/Overpass" title="Overpass">Overpass</a></li>
+<li><a href="/wiki/Pedestrian_separation_structure" title="Pedestrian separation structure">Pedestrian separation structure</a></li>
+<li><a href="/wiki/Pedway" title="Pedway">Pedway</a></li>
+<li><a href="/wiki/Skyway" title="Skyway">Skyway</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+
+<ul>
+<li><a class="external text" href="http://www.redwoodbridges.com/build_footbridge.html" rel="nofollow">How To Build a Footbridge</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1351340-0!*!0!!en!4!* and timestamp 20161109090942 and revision id 743737795
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

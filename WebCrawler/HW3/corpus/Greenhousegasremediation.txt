@@ -1,0 +1,28 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><b>Greenhouse gas removal</b> projects are a type of <a href="/wiki/Climate_engineering" title="Climate engineering">climate engineering</a> that seek to remove <a class="mw-redirect" href="/wiki/Greenhouse_gases" title="Greenhouse gases">greenhouse gases</a> from the atmosphere, and thus they tackle the root cause of <a href="/wiki/Global_warming" title="Global warming">global warming</a>. These techniques either directly remove greenhouse gases, or alternatively seek to influence natural processes to remove greenhouse gases indirectly. The discipline overlaps with <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture and storage</a> and <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">carbon sequestration</a>, and some projects listed may not be considered to be geoengineering by all commentators, instead being described as <a class="mw-redirect" href="/wiki/Mitigation_of_global_warming" title="Mitigation of global warming">mitigation</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Carbon_sequestration">Carbon sequestration</span></h2>
+<div class="hatnote" role="note">Main articles: <a href="/wiki/Bio-energy_with_carbon_capture_and_storage" title="Bio-energy with carbon capture and storage">Bio-energy with carbon capture and storage</a>, <a class="mw-redirect" href="/wiki/Carbon_negative_fuel" title="Carbon negative fuel">Carbon negative fuel</a>, <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">Carbon sequestration</a>, <a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a>, and <a class="mw-redirect" href="/wiki/Carbon_dioxide_air_capture" title="Carbon dioxide air capture">Carbon dioxide air capture</a></div>
+<p>A wide range of techniques for <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">carbon sequestration</a> exist. These range from ideas to remove <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> from the atmosphere (<a class="mw-redirect" href="/wiki/Carbon_dioxide_air_capture" title="Carbon dioxide air capture">carbon dioxide air capture</a>), flue gases (<a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture and storage</a>) and by preventing carbon in <a href="/wiki/Biomass" title="Biomass">biomass</a> from re-entering the atmosphere, such as with <a href="/wiki/Bio-energy_with_carbon_capture_and_storage" title="Bio-energy with carbon capture and storage">Bio-energy with carbon capture and storage</a> (BECCS).</p>
+<h2><span class="mw-headline" id="Chlorofluorocarbon_photochemistry">Chlorofluorocarbon photochemistry</span></h2>
+<p>Atmospheric <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">chlorofluorocarbon</a> (CFC) removal is an idea which suggests using <a class="mw-redirect" href="/wiki/Lasers" title="Lasers">lasers</a> to break up CFCs, an important family of greenhouse gases, in the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>.</p>
+<h2><span class="mw-headline" id="Methane_removal">Methane removal</span></h2>
+<p><a href="/wiki/Methane" title="Methane">Methane</a> potentially poses major challenges for remediation. It is around 20 times as powerful a greenhouse gas as CO<sub>2</sub>. Large quantities may be outgassed from <a href="/wiki/Permafrost" title="Permafrost">permafrost</a> and <a class="mw-redirect" href="/wiki/Clathrates" title="Clathrates">clathrates</a> as a result of global warming, notably in the <a href="/wiki/Arctic" title="Arctic">Arctic</a>.</p>
+<p>There are existing climate engineering proposals. Methane is removed by several <a href="/wiki/Methane#Removal_processes" title="Methane">natural processes</a>, which can be enhanced.</p>
+<ul>
+<li>Chemical decomposition — reaction with <a class="mw-redirect" href="/wiki/Hydroxyl_radicals" title="Hydroxyl radicals">hydroxyl radicals</a> produced from <a class="mw-redirect" href="/wiki/Photochemical" title="Photochemical">photochemical</a> decomposition of <a href="/wiki/Ozone" title="Ozone">ozone</a> in the <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a>.</li>
+<li>Biological decomposition — by <a class="mw-redirect" href="/wiki/Methanotrophs" title="Methanotrophs">methanotrophs</a> in soils and water.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Carbon_negative_fuel" title="Carbon negative fuel">Carbon negative fuel</a></li>
+<li><a href="/wiki/Solar_radiation_management" title="Solar radiation management">Solar radiation management</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a class="mw-redirect" href="/wiki/Avoiding_dangerous_climate_change" title="Avoiding dangerous climate change">Avoiding dangerous climate change</a></li>
+</ul>
+<h2></h2>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20901697-0!*!0!!en!*!* and timestamp 20161103024519 and revision id 737589589
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

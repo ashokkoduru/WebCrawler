@@ -1,0 +1,631 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+
+
+
+
+<p><b>Vernacular architecture</b> is an <a href="/wiki/Architectural_style" title="Architectural style">architectural style</a> that is designed based on local needs, availability of <a class="mw-redirect" href="/wiki/Construction_material" title="Construction material">construction materials</a> and reflecting local traditions. At least originally, vernacular architecture did not use formally-schooled <a href="/wiki/Architect" title="Architect">architects</a>, but relied on the design skills and tradition of local builders. However, since the late 19th century many professional architects have worked in versions of this style.</p>
+<p>It tends to <a href="/wiki/Evolution_(term)" title="Evolution (term)">evolve</a> over time to reflect the <a href="/wiki/Natural_environment" title="Natural environment">environmental</a>, <a class="mw-redirect" href="/wiki/Cultural" title="Cultural">cultural</a>, <a class="mw-redirect" href="/wiki/Technological" title="Technological">technological</a>, economic, and <a class="mw-redirect" href="/wiki/Historical" title="Historical">historical</a> context in which it exists. While often difficult to reconcile with <a href="/wiki/Building_code" title="Building code">regulatory</a> and popular demands of the five factors mentioned, this kind of architecture still plays a role in <a href="/wiki/Architecture" title="Architecture">architecture</a> and <a href="/wiki/Design" title="Design">design</a>, especially in local branches.</p>
+<p>Vernacular architecture can be contrasted against <a href="/wiki/Polite_architecture" title="Polite architecture">polite architecture</a> which is characterized by stylistic elements of design intentionally incorporated for aesthetic purposes which go beyond a building's functional requirements. This article also covers, where somewhere between the two extremes yet based upon authentic themes the term <b>traditional architecture</b>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span></h2>
+<p>The term <a class="extiw" href="https://en.wiktionary.org/wiki/vernacular" title="wikt:vernacular">vernacular</a> is derived from the <a href="/wiki/Latin" title="Latin">Latin</a> <i>vernaculus</i>, meaning "domestic, native, indigenous"; from <i>verna</i>, meaning "native <a class="mw-redirect" href="/wiki/Slave" title="Slave">slave</a>" or "home-born slave". The word probably derives from an older <a href="/wiki/Etruscan_language" title="Etruscan language">Etruscan</a> word.</p>
+<p>In <a href="/wiki/Linguistics" title="Linguistics">linguistics</a>, vernacular refers to language use particular to a time, place or group. In architecture, it refers to that type of architecture which is <a class="mw-redirect" href="/wiki/Indigenous_knowledge" title="Indigenous knowledge">indigenous</a> to a specific time or place (not imported or copied from elsewhere). It is most often applied to <a class="mw-redirect" href="/wiki/Residential" title="Residential">residential</a> buildings.</p>
+<h2><span class="mw-headline" id="Definitions">Definitions</span></h2>
+<p>The terms <a href="/wiki/Vernacular" title="Vernacular">vernacular</a>, <a href="/wiki/Folk_culture" title="Folk culture">folk</a>, <a class="mw-redirect" href="/wiki/Traditional" title="Traditional">traditional</a>, and <a class="extiw" href="https://en.wiktionary.org/wiki/popular" title="wikt:popular">popular</a> architecture are sometimes used synonymously. However, Allen Noble wrote a lengthy discussion of these terms in <i>Traditional Buildings: A Global Survey of Structural Forms and Cultural Functions</i> where he presents scholarly opinions that folk building or <i>folk architecture</i> is built by "...persons not professionally trained in building arts..."; where <i>vernacular architecture</i> is still <i>of the common people</i> but may be built by trained professionals such as through an <a href="/wiki/Apprenticeship" title="Apprenticeship">apprenticeship</a>, but still using local, traditional designs and materials. <i>Traditional architecture</i> is architecture is passed down from person to person, generation to generation, particularly orally, but at any level of society, not just by common people. Noble discourages use of the term <i>primitive architecture</i> as having a negative connotation. The term popular architecture is used more in eastern Europe and is synonymous with folk or vernacular architecture.</p>
+<p><a href="/wiki/Ronald_Brunskill" title="Ronald Brunskill">Ronald Brunskill</a> has defined the ultimate in vernacular architecture as:</p>
+<blockquote>
+<p>...a building designed by an amateur without any training in design; the individual will have been guided by a series of conventions built up in his locality, paying little attention to what may be fashionable. The function of the building would be the dominant factor, aesthetic considerations, though present to some small degree, being quite minimal. Local materials would be used as a matter of course, other materials being chosen and imported quite exceptionally.</p>
+</blockquote>
+<p>The vernacular architecture is not to be confused with so-called "traditional" architecture, though there are links between the two. Traditional architecture also includes buildings which bear elements of <a class="mw-redirect" href="/wiki/Polite_design" title="Polite design">polite design</a>: <a class="mw-redirect" href="/wiki/Temples" title="Temples">temples</a> and <a class="mw-redirect" href="/wiki/Palaces" title="Palaces">palaces</a>, for example, which normally would not be included under the rubric of "vernacular." In architectural terms, 'the vernacular' can be contrasted with '<a class="mw-redirect" href="/wiki/The_polite" title="The polite">the polite</a>', which is characterised by stylistic elements of design intentionally incorporated by a professional <a href="/wiki/Architect" title="Architect">architect</a> for aesthetic purposes which go beyond a building's functional requirements. Between the extremes of the wholly vernacular and the completely polite, examples occur which have some vernacular and some polite content, often making the differences between the vernacular and the polite a matter of degree.</p>
+
+<p>The <i>Encyclopedia of Vernacular Architecture of the World</i> defines vernacular architecture as:</p>
+<blockquote>
+<p>...comprising the dwellings and all other buildings of the people. Related to their environmental contexts and available resources they are customarily owner- or community-built, utilizing traditional technologies. All forms of vernacular architecture are built to meet specific needs, accommodating the values, economies and ways of life of the cultures that produce them.</p>
+</blockquote>
+<p>Vernacular architecture is a broad, <a href="/wiki/Grassroots" title="Grassroots">grassroots</a> concept which encompasses fields of architectural study including aboriginal, indigenous, ancestral, rural, and ethnic architecture and is contrasted with the more intellectual architecture called polite, formal, or academic architecture just as <a href="/wiki/Folk_art" title="Folk art">folk art</a> is contrasted with <a href="/wiki/Fine_art" title="Fine art">fine art</a>.</p>
+<h2><span class="mw-headline" id="Vernacular_and_the_architect">Vernacular and the architect</span></h2>
+<p>Architecture designed by professional architects is usually not considered to be vernacular. Indeed, it can be argued that the very process of consciously designing a building makes it not vernacular. <a href="/wiki/Paul_Oliver" title="Paul Oliver">Paul Oliver</a>, in his book <i>Dwellings</i>, states: "...it is contended that 'popular architecture' designed by professional architects or commercial builders for popular use, does not come within the compass of the vernacular". Oliver also offers the following simple definition of vernacular architecture: <i>"the architecture of the people, and by the people, but not for the people."</i></p>
+<p><a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Frank Lloyd Wright</a> described vernacular architecture as "Folk building growing in response to actual needs, fitted into environment by people who knew no better than to fit them with native feeling". suggesting that it is a primitive form of design, lacking intelligent thought, but he also stated that it was "for us better worth study than all the highly self-conscious academic attempts at the beautiful throughout Europe".</p>
+
+<p>Since at least the <a class="mw-redirect" href="/wiki/Arts_and_Crafts_Movement" title="Arts and Crafts Movement">Arts and Crafts Movement</a>, many modern architects have studied vernacular buildings and claimed to draw inspiration from them, including aspects of the vernacular in their designs. In 1946, the <a href="/wiki/Egypt" title="Egypt">Egyptian</a> architect <a href="/wiki/Hassan_Fathy" title="Hassan Fathy">Hassan Fathy</a> was appointed to design the town of <a class="mw-redirect" href="/wiki/New_Gourna" title="New Gourna">New Gourna</a> near <a href="/wiki/Luxor" title="Luxor">Luxor</a>. Having studied traditional <a class="mw-redirect" href="/wiki/Nubian_people" title="Nubian people">Nubian</a> settlements and technologies, he incorporated the traditional mud brick vaults of the Nubian settlements in his designs. The experiment failed, due to a variety of social and economic reasons, but is the first recorded attempt by an architect to address the social and environmental requirements of building users by adopting the methods and forms of the vernacular.</p>
+<p>In 1964 the exhibition <i>Architecture Without Architects</i> was put on at the <a class="mw-redirect" href="/wiki/Museum_of_Modern_Art,_New_York" title="Museum of Modern Art, New York">Museum of Modern Art, New York</a> by <a href="/wiki/Bernard_Rudofsky" title="Bernard Rudofsky">Bernard Rudofsky</a>. Accompanied by a book of the same title, including black-and-white photography of vernacular buildings around the world, the exhibition was extremely popular. It was Rudofsky who first made use of the term vernacular in an architectural context, and brought the concept into the eye of the public and of mainstream architecture: "For want of a generic label we shall call it vernacular, anonymous, spontaneous, indigenous, rural, as the case may be."</p>
+<p>Since the emergence of the term in the 1970s, vernacular considerations have played an increasing part in architectural designs, although individual architects had widely varying opinions of the merits of the vernacular.</p>
+<p>Sri Lankan architect <a href="/wiki/Geoffrey_Bawa" title="Geoffrey Bawa">Geoffrey Bawa</a> is considered the pioneer of regional modernism in <a href="/wiki/South_Asia" title="South Asia">South Asia</a>. Along with him, modern proponents of the use of the vernacular in architectural design include <a href="/wiki/Charles_Correa" title="Charles Correa">Charles Correa</a>, a well known Indian architect; <a href="/wiki/Muzharul_Islam" title="Muzharul Islam">Muzharul Islam</a> and <a href="/wiki/Bashirul_Haq" title="Bashirul Haq">Bashirul Haq</a>, internationally known <a href="/wiki/List_of_Bangladeshi_architects" title="List of Bangladeshi architects">Bangladeshi architects</a>; <a class="mw-redirect" href="/wiki/Balkrishna_Doshi" title="Balkrishna Doshi">Balkrishna Doshi</a>, another Indian, who established the Vastu-Shilpa Foundation in <a href="/wiki/Ahmedabad" title="Ahmedabad">Ahmedabad</a> to research the vernacular architecture of the region; and <a href="/wiki/Sheila_Sri_Prakash" title="Sheila Sri Prakash">Sheila Sri Prakash</a> who has used rural Indian architecture as an inspiration for innovations in environmental and socio-economically sustainable design and planning. The Dutch architect <a href="/wiki/Aldo_van_Eyck" title="Aldo van Eyck">Aldo van Eyck</a> was also a proponent of vernacular architecture. Architects whose work exemplifies the modern take on vernacular architecture would be <a href="/wiki/Samuel_Mockbee" title="Samuel Mockbee">Samuel Mockbee</a>, <a href="/wiki/Christopher_Alexander" title="Christopher Alexander">Christopher Alexander</a> and <a href="/wiki/Paolo_Soleri" title="Paolo Soleri">Paolo Soleri</a>.</p>
+<p>Oliver claims that:</p>
+<blockquote>
+<p>As yet there is no clearly defined and specialized discipline for the study of dwellings or the larger compass of vernacular architecture. If such a discipline were to emerge it would probably be one that combines some of the elements of both architecture and anthropology with aspects of history and geography</p>
+</blockquote>
+<h2><span class="mw-headline" id="Influences_on_the_vernacular">Influences on the vernacular</span></h2>
+
+<p>Vernacular architecture is influenced by a great range of different aspects of human behaviour and environment, leading to differing building forms for almost every different context; even neighbouring villages may have subtly different approaches to the construction and use of their dwellings, even if they at first appear the same. Despite these variations, every building is subject to the same laws of physics, and hence will demonstrate significant similarities in <a href="/wiki/Structural_engineering" title="Structural engineering">structural forms</a>.</p>
+<h3><span class="mw-headline" id="Climate">Climate</span></h3>
+<p>One of the most significant influences on vernacular architecture is the macro climate of the area in which the building is constructed. Buildings in cold climates invariably have high thermal mass or significant amounts of insulation. They are usually sealed in order to prevent heat loss, and openings such as windows tend to be small or non-existent. Buildings in warm climates, by contrast, tend to be constructed of lighter materials and to allow significant cross-ventilation through openings in the fabric of the building.</p>
+
+<p>Buildings for a continental climate must be able to cope with significant variations in temperature, and may even be altered by their occupants according to the seasons.</p>
+<p>Buildings take different forms depending on precipitation levels in the region – leading to dwellings on stilts in many regions with frequent flooding or rainy monsoon seasons. Flat roofs are rare in areas with high levels of precipitation. Similarly, areas with high winds will lead to specialised buildings able to cope with them, and buildings will be oriented to present minimal area to the direction of prevailing winds.</p>
+<p>Climatic influences on vernacular architecture are substantial and can be extremely complex. Mediterranean vernacular, and that of much of the Middle East, often includes a courtyard with a fountain or pond; air cooled by water mist and evaporation is drawn through the building by the natural ventilation set up by the building form. Similarly, Northern African vernacular often has very high thermal mass and small windows to keep the occupants cool, and in many cases also includes chimneys, not for fires but to draw air through the internal spaces. Such specializations are not designed, but learn by trial and error over generations of building construction, often existing long before the scientific theories which explain why they work.</p>
+<h3><span class="mw-headline" id="Culture">Culture</span></h3>
+<p>The way of life of building occupants, and the way they use their shelters, is of great influence on building forms. The size of family units, who shares which spaces, how food is prepared and eaten, how people interact and many other cultural considerations will affect the layout and size of dwellings.</p>
+<p>For example, the family units of several East African ethnic communities live in family compounds, surrounded by marked boundaries, in which separate single-roomed dwellings are built to house different members of the family. In polygamous communities there may be separate dwellings for different wives, and more again for sons who are too old to share space with the women of the family. Social interaction within the family is governed by, and privacy is provided by, the separation between the structures in which family members live. By contrast, in Western Europe, such separation is accomplished inside one dwelling, by dividing the building into separate rooms.</p>
+<p>Culture also has a great influence on the appearance of vernacular buildings, as occupants often decorate buildings in accordance with local customs and beliefs.</p>
+<h4><span class="mw-headline" id="Nomadic_dwellings">Nomadic dwellings</span></h4>
+
+
+
+<p>There are many cultures around the world which include some aspect of nomadic life, and they have all developed vernacular solutions for the need for shelter. These all include appropriate responses to climate and customs of their inhabitants, including practicalities of simple construction such as <a class="mw-redirect" href="/wiki/Hut_(dwelling)" title="Hut (dwelling)">huts</a>, and if necessary, transport such as <a href="/wiki/Tent" title="Tent">tents</a>.</p>
+<p>The <a href="/wiki/Inuit" title="Inuit">Inuit</a> people have a number of different forms of shelter appropriate to different seasons and geographical locations, including the <a href="/wiki/Igloo" title="Igloo">igloo</a> (for winter) and the <a href="/wiki/Tupiq" title="Tupiq">tupiq</a> (for summer). The <a href="/wiki/Sami_people" title="Sami people">Sami</a> of Northern Europe, who live in climates similar to those experienced by the Inuit, have developed different shelters appropriate to their culture including the <a href="/wiki/Lavvu" title="Lavvu">lavvu</a> and <a href="/wiki/Goahti" title="Goahti">goahti</a>. The development of different solutions in similar circumstances because of cultural influences is typical of vernacular architecture.</p>
+<p>Many nomadic people use materials common in the local environment to construct temporary dwellings, such as the Punan of Sarawak who use palm fronds, or the Ituri Pygmies who use saplings and mongongo leaves to construct domed huts. Other cultures reuse materials, transporting them with them as they move. Examples of this are the tribes of Mongolia, who carry their <a href="/wiki/Yurt" title="Yurt">gers</a> (yurts) with them, or the black desert tents of the Qashgai in <a href="/wiki/Iran" title="Iran">Iran</a>. Notable in each case is the significant impact of the availability of materials and the availability of pack animals or other forms of transport on the ultimate form of the shelters.</p>
+<p>All the shelters are adapted to suit the local climate. The Mongolian gers (yurts), for example, are versatile enough to be cool in hot continental summers and warm in the sub-zero temperaturs of Mongolian winters, and include a close-able ventilation hole at the centre and a chimney for a stove. A ger is typically not often relocated, and is therefore sturdy and secure, including wooden front door and several layers of coverings. A berber tent, by contrast, might be relocated daily, and is much lighter and quicker to erect and dismantle – and because of the climate it is used in, does not need to provide the same degree of protection from the elements.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Tuareg tent during Colonial exhibition in 1907.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A <a href="/wiki/Tipi" title="Tipi">tipi</a> of the <a class="mw-redirect" href="/wiki/Nez_Perce_tribe" title="Nez Perce tribe">Nez Perce tribe</a>, <a href="/wiki/Circa" title="Circa">circa</a> 1900.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Arab Beduin tent from North Africa. Similar tents are also used by Arabs in the Middle East as well as by Persian and Tibetan nomads.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A Berber tent near Zagora, Morocco</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>In <a href="/wiki/Transhumance" title="Transhumance">transhumance</a> (the seasonal movement of people with their livestock to pasture) the herders stay in huts or tents.</p>
+</div>
+</div>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Permanent_dwellings">Permanent dwellings</span></h4>
+
+<p>The type of structure and materials used for a dwelling vary depending on how permanent it is. Frequently moved nomadic structures will be lightweight and simple, more permanent ones will be less so. When people settle somewhere permanently, the architecture of their dwellings will change to reflect that.</p>
+<p>Materials used will become heavier, more solid and more durable. They may also become more complicated and more expensive, as the capital and labour required to construct them is a one-time cost. Permanent dwellings often offer a greater degree of protection and shelter from the elements. In some cases however, where dwellings are subjected to severe weather conditions such as frequent flooding or high winds, buildings may be deliberately "designed" to fail and be replaced, rather than requiring the uneconomical or even impossible structures needed to withstand them. The collapse of a relatively flimsy, lightweight structure is also less likely to cause serious injury than a heavy structure.</p>
+<p>Over time, dwellings' architecture may come to reflect a very specific geographical locale.</p>
+<h3><span class="mw-headline" id="Environment_and_materials">Environment and materials</span></h3>
+<p>The local environment and the construction materials it can provide, govern many aspects of vernacular architecture. Areas rich in trees will develop a wooden vernacular, while areas without much wood may use mud or stone. In early California <a href="/wiki/Cupressaceae" title="Cupressaceae">redwood</a> water towers supporting redwood tanks and enclosed by redwood siding <a href="/wiki/Tankhouse" title="Tankhouse">(tankhouses)</a> were part of a self-contained wind-powered domestic water system. In the Far East it is common to use bamboo, as it is both plentiful and versatile. Vernacular, almost by definition, is sustainable, and will not exhaust the local resources. If it is not sustainable, it is not suitable for its local context, and cannot be vernacular.</p>
+<h2><span class="mw-headline" id="Literature">Literature</span></h2>
+<p>Following the eclipse by <a class="mw-redirect" href="/wiki/International_Modernism" title="International Modernism">International Modernism</a> of turn-of-the 20th century vernacular-inspired British and American <a class="mw-redirect" href="/wiki/Arts_and_Crafts" title="Arts and Crafts">Arts and Crafts</a> buildings and European <a class="mw-redirect" href="/wiki/National_Romanticism" title="National Romanticism">National Romanticism</a>, an early work in the renewed defense of vernacular was <a href="/wiki/Bernard_Rudofsky" title="Bernard Rudofsky">Bernard Rudofsky</a>'s 1964 book <i><a href="/wiki/Architecture_Without_Architects" title="Architecture Without Architects">Architecture Without Architects: a short introduction to non-pedigreed architecture</a></i>, based on his <a class="mw-redirect" href="/wiki/MoMA" title="MoMA">MoMA</a> exhibition. The book was a reminder of the legitimacy and "hard-won knowledge" inherent in vernacular buildings, from <a href="/wiki/Wieliczka" title="Wieliczka">Polish salt-caves</a> to gigantic <a href="/wiki/Syria" title="Syria">Syrian</a> water wheels to <a href="/wiki/Morocco" title="Morocco">Moroccan</a> desert fortresses, and was considered <a class="mw-redirect" href="/wiki/Iconoclastic" title="Iconoclastic">iconoclastic</a> at the time. Rudofsky was, however, very much a <a href="/wiki/Romanticism" title="Romanticism">Romantic</a> who viewed native populations in a historical bubble of contentment. Rudofsky's book was also based largely on <a class="mw-redirect" href="/wiki/Photographs" title="Photographs">photographs</a> and not on on-site study.</p>
+<p>A more nuanced work is the <i><a href="/wiki/Encyclopedia_of_Vernacular_Architecture_of_the_World" title="Encyclopedia of Vernacular Architecture of the World">Encyclopedia of Vernacular Architecture of the World</a></i> edited in 1997 by <a href="/wiki/Paul_Oliver" title="Paul Oliver">Paul Oliver</a> of the Oxford Institute for <a class="mw-redirect" href="/wiki/Sustainable_Development" title="Sustainable Development">Sustainable Development</a>. Oliver argues that vernacular architecture, given the insights it gives into issues of environmental adaptation, will be necessary in the future to "ensure sustainability in both cultural and economic terms beyond the short term." <a href="/wiki/Christopher_Alexander" title="Christopher Alexander">Christopher Alexander</a>, in his book <i><a href="/wiki/A_Pattern_Language" title="A Pattern Language">A Pattern Language</a></i>, attempted to identify adaptive features of traditional architecture that apply across cultures. <a class="mw-redirect" href="/wiki/Howard_Davis_(architect)" title="Howard Davis (architect)">Howard Davis</a>'s book <i><a href="/wiki/The_Culture_of_Building" title="The Culture of Building">The Culture of Building</a></i> details the culture that enabled several vernacular traditions.</p>
+<p>Some extend the term vernacular to include any architecture outside the <a class="mw-redirect" href="/wiki/Academic" title="Academic">academic</a> mainstream. The term "commercial vernacular", popularized in the late 1960s by the publication of <a href="/wiki/Robert_Venturi" title="Robert Venturi">Robert Venturi</a>'s "Learning from Las Vegas", refers to 20th-century American <a class="mw-redirect" href="/wiki/Suburban" title="Suburban">suburban</a> tract and commercial architecture. There is also the concept of an "industrial vernacular" with its emphasis on the <a href="/wiki/Aesthetics" title="Aesthetics">aesthetics</a> of <a href="/wiki/Workshop" title="Workshop">shops</a>, <a href="/wiki/Automobile_repair_shop" title="Automobile repair shop">garages</a> and <a class="mw-redirect" href="/wiki/Factories" title="Factories">factories</a>. Some have linked vernacular with "off-the-shelf" aesthetics. In any respect, those who study these types of vernaculars hold that the low-end characteristics of this aesthetic define a useful and fundamental approach to architectural design.</p>
+<p>Among those who study vernacular architecture are those who are interested in the question of everyday life and those lean toward questions of <a href="/wiki/Sociology" title="Sociology">sociology</a>. In this, many were influenced by <a href="/wiki/The_Practice_of_Everyday_Life" title="The Practice of Everyday Life">The Practice of Everyday Life</a> (1984) by <a href="/wiki/Michel_de_Certeau" title="Michel de Certeau">Michel de Certeau</a>.</p>
+<h2><span class="mw-headline" id="Humanitarian_response">Humanitarian response</span></h2>
+
+<p>An appreciation of vernacular architecture is increasingly seen as vital in the immediate response to <a class="mw-redirect" href="/wiki/Disasters" title="Disasters">disasters</a> and the following construction of <a href="/wiki/Transitional_shelter" title="Transitional shelter">transitional shelter</a> if it is needed. The work <a class="external text" href="https://web.archive.org/web/20071008030543/http://www.sheltercentre.org/shelterlibrary/publications/112.htm" rel="nofollow">Transitional Settlement: Displaced Populations</a>, produced by <a class="external text" href="http://www.sheltercentre.org/" rel="nofollow">Shelter Centre</a> covers the use of vernacular in <a class="mw-redirect" href="/wiki/Humanitarian" title="Humanitarian">humanitarian</a> response and argues its importance.</p>
+<p>The value of housing displaced people in shelters which are in some way familiar is seen to provide reassurance and comfort following often very traumatic times. As the needs change from saving lives to providing medium to long term shelter the construction of locally appropriate and accepted housing can be very important.</p>
+<h2><span class="mw-headline" id="Legal_aspects">Legal aspects</span></h2>
+<p>As many jurisdictions introduce tougher <a href="/wiki/Building_code" title="Building code">building codes</a> and <a href="/wiki/Zoning" title="Zoning">zoning</a> regulations, "folk architects" sometimes find themselves in conflict with the local authorities.</p>
+<p>A case that made news in Russia was that of an <a href="/wiki/Arkhangelsk" title="Arkhangelsk">Arkhangelsk</a> entrepreneur Nikolay P. Sutyagin, who built what was reportedly the world's tallest single-family wooden house for himself and his family, only to see it condemned as a fire hazard. The 13-storey, 44 m (144 ft) tall structure, known locally as <a class="mw-redirect" href="/wiki/Sutyagin_house" title="Sutyagin house">"Sutyagin's skyscraper"</a> (<a class="extiw" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%BA%D1%80%D1%91%D0%B1_%D0%A1%D1%83%D1%82%D1%8F%D0%B3%D0%B8%D0%BD%D0%B0" title="ru:Небоскрёб Сутягина">Небоскрёб Сутягина</a>), was found to be in violation of <a href="/wiki/Arkhangelsk" title="Arkhangelsk">Arkhangelsk</a> building codes, and in 2008 the courts ordered the building to be demolished by February 1, 2009. On December 26, 2008, the tower was pulled down, and the remainder was dismantled manually over the course of the next several months.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<h3><span class="mw-headline" id="Africa">Africa</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Rondavel in Cameroon.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Traditional houses in <a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Maasai_people" title="Maasai people">Maasai</a> house in Tanzania</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Loam" title="Loam">Loam</a> houses in the <a href="/wiki/High_Atlas" title="High Atlas">High Atlas</a>, <a class="new" href="/w/index.php?title=A%C3%AFt_Bouguemez&amp;action=edit&amp;redlink=1" title="Aït Bouguemez (page does not exist)">Aït Bouguemez</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A house in <a href="/wiki/Timbuktu" title="Timbuktu">Timbuktu</a>.</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Anatolia">Anatolia</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Basalt tuff, <a href="/wiki/Rock-cut_architecture" title="Rock-cut architecture">rock-cut architecture</a> in <a href="/wiki/Cappadocia" title="Cappadocia">Cappadocia</a>, found in central Anatolia and parts of <a href="/wiki/Iran" title="Iran">Iran</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Tholoi" title="Tholoi">Tholoi</a> type homes have been constructed for millennia in <a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a>, like these found in <a href="/wiki/Harran" title="Harran">Harran</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Timber framed house in <a href="/wiki/Safranbolu" title="Safranbolu">Safranbolu</a>, as found in northern Anatolia and <a href="/wiki/Rumelia" title="Rumelia">European Ottoman territories</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Late Ottoman wooden Yali, a type found on the <a href="/wiki/Bosphorus" title="Bosphorus">Bosphorus</a> shore and on the <a class="mw-redirect" href="/wiki/Princess_Islands" title="Princess Islands">Princess Islands</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A typical alpine chalet as found in the <a href="/wiki/Pontic_Mountains" title="Pontic Mountains">Pontic Mountains</a> and parts of the <a href="/wiki/Caucasus" title="Caucasus">Caucasus</a>.</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Middle_East">Middle East</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Traditional Yemeni house in <a href="/wiki/Sana%27a" title="Sana'a">Sana'a</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Traditional Yemeni house in <a href="/wiki/Sana%27a" title="Sana'a">Sana'a</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Traditional architecture of the <a href="/wiki/Hejaz" title="Hejaz">Hejaz</a>, <a href="/wiki/Al-Balad,_Jeddah" title="Al-Balad, Jeddah">Al-Balad, Jeddah</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Replica of a vernacular house in <a href="/wiki/Dubai" title="Dubai">Dubai</a>, including a <a href="/wiki/Windcatcher" title="Windcatcher">windcatcher</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Traditional brick house of Iran and Central Asia, <a href="/wiki/Tabriz" title="Tabriz">Tabriz</a>.</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="South_Asia">South Asia</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Toda_people" title="Toda people">Toda</a> hut, <a href="/wiki/Indian_vernacular_architecture" title="Indian vernacular architecture">Indian vernacular architecture</a>.</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Far_East_Asia">Far East Asia</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Siheyuan" title="Siheyuan">Siheyuan</a> in <a href="/wiki/Beijing" title="Beijing">Beijing</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Downtown in <a href="/wiki/Suzhou" title="Suzhou">Suzhou</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Mansion in <a href="/wiki/Zhejiang" title="Zhejiang">Zhejiang</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Hongcun" title="Hongcun">Hongcun</a> in <a href="/wiki/Anhui" title="Anhui">Anhui</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Village in <a href="/wiki/Jiangxi" title="Jiangxi">Jiangxi</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Fujian_Tulou" title="Fujian Tulou">Fujian Tulou</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Traditional house in <a href="/wiki/Fujian" title="Fujian">Fujian</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Lane in <a href="/wiki/Guangdong" title="Guangdong">Guangdong</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Kaiping_Diaolou" title="Kaiping Diaolou">Kaiping Diaolou</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Southeast_Asia_and_Austronesian">Southeast Asia and Austronesian</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A traditional house, <a class="mw-redirect" href="/wiki/Nias_Island" title="Nias Island">Nias Island</a>, Sumatra, Indonesia.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Pagaruyung Palace is an opulent example of <a href="/wiki/Rumah_Gadang" title="Rumah Gadang">Rumah Gadang</a>, vernacular house of the <a href="/wiki/Minangkabau_people" title="Minangkabau people">Minangkabau people</a>, Sumatra, Indonesia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A village of tongkonan, the house of <a href="/wiki/Toraja" title="Toraja">Toraja</a> people, Sulawesi, Indonesia.</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Australia_and_New_Zealand">Australia and New Zealand</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Moscow_Villa_Hut" title="Moscow Villa Hut">Moscow Villa Hut</a>, <a href="/wiki/Victorian_Alps" title="Victorian Alps">Victorian Alps</a>, Australia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>"<a href="/wiki/Queenslander_(architecture)" title="Queenslander (architecture)">Queenslanders</a>" in <a href="/wiki/Brisbane" title="Brisbane">Brisbane</a>, Australia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Wharenui" title="Wharenui">Wharenui</a> Meeting House of the <a href="/wiki/M%C4%81ori_people" title="Māori people">Māori people</a>, <a href="/wiki/Te_Papaiouru_Marae" title="Te Papaiouru Marae">Te Papaiouru Marae</a>, New Zealand. 1908</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Europe">Europe</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A traditional village house near <a href="/wiki/Kstovo" title="Kstovo">Kstovo</a>, Russia.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>timber-cutter's mountain log cabin at the Museum of Folk Architecture, <a href="/wiki/Pyrohiv" title="Pyrohiv">Pyrohiv</a>, <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="new" href="/w/index.php?title=Payerh%C3%BCtte&amp;action=edit&amp;redlink=1" title="Payerhütte (page does not exist)">Payerhütte</a> in the <a href="/wiki/Ortler_Alps" title="Ortler Alps">Ortler Alps</a>, Italy</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The Blackhouse Museum, <a href="/wiki/Arnol" title="Arnol">Arnol</a>, <a class="mw-redirect" href="/wiki/Isle_of_Lewis" title="Isle of Lewis">Isle of Lewis</a>. Scotland</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>House and Defensive Tower in <a href="/wiki/Svaneti" title="Svaneti">Svaneti</a>, <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Defensive housing in <a href="/wiki/Shatili" title="Shatili">Shatili</a>, <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Old houses in <a class="mw-redirect" href="/wiki/Sighnaghi" title="Sighnaghi">Sighnaghi</a>, <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Welsh thatched longhouse, named Swtan, dating back to the 16th century. <a href="/wiki/Anglesey" title="Anglesey">Anglesey</a>, <a href="/wiki/Wales" title="Wales">Wales</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Fishermen huts in <a href="/wiki/Altja" title="Altja">Altja</a>, <a href="/wiki/Estonia" title="Estonia">Estonia</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="North_America">North America</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Replica log cabin at <a href="/wiki/Valley_Forge" title="Valley Forge">Valley Forge</a>, USA</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Apache <a class="mw-redirect" href="/wiki/Wickiup" title="Wickiup">Wickiup</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The Maison Bequette-Ribault, a French style building in <a href="/wiki/Ste._Genevieve,_Missouri" title="Ste. Genevieve, Missouri">Ste. Geneviève, Missouri</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Maison_Bolduc" title="Maison Bolduc">Maison Bolduc</a>, in <a href="/wiki/Ste._Genevieve,_Missouri" title="Ste. Genevieve, Missouri">Ste. Geneviève, Missouri</a> is a grander building in the same style as the Maison Bequette-Ribault.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The Lasource-Durand house in <a href="/wiki/Ste._Genevieve,_Missouri" title="Ste. Genevieve, Missouri">Ste. Geneviève, Missouri</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A house on Gabouri Creek in <a href="/wiki/Ste._Genevieve,_Missouri" title="Ste. Genevieve, Missouri">Ste. Geneviève, Missouri</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Quonset_hut" title="Quonset hut">Quonset huts</a> in front of <a class="new" href="/w/index.php?title=Laguna_Peak&amp;action=edit&amp;redlink=1" title="Laguna Peak (page does not exist)">Laguna Peak</a>, <a class="mw-redirect" href="/wiki/Point_Mugu" title="Point Mugu">Point Mugu</a>, <a href="/wiki/California" title="California">California</a>, United States in 1946.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Shackelford-Williams House, <a class="mw-redirect" href="/wiki/Battery_Park_(Charleston)" title="Battery Park (Charleston)">The Battery</a>, <a href="/wiki/Charleston,_South_Carolina" title="Charleston, South Carolina">Charleston, South Carolina</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Slavery" title="Slavery">Slave</a> cabin, Arundel Plantation, <a href="/wiki/Georgetown_County,_South_Carolina" title="Georgetown County, South Carolina">Georgetown County, South Carolina</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Arcadia Plantation, <a href="/wiki/Georgetown_County,_South_Carolina" title="Georgetown County, South Carolina">Georgetown County, South Carolina</a>, in disrepair after the <a href="/wiki/American_Civil_War" title="American Civil War">Civil War</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="South_America">South America</span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A typical jungle hut in <a href="/wiki/Brazil" title="Brazil">Brazilian</a> <a class="mw-redirect" href="/wiki/Amazonia" title="Amazonia">Amazonia</a>, made of straw and supported by stilts. It is used by <a class="mw-redirect" href="/wiki/Rubber_tree" title="Rubber tree">rubber tree</a> collectors.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>A <a href="/wiki/Mar_del_Plata_style" title="Mar del Plata style">Mar del Plata style</a> chalet, with its traditional facade of locally extracted <a class="mw-redirect" href="/wiki/Orthoquartzite" title="Orthoquartzite">orthoquartzite</a> in <a href="/wiki/Mar_del_Plata" title="Mar del Plata">Mar del Plata</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Vernacular_architecture_.E2.80.93_examples_by_region">Vernacular architecture – examples by region</span></h2>
+
+<p><b>Germany</b></p>
+<ul>
+<li><a class="external text" href="http://datscreativesinresidence.tumblr.com/" rel="nofollow">DATs Fachwerk interiors (Germany)</a></li>
+</ul>
+<p><b>Scotland</b></p>
+<ul>
+<li>The <a href="/wiki/Blackhouse" title="Blackhouse">blackhouse</a></li>
+<li><a href="/wiki/Medieval_turf_building_in_Cronberry" title="Medieval turf building in Cronberry">East Ayrshire, Medieval turf house</a></li>
+<li>A Caithness, croft house with whale bone couples, Brotchie's Steading, <a href="/wiki/Dunnet" title="Dunnet">Dunnet</a></li>
+</ul>
+<p><b>United States</b></p>
+<ul>
+<li>Vernacular Architecture of Rural and Small-Town Missouri, by Howard Wight Marshall </li>
+<li><a href="/wiki/Earl_Young_(architect)" title="Earl Young (architect)">Earl A. Young</a> (born March 31, 1889 – May 24, 1975) was an American architect, realtor and insurance agent. Over a span of 52 years, he designed and built 31 structures in <a href="/wiki/Charlevoix,_Michigan" title="Charlevoix, Michigan">Charlevoix, Michigan</a> but was never a registered <a href="/wiki/Architect" title="Architect">architect</a>. He worked mostly in <a href="/wiki/Rock_(geology)" title="Rock (geology)">stone</a>, using <a href="/wiki/Limestone" title="Limestone">limestone</a>, <a href="/wiki/Fieldstone" title="Fieldstone">fieldstone</a>, and <a class="mw-redirect" href="/wiki/Boulders" title="Boulders">boulders</a> he found throughout <a href="/wiki/Northern_Michigan" title="Northern Michigan">Northern Michigan</a>. The homes are commonly referred to as <a href="/wiki/Gnome" title="Gnome">gnome</a> homes, <a href="/wiki/Mushroom_House" title="Mushroom House">mushroom houses</a>, or <a class="mw-redirect" href="/wiki/Hobbit_hole" title="Hobbit hole">Hobbit houses</a>. His door, window, roof and fireplace designs were very distinct because of his use of curved lines. Young's goal was to show that a small stone house could be as impressive as a castle. Young also helped make Charlevoix the busy, summer resort town that it is today.</li>
+</ul>
+<p><b>Ukraine</b></p>
+<p>Different regions in <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> have their own distinctive style of vernacular architecture. For example, in the <a href="/wiki/Carpathian_Mountains" title="Carpathian Mountains">Carpathian Mountains</a> and the surrounding <a href="/wiki/Foothills" title="Foothills">foothills</a>, wood and clay are the primary traditional building materials. <a href="/wiki/Ukrainian_architecture" title="Ukrainian architecture">Ukrainian architecture</a> is preserved at The Museum of Folk Architecture and Way of Life of Central <a class="mw-redirect" href="/wiki/Naddnipryanshchyna" title="Naddnipryanshchyna">Naddnipryanshchyna</a> located in <a href="/wiki/Pereiaslav-Khmelnytskyi" title="Pereiaslav-Khmelnytskyi">Pereiaslav-Khmelnytskyi</a>, Ukraine.</p>
+<p><b>Wales</b></p>
+<p><a href="/wiki/Architecture_of_Wales" title="Architecture of Wales">Architecture of Wales</a></p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div>
+
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Sources_and_further_reading">Sources and further reading</span></h2>
+<ul>
+<li><cite class="citation book">Bourgeois, Jean-Louis (1983). <i>Spectacular vernacular: a new appreciation of traditional desert architecture</i>. Salt Lake City: Peregrine Smith Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87905-144-2" title="Special:BookSources/0-87905-144-2">0-87905-144-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=Jean-Louis&amp;rft.aulast=Bourgeois&amp;rft.btitle=Spectacular+vernacular%3A+a+new+appreciation+of+traditional+desert+architecture&amp;rft.date=1983&amp;rft.genre=book&amp;rft.isbn=0-87905-144-2&amp;rft.place=Salt+Lake+City&amp;rft.pub=Peregrine+Smith+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> Large format.</li>
+<li><cite class="citation book"><a href="/wiki/Ronald_Brunskill" title="Ronald Brunskill">Brunskill, R.W.</a> (2006) [1985]. <i>Traditional Buildings of Britain: An Introduction to Vernacular Architecture</i>. <a href="/wiki/Cassell%27s_National_Library" title="Cassell's National Library">Cassell's</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-304-36676-5" title="Special:BookSources/0-304-36676-5">0-304-36676-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=R.W.&amp;rft.aulast=Brunskill&amp;rft.btitle=Traditional+Buildings+of+Britain%3A+An+Introduction+to+Vernacular+Architecture&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-304-36676-5&amp;rft.pub=Cassell%27s&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book"><a href="/wiki/Ronald_Brunskill" title="Ronald Brunskill">Brunskill, R.W.</a> (2000) [1971]. <i>Illustrated Handbook of Vernacular Architecture</i> (4th ed.). London: <a href="/wiki/Faber_and_Faber" title="Faber and Faber">Faber and Faber</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-571-19503-2" title="Special:BookSources/0-571-19503-2">0-571-19503-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=R.W.&amp;rft.aulast=Brunskill&amp;rft.btitle=Illustrated+Handbook+of+Vernacular+Architecture&amp;rft.date=2000&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=0-571-19503-2&amp;rft.place=London&amp;rft.pub=Faber+and+Faber&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book"><a href="/wiki/Alec_Clifton-Taylor" title="Alec Clifton-Taylor">Clifton-Taylor, Alec</a> (1987) [1972]. <i>The Pattern of English Building</i>. London: <a href="/wiki/Faber_and_Faber" title="Faber and Faber">Faber and Faber</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-571-13988-4" title="Special:BookSources/0-571-13988-4">0-571-13988-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=Alec&amp;rft.aulast=Clifton-Taylor&amp;rft.btitle=The+Pattern+of+English+Building&amp;rft.date=1987&amp;rft.genre=book&amp;rft.isbn=0-571-13988-4&amp;rft.place=London&amp;rft.pub=Faber+and+Faber&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> Clifton-Taylor pioneered the study of the English vernacular.</li>
+<li><a class="external text" href="http://iaste.berkeley.edu/pdfs/01.2b-Spr90glassie-sml.pdf" rel="nofollow">Glassie, Henry. "Architects, Vernacular Traditions, and Society" <i>Traditional Dwellings and Settlements Review</i>, Vol 1, 1990, 9-21</a></li>
+<li><cite class="citation book">Holden, Timothy G; Baker, Louise M. <i>The Blackhouses of Arnol</i>. Edinburgh: <a href="/wiki/Historic_Scotland" title="Historic Scotland">Historic Scotland</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-904966-03-9" title="Special:BookSources/1-904966-03-9">1-904966-03-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.au=Baker%2C+Louise+M&amp;rft.aufirst=Timothy+G&amp;rft.aulast=Holden&amp;rft.btitle=The+Blackhouses+of+Arnol&amp;rft.genre=book&amp;rft.isbn=1-904966-03-9&amp;rft.place=Edinburgh&amp;rft.pub=Historic+Scotland&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Holden, Timothy G (2003). "Brotchie's Steading (Dunnet parish), iron age and medieval settlement; post-medieval farm". <i>Discovery and Excavation in Scotland</i> (4): 85–86.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.atitle=Brotchie%27s+Steading+%28Dunnet+parish%29%2C+iron+age+and+medieval+settlement%3B+post-medieval+farm&amp;rft.aufirst=Timothy+G&amp;rft.aulast=Holden&amp;rft.date=2003&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Discovery+and+Excavation+in+Scotland&amp;rft.pages=85-86&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Holm, Ivar. <i>2006</i> [<i>Ideas and Beliefs in Architecture and Industrial design: How attitudes, orientations, and underlying assumptions shape the built environment</i>]. Oslo School of Architecture and Design. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/82-547-0174-1" title="Special:BookSources/82-547-0174-1">82-547-0174-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=Ivar&amp;rft.aulast=Holm&amp;rft.btitle=2006&amp;rft.genre=book&amp;rft.isbn=82-547-0174-1&amp;rft.pub=Oslo+School+of+Architecture+and+Design&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a href="/wiki/Mark_Jarzombek" title="Mark Jarzombek">Mark Jarzombek</a>, Architecture of First Societies: A Global Perspective, (New York: Wiley &amp; Sons, August 2013)</li>
+<li><cite class="citation book"><a href="/wiki/Paul_Oliver" title="Paul Oliver">Oliver, Paul</a> (2003). <i>Dwellings</i>. London: Phaidon Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7148-4202-8" title="Special:BookSources/0-7148-4202-8">0-7148-4202-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=Paul&amp;rft.aulast=Oliver&amp;rft.btitle=Dwellings&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-7148-4202-8&amp;rft.place=London&amp;rft.pub=Phaidon+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book"><a href="/wiki/Paul_Oliver" title="Paul Oliver">Oliver, Paul</a> (ed.). <i>Encyclopedia of Vernacular Architecture of the World</i>. <b>1</b>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-521-58269-8" title="Special:BookSources/978-0-521-58269-8">978-0-521-58269-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.btitle=Encyclopedia+of+Vernacular+Architecture+of+the+World&amp;rft.genre=book&amp;rft.isbn=978-0-521-58269-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Perez Gil, Javier (2016). <i>¿Que es la arquitectura vernacula? Historia y concepto de un patrimonio cultural especifico</i>. Valladolid: Universidad de Valladolid. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-84-8448-862-0" title="Special:BookSources/978-84-8448-862-0">978-84-8448-862-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=Javier&amp;rft.aulast=Perez+Gil&amp;rft.btitle=%BFQue+es+la+arquitectura+vernacula%3F+Historia+y+concepto+de+un+patrimonio+cultural+especifico&amp;rft.date=2016&amp;rft.genre=book&amp;rft.isbn=978-84-8448-862-0&amp;rft.place=Valladolid&amp;rft.pub=Universidad+de+Valladolid&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Pruscha, Carl, ed. (2005) [2004]. <i>[Himalayan Vernacular]</i>. Köln: Verlag Der Buchhandlung Walther König. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-85160-038-X" title="Special:BookSources/3-85160-038-X">3-85160-038-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.btitle=%5BHimalayan+Vernacular%5D&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=3-85160-038-X&amp;rft.place=K%C3%B6ln&amp;rft.pub=Verlag+Der+Buchhandlung+Walther+K%C3%B6nig&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> Carl Pruscha, Austrian architect and United Nations-UNESCO advisor to the government of Nepal, lived and worked in the Himalayas 1964–74. He continued his activities as head of the design studio "Habitat, Environment and Conservation" at the Academy of Fine Arts in Vienna.</li>
+<li><cite class="citation book"><a href="/wiki/Bernard_Rudofsky" title="Bernard Rudofsky">Rudofsky, Bernard</a> (1987) [1964]. <i>Architecture Without Architects: A Short Introduction to Non-Pedigreed Architecture</i>. Albuquerque: <a href="/wiki/University_of_New_Mexico_Press" title="University of New Mexico Press">University of New Mexico Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8263-1004-4" title="Special:BookSources/0-8263-1004-4">0-8263-1004-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=Bernard&amp;rft.aulast=Rudofsky&amp;rft.btitle=Architecture+Without+Architects%3A+A+Short+Introduction+to+Non-Pedigreed+Architecture&amp;rft.date=1987&amp;rft.genre=book&amp;rft.isbn=0-8263-1004-4&amp;rft.place=Albuquerque&amp;rft.pub=University+of+New+Mexico+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book"><a href="/wiki/Bernard_Rudofsky" title="Bernard Rudofsky">Rudofsky, Bernard</a> (1969). <i>Streets for People: A Primer for Americans</i>. Garden City, NY: <a href="/wiki/Doubleday_(publisher)" title="Doubleday (publisher)">Doubleday</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-385-04231-0" title="Special:BookSources/0-385-04231-0">0-385-04231-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVernacular+architecture&amp;rft.aufirst=Bernard&amp;rft.aulast=Rudofsky&amp;rft.btitle=Streets+for+People%3A+A+Primer+for+Americans&amp;rft.date=1969&amp;rft.genre=book&amp;rft.isbn=0-385-04231-0&amp;rft.place=Garden+City%2C+NY&amp;rft.pub=Doubleday&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>Wharton, David. <a class="external text" href="http://southernspaces.org/2005/roadside-architecture" rel="nofollow">"Roadside Architecture."</a> <i>Southern Spaces</i>, February 1, 2005, <a class="external free" href="http://southernspaces.org/2005/roadside-architecture" rel="nofollow">http://southernspaces.org/2005/roadside-architecture</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.vernarch.com/" rel="nofollow">Center for Vernacular Architecture-Bangalore-India</a></li>
+<li><a class="external text" href="http://www.vernaculararchitectureforum.org" rel="nofollow">Vernacular Architecture Forum</a></li>
+<li><a class="external text" href="http://www.greatbuildings.com/architects/Vernacular.html" rel="nofollow">Vernacular Architecture Examples at GreatBuildings</a></li>
+<li><a class="external text" href="http://www.lib.berkeley.edu/ENVI/vernacular.html" rel="nofollow">Vernacular Architecture and Landscape Architecture Research Guide</a> – Environmental Design Library, University of California, Berkeley</li>
+<li><a class="external text" href="http://www.himalayan-architecture.net/" rel="nofollow">Himalayan Vernacular Architecture - Technische Universität Berlin</a></li>
+</ul>
+
+
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:857633-0!*!0!!en!4!* and timestamp 20161106102509 and revision id 746128229
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

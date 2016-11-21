@@ -1,0 +1,24 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+
+
+<p><b>Primary producers</b> are organisms in an ecosystem that produce <a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">biomass</a> from inorganic compounds (<a href="/wiki/Autotroph" title="Autotroph">autotrophs</a>). In almost all cases these are photosynthetically active organisms (plants, <a href="/wiki/Cyanobacteria" title="Cyanobacteria">cyanobacteria</a> and a number of other unicellular organisms; see article on <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a>). However, there are examples of <a href="/wiki/Archaea" title="Archaea">archaea</a> and <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> (unicellular organisms) that produce biomass from the <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidation</a> of inorganic chemical compounds (<a class="mw-redirect" href="/wiki/Chemoautotroph" title="Chemoautotroph">chemoautotrophs</a>) in <a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">hydrothermal vents</a> in the deep ocean.</p>
+<p>Fungi and other organisms that gain their biomass from oxidizing organic materials are called <a href="/wiki/Decomposer" title="Decomposer">decomposers</a> and are not primary producers. However, <a class="mw-redirect" href="/wiki/Lichens" title="Lichens">lichens</a> located in tundra climates are an exceptional example of a primary producer that, by mutualistic symbiosis, combine photosynthesis by algae (or additionally nitrogen fixation by cyanobacteria) with the protection of a decomposer fungus</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Primary_production" title="Primary production">Primary production</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation web"><a class="external text" href="http://www.lichen.com/biology.html" rel="nofollow">"Lichen Biology and the Environment"</a>. <i>www.lichen.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrimary+producers&amp;rft.atitle=Lichen+Biology+and+the+Environment&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.lichen.com%2Fbiology.html&amp;rft.jtitle=www.lichen.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web"><a class="external text" href="http://herbarium.usu.edu/fungi/funfacts/lichens.htm" rel="nofollow">"Lichens"</a>. <i>herbarium.usu.edu</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrimary+producers&amp;rft.atitle=Lichens&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fherbarium.usu.edu%2Ffungi%2Ffunfacts%2Flichens.htm&amp;rft.jtitle=herbarium.usu.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web"><a class="external text" href="http://archive.bio.ed.ac.uk/jdeacon/microbes/lichen.htm" rel="nofollow">"Lichens"</a>. <i>archive.bio.ed.ac.uk</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrimary+producers&amp;rft.atitle=Lichens&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farchive.bio.ed.ac.uk%2Fjdeacon%2Fmicrobes%2Flichen.htm&amp;rft.jtitle=archive.bio.ed.ac.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+</div>
+
+
+<p><br/></p>
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4442955-0!*!0!!*!4!* and timestamp 20161111135131 and revision id 744666166
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,823 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p><b>Earth science</b> or <b>geoscience</b> is an all-embracing term for the fields of <a href="/wiki/Science" title="Science">science</a> related to the <a href="/wiki/Planet" title="Planet">planet</a> <a href="/wiki/Earth" title="Earth">Earth</a>. It can be considered to be a branch of <a href="/wiki/Planetary_science" title="Planetary science">planetary science</a>, but with a much older history. There are both <a href="/wiki/Reductionism" title="Reductionism">reductionist</a> and <a href="/wiki/Holism" title="Holism">holistic</a> approaches to Earth sciences. The Earth sciences can include the study of <a href="/wiki/Geology" title="Geology">geology</a>, the <a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a>, and the large-scale structure of the Earth's interior, as well as the <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">atmosphere</a>, <a href="/wiki/Hydrosphere" title="Hydrosphere">hydrosphere</a>, and <a href="/wiki/Biosphere" title="Biosphere">biosphere</a>. Typically, Earth scientists use tools from <a href="/wiki/Geography" title="Geography">geography</a>, <a href="/wiki/Physics" title="Physics">physics</a>, <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, <a href="/wiki/Biology" title="Biology">biology</a>, <a href="/wiki/Chronology" title="Chronology">chronology</a>, and <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> to build a quantitative understanding of how the <a href="/wiki/Earth_system_science" title="Earth system science">Earth system</a> works and evolves.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Fields_of_study">Fields of study</span></h2>
+<div class="toccolours" id="Container" style="text-align: left; padding:0.5em 0 0 0; border-style:solid; float:right;clear:right; padding:0 0.5em; margin:0.3em 0 0.8em 1.4em; overflow: hidden;">
+<div id="Title" style="background-color:#77bb77; font-weight:bold; padding:0.2em; text-align:center; margin:0.6em 0 1.2em 0"><a href="/wiki/Timeline_of_the_evolutionary_history_of_life" title="Timeline of the evolutionary history of life">Life timeline</a></div>
+<div id="Contains-Timeline-Scale-Notes">
+<div style="text-align:right; position:relative; top:-1em;"><small><a href="/wiki/Template:Life_timeline" title="Template:Life timeline"><span style="color:#002bb8;" title="View this timeline in its own page">view</span></a> • <a href="/wiki/Template_talk:Life_timeline" title="Template talk:Life timeline"><span style="color:#002bb8;" title="Discussion about this template">discuss</span></a> • <span class="noprint plainlinksneverexpand" style="color:#002bb8;" title="You can edit this timeline. Please use the preview button before saving."><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Life_timeline&amp;action=edit">edit</a></span></span></small></div>
+<div id="Scale" style="width:3.1em; position:relative; top:-0.82em; float:left; height:36em; padding:0px">
+<div style="float:right; position:absolute; right:-1px; top:35.68281938326em;"><span style="font-size:86%;white-space:nowrap;">-4500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:33.700440528634em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:31.718061674009em;"><span style="font-size:86%;white-space:nowrap;">-4000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:29.735682819383em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:27.753303964758em;"><span style="font-size:86%;white-space:nowrap;">-3500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:25.770925110132em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:23.788546255507em;"><span style="font-size:86%;white-space:nowrap;">-3000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:21.806167400881em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:19.823788546256em;"><span style="font-size:86%;white-space:nowrap;">-2500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:17.84140969163em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:15.859030837004em;"><span style="font-size:86%;white-space:nowrap;">-2000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:13.876651982379em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:11.894273127753em;"><span style="font-size:86%;white-space:nowrap;">-1500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:9.9118942731278em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:7.9295154185022em;"><span style="font-size:86%;white-space:nowrap;">-1000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:5.9471365638767em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:3.9647577092511em;"><span style="font-size:86%;white-space:nowrap;">-500 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:1.9823788546256em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:0em;"><span style="font-size:86%;white-space:nowrap;">0 —</span></div>
+</div>
+<div id="ScaleBar" style="width:1px; float:left; height:36em; padding:0; background-color:#242020"></div>
+<div class="toccolours" id="Timeline" style="font-size:100%; width:100%; height:36em; padding:0px; float:left; width:10em; border:none; background-color:#e5cc7f;">
+<div class="bar" style="font-size:100%; background-color:#99ccff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:34.88986784141em; margin-left:0.1em; width:9.9em;">
+<div class="nudge" style="font-size:100%; position:relative; top:15.34em; left:0.5em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-17.444933920705em;"><i><b><small><a href="/wiki/Water" title="Water">water</a></small></b></i></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#b3d9ff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:32.511013215859em; margin-left:0.1em; width:9.9em;">
+<div class="nudge" style="font-size:100%; position:relative; top:12.14em; left:0.4em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-16.25550660793em;"><b><a class="mw-redirect" href="/wiki/Unicellular_life" title="Unicellular life">Single-celled<br/>
+life</a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#99ffff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:27.753303964758em; margin-left:0.7em; width:9.3em;">
+<div class="nudge" style="font-size:100%; position:relative; top:8.64em; left:0.2em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-13.876651982379em;"><i><b><small><a href="/wiki/Evolution_of_photosynthesis" title="Evolution of photosynthesis"><font color="green">photosynthesis</font></a></small></b></i></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#b3ffea; border-style: none; position:absolute; text-align:center; margin-top:0em; height:19.823788546256em; margin-left:1.4em; width:8.6em;">
+<div class="nudge" style="font-size:100%; position:relative; top:5.14em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-9.9118942731278em;"><b><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryotes</a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#ccffe7; border-style: none; position:absolute; text-align:center; margin-top:0em; height:11.894273127753em; margin-left:1.4em; width:8.6em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.06em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-5.9471365638767em;"><b><a href="/wiki/Multicellular_organism" title="Multicellular organism">Multicellular<br/>
+life</a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#cc9900; border-style: none; position:absolute; text-align:center; margin-top:0em; height:3.5191189427313em; margin-left:2em; width:8em;">
+<div class="nudge" style="font-size:100%; position:relative; top:1.14em; left:0em;"></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:; border-style: none; position:absolute; text-align:center; margin-top:0em; height:2.8546255506608em; margin-left:2.5em; width:7.5em;">
+<div class="nudge" style="font-size:100%; position:relative; top:0.69em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-1.4273127753304em;"><b><a href="/wiki/Silurian#Flora_and_fauna" title="Silurian"><font color="white">Land life</font></a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#e6b800; border-style: none; position:absolute; text-align:center; margin-top:0.51938325991189em; height:1.8594713656388em; margin-left:2.5em; width:7.5em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.28em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.92973568281938em;"><small><b><a href="/wiki/Dinosaur" title="Dinosaur">Dinosaurs    </a></b></small></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#ffcc00; border-style: none; position:absolute; text-align:center; margin-top:0em; height:1.5859030837004em; margin-left:3em; width:7em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.36em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.79295154185022em;"><small><b><a href="/wiki/Mammal" title="Mammal">Mammals</a></b></small></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#ffff00; border-style: none; position:absolute; text-align:center; margin-top:0em; height:1.0308370044053em; margin-left:3.67em; width:6.33em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.51541850220264em;"><small><b><a href="/wiki/Flowering_plant" title="Flowering plant">Flowers</a></b></small></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:blue; border-style: none; position:absolute; text-align:center; margin-top:0em; height:0.015859030837004em; margin-left:4.5em; width:5.5em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.0079295154185022em;"> </span></div>
+</div>
+</div>
+<div id="Annotations" style="float:left; position:relative; width:8.25em">
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:36em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Age_of_the_Earth" title="Age of the Earth">Earliest Earth (-4540)</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:34.88986784141em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Origin_of_water_on_Earth#Water_in_the_development_of_Earth" title="Origin of water on Earth">Earliest water</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:32.511013215859em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Abiogenesis" title="Abiogenesis">Earliest life<br/>
+(-4100)</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:30.925110132159em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">LHB meteorites</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:27.753303964758em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Geological_history_of_oxygen" title="Geological history of oxygen">Earliest oxygen</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:19.823788546256em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Geological_history_of_oxygen" title="Geological history of oxygen">Atmospheric oxygen</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18.237885462555em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Great_Oxygenation_Event" title="Great Oxygenation Event">Oxygen Crisis</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:9.5154185022026em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Evolution_of_sexual_reproduction#Origin_of_sexual_reproduction" title="Evolution of sexual reproduction">Earliest sexual reproduction</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:4.9955947136564em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:4.2898678414097em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Cambrian_explosion" title="Cambrian explosion">Cambrian explosion</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:0.0079295154185022em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Human" title="Human">Earliest humans</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:0.87224669603524em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:80%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Phanerozoic" title="Phanerozoic">P<br/>
+h<br/>
+a<br/>
+n<br/>
+r<br/>
+z<br/>
+c</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:5.0035242290749em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:80%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Proterozoic" title="Proterozoic"><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+P<br/>
+r<br/>
+o<br/>
+t<br/>
+e<br/>
+r<br/>
+o<br/>
+z<br/>
+o<br/>
+i<br/>
+c</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:20.537444933921em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:80%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Archean" title="Archean"><br/>
+<br/>
+<br/>
+A<br/>
+r<br/>
+c<br/>
+h<br/>
+e<br/>
+a<br/>
+n</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:31.955947136564em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:80%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Hadean" title="Hadean">H<br/>
+a<br/>
+d<br/>
+e<br/>
+a<br/>
+n</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+</div>
+</div>
+<div class="toccolours" id="Legend" style="margin-left:3.1em; border-style:none; float:left; clear:both;"></div>
+<div class="toccolours" id="Caption" style="margin:0 0.5em; float:left; padding:0 auto; border-style:none; clear:both; text-align:center; width:20.5em"><a href="/wiki/Cartesian_coordinate_system#Two_dimensions" title="Cartesian coordinate system">Axis scale</a>: <a href="/wiki/Geologic_time_scale" title="Geologic time scale">millions of years</a>.<br/>
+<i><small>also see {<a href="/wiki/Template:Human_timeline" title="Template:Human timeline">{Human timeline}</a>} and {<a href="/wiki/Template:Nature_timeline" title="Template:Nature timeline">{Nature timeline}</a>}</small></i></div>
+</div>
+<p>The following <a href="/wiki/Branches_of_science" title="Branches of science">fields of science</a> are generally categorized within the Earth sciences:</p>
+<ul>
+<li><a href="/wiki/Physical_geography" title="Physical geography">Physical geography</a>, covers aspects of <a href="/wiki/Geomorphology" title="Geomorphology">geomorphology</a>, <a href="/wiki/Pedology_(soil_study)" title="Pedology (soil study)">soil study</a>, <a href="/wiki/Hydrology" title="Hydrology">hydrology</a>, <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <a href="/wiki/Climatology" title="Climatology">climatology</a>, and <a href="/wiki/Biogeography" title="Biogeography">biogeography</a>.</li>
+<li><a href="/wiki/Geology" title="Geology">Geology</a> describes the <a href="/wiki/Rock_(geology)" title="Rock (geology)">rocky</a> parts of the Earth's <a href="/wiki/Crust_(geology)" title="Crust (geology)">crust</a> (or <a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a>) and its historic development. Major subdisciplines are <a href="/wiki/Mineralogy" title="Mineralogy">mineralogy</a> and <a href="/wiki/Petrology" title="Petrology">petrology</a>, <a href="/wiki/Geochemistry" title="Geochemistry">geochemistry</a>, <a href="/wiki/Geomorphology" title="Geomorphology">geomorphology</a>, <a href="/wiki/Paleontology" title="Paleontology">paleontology</a>, <a href="/wiki/Stratigraphy" title="Stratigraphy">stratigraphy</a>, <a href="/wiki/Structural_geology" title="Structural geology">structural geology</a>, <a href="/wiki/Engineering_geology" title="Engineering geology">engineering geology</a>, and <a href="/wiki/Sedimentology" title="Sedimentology">sedimentology</a>.</li>
+<li><a href="/wiki/Geophysics" title="Geophysics">Geophysics</a> and <a href="/wiki/Geodesy" title="Geodesy">geodesy</a> investigate the <a href="/wiki/Figure_of_the_Earth" title="Figure of the Earth">shape of the Earth</a>, its reaction to forces and its <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic</a> and <a class="mw-redirect" href="/wiki/Gravity_field" title="Gravity field">gravity fields</a>. Geophysicists explore the <a href="/wiki/Inner_core" title="Inner core">Earth's core</a> and <a class="mw-redirect" href="/wiki/Earth%27s_mantle" title="Earth's mantle">mantle</a> as well as the <a href="/wiki/Plate_tectonics" title="Plate tectonics">tectonic</a> and <a href="/wiki/Seismology" title="Seismology">seismic</a> activity of the lithosphere. Geophysics is commonly used to supplement the work of geologists in developing a comprehensive understanding of crustal geology, particularly in mineral and petroleum exploration. See <a href="/wiki/Geophysical_survey" title="Geophysical survey">geophysical survey</a>.</li>
+<li><a href="/wiki/Soil_science" title="Soil science">Soil science</a> covers the outermost layer of the Earth's crust that is subject to soil formation processes (or <a href="/wiki/Pedosphere" title="Pedosphere">pedosphere</a>). Major subdisciplines include <a href="/wiki/Edaphology" title="Edaphology">edaphology</a> and <a href="/wiki/Pedology_(soil_study)" title="Pedology (soil study)">pedology</a>.</li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a> covers the interactions between the <a href="/wiki/Biota_(ecology)" title="Biota (ecology)">biota</a>, with their natural environment. This field of study differentiates the study of the Earth, from the study of other planets in the <a href="/wiki/Solar_System" title="Solar System">Solar System</a>; the Earth being the only planet teeming with life.</li>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a> (includes <a href="/wiki/Oceanography" title="Oceanography">oceanography</a> and <a href="/wiki/Limnology" title="Limnology">limnology</a>) describe the marine and freshwater domains of the <a href="/wiki/Water" title="Water">watery</a> parts of the Earth (or <a href="/wiki/Hydrosphere" title="Hydrosphere">hydrosphere</a>). Major subdisciplines include <a href="/wiki/Hydrogeology" title="Hydrogeology">hydrogeology</a> and <a href="/wiki/Physical_oceanography" title="Physical oceanography">physical</a>, <a href="/wiki/Chemical_oceanography" title="Chemical oceanography">chemical</a>, and <a href="/wiki/Marine_biology" title="Marine biology">biological</a> oceanography.</li>
+<li><a href="/wiki/Glaciology" title="Glaciology">Glaciology</a> covers the <a href="/wiki/Ice" title="Ice">icy</a> parts of the Earth (or <a href="/wiki/Cryosphere" title="Cryosphere">cryosphere</a>).</li>
+<li><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a> cover the <a href="/wiki/Gas" title="Gas">gaseous</a> parts of the Earth (or <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">atmosphere</a>) between the surface and the <a href="/wiki/Exosphere" title="Exosphere">exosphere</a> (about 1000 km). Major subdisciplines include <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <a href="/wiki/Climatology" title="Climatology">climatology</a>, <a href="/wiki/Atmospheric_chemistry" title="Atmospheric chemistry">atmospheric chemistry</a>, and <a href="/wiki/Atmospheric_physics" title="Atmospheric physics">atmospheric physics</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Earth.27s_interior">Earth's interior</span></h2>
+
+<p><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a>, <a href="/wiki/Mountain" title="Mountain">mountain</a> ranges, <a href="/wiki/Volcano" title="Volcano">volcanoes</a>, and <a href="/wiki/Earthquake" title="Earthquake">earthquakes</a> are <a href="/wiki/Geology" title="Geology">geological phenomena</a> that can be explained in terms of <a href="/wiki/Energy_transformation" title="Energy transformation">energy transformations</a> in <a class="mw-redirect" href="/wiki/Earth%27s_crust" title="Earth's crust">Earth's crust</a>.</p>
+<p>Beneath Earth's <a href="/wiki/Crust_(geology)" title="Crust (geology)">crust</a> lies the <a class="mw-redirect" href="/wiki/Earth%27s_mantle" title="Earth's mantle">mantle</a> which is heated by the <a href="/wiki/Radioactive_decay" title="Radioactive decay">radioactive decay</a> of <a class="mw-redirect" href="/wiki/Heavy_elements" title="Heavy elements">heavy elements</a>. The mantle is not quite solid and consists of <a href="/wiki/Magma" title="Magma">magma</a> which is in a state of semi-perpetual <a class="extiw" href="https://en.wiktionary.org/wiki/convection" title="wiktionary:convection">convection</a>. This convection process causes the lithospheric plates to move, albeit slowly. The resulting process is known as <a href="/wiki/Plate_tectonics" title="Plate tectonics">plate tectonics</a>.</p>
+<p>Plate tectonics might be thought of as the process by which the Earth is resurfaced. Through a process called <a href="/wiki/Seafloor_spreading" title="Seafloor spreading">seafloor spreading</a>, new crust is created by the flow of magma from underneath the <a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a> to the surface, through fissures, where it cools and solidifies. Through a process called <a href="/wiki/Subduction" title="Subduction">subduction</a>, oceanic crust is pushed underground — beneath the rest of the lithosphere—where it comes into contact with magma and melts—rejoining the mantle from which it originally came.</p>
+<p>Areas of the crust where new crust is created are called <i>divergent boundaries</i>, those where it is brought back into the Earth are <i>convergent boundaries</i> and those where plates slide past each other, but no new lithospheric material is created or destroyed, are referred to as <a href="/wiki/Transform_fault" title="Transform fault">transform</a> (or conservative) boundaries <a class="mw-redirect" href="/wiki/Earthquakes" title="Earthquakes">Earthquakes</a> result from the movement of the lithospheric plates, and they often occur near convergent boundaries where parts of the crust are forced into the Earth as part of subduction.</p>
+<p><a class="mw-redirect" href="/wiki/Volcanoes" title="Volcanoes">Volcanoes</a> result primarily from the melting of subducted crust material. Crust material that is forced into the <a href="/wiki/Asthenosphere" title="Asthenosphere">asthenosphere</a> melts, and some portion of the melted material becomes light enough to rise to the surface—giving birth to volcanoes.</p>
+<h2><span class="mw-headline" id="Earth.27s_electromagnetic_field">Earth's electromagnetic field</span></h2>
+<p>An <a href="/wiki/Electromagnet" title="Electromagnet">electromagnet</a> is a magnet that is created by a current that flows around a soft <a href="/wiki/Iron" title="Iron">iron</a> core. Earth has a solid iron <a class="mw-redirect" href="/wiki/Earth_core" title="Earth core">inner core</a> surrounded by semi-liquid materials of the <a href="/wiki/Outer_core" title="Outer core">outer core</a> that move in continuous currents around the inner core; therefore, the Earth is an <a href="/wiki/Electromagnet" title="Electromagnet">electromagnet</a>. This is referred to as the <a href="/wiki/Dynamo_theory" title="Dynamo theory">dynamo theory</a> of Earth's magnetism.</p>
+<h2><span class="mw-headline" id="Earth.27s_atmosphere">Earth's atmosphere</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Atmosphere of Earth</a></div>
+
+<p>The <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>, <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a>, <a href="/wiki/Mesosphere" title="Mesosphere">mesosphere</a>, <a href="/wiki/Thermosphere" title="Thermosphere">thermosphere</a>, and <a href="/wiki/Exosphere" title="Exosphere">exosphere</a> are the five layers which make up Earth's atmosphere. In all, the atmosphere is made up of about 78.0% <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, 20.9% <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, and 0.92% <a href="/wiki/Argon" title="Argon">argon</a>. 75% of the gases in the atmosphere are located within the troposphere, the bottom-most layer. The remaining one percent of the atmosphere (all but the nitrogen, oxygen, and argon) contains small amounts of other gases including CO<sub>2</sub> and water vapors. Water vapors and CO<sub>2</sub> allow the Earth's atmosphere to catch and hold the Sun's energy through a phenomenon called the <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a>. This allows Earth's surface to be warm enough to have liquid water and support life.</p>
+<p>The <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic field</a> created by the internal motions of the core produces the <a href="/wiki/Magnetosphere" title="Magnetosphere">magnetosphere</a> which protects the Earth's atmosphere from the <a href="/wiki/Solar_wind" title="Solar wind">solar wind</a>. As the Earth is <a class="mw-redirect" href="/wiki/Age_of_the_earth" title="Age of the earth">4.5 billion</a> years old, it would have lost its atmosphere by now if there were no protective magnetosphere.</p>
+<p>In addition to storing heat, the atmosphere also protects living organisms by shielding the Earth's surface from <a class="mw-redirect" href="/wiki/Cosmic_rays" title="Cosmic rays">cosmic rays</a>. Note that the level of protection is high enough to prevent <a href="/wiki/Cosmic_ray" title="Cosmic ray">cosmic rays</a> from destroying all life on Earth, yet low enough to aid the <a class="mw-redirect" href="/wiki/Mutations" title="Mutations">mutations</a> that have an important role in pushing forward <a href="/wiki/Evolution" title="Evolution">diversity</a> in the biosphere.</p>
+<h2><span class="mw-headline" id="Methodology">Methodology</span></h2>
+<p>Methodologies vary depending on the nature of the subjects being studied. Studies typically fall into one of three categories: observational, experimental, or theoretical. Earth scientists often conduct sophisticated computer analysis or go to many of the world's most exotic locations to study Earth phenomena (e.g. Antarctica or hot spot island chains).</p>
+<p>A foundational idea within the study Earth science is the notion of uniformitarianism. Uniformitarianism dictates that "ancient geologic features are interpreted by understanding active processes that are readily observed." In other words, any geologic processes at work in the present have operated in the same ways throughout geologic time. This enables those who study Earth's history to apply knowledge of how Earth processes operate in the present to gain insight into how the planet has evolved and changed throughout deep history.</p>
+<h2><span class="mw-headline" id="Earth.27s_spheres">Earth's spheres</span></h2>
+<div class="toccolours" id="Container" style="text-align: left; padding:0.5em 0 0 0; border-style:solid; float:right;clear:right; padding:0 0.5em; margin:0.3em 0 0.8em 1.4em; overflow: hidden;">
+<div id="Title" style="background-color:#77bb77; font-weight:bold; padding:0.2em; text-align:center; margin:0.6em 0 1.2em 0"><a href="/wiki/Timeline_of_the_formation_of_the_Universe" title="Timeline of the formation of the Universe">Nature timeline</a></div>
+<div id="Contains-Timeline-Scale-Notes">
+<div style="text-align:right; position:relative; top:-1em;"><small><a href="/wiki/Template:Nature_timeline" title="Template:Nature timeline"><span style="color:#002bb8;" title="View this timeline in its own page">view</span></a> • <a href="/wiki/Template_talk:Nature_timeline" title="Template talk:Nature timeline"><span style="color:#002bb8;" title="Discussion about this template">discuss</span></a> • <span class="noprint plainlinksneverexpand" style="color:#002bb8;" title="You can edit this timeline. Please use the preview button before saving."><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nature_timeline&amp;action=edit">edit</a></span></span></small></div>
+<div id="Scale" style="width:3.1em; position:relative; top:-0.82em; float:left; height:36em; padding:0px">
+<div style="float:right; position:absolute; right:-1px; top:33.913043478261em;"><span style="font-size:86%;white-space:nowrap;">-13 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:32.608695652174em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:31.304347826087em;"><span style="font-size:86%;white-space:nowrap;">-12 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:30em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:28.695652173913em;"><span style="font-size:86%;white-space:nowrap;">-11 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:27.391304347826em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:26.086956521739em;"><span style="font-size:86%;white-space:nowrap;">-10 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:24.782608695652em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:23.478260869565em;"><span style="font-size:86%;white-space:nowrap;">-9 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:22.173913043478em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:20.869565217391em;"><span style="font-size:86%;white-space:nowrap;">-8 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:19.565217391304em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:18.260869565217em;"><span style="font-size:86%;white-space:nowrap;">-7 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:16.95652173913em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:15.652173913043em;"><span style="font-size:86%;white-space:nowrap;">-6 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:14.347826086957em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:13.04347826087em;"><span style="font-size:86%;white-space:nowrap;">-5 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:11.739130434783em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:10.434782608696em;"><span style="font-size:86%;white-space:nowrap;">-4 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:9.1304347826087em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:7.8260869565217em;"><span style="font-size:86%;white-space:nowrap;">-3 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:6.5217391304348em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:5.2173913043478em;"><span style="font-size:86%;white-space:nowrap;">-2 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:3.9130434782609em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:2.6086956521739em;"><span style="font-size:86%;white-space:nowrap;">-1 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:1.304347826087em;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:0em;"><span style="font-size:86%;white-space:nowrap;">0 —</span></div>
+</div>
+<div id="ScaleBar" style="width:1px; float:left; height:36em; padding:0; background-color:#242020"></div>
+<div class="toccolours" id="Timeline" style="font-size:100%; width:100%; height:36em; padding:0px; float:left; width:10em; border:none; background-color:#878772;">
+<div class="bar" style="font-size:100%; background-color:#5c5c4e; border-style: none; position:absolute; text-align:center; margin-top:35.478260869565em; height:0.52173913043479em; margin-left:0em; width:10em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-8.06em; left:0.4em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.26086956521739em;"><i><b><small><a href="/wiki/Metric_expansion_of_space" title="Metric expansion of space"><font color="#99FFFF">cosmic expansion</font></a></small></b></i></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:orange; border-style: none; position:absolute; text-align:center; margin-top:35.008695652174em; height:0.99130434782609em; margin-left:0em; width:10em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-1.96em; left:0.5em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.49565217391304em;"><b><small><a href="/wiki/Cosmic_microwave_background" title="Cosmic microwave background"><font color="white">Earliest light</font></a></small></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#9f9f8e; border-style: none; position:absolute; text-align:center; margin-top:11.84347826087em; height:11.113043478261em; margin-left:0em; width:10em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-2.56em; left:0.5em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-5.5565217391304em;"><i><b><small><a href="/wiki/Accelerating_expansion_of_the_universe" title="Accelerating expansion of the universe"><font color="#99FFFF">cosmic speed-up</font></a></small></b></i></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#e5cc7f; border-style: none; position:absolute; text-align:center; margin-top:11.478260869565em; height:0.36521739130435em; margin-left:0em; width:10em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.26em; left:0.6em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.18260869565217em;"><b><small><a href="/wiki/Formation_and_evolution_of_the_Solar_System" title="Formation and evolution of the Solar System">Solar System</a></small></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#99ccff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:11.478260869565em; margin-left:0.1em; width:9.9em;">
+<div class="nudge" style="font-size:100%; position:relative; top:4.39em; left:0.6em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-5.7391304347826em;"><i><b><small><a href="/wiki/Water" title="Water">water</a></small></b></i></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#b3d9ff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:10.695652173913em; margin-left:0.1em; width:9.9em;">
+<div class="nudge" style="font-size:100%; position:relative; top:3.74em; left:0.5em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-5.3478260869565em;"><b><a class="mw-redirect" href="/wiki/Unicellular_life" title="Unicellular life">Single-celled life</a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#99ffff; border-style: none; position:absolute; text-align:center; margin-top:0em; height:9.1304347826087em; margin-left:0.7em; width:9.3em;">
+<div class="nudge" style="font-size:100%; position:relative; top:2.34em; left:0.2em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-4.5652173913043em;"><i><b><small><a href="/wiki/Photosynthesis" title="Photosynthesis"><font color="green">photosynthesis</font></a></small></b></i></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#b3ffdb; border-style: none; position:absolute; text-align:center; margin-top:0em; height:6.5217391304348em; margin-left:1.4em; width:8.6em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0.0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-3.2608695652174em;"><b><a href="/wiki/Multicellular_organism" title="Multicellular organism">Multicellular<br/>
+life</a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#cc9900; border-style: none; position:absolute; text-align:center; margin-top:0em; height:1.1577391304348em; margin-left:2em; width:8em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.57886956521739em;"><b><a href="/wiki/Silurian#Flora_and_fauna" title="Silurian"><font color="white">Land life</font></a></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:white; border-style: none; position:absolute; text-align:center; margin-top:34.95652173913em; height:0.20869565217391em; margin-left:0em; width:10em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0.6em;"></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:; border-style: none; position:absolute; text-align:center; margin-top:35.478260869565em; height:0.52173913043479em; margin-left:0em; width:10em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-1.06em; left:0.6em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.26086956521739em;"><b><small><a href="/wiki/Gravity" title="Gravity">Earliest gravity</a></small></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:; border-style: none; position:absolute; text-align:center; margin-top:22.434782608696em; height:0.26086956521739em; margin-left:0em; width:10em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-1.11em; left:0.6em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.1304347826087em;"><b><small><a href="/wiki/Dark_energy" title="Dark energy">Dark energy</a></small></b></span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:; border-style: none; position:absolute; text-align:center; margin-top:21.652173913043em; height:0.26086956521739em; margin-left:0em; width:10em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-1.11em; left:0.6em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-0.1304347826087em;"><b><small><a href="/wiki/Dark_matter" title="Dark matter">Dark matter</a></small></b></span></div>
+</div>
+</div>
+<div id="Annotations" style="float:left; position:relative; width:8.25em">
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:36em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Big_Bang" title="Big Bang">Earliest universe (-13.8)</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:34.95652173913em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/GN-z11" title="GN-z11">Earliest galaxy</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:33.913043478261em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/ULAS_J1120%2B0641" title="ULAS J1120+0641">Earliest quasar</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:29.478260869565em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Omega_Centauri" title="Omega Centauri">Omega Centauri forms</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:26.086956521739em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Andromeda_Galaxy" title="Andromeda Galaxy">Andromeda Galaxy forms</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:22.95652173913em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Milky_Way#Age" title="Milky Way">Milky Way Galaxy<br/>
+spiral arms form</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:17.739130434783em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/NGC_188" title="NGC 188">NGC 188 star cluster forms</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:15.652173913043em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:14.347826086957em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Alpha_Centauri" title="Alpha Centauri">Alpha Centauri forms</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:11.84347826087em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Age_of_the_Earth" title="Age of the Earth">Earliest Earth<br/>
+(-4.54)</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:11.478260869565em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:10.695652173913em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Abiogenesis" title="Abiogenesis">Earliest life</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:9.1304347826087em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Geological_history_of_oxygen" title="Geological history of oxygen">Earliest oxygen</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:6.5217391304348em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Geological_history_of_oxygen" title="Geological history of oxygen">Atmospheric oxygen</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:3.1304347826087em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Evolution_of_sexual_reproduction#Origin_of_sexual_reproduction" title="Evolution of sexual reproduction">Earliest sexual reproduction</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:1.4113043478261em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><small><a href="/wiki/Cambrian_explosion" title="Cambrian explosion">Cambrian explosion</a></small></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:0em;">
+<div class="annot-arrow" style="position:relative; text-size:100%; top:-0.86em; left:0em; float:left;"><span style="color:black;">←</span></div>
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;">
+<div style="line-height:9pt"><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><a href="/wiki/Human" title="Human">Earliest humans</a></span></div>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:2.6086956521739em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:1.25em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Timeline_of_the_evolutionary_history_of_life" title="Timeline of the evolutionary history of life">L<br/>
+i<br/>
+f<br/>
+e</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:13.695652173913em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:4.175em; left:-13em; width:7em;">
+<center><span style="position:relative; width:auto; z-index:10; font-size:90%; color:black; vertical-align:middle; line-height:100%; bottom:0;"><span style="display:block"><a href="/wiki/Chronology_of_the_universe" title="Chronology of the universe"><br/>
+P<br/>
+r<br/>
+i<br/>
+m<br/>
+o<br/>
+r<br/>
+d<br/>
+i<br/>
+a<br/>
+l</a></span></span></center>
+</div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:18em;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+</div>
+</div>
+<div class="toccolours" id="Legend" style="margin-left:3.1em; border-style:none; float:left; clear:both;"></div>
+<div class="toccolours" id="Caption" style="margin:0 0.5em; float:left; padding:0 auto; border-style:none; clear:both; text-align:center; width:20.5em"><a href="/wiki/Cartesian_coordinate_system#Two_dimensions" title="Cartesian coordinate system">Axis scale</a>: <a href="/wiki/Geologic_time_scale" title="Geologic time scale">billions of years</a>.<br/>
+<i><small>also see {<a href="/wiki/Template:Human_timeline" title="Template:Human timeline">{Human timeline}</a>} and {<a href="/wiki/Template:Life_timeline" title="Template:Life timeline">{Life timeline}</a>}</small></i></div>
+</div>
+<p>Earth science generally recognizes four spheres, the <a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a>, the <a href="/wiki/Hydrosphere" title="Hydrosphere">hydrosphere</a>, the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>, and the <a href="/wiki/Biosphere" title="Biosphere">biosphere</a>; these correspond to <a href="/wiki/Rock_(geology)" title="Rock (geology)">rocks</a>, <a href="/wiki/Water" title="Water">water</a>, <a class="mw-redirect" href="/wiki/Air" title="Air">air</a> and <a href="/wiki/Life" title="Life">life</a>. Also included by some are the <a href="/wiki/Cryosphere" title="Cryosphere">cryosphere</a> (corresponding to <a href="/wiki/Ice" title="Ice">ice</a>) as a distinct portion of the hydrosphere and the <a href="/wiki/Pedosphere" title="Pedosphere">pedosphere</a> (corresponding to <a href="/wiki/Soil" title="Soil">soil</a>) as an active and intermixed sphere.</p>
+<h3><span class="mw-headline" id="Partial_list_of_the_major_earth_science_topics">Partial list of the major earth science topics</span></h3>
+<div class="hatnote" role="note">Further information: <a href="/wiki/Outline_of_Earth_sciences" title="Outline of Earth sciences">Outline of Earth sciences</a></div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<h4><span class="mw-headline" id="Atmosphere"><a href="/wiki/Atmosphere" title="Atmosphere">Atmosphere</a></span></h4>
+<ul>
+<li><a href="/wiki/Atmospheric_chemistry" title="Atmospheric chemistry">Atmospheric chemistry</a></li>
+<li><a href="/wiki/Geography" title="Geography">Geography</a>
+<ul>
+<li><a href="/wiki/Climatology" title="Climatology">Climatology</a></li>
+<li><a href="/wiki/Meteorology" title="Meteorology">Meteorology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hydrometeorology" title="Hydrometeorology">Hydrometeorology</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+</ul>
+<h4><span class="mw-headline" id="Biosphere"><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></span></h4>
+<ul>
+<li><a href="/wiki/Biogeochemistry" title="Biogeochemistry">Biogeochemistry</a></li>
+<li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a>
+<ul>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Geoarchaeology" title="Geoarchaeology">Geoarchaeology</a></li>
+<li><a href="/wiki/Geomicrobiology" title="Geomicrobiology">Geomicrobiology</a></li>
+<li><a href="/wiki/Paleontology" title="Paleontology">Paleontology</a>
+<ul>
+<li><a href="/wiki/Palynology" title="Palynology">Palynology</a></li>
+<li><a href="/wiki/Micropaleontology" title="Micropaleontology">Micropaleontology</a></li>
+</ul>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Hydrosphere"><a href="/wiki/Hydrosphere" title="Hydrosphere">Hydrosphere</a></span></h4>
+<ul>
+<li><a href="/wiki/Hydrology" title="Hydrology">Hydrology</a>
+<ul>
+<li><a href="/wiki/Hydrogeology" title="Hydrogeology">Hydrogeology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Limnology" title="Limnology">Limnology</a> (freshwater science)</li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a> (marine science)
+<ul>
+<li><a href="/wiki/Chemical_oceanography" title="Chemical oceanography">Chemical oceanography</a></li>
+<li><a href="/wiki/Physical_oceanography" title="Physical oceanography">Physical oceanography</a></li>
+<li><a href="/wiki/Marine_biology" title="Marine biology">Biological oceanography</a> (marine biology)</li>
+<li><a href="/wiki/Marine_geology" title="Marine geology">Geological oceanography</a> (marine geology)
+<ul>
+<li><a href="/wiki/Paleoceanography" title="Paleoceanography">Paleoceanography</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Lithosphere_.28geosphere.29"><a href="/wiki/Lithosphere" title="Lithosphere">Lithosphere</a> (<a href="/wiki/Geosphere" title="Geosphere">geosphere</a>)</span></h4>
+<ul>
+<li><a href="/wiki/Geology" title="Geology">Geology</a>
+<ul>
+<li><a href="/wiki/Economic_geology" title="Economic geology">Economic geology</a></li>
+<li><a href="/wiki/Engineering_geology" title="Engineering geology">Engineering geology</a></li>
+<li><a href="/wiki/Environmental_geology" title="Environmental geology">Environmental geology</a></li>
+<li><a href="/wiki/Historical_geology" title="Historical geology">Historical geology</a>
+<ul>
+<li><a href="/wiki/Quaternary_geology" title="Quaternary geology">Quaternary geology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Planetary_geology" title="Planetary geology">Planetary geology</a> and planetary geography</li>
+<li><a href="/wiki/Sedimentology" title="Sedimentology">Sedimentology</a></li>
+<li><a href="/wiki/Stratigraphy" title="Stratigraphy">Stratigraphy</a></li>
+<li><a href="/wiki/Structural_geology" title="Structural geology">Structural geology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Geography" title="Geography">Geography</a>
+<ul>
+<li><a href="/wiki/Physical_geography" title="Physical geography">Physical geography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Geochemistry" title="Geochemistry">Geochemistry</a></li>
+<li><a href="/wiki/Geomorphology" title="Geomorphology">Geomorphology</a></li>
+<li><a href="/wiki/Geophysics" title="Geophysics">Geophysics</a>
+<ul>
+<li><a href="/wiki/Geochronology" title="Geochronology">Geochronology</a></li>
+<li><a href="/wiki/Geodynamics" title="Geodynamics">Geodynamics</a> (see also <a href="/wiki/Tectonics" title="Tectonics">Tectonics</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Geomagnetism" title="Geomagnetism">Geomagnetism</a></li>
+<li><a href="/wiki/Gravimetry" title="Gravimetry">Gravimetry</a> (also part of <a href="/wiki/Geodesy" title="Geodesy">Geodesy</a>)</li>
+<li><a href="/wiki/Seismology" title="Seismology">Seismology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Glaciology" title="Glaciology">Glaciology</a></li>
+<li><a href="/wiki/Hydrogeology" title="Hydrogeology">Hydrogeology</a></li>
+<li><a href="/wiki/Mineralogy" title="Mineralogy">Mineralogy</a>
+<ul>
+<li><a href="/wiki/Crystallography" title="Crystallography">Crystallography</a></li>
+<li><a href="/wiki/Gemology" title="Gemology">Gemology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Petrology" title="Petrology">Petrology</a></li>
+<li><a href="/wiki/Speleology" title="Speleology">Speleology</a></li>
+<li><a href="/wiki/Volcanology" title="Volcanology">Volcanology</a></li>
+</ul>
+<h4><span class="mw-headline" id="Pedosphere"><a href="/wiki/Pedosphere" title="Pedosphere">Pedosphere</a></span></h4>
+<ul>
+<li><a href="/wiki/Geography" title="Geography">Geography</a>
+<ul>
+<li><a href="/wiki/Soil_science" title="Soil science">Soil science</a>
+<ul>
+<li><a href="/wiki/Edaphology" title="Edaphology">Edaphology</a></li>
+<li><a href="/wiki/Pedology_(soil_study)" title="Pedology (soil study)">Pedology</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Systems">Systems</span></h4>
+<ul>
+<li><a href="/wiki/Earth_system_science" title="Earth system science">Earth system science</a></li>
+<li><a href="/wiki/Environmental_science" title="Environmental science">Environmental science</a></li>
+<li><a href="/wiki/Geography" title="Geography">Geography</a>
+<ul>
+<li><a href="/wiki/Human_geography" title="Human geography">Human geography</a></li>
+<li><a href="/wiki/Physical_geography" title="Physical geography">Physical geography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gaia_hypothesis" title="Gaia hypothesis">Gaia hypothesis</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Systems_geology" title="Systems geology">Systems geology</a></li>
+</ul>
+<h4><span class="mw-headline" id="Others">Others</span></h4>
+<ul>
+<li><a href="/wiki/Geography" title="Geography">Geography</a>
+<ul>
+<li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/Geoinformatics" title="Geoinformatics">Geoinformatics</a> (<a class="mw-redirect" href="/wiki/GIS" title="GIS">GIS</a>)</li>
+<li><a href="/wiki/Geostatistics" title="Geostatistics">Geostatistics</a></li>
+<li><a href="/wiki/Geodesy" title="Geodesy">Geodesy</a> and <a href="/wiki/Surveying" title="Surveying">Surveying</a></li>
+<li><a class="mw-redirect" href="/wiki/NASA_Earth_Science_Enterprise" title="NASA Earth Science Enterprise">NASA Earth Science Enterprise</a></li>
+<li><a class="mw-redirect" href="/wiki/Remote_Sensing" title="Remote Sensing">Remote Sensing</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="hatnote" role="note">Main article: <a class="mw-redirect" href="/wiki/Outline_of_earth_science" title="Outline of earth science">Outline of earth science</a></div>
+
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Earth_sciences_graphics_software" title="Earth sciences graphics software">Earth sciences graphics software</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_geoscience" title="Environmental geoscience">Environmental geoscience</a></li>
+<li><a href="/wiki/GEO-LEO" title="GEO-LEO">GEO-LEO</a> (GEO Library Experts Online)</li>
+<li><a class="mw-redirect" href="/wiki/Glossary_of_geology_terms" title="Glossary of geology terms">Glossary of geology terms</a></li>
+<li><a href="/wiki/List_of_geoscience_organizations" title="List of geoscience organizations">List of geoscience organizations</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_Russian_Earth_scientists" title="List of Russian Earth scientists">List of Russian Earth scientists</a></li>
+<li><a href="/wiki/List_of_unsolved_problems_in_geoscience" title="List of unsolved problems in geoscience">List of unsolved problems in geoscience</a></li>
+<li><a href="/wiki/Making_North_America_(film)" title="Making North America (film)">Making North America (2015 PBS film)</a></li>
+<li><a href="/wiki/Nanogeoscience" title="Nanogeoscience">Nanogeoscience</a></li>
+<li><a href="/wiki/Structure_of_the_Earth" title="Structure of the Earth">Structure of the Earth</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Allaby M., 2008. Dictionary of Earth Sciences, Oxford University Press, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780199211944">ISBN 978-0-19-921194-4</a></li>
+<li><cite class="citation book" id="CITEREFAdamsLambert2006">Adams, Simon; Lambert, David (2006). <i>Earth Science: An illustrated guide to science</i>. New York, NY: Chelsea House. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8160-6164-5" title="Special:BookSources/0-8160-6164-5">0-8160-6164-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.aufirst=Simon&amp;rft.au=Lambert%2C+David&amp;rft.aulast=Adams&amp;rft.btitle=Earth+Science%3A+An+illustrated+guide+to+science&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-8160-6164-5&amp;rft.place=New+York%2C+NY&amp;rft.pub=Chelsea+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book" id="CITEREFAmerican_Heritage">Joseph P. Pickett (executive editor) (1992). <i>American Heritage dictionary of the English language</i> (4th ed.). Boston, MA: <a class="mw-redirect" href="/wiki/Houghton_Mifflin" title="Houghton Mifflin">Houghton Mifflin</a> Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-395-82517-2" title="Special:BookSources/0-395-82517-2">0-395-82517-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.au=Joseph+P.+Pickett+%28executive+editor%29&amp;rft.btitle=American+Heritage+dictionary+of+the+English+language&amp;rft.date=1992&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=0-395-82517-2&amp;rft.place=Boston%2C+MA&amp;rft.pub=Houghton+Mifflin+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>Korvin G., 1998. Fractal Models in the Earth Sciences, Elsvier, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780444889072">ISBN 978-0-444-88907-2</a></li>
+<li><cite class="citation web"><a class="external text" href="http://okfirst.mesonet.org/train/meteorology/EnergyBudget.html" rel="nofollow">"Earth's Energy Budget"</a>. Oklahoma Climatological Survey. 1996–2004<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.btitle=Earth%27s+Energy+Budget&amp;rft.date=1996%2F2004&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fokfirst.mesonet.org%2Ftrain%2Fmeteorology%2FEnergyBudget.html&amp;rft.pub=Oklahoma+Climatological+Survey&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web">Miller, George A.; Christiane Fellbaum; and Randee Tengi; and Pamela Wakefield; and Rajesh Poddar; and Helen Langone; Benjamin Haskell (2006). <a class="external text" href="http://wordnetweb.princeton.edu/perl/webwn?s=Earth+science&amp;sub=Search+WordNet&amp;o2=&amp;o0=1&amp;o7=&amp;o5=&amp;o1=1&amp;o6=&amp;o4=&amp;o3=&amp;h=0" rel="nofollow">"WordNet Search 3.0"</a>. <i>WordNet a lexical database for the English language</i>. Princeton University/Cognitive Science Laboratory /221 Nassau St./ Princeton, NJ 08542<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.atitle=WordNet+Search+3.0&amp;rft.au=and+Helen+Langone&amp;rft.au=and+Pamela+Wakefield&amp;rft.au=and+Rajesh+Poddar&amp;rft.au=and+Randee+Tengi&amp;rft.au=Benjamin+Haskell&amp;rft.au=Christiane+Fellbaum&amp;rft.aufirst=George+A.&amp;rft.aulast=Miller&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwordnetweb.princeton.edu%2Fperl%2Fwebwn%3Fs%3DEarth%2Bscience%26sub%3DSearch%2BWordNet%26o2%3D%26o0%3D1%26o7%3D%26o5%3D%26o1%3D1%26o6%3D%26o4%3D%26o3%3D%26h%3D0&amp;rft.jtitle=WordNet+a+lexical+database+for+the+English+language&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web"><a class="external text" href="http://www.oceanservice.noaa.gov/education/kits/geodesy/welcome.html" rel="nofollow">"NOAA National Ocean Service Education: Geodesy"</a>. National Oceanic and Atmospheric Administration. 2005-03-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.btitle=NOAA+National+Ocean+Service+Education%3A+Geodesy&amp;rft.date=2005-03-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.oceanservice.noaa.gov%2Feducation%2Fkits%2Fgeodesy%2Fwelcome.html&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book" id="CITEREFOldroyd2006">Oldroyd, David (2006). <i>Earth Cycles: A historical perspective</i>. Westport, Connicticut: Greenwood Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-313-33229-0" title="Special:BookSources/0-313-33229-0">0-313-33229-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.aufirst=David&amp;rft.aulast=Oldroyd&amp;rft.btitle=Earth+Cycles%3A+A+historical+perspective&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-313-33229-0&amp;rft.place=Westport%2C+Connicticut&amp;rft.pub=Greenwood+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Reed, Christina (2008). <i>Earth Science: Decade by Decade</i>. New York, NY: Facts on File. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8160-5533-3" title="Special:BookSources/978-0-8160-5533-3">978-0-8160-5533-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.aufirst=Christina&amp;rft.aulast=Reed&amp;rft.btitle=Earth+Science%3A+Decade+by+Decade&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-8160-5533-3&amp;rft.place=New+York%2C+NY&amp;rft.pub=Facts+on+File&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web" id="CITEREFSimison_2007">Simison, W. Brian (2007-02-05). <a class="external text" href="http://www.ucmp.berkeley.edu/geology/tecmech.html" rel="nofollow">"The mechanism behind plate tectonics"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.au=Simison%2C+W.+Brian&amp;rft.btitle=The+mechanism+behind+plate+tectonics&amp;rft.date=2007-02-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ucmp.berkeley.edu%2Fgeology%2Ftecmech.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book" id="CITEREFSmithPun2006">Smith, Gary A.; Pun, Aurora (2006). <i>How Does the Earth Work? Physical Geology</i> and the <i>Process of Science</i>. Upper Saddle River, NJ 07458: Pearson Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-034129-0" title="Special:BookSources/0-13-034129-0">0-13-034129-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+science&amp;rft.aufirst=Gary+A.&amp;rft.aulast=Smith&amp;rft.au=Pun%2C+Aurora&amp;rft.btitle=How+Does+the+Earth+Work%3F+Physical+Geology+and+the+Process+of+Science&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-13-034129-0&amp;rft.place=Upper+Saddle+River%2C+NJ+07458&amp;rft.pub=Pearson+Prentice+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>Tarbuck E. J., Lutgens F. K., and Tasa D., 2002. Earth Science, Prentice Hall, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780130353900">ISBN 978-0-13-035390-0</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.americangeosciences.org/" rel="nofollow">American Geosciences Institute</a></li>
+<li><a class="external text" href="http://epod.usra.edu/" rel="nofollow">Earth Science Picture of the Day</a>, a service of <a href="/wiki/Universities_Space_Research_Association" title="Universities Space Research Association">Universities Space Research Association</a>, sponsored by <a href="/wiki/Goddard_Space_Flight_Center" title="Goddard Space Flight Center">NASA Goddard Space Flight Center</a>.</li>
+<li><a class="external text" href="http://tierra.rediris.es/Geoethics_Planetary_Protection/" rel="nofollow">Geoethics in Planetary and Space Exploration</a>.</li>
+<li><a class="external text" href="http://www.nestanet.org/cms/content/welcome" rel="nofollow">National Earth Science Teachers Association</a></li>
+<li><a class="external text" href="http://www.geosciences.com/" rel="nofollow">Earth Sciences Degree Program Directory</a></li>
+</ul>
+
+
+
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20653168-0!*!0!!en!4!* and timestamp 20161106120537 and revision id 743806523
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

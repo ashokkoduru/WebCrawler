@@ -1,0 +1,22 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p><b>European Center of Sustainable Development ECSDEV</b> is an international, cross-disciplinary research center founded in Rome Italy on February 10, 2010. The ECSDEV's main areas of research range from developmental economics to urban planning and more.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Publications">Publications</span></h2>
+<p>ECSDEV produces a variety of publications, among them is the <b>European Journal of Sustainable Development</b>, a double blinded peer-reviewed <a href="/wiki/Open_access_journal" title="Open access journal">open access journal</a>. <b>EJSD</b> was established as the official journal of ECSDEV, to provide an international forum for debates among diverse disciplines, such as human development, environmental and energy economics, health education studies, and related fields.</p>
+
+<h2><span class="mw-headline" id="ICSD_Conference_Rome_Italy">ICSD Conference Rome Italy</span></h2>
+<p>ECSDEV organizes the 2017 International Conference on Sustainable Development (ICSD) in Rome Italy. The ICSD is inspired from the critical challenge of human, environmental, and economic sustainability concerning the present and future generations in a global-scale context.</p>
+<p>ECSDEV has opted for a model in which wider availability is favored by the Open Access Policy.</p>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.ecsdev.org/" rel="nofollow">European Center of Sustainable Development</a></li>
+<li><a class="external text" href="http://www.ecsdev.org/index.php/conference" rel="nofollow">ICSD Conference Rome Italy</a></li>
+<li><a class="external text" href="http://ojs.ecsdev.org/index.php/ejsd/issue/archive" rel="nofollow">European Journal of Sustainable Development</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:41748302-0!*!0!!en!4!* and timestamp 20161031055354 and revision id 745094971
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

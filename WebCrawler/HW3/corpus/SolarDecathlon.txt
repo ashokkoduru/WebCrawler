@@ -1,0 +1,247 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p>The U.S. <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">Department of Energy</a> <b>Solar Decathlon</b> is an international collegiate competition made up of 10 contests that challenge student teams to design and build full-size, solar-powered houses. The winner of the competition is the team that best blends design excellence and smart energy production with innovation, market potential, and energy and water efficiency.</p>
+<p>The first Solar Decathlon was held in 2002. The competition has since occurred biennially in 2005, 2007, 2009, 2011, 2013 and 2015. The Solar Decathlon 2017 will be located in Denver, Colorado, adjacent to the 61st &amp; Peña station on the University of Colorado A line commuter train connecting Denver International Airport to downtown Union Station. In addition to the competition, Solar Decathlon 2017 will also feature a sustainability expo, professional development and consumer workshops, middle-school education events, and a community festival.</p>
+<p>Open to the public and free of charge, the Solar Decathlon allows visitors to tour energy- and water-efficient houses, and gather ideas to save energy and conserve water in their own homes.</p>
+<p>The Solar Decathlon 2017 competition is presented by the <a class="mw-redirect" href="/wiki/U.S._Department_of_Energy" title="U.S. Department of Energy">U.S. Department of Energy</a> and administered by Energetics, Incorporated, a subsidiary of <a href="/wiki/VSE_Corporation" title="VSE Corporation">VSE Corporation</a>. Previous competitions were administered by the <a href="/wiki/National_Renewable_Energy_Laboratory" title="National Renewable Energy Laboratory">National Renewable Energy Laboratory</a> (NREL).</p>
+<p>Since the first competition in 2002, the Solar Decathlon has expanded internationally to include four additional worldwide competitions in Europe, China, Latin America and Caribbean, and the Middle East. <a href="/wiki/Solar_Decathlon_Europe" title="Solar Decathlon Europe">Solar Decathlon Europe</a> was established under a 2007 memorandum of understanding between the United States and <a href="/wiki/Spain" title="Spain">Spain</a> , which hosted competitions in 2010 and 2012. <a href="/wiki/France" title="France">France</a> hosted in 2014. The Solar Decathlon China was established with the signing of a memorandum of understanding between the U.S. Department of Energy, China’s National Energy Administration, <a href="/wiki/Peking_University" title="Peking University">Peking University</a> and Applied Materials on January 20, 2011.The first Solar Decathlon China took place in August 2013 in the city of Datong. The next Solar Decathlon China will take place in summer 2017 and was formed through a memorandum of understanding among the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a>, the People’s Republic of <a href="/wiki/China" title="China">China</a>, and the China Overseas Development Corporation.</p>
+<p>Solar Decathlon Latin America and Caribbean was established under a memorandum of understanding between the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a> and the government of <a href="/wiki/Colombia" title="Colombia">Colombia</a> in 2014. The first competition was held in <a href="/wiki/Cali" title="Cali">Cali</a> in December 2015.</p>
+<p>Solar Decathlon Middle East, to be held in Dubai, United Arab Emirates, in 2018, was formed by a memorandum of understanding between the <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a> and the <a href="/wiki/Dubai_Electricity_and_Water_Authority" title="Dubai Electricity and Water Authority">Dubai Electricity and Water Authority</a> in 2015.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+
+<p>The inaugural Solar Decathlon was open to the public between September 19 and October 6, 2002. Fourteen teams from across the United States, including <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>, presented their projects on the <a href="/wiki/National_Mall" title="National Mall">National Mall</a> in <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a> The <a href="/wiki/University_of_Colorado" title="University of Colorado">University of Colorado</a> was awarded first place. At the second Solar Decathlon, likewise held on the National Mall on October 6–16, 2005, eighteen teams from the United States, Canada, and Spain participated; the University of Colorado successfully defended its championship.</p>
+<p>The third Solar Decathlon took place on the National Mall on October 12–20, 2007. Twenty teams from the United States, Canada, Spain, and Germany competed, and <a class="mw-redirect" href="/wiki/Darmstadt_University_of_Technology" title="Darmstadt University of Technology">Technische Universität Darmstadt</a> (Team Germany) was named the overall champion. The fourth Solar Decathlon was held on the National Mall on October 8–18, 2009, and included teams from the United States, Canada, Germany, and Spain; Team Germany was named the winner for a second time.</p>
+<p>The fifth Solar Decathlon took place between September 23 and October 2, 2011, with nineteen participating teams representing the United States, China, New Zealand, Belgium, and Canada. The event was held in Washington D.C.'s <a href="/wiki/West_Potomac_Park" title="West Potomac Park">West Potomac Park</a>, near the <a href="/wiki/Potomac_River" title="Potomac River">Potomac River</a>, the <a href="/wiki/Tidal_Basin" title="Tidal Basin">Tidal Basin</a> and the <a href="/wiki/Franklin_Delano_Roosevelt_Memorial" title="Franklin Delano Roosevelt Memorial">Franklin Delano Roosevelt Memorial</a>, along a road between the <a href="/wiki/Lincoln_Memorial" title="Lincoln Memorial">Lincoln</a> and <a href="/wiki/Jefferson_Memorial" title="Jefferson Memorial">Jefferson Memorials</a>. The <a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">University of Maryland</a> was the overall competition winner. The sixth Solar Decathlon took place on October 3–13, 2013, in <a href="/wiki/Orange_County_Great_Park" title="Orange County Great Park">Orange County Great Park</a> in <a href="/wiki/Irvine,_California" title="Irvine, California">Irvine, California</a> – it was the first Solar Decathlon to take place outside Washington D.C., and was won by <a class="mw-redirect" href="/wiki/Vienna_University_of_Technology" title="Vienna University of Technology">Vienna University of Technology</a> (Team Austria). The seventh Solar Decathlon was held October 8 – 18, 2015, also at the <a href="/wiki/Orange_County_Great_Park" title="Orange County Great Park">Orange County Great Park</a>. Stevens Institute of Technology was the overall winner. This was their third Solar Decathlon competition.</p>
+<h3><span class="mw-headline" id="Awards">Awards</span></h3>
+<p>In 2010, the <a href="/wiki/National_Building_Museum" title="National Building Museum">National Building Museum</a> awarded the Solar Decathlon an <a href="/wiki/Honor_Award" title="Honor Award">Honor Award</a> for its emphasis on "renewable energy, energy-efficient, and environmentally responsible systems" and its role in "educating a new generation of built-environment professionals".</p>
+<h2><span class="mw-headline" id="Scope_of_contests">Scope of contests</span></h2>
+<p>Like the Olympic decathlon, the U.S. Department of Energy Solar Decathlon consists of 10 contests. The contests evaluate cost-effective design; innovation balanced with market potential; water and energy efficiency; energy production and time-of-use energy; and communications strategies. Each Solar Decathlon contest is worth a maximum of 100 points, for a potential competition total of 1,000 points. Teams earn points through task completion, performance monitoring, and jury evaluation.</p>
+<h3><span class="mw-headline" id="Contest_1:_Architecture">Contest 1: Architecture</span></h3>
+<p>For the Architecture Contest of the U.S. Department of Energy Solar Decathlon 2017, teams are required to design and build attractive, high-performance houses that integrate solar and energy efficiency technologies seamlessly into the design.</p>
+<h3><span class="mw-headline" id="Contest_2:_Market_Potential">Contest 2: Market Potential</span></h3>
+<p>For the Market Potential Contest of the U.S. Department of Energy Solar Decathlon 2017, each team is required to design a primary residence for year-round occupancy for a specific target client of its choosing..</p>
+<h3><span class="mw-headline" id="Contest_3:_Engineering">Contest 3: Engineering</span></h3>
+<p>Solar Decathlon houses are marvels of engineering. For the U.S. Department of Energy Solar Decathlon 2017, a jury of engineers will evaluate the engineering design and implementation of each team's house based on the following criteria: Approach, Design, Efficiency, Performance and Documentation.</p>
+<h3><span class="mw-headline" id="Contest_4:_Communications">Contest 4: Communications</span></h3>
+<p>The U.S. Department of Energy Solar Decathlon 2017 teams must develop and implement communications strategies to engage their local communities, provide free tours to visitors during the event in Denver, and make an impact across the world through their digital presence and media outreach.</p>
+<h3><span class="mw-headline" id="Contest_5:_Innovation">Contest 5: Innovation</span></h3>
+<p>New for the U.S. Department of Energy Solar Decathlon 2017, the Innovation Contest encourages teams to take a thoughtful approach to innovation, rather than being limited solely to off-the-shelf solutions.</p>
+<p>Other contests, such as Market Potential, provide further checks and balances to ensure innovative ideas are implemented within market realities.</p>
+<h3><span class="mw-headline" id="Contest_6:_Water">Contest 6: Water</span></h3>
+<p>Always ahead of their time, past Solar Decathlon teams have consistently integrated water use and reuse strategies into their designs, even though no points were awarded for this effort. Now, the U.S. Department of Energy Solar Decathlon 2017 is rewarding smart water solutions for the first time.</p>
+<p>This new contest is important not only because water is a precious resource, but also because water and energy are inextricably linked—it takes water to make the energy we use, and it takes energy to treat and deliver the clean water we require.</p>
+<h3><span class="mw-headline" id="Contest_7:_Health_and_Comfort">Contest 7: Health and Comfort</span></h3>
+<p>New for 2017, the U.S. Department of Energy Solar Decathlon Health and Comfort Contest combines new contest components with those from previous Solar Decathlon competitions. Teams are challenged to build a house that minimizes the flow of cooled air in summer or heated air in winter to the outdoors, operate heating and cooling systems that keep temperature and humidity steady, all while maintaining healthy indoor air quality.</p>
+<h3><span class="mw-headline" id="Contest_8:_Appliances">Contest 8: Appliances</span></h3>
+<p>The U.S. Department of Energy Solar Decathlon 2017 Appliances Contest is designed to mimic the appliance use of an average U.S. home. Teams earn points for operating their refrigerator and freezer, washing and drying laundry, simulating cooking tasks and hot showers.</p>
+<h3><span class="mw-headline" id="Contest_9:_Home_Life">Contest 9: Home Life</span></h3>
+<p>The Home Life Contest in the U.S. Department of Energy Solar Decathlon 2017 demonstrates whether or not a house is capable of being a home. Teams are required to engage in a variety of activities just like real homeowners. They share meals with friends and neighbors, watch television, use their computers, and host games nights. They even commute in an electric vehicle charged from the house's solar electric system.</p>
+<h3><span class="mw-headline" id="Contest_10:_Energy_Contest">Contest 10: Energy Contest</span></h3>
+<p>The Energy Contest of the U.S. Department of Energy Solar Decathlon 2017 evaluates each team's energy production and a theoretical value to a utility of the energy they both contribute to and take from the Solar Decathlon electricity grid.</p>
+<p>For energy production, teams receive full points for producing at least as much energy as its house needs, thus achieving a net energy consumption of zero during the competition.</p>
+<p>The energy value component of the Energy Contest is designed to mimic the arrangement a consumer with a solar-powered house may have with a utility, including a net-metering agreement and time-of-use electricity rates.</p>
+<h2><span class="mw-headline" id="Competitors">Competitors</span></h2>
+<h3><span class="mw-headline" id="2017">2017</span></h3>
+<p>Teams selected for the Solar Decathlon 2017 competition to be held in Denver, CO are:</p>
+<ul>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-georgia.html" rel="nofollow">Georgia Tech</a>: Georgia Institute of Technology (Atlanta, GA)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-las-vegas.html" rel="nofollow">Las Vegas</a>: University of Nevada, Las Vegas (Las Vegas, NV)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-maryland.html" rel="nofollow">Maryland</a>: University of Maryland (College Park, MD)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-missouri-st.html" rel="nofollow">Missouri S&amp;T</a>: Missouri University of Science and Technology (Rolla, MO)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-netherlands.html" rel="nofollow">Netherlands</a>: HU University of Applied Science Utrecht (Utrecht, Netherlands)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-northwestern.html" rel="nofollow">Northwestern</a>: Northwestern University (Evanston, IL)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-switzerland.html" rel="nofollow">Swiss Team</a>: École Polytechnique Fédérale de Lausanne, School of Engineering and Architecture Fribourg, Geneva University of Art and Design, and the University of Fribourg (Lausanne, Switzerland and Fribourg, Switzerland)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-alabama.html" rel="nofollow">Team Alabama</a>: University of Alabama at Birmingham; University of Alabama, Huntsville; and Calhoun Community College (Birmingman, AL, Huntsville, AL and Tanner, AL)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-daytona-beach.html" rel="nofollow">Team Daytona Beach</a>: Embry-Riddle Aeronautical University and Daytona State College (Daytona Beach, FL)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-uc-berkeley.html" rel="nofollow">UC Berkeley</a>: University of California at Berkeley (Berkeley, CA)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-uc-davis.html" rel="nofollow">UC Davis</a>: University of California, Davis (Davis, CA)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-washington-university.html" rel="nofollow">Wash U</a>: Washington University (St. Louis, MO)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-washington-state.html" rel="nofollow">Washington State</a>: Washington State University (Pullman, WA)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2017/competition-team-west-virginia.html" rel="nofollow">West Virginia</a>: West Virginia University (Morgantown, WV)</li>
+</ul>
+<h3><span class="mw-headline" id="2015">2015</span></h3>
+<p>Teams selected for the Solar Decathlon 2015 competition, also held at Orange County Great Park in Irvine, CA.</p>
+<ul>
+<li><a class="external text" href="http://www.calpolysolardecathlon.org/" rel="nofollow">California Polytechnic State University</a> (San Luis Obispo, CA)</li>
+</ul>
+
+<ul>
+<li><a class="external text" href="http://www.solarnest.org/" rel="nofollow">California State University</a>, Sacramento (Sacramento, CA)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2015/competition-team-clemson.html" rel="nofollow">Clemson University</a> (Clemson, SC)</li>
+<li><a class="external text" href="http://shelter.drury.edu/" rel="nofollow">Crowder College (Neosho, MO) and Drury University</a> (Springfield, MO)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2015/competition-team-missouri-st.html" rel="nofollow">Missouri University of Science and Technology</a> (Rolla, MO)</li>
+<li><a class="external text" href="http://durahome.org/" rel="nofollow">New York City College of Technology</a> (New York, NY)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2015/competition-team-ny-alfred.html" rel="nofollow">State University of New York at Alfred College of Technology and Alfred University</a> (Alfred, NY)</li>
+<li><a class="external text" href="http://surehouse.org/" rel="nofollow">Stevens Institute of Technology</a> (Hoboken, NJ)</li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2015/competition-team-florida-singapore.html" rel="nofollow">University of Florida, National University of Singapore, and Santa Fe College</a></li>
+<li><a class="external text" href="http://www.nexushaus.com/" rel="nofollow">The University of Texas at Austin and Technische Universitaet Muenchen</a></li>
+<li><a class="external text" href="http://grow.buffalo.edu/" rel="nofollow">University at Buffalo</a>, The State University of New York</li>
+<li><a class="external text" href="http://solardecathlon2015.ucdavis.edu/" rel="nofollow">University of California</a>, Davis</li>
+<li><a class="external text" href="http://teamoc2015.com/" rel="nofollow">University of California, Irvine; Chapman University; Irvine Valley College and Saddleback College</a></li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2015/competition-team-tennessee.html" rel="nofollow">Vanderbilt University and Middle Tennessee State University</a></li>
+<li><a class="external text" href="http://solar.wvu.edu/" rel="nofollow">West Virginia University and University of Roma Tor Vergata</a></li>
+<li><a class="external text" href="http://www.solardecathlon.gov/2015/competition-team-mass-central-america.html" rel="nofollow">Western New England University, Universidad Tecnológica de Panamá, and Universidad Tecnológica Centroamericana</a></li>
+</ul>
+<h3><span class="mw-headline" id="2013">2013</span></h3>
+
+<p>Teams selected for the Solar Decathlon 2013 competition, the first one to be held outside <a class="mw-redirect" href="/wiki/Washington,_DC" title="Washington, DC">Washington, DC</a>, were:</p>
+<ul>
+<li><a href="/wiki/Arizona_State_University" title="Arizona State University">Arizona State University</a> and The <a href="/wiki/University_of_New_Mexico" title="University of New Mexico">University of New Mexico</a> (Tempe, Arizona, and Albuquerque, New Mexico)</li>
+<li><a class="mw-redirect" href="/wiki/Czech_Technical_University" title="Czech Technical University">Czech Technical University</a> (Prague, Czech Republic)</li>
+<li><a href="/wiki/Hampton_University" title="Hampton University">Hampton University</a> and <a href="/wiki/Old_Dominion_University" title="Old Dominion University">Old Dominion University</a> (Hampton and Norfolk, Virginia)</li>
+<li><a href="/wiki/Middlebury_College" title="Middlebury College">Middlebury College</a> (Middlebury, Vermont)</li>
+<li><a href="/wiki/Missouri_University_of_Science_and_Technology" title="Missouri University of Science and Technology">Missouri University of Science and Technology</a> (Rolla, Missouri)</li>
+<li><a href="/wiki/Norwich_University" title="Norwich University">Norwich University</a> (Northfield, Vermont)</li>
+<li><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's University</a>, <a href="/wiki/Carleton_University" title="Carleton University">Carleton University</a>, and <a href="/wiki/Algonquin_College" title="Algonquin College">Algonquin College</a> (Kingston and Ottawa, Ontario, Canada)</li>
+<li><a href="/wiki/Santa_Clara_University" title="Santa Clara University">Santa Clara University</a> (Santa Clara, California)</li>
+<li><a href="/wiki/Southern_California_Institute_of_Architecture" title="Southern California Institute of Architecture">Southern California Institute of Architecture</a> and <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a> (Los Angeles, California)</li>
+<li><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> (Palo Alto, California)</li>
+<li><a href="/wiki/Stevens_Institute_of_Technology" title="Stevens Institute of Technology">Stevens Institute of Technology</a> (Hoboken, New Jersey)</li>
+<li><a class="mw-redirect" href="/wiki/The_Catholic_University_of_America" title="The Catholic University of America">The Catholic University of America</a>, <a href="/wiki/George_Washington_University" title="George Washington University">George Washington University</a>, and <a href="/wiki/American_University" title="American University">American University</a> (Washington, DC)</li>
+<li><a class="mw-redirect" href="/wiki/The_University_of_North_Carolina_at_Charlotte" title="The University of North Carolina at Charlotte">The University of North Carolina at Charlotte</a> (Charlotte, North Carolina)</li>
+<li><a class="mw-redirect" href="/wiki/The_University_of_Texas_at_El_Paso" title="The University of Texas at El Paso">The University of Texas at El Paso</a> and <a href="/wiki/El_Paso_Community_College" title="El Paso Community College">El Paso Community College</a> (El Paso, Texas)</li>
+<li><a href="/wiki/University_of_Calgary" title="University of Calgary">University of Calgary</a> (Calgary, Alberta, Canada)</li>
+<li><a href="/wiki/University_of_Louisville" title="University of Louisville">University of Louisville</a>, <a href="/wiki/Ball_State_University" title="Ball State University">Ball State University</a> and <a href="/wiki/University_of_Kentucky" title="University of Kentucky">University of Kentucky</a> (Louisville, Kentucky; Muncie, Indiana; and Lexington, Kentucky)</li>
+<li><a class="mw-redirect" href="/wiki/University_of_Nevada_Las_Vegas" title="University of Nevada Las Vegas">University of Nevada Las Vegas</a> (Las Vegas, Nevada)</li>
+<li><a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a> (Los Angeles, California)</li>
+<li><a class="mw-redirect" href="/wiki/Vienna_University_of_Technology" title="Vienna University of Technology">Vienna University of Technology</a> (Vienna, Austria) <i><b>winner 2013</b></i></li>
+<li><a href="/wiki/West_Virginia_University" title="West Virginia University">West Virginia University</a> (Morgantown, West Virginia)</li>
+</ul>
+<h3><span class="mw-headline" id="2011">2011</span></h3>
+<p>Teams selected for the Solar Decathlon 2011 competition were:</p>
+<ul>
+<li>Appalachian State University (<a class="external text" href="http://www.thesolarhomestead.com" rel="nofollow">team page</a>)</li>
+<li>Florida International University (<a class="external text" href="http://solardecathlon.fiu.edu" rel="nofollow">team page</a>)</li>
+<li>Middlebury College (<a class="external text" href="http://www.solardecathlon.gov/past/2011/team_middlebury.html" rel="nofollow">team page</a> )</li>
+<li>New Zealand: <a href="/wiki/Victoria_University_of_Wellington" title="Victoria University of Wellington">Victoria University of Wellington</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2011/team_new_zealand.html" rel="nofollow">team page</a>)</li>
+<li>The Ohio State University (<a class="external text" href="http://www.solardecathlon.gov/past/2011/team_ohio_state.html" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Parsons_The_New_School_for_Design" title="Parsons The New School for Design">Parsons The New School for Design</a>, <a class="mw-redirect" href="/wiki/Milano_The_New_School_for_Management_and_Urban_Policy" title="Milano The New School for Management and Urban Policy">Milano The New School for Management and Urban Policy</a>, and <a href="/wiki/Stevens_Institute_of_Technology" title="Stevens Institute of Technology">Stevens Institute of Technology</a> (<a class="external text" href="http://parsit.parsons.edu" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Purdue_University" title="Purdue University">Purdue University</a> (<a class="external text" href="http://www.purdue.edu/inhome" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Southern_California_Institute_of_Architecture" title="Southern California Institute of Architecture">The Southern California Institute of Architecture</a> and <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a> (<a class="external text" href="http://www.chip2011.com/" rel="nofollow">team page</a>)</li>
+<li>Team Belgium: Ghent University (<a class="external text" href="http://www.solardecathlon.ugent.be" rel="nofollow">team page</a>)</li>
+<li>Team Canada: University of Calgary (<a class="external text" href="http://www.solardecathlon.ca" rel="nofollow">team page</a>)</li>
+<li>Team China: Tongji University (<a class="external text" href="http://www.solardecathlon.gov/past/2011/team_china.html" rel="nofollow">team page</a>)</li>
+<li>Team Florida: <a href="/wiki/Florida_State_University" title="Florida State University">Florida State University</a>, the <a href="/wiki/University_of_Central_Florida" title="University of Central Florida">University of Central Florida</a>, the <a href="/wiki/University_of_Florida" title="University of Florida">University of Florida</a>, and the <a href="/wiki/University_of_South_Florida" title="University of South Florida">University of South Florida</a> (<a class="external text" href="http://www.flexhouse.org" rel="nofollow">team page</a>)</li>
+<li>Team Massachusetts: <a href="/wiki/Massachusetts_College_of_Art_and_Design" title="Massachusetts College of Art and Design">Massachusetts College of Art and Design</a> and the <a href="/wiki/University_of_Massachusetts_Lowell" title="University of Massachusetts Lowell">University of Massachusetts Lowell</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2011/team_massachusetts.html" rel="nofollow">team page</a>)</li>
+<li>Team New Jersey: Rutgers - The State University of New Jersey and New Jersey Institute of Technology (<a class="external text" href="http://www.solardecathlon.gov/past/2011/team_new_jersey.html" rel="nofollow">team page</a>)</li>
+<li>Team New York: The City College of New York (<a class="external text" href="http://www.solardecathlon.gov/past/2011/team_new_york.html" rel="nofollow">team page</a>)</li>
+<li>Tidewater Virginia: <a href="/wiki/Old_Dominion_University" title="Old Dominion University">Old Dominion University</a> and <a href="/wiki/Hampton_University" title="Hampton University">Hampton University</a> (<a class="external text" href="http://www.teamtidewaterva.org/" rel="nofollow">team page</a>)</li>
+<li>University of Hawaii (<a class="external text" href="http://www.solar.hawaii.edu" rel="nofollow">team page</a>)*On June 1, 2011, the U.S. Department of Energy received formal notification from the *University of Hawaii of its withdrawal from Solar Decathlon 2011.</li>
+<li><a href="/wiki/Illinois_Solar_Decathlon" title="Illinois Solar Decathlon">University of Illinois at Urbana-Champaign</a> (<a class="external text" href="http://solardecathlon.illinois.edu/2011/" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">University of Maryland</a> (<a class="external text" href="http://2011.solarteam.org" rel="nofollow">team page</a>) <i><b>winner 2011</b></i></li>
+<li>The University of Tennessee (<a class="external text" href="http://www.solardecathlon.gov/past/2011/team_tennessee.html" rel="nofollow">team page</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="2009">2009</span></h3>
+<p>The competing teams in Solar Decathlon 2009 were:</p>
+<ul>
+<li><a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a> (<a class="external text" href="http://cusd.cornell.edu/" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Iowa_State_University_of_Science_and_Technology" title="Iowa State University of Science and Technology">Iowa State University</a> (<a class="external text" href="http://www.solard.iastate.edu/" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/The_Pennsylvania_State_University" title="The Pennsylvania State University">Penn State</a> (team <a class="external text" href="http://www.solardecathlon.gov/past/2009/team_penn.html" rel="nofollow">page</a>)</li>
+<li><a href="/wiki/Rice_University" title="Rice University">Rice University</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2009/team_rice.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Alberta_Solar_Decathlon_Project" title="Alberta Solar Decathlon Project">Team Alberta</a>: <a href="/wiki/University_of_Calgary" title="University of Calgary">University of Calgary</a>, SAIT Polytechnic, Alberta College of Art and Design, and Mount Royal College (<a class="external text" href="http://www.solardecathlon.gov/past/2009/team_alberta.html" rel="nofollow">team page</a>)</li>
+<li>Team Boston: <a href="/wiki/Boston_Architectural_College" title="Boston Architectural College">Boston Architectural College</a> and <a href="/wiki/Tufts_University" title="Tufts University">Tufts University</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2009/team_boston.html" rel="nofollow">team page</a>)</li>
+<li>Team California: <a href="/wiki/Santa_Clara_University" title="Santa Clara University">Santa Clara University</a> and <a href="/wiki/California_College_of_the_Arts" title="California College of the Arts">California College of the Arts</a> (<a class="external text" href="http://www.refracthouse.com/" rel="nofollow">team page</a>)</li>
+<li>Team Germany: <a class="mw-redirect" href="/wiki/Darmstadt_University_of_Technology" title="Darmstadt University of Technology">Technische Universität Darmstadt</a> (<a class="external text" href="http://www.solardecathlon.tu-darmstadt.de/home/home.en.jsp" rel="nofollow">team page</a>) <i><b>winner 2009</b></i></li>
+<li>Team Missouri: <a class="mw-redirect" href="/wiki/Missouri_S%26T" title="Missouri S&amp;T">Missouri University of Science and Technology</a> and <a href="/wiki/University_of_Missouri" title="University of Missouri">University of Missouri</a> (<a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">team page</a>)</li>
+<li>Team Ontario/BC: <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a>, <a href="/wiki/Ryerson_University" title="Ryerson University">Ryerson University</a>, and <a href="/wiki/Simon_Fraser_University" title="Simon Fraser University">Simon Fraser University</a> (<a class="external text" href="http://www.team-north.com/" rel="nofollow">team page</a>)</li>
+<li>Team Spain: <a class="mw-redirect" href="/wiki/Universidad_Polit%C3%A9cnica_de_Madrid" title="Universidad Politécnica de Madrid">Universidad Politécnica de Madrid</a> (<a class="external text" href="http://www.solardecathlon.upm.es/en/ecube.php" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/The_Ohio_State_University" title="The Ohio State University">The Ohio State University</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2009/team_ohio.html" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/The_University_of_Arizona" title="The University of Arizona">The University of Arizona</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2009/team_arizona.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_Puerto_Rico" title="University of Puerto Rico">Universidad de Puerto Rico</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2009/team_puerto_rico.html" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/University_of_Illinois_at_Urbana-Champaign" title="University of Illinois at Urbana-Champaign">University of Illinois at Urbana-Champaign</a> (<a class="external text" href="http://2009.solardecathlon.illinois.edu/" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_Kentucky" title="University of Kentucky">University of Kentucky</a> (<a class="external text" href="http://www.uky.edu/solarhouse/" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_Louisiana_at_Lafayette" title="University of Louisiana at Lafayette">University of Louisiana at Lafayette</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2009/team_louisiana.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2009/team_minnesota.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_Wisconsin%E2%80%93Milwaukee" title="University of Wisconsin–Milwaukee">University of Wisconsin–Milwaukee</a> (<a class="external text" href="http://www4.uwm.edu/uwm_sd09/" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Virginia_Polytechnic_Institute_and_State_University" title="Virginia Polytechnic Institute and State University">Virginia Tech</a> (<a class="external text" href="http://www.solar.arch.vt.edu/" rel="nofollow">team page</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="2007">2007</span></h3>
+
+
+<p>The 20 competing teams in Solar Decathlon 2007 were:</p>
+<ul>
+<li><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_carnegie.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a> (<a class="external text" href="http://cusd.cornell.edu/" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">Georgia Institute of Technology</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_georgia.html" rel="nofollow">team page</a>)</li>
+<li>Kansas Project Solar House: <a href="/wiki/Kansas_State_University" title="Kansas State University">Kansas State University</a> and <a href="/wiki/University_of_Kansas" title="University of Kansas">University of Kansas</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_kansas.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Lawrence_Technological_University" title="Lawrence Technological University">Lawrence Technological University</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_lawrence.html" rel="nofollow">team page</a>)</li>
+<li><a class="external text" href="http://web.mit.edu/solardecathlon/" rel="nofollow">Massachusetts Institute of Technology (team page)</a></li>
+<li><a href="/wiki/New_York_Institute_of_Technology" title="New York Institute of Technology">New York Institute of Technology</a> (<a class="external text" href="http://iris.nyit.edu/solardecathlon2007/" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Pennsylvania_State_University" title="Pennsylvania State University">Penn State University</a> (<a class="external text" href="http://solar.psu.edu/2007/" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Santa_Clara_University" title="Santa Clara University">Santa Clara University</a> (team <a class="external text" href="http://www.solardecathlon.gov/past/2007/team_santa_clara.html" rel="nofollow">page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/University_of_Illinois_at_Urbana-Champaign" title="University of Illinois at Urbana-Champaign">University of Illinois at Urbana-Champaign</a> (<a class="external text" href="http://www.solardecathlon.illinois.edu/2007/" rel="nofollow">team page</a>)</li>
+<li>Team Montréal: <a class="mw-redirect" href="/wiki/%C3%89cole_de_Technologie_Sup%C3%A9rieure" title="École de Technologie Supérieure">École de Technologie Supérieure</a>, <a href="/wiki/Universit%C3%A9_de_Montr%C3%A9al" title="Université de Montréal">Université de Montréal</a>, and <a href="/wiki/McGill_University" title="McGill University">McGill University</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_montreal.html" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Darmstadt_University_of_Technology" title="Darmstadt University of Technology">Technische Universität Darmstadt</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_darmstadt.html" rel="nofollow">team page</a>) <i><b>winner 2007</b></i></li>
+<li><a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M University</a> (<a class="external text" href="http://archone.tamu.edu/solardecathlon/" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Universidad_Polit%C3%A9cnica_de_Madrid" title="Universidad Politécnica de Madrid">Universidad Politécnica de Madrid</a> (<a class="external text" href="http://www.solardecathlon.upm.es/en/history-casa-solar-2007.php" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Universidad_de_Puerto_Rico" title="Universidad de Puerto Rico">Universidad de Puerto Rico</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_puerto_rico.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_Cincinnati" title="University of Cincinnati">University of Cincinnati</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_cincinnati.html" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/University_of_Colorado_at_Boulder" title="University of Colorado at Boulder">University of Colorado at Boulder</a> (<a class="external text" href="http://solar.colorado.edu/" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">University of Maryland</a> (<a class="external text" href="http://2007.solarteam.org/page.php?id=250" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/University_of_Missouri-Rolla" title="University of Missouri-Rolla">University of Missouri-Rolla</a> (now <a class="mw-redirect" href="/wiki/Missouri_S%26T" title="Missouri S&amp;T">Missouri S&amp;T</a>) (<a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">University of Texas at Austin</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2007/team_texas.html" rel="nofollow">team page</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="2005">2005</span></h3>
+
+<p>The 18 competing universities in Solar Decathlon 2005 were:</p>
+<ul>
+<li><a href="/wiki/California_Polytechnic_State_University" title="California Polytechnic State University">California Polytechnic State University</a></li>
+<li>Canadian Solar Decathlon: <a class="mw-redirect" href="/wiki/Concordia_University_(Quebec)" title="Concordia University (Quebec)">Concordia University</a> and Université de Montréal</li>
+<li>Cornell University (<a class="external text" href="http://www.cusd.cornell.edu" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Crowder_College" title="Crowder College">Crowder College</a></li>
+<li><a href="/wiki/Florida_International_University" title="Florida International University">Florida International University</a></li>
+<li>New York Institute of Technology (<a class="external text" href="http://iris.nyit.edu/solardecathlon/" rel="nofollow">team page</a>)</li>
+<li>Pittsburgh Synergy: Carnegie Mellon University, <a href="/wiki/University_of_Pittsburgh" title="University of Pittsburgh">University of Pittsburgh</a>, and the <a href="/wiki/Art_Institute_of_Pittsburgh" title="Art Institute of Pittsburgh">Art Institute of Pittsburgh</a> (<a class="external text" href="http://www.solardecathlon.gov/past/2005/team_pittsburgh.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Rhode_Island_School_of_Design" title="Rhode Island School of Design">Rhode Island School of Design</a></li>
+<li><a href="/wiki/University_of_Puerto_Rico" title="University of Puerto Rico">Universidad de Puerto Rico</a></li>
+<li><a class="mw-redirect" href="/wiki/Universidad_Polit%C3%A9cnica_de_Madrid" title="Universidad Politécnica de Madrid">Universidad Politécnica de Madrid</a> (<a class="external text" href="http://www.solardecathlon.upm.es/en/history-magic-box-2005.php" rel="nofollow">team page</a>)</li>
+<li><a class="mw-redirect" href="/wiki/University_of_Colorado_System" title="University of Colorado System">University of Colorado</a>, <a href="/wiki/University_of_Colorado_Denver" title="University of Colorado Denver">Denver</a> and <a class="mw-redirect" href="/wiki/University_of_Colorado_at_Boulder" title="University of Colorado at Boulder">Boulder</a> <i><b>winner 2005</b></i></li>
+<li><a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">University of Maryland</a> (<a class="external text" href="http://2005.solarteam.org/page.php?id=65" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_Massachusetts_Dartmouth" title="University of Massachusetts Dartmouth">University of Massachusetts Dartmouth</a></li>
+<li><a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a></li>
+<li><a class="mw-redirect" href="/wiki/University_of_Missouri%E2%80%93Rolla" title="University of Missouri–Rolla">University of Missouri–Rolla</a> (now <a class="mw-redirect" href="/wiki/Missouri_S%26T" title="Missouri S&amp;T">Missouri S&amp;T</a>) and Rolla Technical Institute (<a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">team page</a>)</li>
+<li>University of Texas at Austin (<a class="external text" href="http://www.solardecathlon.gov/past/2005/team_texas.html" rel="nofollow">UT SolarD team page</a>)</li>
+<li><a href="/wiki/Virginia_Tech" title="Virginia Tech">Virginia Tech</a> (<a class="external text" href="http://www.lumenhaus.com/eu/about/pasthouses.html" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Washington_State_University" title="Washington State University">Washington State University</a></li>
+</ul>
+<h3><span class="mw-headline" id="2002">2002</span></h3>
+<p>The 14 competing teams in Solar Decathlon 2002 were:</p>
+<ul>
+<li><a href="/wiki/Auburn_University" title="Auburn University">Auburn University</a></li>
+<li><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon</a></li>
+<li><a href="/wiki/Crowder_College" title="Crowder College">Crowder College</a></li>
+<li><a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M University</a></li>
+<li><a href="/wiki/Tuskegee_University" title="Tuskegee University">Tuskegee University</a></li>
+<li><a class="mw-redirect" href="/wiki/University_of_Colorado_at_Boulder" title="University of Colorado at Boulder">University of Colorado at Boulder</a> <i><b>winner 2002</b></i></li>
+<li><a href="/wiki/University_of_Delaware" title="University of Delaware">University of Delaware</a></li>
+<li><a class="mw-redirect" href="/wiki/University_of_Maryland" title="University of Maryland">University of Maryland</a></li>
+<li><a class="mw-redirect" href="/wiki/University_of_Missouri%E2%80%93Rolla" title="University of Missouri–Rolla">University of Missouri–Rolla</a> (now <a class="mw-redirect" href="/wiki/Missouri_S%26T" title="Missouri S&amp;T">Missouri S&amp;T</a>) and Rolla Technical Institute (<a class="external text" href="http://solarhouse.mst.edu/" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/University_of_North_Carolina_at_Charlotte" title="University of North Carolina at Charlotte">University of North Carolina at Charlotte</a></li>
+<li><a href="/wiki/University_of_Puerto_Rico" title="University of Puerto Rico">Universidad de Puerto Rico</a></li>
+<li><a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">University of Texas at Austin</a></li>
+<li><a href="/wiki/University_of_Virginia" title="University of Virginia">University of Virginia</a> (<a class="external text" href="http://www.faculty.virginia.edu/solarhome/" rel="nofollow">team page</a>)</li>
+<li><a href="/wiki/Virginia_Tech" title="Virginia Tech">Virginia Tech</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Green_building" title="Green building">Green building</a></li>
+<li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">Leadership in Energy and Environmental Design</a>, a U.S. certification for sustainable architecture</li>
+<li><a href="/wiki/Low-energy_house" title="Low-energy house">Low-energy house</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Sustainable architecture</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.solardecathlon.gov" rel="nofollow">Solar Decathlon official website</a></li>
+<li><a class="external text" href="http://www.solardecathlon.gov/international-europe.html" rel="nofollow">Solar Decathlon Europe official website</a></li>
+<li><a class="external text" href="http://www.solardecathlon.gov/international-china.html" rel="nofollow">Solar Decathlon China official website</a></li>
+<li><a class="external text" href="http://www.dcphototour.com/WashingtonDCEventsPhotoTour/solar_decathlon_2009%20.shtml" rel="nofollow">Solar Decathlon 2009 photo gallery</a> via DC Photo Tour</li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2701674-0!*!0!!en!4!* and timestamp 20161111135853 and revision id 748935932
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

@@ -1,0 +1,70 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><p>In <a href="/wiki/Biology" title="Biology">biology</a>, <b>population growth</b> is the increase in the number of individuals in a <a href="/wiki/Population" title="Population">population</a>.</p>
+<p>Global human population growth amounts to around 75 million annually, or 1.1% per year. The <a href="/wiki/World_population" title="World population">global population</a> has grown from 1 billion in 1800 to 7 billion in 2012. It is expected to keep growing, and estimates have put the total population at 8.4 billion by mid-2030, and 9.6 billion by mid-2050. Many nations with rapid population growth have low standards of living, whereas many nations with low rates of population growth have high standards of living.</p>
+
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Population_growth_rate">Population growth rate</span></h2>
+<p>The "population growth rate" is the rate at which the number of individuals in a population increases in a given time period, expressed as a fraction of the initial population. Specifically, population growth rate refers to the change in population over a unit time period, often expressed as a percentage of the number of individuals in the population at the beginning of that period. This can be written as the formula, valid for a sufficiently small time interval:</p>
+
+<p>A positive growth rate indicates that the population is increasing, while a negative growth rate indicates that the population is decreasing. A growth ratio of zero indicates that there were the same number of individuals at the beginning and end of the period—a growth rate may be zero even when there are significant changes in the <a href="/wiki/Birth_rate" title="Birth rate">birth rates</a>, <a class="mw-redirect" href="/wiki/Death_rate" title="Death rate">death rates</a>, <a class="mw-redirect" href="/wiki/Immigration_rate" title="Immigration rate">immigration rates</a>, and age distribution between the two times.</p>
+<p>A related measure is the <a href="/wiki/Net_reproduction_rate" title="Net reproduction rate">net reproduction rate</a>. In the absence of migration, a net reproduction rate of more than 1 indicates that the population of females is increasing, while a net reproduction rate less than one (<a href="/wiki/Sub-replacement_fertility" title="Sub-replacement fertility">sub-replacement fertility</a>) indicates that the population of females is decreasing.</p>
+<h2><span class="mw-headline" id="Human_population_growth_rate">Human population growth rate</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Total_fertility_rate" title="Total fertility rate">Total fertility rate</a></div>
+
+
+
+<p>In 2009, the estimated annual growth rate was 1.1%. The <a class="mw-redirect" href="/wiki/CIA_World_Factbook" title="CIA World Factbook">CIA World Factbook</a> gives the world annual birthrate, mortality rate, and growth rate as 1.86%, 0.78%, and 1.08% respectively. The last 100 years have seen a massive fourfold increase in the population, due to <a href="/wiki/History_of_medicine#Modern_medicine" title="History of medicine">medical advances</a>, lower mortality rates, and an increase in agricultural productivity made possible by the <a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a>.</p>
+<p>The annual increase in the number of living humans peaked at 88.0 million in 1989, then slowly declined to 73.9 million in 2003, after which it rose again to 75.2 million in 2006. In 2009, the human population increased by 74.6 million. Generally, developed nations have seen a decline in their growth rates in recent decades, though annual growth rates remain above 2% in poverty-stricken countries of the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> and <a href="/wiki/Sub-Saharan_Africa" title="Sub-Saharan Africa">Sub-Saharan Africa</a>, and also in <a href="/wiki/South_Asia" title="South Asia">South Asia</a>, <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>, and <a href="/wiki/Latin_America" title="Latin America">Latin America</a>.</p>
+<p>In some countries the <a href="/wiki/Population_decline" title="Population decline">population is declining</a>, especially in <a href="/wiki/Eastern_Europe" title="Eastern Europe">Eastern Europe</a>, mainly due to low <a href="/wiki/Total_fertility_rate" title="Total fertility rate">fertility rates</a>, high death rates and <a href="/wiki/Emigration" title="Emigration">emigration</a>. In <a href="/wiki/Southern_Africa" title="Southern Africa">Southern Africa</a>, growth is slowing due to the high number of AIDS-related deaths. Some <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> countries might also experience population decline. Japan's population began decreasing in 2005; it now has the highest standard of living in the world.</p>
+<p>The <a class="mw-redirect" href="/wiki/United_Nations_Population_Division" title="United Nations Population Division">United Nations Population Division</a> projects world population to peak at over 10 billion at the end of the 21st century, but <a href="/wiki/Sanjeev_Sanyal" title="Sanjeev Sanyal">Sanjeev Sanyal</a> has argued that global fertility will fall below the replacement rate in the 2020s and that world population will peak below 9 billion by 2050, followed by a long decline.</p>
+<h2><span class="mw-headline" id="Growth_by_country">Growth by country</span></h2>
+<p>According to <a href="/wiki/United_Nations" title="United Nations">United Nations</a> population statistics, the world population grew by 30%, or 1.6 billion humans, between 1990 and 2010. In number of people the increase was highest in India (350 million) and China (196 million). Population growth was among highest in the <a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a> (315%) and <a href="/wiki/Qatar" title="Qatar">Qatar</a> (271%).</p>
+
+
+
+
+
+<h2><span class="mw-headline" id="Into_the_future">Into the future</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Projections_of_population_growth" title="Projections of population growth">Projections of population growth</a></div>
+
+
+<p>According to the UN's 2010 revision to its population projections, world population is projected to peak at 10.1 billion in 2100 compared to 7 billion in 2011. A 2014 paper by demographers from several universities and the United Nations Population Division projected that the world's population would reach about 10.9 billion in 2100 and continue growing thereafter. However, some experts dispute the UN's figures and have argued that birth rates will fall below replacement rate in the 2020s. According to their projections, population growth will be only sustained till the 2040s by rising longevity, but will peak below 9 bn by 2050.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Baby_boom" title="Baby boom">Baby boom</a></li>
+<li><a href="/wiki/Biological_exponential_growth" title="Biological exponential growth">Biological exponential growth</a></li>
+<li><a href="/wiki/Demographic_history" title="Demographic history">Demographic history</a></li>
+<li><a href="/wiki/Demographic_transition" title="Demographic transition">Demographic transition</a></li>
+<li><a href="/wiki/Density_dependence" title="Density dependence">Density dependence</a></li>
+<li><a href="/wiki/Doubling_time" title="Doubling time">Doubling time</a></li>
+<li><a href="/wiki/Fertility_factor_(demography)" title="Fertility factor (demography)">Fertility factor (demography)</a></li>
+<li><a href="/wiki/Irruptive_growth" title="Irruptive growth">Irruptive growth</a></li>
+<li><a href="/wiki/List_of_countries_by_population_growth_rate" title="List of countries by population growth rate">List of countries by population growth rate</a></li>
+<li><a href="/wiki/Natalism" title="Natalism">Natalism</a> and <a href="/wiki/Antinatalism" title="Antinatalism">Antinatalism</a></li>
+<li><a href="/wiki/Population_bottleneck" title="Population bottleneck">Population bottleneck</a></li>
+<li><a href="/wiki/Population_decline" title="Population decline">Population decline</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/World_population" title="World population">World population</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://esa.un.org/unpd/wpp/index.html" rel="nofollow">World Population Prospects, the 2010 Revision</a>, Website of the United Nations Population Division</li>
+<li><a class="external text" href="http://esa.un.org/unpd/ppp/index.html" rel="nofollow">Probabilistic Population Projections, 2nd Revision</a>, Website of the United Nations Population Division</li>
+<li><a class="external text" href="http://www.populationpress.org/publication/index.html" rel="nofollow">2008 Essays on Population Growth</a> Blue Planet United — Population Press</li>
+<li><a class="external text" href="http://www.census.gov/ipc/www/idb/worldpopinfo.php" rel="nofollow">World population growth and trends 1950-2050</a> US Census</li>
+<li><a class="external text" href="http://www.acunu.org/millennium/sof2006.html" rel="nofollow">UN University annual "State of the Future" report, including updates on Millennium Project goals including balancing global population growth &amp; resources</a></li>
+<li><a class="external text" href="https://www.quandl.com/c/society/population-growth-rate-worldbank-by-country" rel="nofollow">Population Growth Rate By Country</a>, aggregated time series data from 1960 to present</li>
+<li><a class="external text" href="http://news.bbc.co.uk/1/hi/sci/tech/6219922.stm" rel="nofollow">BBC News - Birth rate 'harms poverty goals'</a> - 08/12/06</li>
+<li>Tsirel, S. V. 2004. <a class="external text" href="http://www.mmsed.narod.ru/articles/artTsirel.ps" rel="nofollow">On the Possible Reasons for the Hyperexponential Growth of the Earth Population</a>. <i>Mathematical Modeling of Social and Economic Dynamics</i> / Ed. by M. G. Dmitriev and A. P. Petrov, pp. 367–9. Moscow: Russian State Social University, 2004.</li>
+<li><cite class="citation web">Rosling, Hans (25 January 2009). <a class="external text" href="http://www.gapminder.org/videos/what-stops-population-growth/" rel="nofollow">"What stops population growth?"</a>. <i>Gapminder</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-06</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APopulation+growth&amp;rft.atitle=What+stops+population+growth%3F&amp;rft.aufirst=Hans&amp;rft.aulast=Rosling&amp;rft.date=2009-01-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.gapminder.org%2Fvideos%2Fwhat-stops-population-growth%2F&amp;rft.jtitle=Gapminder&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:940606-0!*!0!!en!4!*!math=5 and timestamp 20161111105129 and revision id 748949252
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

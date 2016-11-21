@@ -1,0 +1,13 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><b>Resource productivity</b> is the quantity of good or service (outcome) that is obtained through the expenditure of unit <a href="/wiki/Resource" title="Resource">resource</a>. This can be expressed in monetary terms as the monetary yield per unit resource.</p>
+<p>For example, when applied to <a href="/wiki/Crop" title="Crop">crop</a> <a href="/wiki/Irrigation" title="Irrigation">irrigation</a> it is the yield of crop obtained through use of a given volume of irrigation <a href="/wiki/Water" title="Water">water</a>, the “crop per drop”, which could also be expressed as monetary return from product per use of unit irrigation water.</p>
+<p>Resource productivity and <a href="/wiki/Resource_intensity" title="Resource intensity">resource intensity</a> are key concepts used in <a href="/wiki/Sustainability_measurement" title="Sustainability measurement">sustainability measurement</a> as they attempt to decouple the direct connection between resource use and <a href="/wiki/Environmental_degradation" title="Environmental degradation">environmental degradation</a>. Their strength is that they can be used as a metric for both <a href="/wiki/Economic_cost" title="Economic cost">economic</a> and <a class="mw-redirect" href="/wiki/Environmental_cost" title="Environmental cost">environmental cost</a>. Although these concepts are two sides of the same coin, in practice they involve very different approaches and can be viewed as reflecting, on the one hand, the efficiency of resource production as outcome per unit of resource use (resource productivity) and, on the other hand, the efficiency of resource consumption as resource use per unit outcome (resource intensity). The sustainability objective is to maximize resource productivity while minimizing resource intensity. Scientific and political debates on resource productivity are regularly held at, among others, the <a href="/wiki/World_Resources_Forum" title="World Resources Forum">World Resources Forum</a> conferences.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div>
+
+</div>
+<h2></h2>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18505995-0!*!0!!*!*!* and timestamp 20161022192155 and revision id 736598260
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

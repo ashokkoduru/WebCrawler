@@ -1,0 +1,537 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="hatnote" role="note">This article is about the city in Germany. For Fribourg in Switzerland, see <a href="/wiki/Fribourg" title="Fribourg">Fribourg</a>. For the French hamlet, see <a href="/wiki/Friburge" title="Friburge">Friburge</a>. For other uses, see <a class="mw-disambig" href="/wiki/Freiburg_(disambiguation)" title="Freiburg (disambiguation)">Freiburg (disambiguation)</a>.</div>
+
+<p><b>Freiburg im Breisgau</b> (<small>German pronunciation:</small> <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_German" title="Help:IPA for German">[ˈfʁaɪ̯bʊʁk ʔɪm ˈbʁaɪ̯sɡaʊ̯]</a></span><small class="nowrap metadata"> (<a href="/wiki/File:De-Freiburg(Breisgau).ogg" title="File:De-Freiburg(Breisgau).ogg"><img alt="" data-file-height="500" data-file-width="500" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/13px-Speaker_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/20px-Speaker_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/26px-Speaker_Icon.svg.png 2x" width="13"/></a> <a class="internal" href="//upload.wikimedia.org/wikipedia/commons/f/f3/De-Freiburg%28Breisgau%29.ogg" title="De-Freiburg(Breisgau).ogg">listen</a>)</small>; <a href="/wiki/Alemannic_German" title="Alemannic German">Alemannic</a>: <i>Friburg im Brisgau</i> <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">[ˈfʁiːb̥əɡ̊]</span>; <a href="/wiki/French_language" title="French language">French</a>: <span lang="fr"><i>Fribourg-en-Brisgau</i></span>) is a city in <a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a>, Germany with a population of about 220,000. In the south-west of the country, it straddles the <a href="/wiki/Dreisam" title="Dreisam">Dreisam</a> river, at the foot of the <a href="/wiki/Schlossberg_(Freiburg)" title="Schlossberg (Freiburg)">Schlossberg</a>. Historically, the city has acted as the hub of the <a href="/wiki/Breisgau" title="Breisgau">Breisgau</a> region on the western edge of the <a href="/wiki/Black_Forest" title="Black Forest">Black Forest</a> in the <a href="/wiki/Upper_Rhine_Plain" title="Upper Rhine Plain">Upper Rhine Plain</a>. A famous old German university town, and <a href="/wiki/Roman_Catholic_Archdiocese_of_Freiburg" title="Roman Catholic Archdiocese of Freiburg">archiepiscopal</a> seat, Freiburg was incorporated in the early twelfth century and developed into a major commercial, intellectual, and ecclesiastical center of the upper Rhine region. The city is known for its medieval <a href="/wiki/Freiburg_Minster" title="Freiburg Minster">minster</a> and Renaissance <a href="/wiki/University_of_Freiburg" title="University of Freiburg">university</a>, as well as for its high standard of living and advanced environmental practices. The city is situated in the heart of the major <a href="/wiki/Baden_(wine_region)" title="Baden (wine region)">Baden wine-growing region</a> and serves as the primary tourist entry point to the scenic beauty of the Black Forest. According to meteorological statistics, the city is the sunniest and warmest in Germany and held the all-time German temperature record of 40.2 °C (104.4 °F) from 2003 to 2015.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="toccolours" id="Container" style="text-align: left; padding:0.5em 0 0 0; border-style:solid; float:right;clear:right; padding:0 0.5em; margin:0.3em 0 0.8em 1.4em; overflow: hidden;">
+<div id="Title" style="background-color:#F09070; font-weight:bold; padding:0.2em; text-align:center; margin:0.6em 0 1.2em 0">Timeline of Freiburg im Breisgau</div>
+<div id="Contains-Timeline-Scale-Notes">
+<div style="text-align:right; position:relative; top:-1em;"><small><a href="/wiki/Template:Freiburg_im_Breisgau_graphical_timeline" title="Template:Freiburg im Breisgau graphical timeline"><span style="color:#002bb8;" title="View this timeline in its own page">view</span></a> • <a class="new" href="/w/index.php?title=Template_talk:Freiburg_im_Breisgau_graphical_timeline&amp;action=edit&amp;redlink=1" title="Template talk:Freiburg im Breisgau graphical timeline (page does not exist)"><span style="color:#002bb8;" title="Discussion about this template">discuss</span></a> • <span class="noprint plainlinksneverexpand" style="color:#002bb8;" title="You can edit this timeline. Please use the preview button before saving."><span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Freiburg_im_Breisgau_graphical_timeline&amp;action=edit">edit</a></span></span></small></div>
+<div id="Scale" style="width:3.1em; position:relative; top:-0.82em; float:left; height:400px; padding:0px">
+<div style="float:right; position:absolute; right:-1px; top:428.57142857143px;"><span style="font-size:86%;white-space:nowrap;">600 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:400px;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:371.42857142857px;"><span style="font-size:86%;white-space:nowrap;">800 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:342.85714285714px;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:314.28571428571px;"><span style="font-size:86%;white-space:nowrap;">1000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:285.71428571429px;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:257.14285714286px;"><span style="font-size:86%;white-space:nowrap;">1200 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:228.57142857143px;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:200px;"><span style="font-size:86%;white-space:nowrap;">1400 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:171.42857142857px;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:142.85714285714px;"><span style="font-size:86%;white-space:nowrap;">1600 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:114.28571428571px;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:85.714285714286px;"><span style="font-size:86%;white-space:nowrap;">1800 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:57.142857142857px;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+<div style="float:right; position:absolute; right:-1px; top:28.571428571429px;"><span style="font-size:86%;white-space:nowrap;">2000 —</span></div>
+<div style="float:right; position:absolute; right:-1px; top:0px;"><span style="font-size:86%;white-space:nowrap;">–</span></div>
+</div>
+<div id="ScaleBar" style="width:1px; float:left; height:400px; padding:0; background-color:#242020"></div>
+<div class="toccolours" id="Timeline" style="font-size:100%; width:100%; height:400px; padding:0px; float:left; width:15em; border:none; background-color:#E06540;">
+<div class="bar" style="font-size:100%; background-color:#E07540; border-style: none; position:absolute; text-align:center; margin-top:280px; height:120px; margin-left:0em; width:15em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-60px;">1120 - Founded by Duke Bertold III of Zähringen</span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#E05530; border-style: none; position:absolute; text-align:center; margin-top:252px; height:26.571428571429px; margin-left:0em; width:15em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-13.285714285714px;">1218 - Inherited by the Counts of Urach</span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#E07540; border-style: none; position:absolute; text-align:center; margin-top:209.14285714286px; height:40.857142857143px; margin-left:0em; width:15em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-20.428571428571px;">1368 - Purchased its independence</span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#E05530; border-style: none; position:absolute; text-align:center; margin-top:84.285714285714px; height:124.85714285714px; margin-left:0em; width:15em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-62.428571428571px;">1805 - Became part of Baden</span></div>
+</div>
+<div class="bar" style="font-size:100%; background-color:#E07540; border-style: none; position:absolute; text-align:center; margin-top:0px; height:84.285714285714px; margin-left:0em; width:15em;">
+<div class="nudge" style="font-size:100%; position:relative; top:-0.86em; left:0em;"><span style="position:relative; align:center; vertical-align:middle; bottom:-42.142857142857px;">1940-1944 - Heavily damaged during WWII</span></div>
+</div>
+</div>
+<div id="Annotations" style="float:left; position:relative; width:0em">
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+<div class="annot-bar" style="width:auto; font-size:100%; position:absolute; text-align:center; margin-top:200px;">
+<div class="annot-nudge" style="text-size:100%; float:left; position:relative; text-align:left; top:-0.75em; left:0em; width:7em;"></div>
+</div>
+</div>
+</div>
+<div class="toccolours" id="Legend" style="margin-left:3.1em; border-style:none; float:left; clear:both;"></div>
+<div class="toccolours" id="Caption" style="margin:0 0.5em; float:left; padding:0 auto; border-style:none; clear:both; text-align:center; width:19.25em"></div>
+</div>
+<p>Freiburg was founded by Konrad and Duke Berthold III of <a class="mw-redirect" href="/wiki/Duchy_of_Z%C3%A4hringen" title="Duchy of Zähringen">Zähringen</a> in 1120 as a free market town; hence its name, which translates to "free (or independent) town". <i>Frei</i> means "free", and <i>Burg,</i> like the modern English word "<a href="/wiki/Borough" title="Borough">borough</a>", was used in those days for an incorporated city or town, usually one with some degree of autonomy. The German word <i>Burg</i> also means "a fortified town", as in <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>. Thus, it is likely that the name of this place means a "fortified town of free citizens".</p>
+<p>This town was strategically located at a junction of trade routes between the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> and the <a href="/wiki/North_Sea" title="North Sea">North Sea</a> regions, and the <a href="/wiki/Rhine" title="Rhine">Rhine</a> and <a href="/wiki/Danube" title="Danube">Danube</a> rivers. In 1200, Freiburg's population numbered approximately 6,000 people. At about that time, under the rule of <a href="/wiki/Berthold_V,_Duke_of_Z%C3%A4hringen" title="Berthold V, Duke of Zähringen">Bertold V</a>, the last duke of Zähringen, the city began construction of its <a class="mw-redirect" href="/wiki/Freiburg_M%C3%BCnster" title="Freiburg Münster">Freiburg Münster</a> cathedral on the site of an older parish church. Begun in the <a href="/wiki/Romanesque_architecture" title="Romanesque architecture">Romanesque</a> style, it was continued and completed 1513 for the most part as a <a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic</a> edifice. In 1218, when Bertold V died, the counts of <a class="mw-redirect" href="/wiki/County_of_Urach" title="County of Urach">Urach</a> assumed the title of Freiburg's count. The city council did not trust the new nobles and wrote down its established rights in a document. At the end of the thirteenth century there was a feud between the citizens of Freiburg and their lord, Count Egino II of Freiburg. Egino raised taxes and sought to limit the citizens' freedom, after which the Freiburgers used catapults to destroy the count's castle atop the <a href="/wiki/Schlossberg_(Freiburg)" title="Schlossberg (Freiburg)">Schloßberg</a>, a hill that overlooks the city center. The furious count called on his brother-in-law the Bishop of <a class="mw-redirect" href="/wiki/Bishopric_of_Strasbourg" title="Bishopric of Strasbourg">Strasbourg</a>, Konradius von Lichtenberg, for help. The bishop responded by marching with his army to Freiburg.</p>
+
+
+<p>According to an old Freiburg legend, a butcher named Hauri stabbed the Bishop of Strasbourg to death on 29 July 1299. It was a <a href="/wiki/Pyrrhic_victory" title="Pyrrhic victory">Pyrrhic victory</a>, since henceforth the citizens of Freiburg had to pay an annual expiation of 300 marks in silver to the count of Freiburg until 1368. In 1366 the counts of Freiburg made another failed attempt to occupy the city during a night raid. Eventually the citizens were fed up with their lords, and in 1368 Freiburg purchased its independence from them. The city turned itself over to the protection of the <a class="mw-redirect" href="/wiki/Habsburgs" title="Habsburgs">Habsburgs</a>, who allowed the city to retain a large measure of freedom. Most of the nobles of the city died in the <a href="/wiki/Battle_of_Sempach" title="Battle of Sempach">battle of Sempach</a> (1386). The <a class="mw-redirect" href="/wiki/Patricianship" title="Patricianship">patrician</a> family Schnewlin took control of the city until the guildsmen revolted. The guilds became more powerful than the patricians by 1389.</p>
+<p>The silver mines in Mount Schauinsland provided an important source of capital for Freiburg. This silver made Freiburg one of the richest cities in Europe, and in 1327 Freiburg minted its own coin, the <i>Rappenpfennig</i>. In 1377 the cities of Freiburg, <a href="/wiki/Basel" title="Basel">Basel</a>, <a href="/wiki/Colmar" title="Colmar">Colmar</a>, and <a href="/wiki/Breisach" title="Breisach">Breisach</a> entered into an alliance known as the <i>Genossenschaft des Rappenpfennigs</i> (Rappenpfennig Collective). This alliance facilitated commerce among the cities and lasted until the end of the sixteenth century. There were 8,000-9,000 people living in Freiburg between the thirteenth and fourteenth centuries, and 30 churches and monasteries. At the end of the fourteenth century the veins of silver were dwindling, and by 1460 only approximately 6,000 people still lived within Freiburg's <a href="/wiki/Defensive_wall" title="Defensive wall">city walls</a>.</p>
+<p>A university city, Freiburg evolved from its focus on mining to become a cultural centre for the arts and sciences. It was also a commercial center. The end of the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> and the dawn of the <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a> was a time of both advances and tragedy for Freiburg.</p>
+<p>In 1457, <a href="/wiki/Albert_VI,_Archduke_of_Austria" title="Albert VI, Archduke of Austria">Albrecht VI</a>, Regent of <a href="/wiki/Further_Austria" title="Further Austria">Further Austria</a>, established <a class="mw-redirect" href="/wiki/Albert-Ludwigs-Universit%C3%A4t" title="Albert-Ludwigs-Universität">Albert-Ludwigs-Universität</a>, one of Germany's oldest universities. In 1498, Emperor <a href="/wiki/Maximilian_I,_Holy_Roman_Emperor" title="Maximilian I, Holy Roman Emperor">Maximilian I</a> held a <a class="mw-redirect mw-disambig" href="/wiki/Reichstag_(disambiguation)" title="Reichstag (disambiguation)">Reichstag</a> in Freiburg. In 1520, the city ratified a set of legal reforms, widely considered the most progressive of the time. The aim was to find a balance between city traditions and old <a class="mw-redirect" href="/wiki/Roman_Law" title="Roman Law">Roman Law</a>. The reforms were well received, especially the sections dealing with civil process law, punishment, and the city's constitution.</p>
+
+<p>In 1520, Freiburg decided not to take part in the <a href="/wiki/Protestant_Reformation" title="Protestant Reformation">Reformation</a> and became an important centre for <a href="/wiki/Catholic_Church" title="Catholic Church">Catholicism</a> on the <a href="/wiki/Upper_Rhine" title="Upper Rhine">Upper Rhine</a>.</p>
+<p>In 1536, a strong and persistent belief in <a href="/wiki/Witchcraft" title="Witchcraft">witchcraft</a> led to the city's first <a href="/wiki/Witch-hunt" title="Witch-hunt">witch-hunt</a>. The need to find a scapegoat for calamities such as the <a class="mw-redirect" href="/wiki/Black_Plague" title="Black Plague">Black Plague</a>, which claimed 2,000 area residents (25% of the city population) in 1564, led to an escalation in witch-hunting that reached its peak in 1599. A plaque on the old city wall marks the spot where burnings were carried out.</p>
+<p>The seventeenth, eighteenth, and nineteenth centuries were turbulent times for Freiburg. At the beginning of the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a> there were 10,000-14,000 citizens in Freiburg; by its end only 2,000 remained. During this war and other conflicts, at various times the city belonged to the <a href="/wiki/Austrians" title="Austrians">Austrians</a>, the <a href="/wiki/France" title="France">French</a>, the <a href="/wiki/Sweden" title="Sweden">Swedish</a>, the <a href="/wiki/Spain" title="Spain">Spanish</a>, and various members of the <a class="mw-redirect" href="/wiki/German_Confederacy" title="German Confederacy">German Confederacy</a>. Between 1648 and 1805, it was the administrative headquarters of <a href="/wiki/Further_Austria" title="Further Austria">Further Austria</a>, the Habsburg territories in the southwest of Germany, when the city was not under French occupation. In 1805, the city, together with the <a href="/wiki/Breisgau" title="Breisgau">Breisgau</a> and <a href="/wiki/Ortenau" title="Ortenau">Ortenau</a> areas, became part of <a href="/wiki/Grand_Duchy_of_Baden" title="Grand Duchy of Baden">Baden</a>.</p>
+<p>In 1827, when the <a class="mw-redirect" href="/wiki/Archdiocese_of_Freiburg" title="Archdiocese of Freiburg">Archdiocese of Freiburg</a> was founded, Freiburg became the seat of a <a class="mw-redirect" href="/wiki/Catholic" title="Catholic">Catholic</a> archbishop.</p>
+
+<p>On 22 October 1940, the <a class="mw-redirect" href="/wiki/Nazi" title="Nazi">Nazi</a> <a href="/wiki/Gauleiter" title="Gauleiter">Gauleiter</a> of Baden ordered the deportation of all of Baden's <a href="/wiki/Jews" title="Jews">Jews</a>, and 350 <a class="mw-redirect" href="/wiki/Jewish" title="Jewish">Jewish</a> citizens of Freiburg were deported to the southern French internment camp of <a class="mw-redirect" href="/wiki/Camp_Gurs" title="Camp Gurs">Camp Gurs</a> in the <a class="mw-redirect" href="/wiki/Basses-Pyr%C3%A9n%C3%A9es" title="Basses-Pyrénées">Basses-Pyrénées</a>. They remained there under poor conditions until 18 July 1942, when the majority of the survivors were sent to their deaths at <a class="mw-redirect" href="/wiki/Auschwitz" title="Auschwitz">Auschwitz</a>. The cemetery for German Jews who died at Camp Gurs is maintained by the town of Freiburg and other cities of Baden. A memorial stands outside the modern <a href="/wiki/Synagogue" title="Synagogue">synagogue</a> in the town centre. The pavements of Freiburg carry memorials to individual victims in the form of brass plates outside their former residences, including that of <a href="/wiki/Edith_Stein" title="Edith Stein">Edith Stein</a>, a German Jewish philosopher who converted to Catholicism, became a nun, and was canonized as St. Teresa Benedicta of the Cross in 1998.</p>
+<p>Freiburg was heavily bombed during <a href="/wiki/World_War_II" title="World War II">World War II</a>. First, in <a href="/wiki/Bombing_of_Freiburg_on_10_May_1940" title="Bombing of Freiburg on 10 May 1940">May 1940</a>, aircraft of the <a href="/wiki/Luftwaffe" title="Luftwaffe">Luftwaffe</a> mistakenly dropped approximately 60 bombs on Freiburg near the train station, killing 57 people. Later on, a raid by more than 300 <a href="/wiki/Bomber" title="Bomber">bombers</a> of the <a href="/wiki/RAF_Bomber_Command" title="RAF Bomber Command">RAF Bomber Command</a> on 27 November 1944 (<a href="/wiki/Operation_Tigerfish" title="Operation Tigerfish">Operation Tigerfish</a>) destroyed a large portion of the city centre, with the notable exception of the <i>Münster</i>, which was only lightly damaged. After the war, the city was rebuilt on its medieval plan.</p>
+<p>It was occupied by the <a href="/wiki/French_Army" title="French Army">French Army</a> on 21 April 1945, and Freiburg was soon allotted to the <a class="mw-redirect" href="/wiki/Allied_Occupation_Zones_in_Germany" title="Allied Occupation Zones in Germany">French Zone of Occupation</a>. In December 1945 Freiburg became the seat of government for the German state <a href="/wiki/South_Baden" title="South Baden">Badenia</a>, which was merged into <a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a> in 1952. The <a href="/wiki/French_Army" title="French Army">French Army</a> maintained a presence in Freiburg until 1991, when the last French Army division left the city, and left Germany.</p>
+<p>On the site of the former French Army base, a new neighborhood for 5,000 people, <a class="mw-redirect" href="/wiki/Vauban_(Freiburg)" title="Vauban (Freiburg)">Vauban</a>, was begun in the late 1990s as a "sustainable model district". Solar power is used to power many of the households in this small community.</p>
+<h2><span class="mw-headline" id="Culture">Culture</span></h2>
+<p>Because of its scenic beauty, relatively warm and sunny climate, and easy access to the Black Forest, Freiburg is a hub for regional <a href="/wiki/Tourism" title="Tourism">tourism</a>. The longest <a href="/wiki/Aerial_tramway" title="Aerial tramway">cable car</a> run in Germany, which is 3.6 kilometres (2.2 mi) long, runs from Günterstal up to a nearby mountain called <i><a href="/wiki/Schauinsland" title="Schauinsland">Schauinsland</a></i>. The city has an unusual system of gutters (called <i><a href="/wiki/Freiburg_B%C3%A4chle" title="Freiburg Bächle">Freiburg Bächle</a></i>) that run throughout its centre. These <i>Bächle</i>, once used to provide water to fight fires and feed livestock, are constantly flowing with water diverted from the <a href="/wiki/Dreisam" title="Dreisam">Dreisam</a>. They were never intended to be used for sewage, and even in the Middle Ages such use could lead to harsh penalties. During the summer, the running water provides natural cooling of the air, and offers a pleasant gurgling sound. It is said that if one accidentally falls or steps into a <i>Bächle</i>, they will marry a Freiburger, or 'Bobbele'.</p>
+
+<p>The <i>Augustinerplatz</i> is one of the central squares in the old city. Formerly the location of an <a href="/wiki/Augustinians" title="Augustinians">Augustinian</a> <a href="/wiki/Augustinian_Monastery,_Freiburg" title="Augustinian Monastery, Freiburg">monastery</a> that became the <a href="/wiki/Augustiner_Museum" title="Augustiner Museum">Augustiner Museum</a> in 1921, it is now a popular social space for Freiburg's younger residents. It has a number of restaurants and bars, including the local brewery 'Feierling', which has a <a class="mw-redirect" href="/wiki/Biergarten" title="Biergarten">Biergarten</a>. On warm summer nights, hundreds of students gather here.</p>
+<p>At the centre of the old city is the <a href="/wiki/Minster_Square_(Freiburg_im_Breisgau)" title="Minster Square (Freiburg im Breisgau)">Münsterplatz</a> or Cathedral Square, Freiburg's <a href="/wiki/List_of_city_squares_by_size" title="List of city squares by size">largest square</a>. A farmers market is held here every day except Sundays. This is the site of Freiburg's <a class="mw-redirect" href="/wiki/Freiburg_M%C3%BCnster" title="Freiburg Münster">Münster</a>, a <a href="/wiki/Gothic_architecture" title="Gothic architecture">gothic</a> <a class="mw-redirect" href="/wiki/Minster_(cathedral)" title="Minster (cathedral)">minster</a> <a href="/wiki/Cathedral" title="Cathedral">cathedral</a> constructed of red sandstone, built between 1200 and 1530 and noted for its towering spire.</p>
+
+<p>The <a href="/wiki/Historical_Merchants%27_Hall_(Freiburg)" title="Historical Merchants' Hall (Freiburg)">Historical Merchants' Hall</a> (<i>Historisches Kaufhaus</i>), is a <a href="/wiki/Gothic_architecture" title="Gothic architecture">Late Gothic</a> building on the south side of Freiburg's <i>Münsterplatz</i>. Built between 1520 and 1530, it was once the center of the financial life of the region. Its façade is decorated with statues and the <a href="/wiki/Coat_of_arms" title="Coat of arms">coat of arms</a> of four <a class="mw-redirect" href="/wiki/Habsburg" title="Habsburg">Habsburg</a> emperors.</p>
+<p>The <i>Altes Rathaus</i>, or old city hall, was completed in 1559 and has a painted façade. The <i>Platz der alten Synagoge</i> "Old Synagogue Square" is one of the more important squares on the outskirts of the historic old city. The square was the location of a synagogue until it was destroyed on <span lang="de"><i><a href="/wiki/Kristallnacht" title="Kristallnacht">Kristallnacht</a></i></span> in 1938. <a href="/wiki/Zum_Roten_B%C3%A4ren" title="Zum Roten Bären">Zum Roten Bären</a>, the oldest hotel in Germany, is located along <i>Oberlinden</i> near the <a href="/wiki/Swabia" title="Swabia">Swabian</a> Gate.</p>
+<p>The <i><a href="/wiki/Siegesdenkmal" title="Siegesdenkmal">Siegesdenkmal</a></i>, or victory monument, is a monument to the German victory in the Franco-Prussian War in 1871. It is situated at the northern edge of the historic city center of Freiburg. The <a href="/wiki/Siegesdenkmal" title="Siegesdenkmal">Siegesdenkmal</a> was built by Karl Friedrich Moest. In everyday language of people living in Freiburg, it serves as an orientation marker or as a meeting place.</p>
+<p>To the east of the city centre, the <a href="/wiki/Schlossberg_(Freiburg)" title="Schlossberg (Freiburg)">Schlossberg</a> hill provides extensive views over the city and surrounding region. The castle (Schloss) from which the hill takes its name was demolished in the 1740s, and only ruins remain. Schlossberg retained its importance to the city, however, and 150 years ago the city leaders opened up walks and views to make the mountain available to the public. Today, the <a href="/wiki/Schlossbergbahn_(Freiburg)" title="Schlossbergbahn (Freiburg)">Schlossbergbahn</a> <a href="/wiki/Funicular" title="Funicular">funicular railway</a> connects the city centre to the hill.</p>
+<p>Other museums in the city include the <a class="mw-redirect" href="/wiki/Archaeology_Colombischl%C3%B6ssle_Museum" title="Archaeology Colombischlössle Museum">Archaeology Colombischlössle Museum</a>.</p>
+<p><a href="/wiki/Badische_Zeitung" title="Badische Zeitung">Badische Zeitung</a> is the main local daily paper, covering the Black Forest region.</p>
+<p>In 2010, Freiburg was voted as the Academy of Urbanism's European City of the Year in recognition of the exemplary <a href="/wiki/Sustainable_urbanism" title="Sustainable urbanism">sustainable urbanism</a> it has implemented over the past several decades.</p>
+<h2><span class="mw-headline" id="Geography">Geography</span></h2>
+<p>Freiburg is bordered by the Black Forest mountains <a href="/wiki/Ro%C3%9Fkopf_(Breisgau)" title="Roßkopf (Breisgau)">Rosskopf</a> and Bromberg to the east, Schönberg and Tuniberg to the south, with the <a href="/wiki/Kaiserstuhl_(Baden-W%C3%BCrttemberg)" title="Kaiserstuhl (Baden-Württemberg)">Kaiserstuhl</a> hill region to the west.</p>
+<h3><span class="mw-headline" id="Climate">Climate</span></h3>
+<p><a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> classifies its climate as <a href="/wiki/Oceanic_climate" title="Oceanic climate">oceanic</a> (Cfb). Marine features are limited however, as a result of its vast distance to oceans and seas. As a result, summers have a significant <a href="/wiki/Humid_subtropical_climate" title="Humid subtropical climate">subtropical</a> influence as the inland air heats up. July and August are even under normal circumstances akin to a heatwave for most of Germany. Winters are moderate but usually with frequent frosts.</p>
+
+
+
+<h2><span class="mw-headline" id="Government">Government</span></h2>
+
+<p>Freiburg is known as an "eco-city". It has attracted the <a href="/wiki/Bundesamt_f%C3%BCr_Strahlenschutz" title="Bundesamt für Strahlenschutz">Bundesamt für Strahlenschutz</a>, <a href="/wiki/Solar_power" title="Solar power">solar industries</a>, and research; the <a class="mw-redirect" href="/wiki/German_green_party" title="German green party">Greens</a> have a stronghold there (the strongest in any major German city; up to 35% of the overall city vote, in some neighbourhoods reaching 40% or more in the 2012 national elections). The newly built neighbourhoods of <a href="/wiki/Vauban,_Freiburg" title="Vauban, Freiburg">Vauban</a> and <a href="/wiki/Rieselfeld" title="Rieselfeld">Rieselfeld</a> were developed and built according to the idea of <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>. The citizens of Freiburg are known in Germany for their love of <a href="/wiki/Cycling" title="Cycling">cycling</a> and <a href="/wiki/Recycling" title="Recycling">recycling</a>.</p>
+<p>The <a class="mw-redirect" href="/wiki/B%C3%BCrgermeister" title="Bürgermeister">Oberbürgermeister</a>, <a href="/wiki/Dieter_Salomon" title="Dieter Salomon">Dieter Salomon</a>, (elected as of 2002), was the first member of <a class="mw-redirect" href="/wiki/German_Green_Party" title="German Green Party">Bündnis 90/Die Grünen</a> to hold such an office in a city with more than 100,000 inhabitants.</p>
+<p>In June 1995, the Freiburg city council adopted a resolution that it would permit construction only of "<a href="/wiki/Low-energy_house" title="Low-energy house">low-energy buildings</a>" on municipal land, and all new buildings must comply with certain "low energy" specifications. Low-energy housing uses solar power passively as well as actively. In addition to solar panels and collectors on the roof, providing electricity and hot water, many passive features use the sun’s energy to regulate the temperature of the rooms.</p>
+
+<p>Freiburg is host to a number of <a class="mw-redirect" href="/wiki/International_organisation" title="International organisation">international organisations</a>, in particular, <a href="/wiki/ICLEI" title="ICLEI">ICLEI</a> - Local Governments for Sustainability, <a class="mw-redirect" href="/wiki/ISES" title="ISES">ISES</a> - International Solar Energy Society, and the City Mayors Foundation.</p>
+<p>The composition of Freiburg city council is as follows:</p>
+
+<h2><span class="mw-headline" id="Education">Education</span></h2>
+
+<p>Freiburg is a center of academia and research with numerous intellectual figures and <a class="mw-redirect" href="/wiki/Nobel_Laureate" title="Nobel Laureate">Nobel Laureates</a> having lived, worked, and taught there.</p>
+<p>The city houses one of the oldest and most renowned of German universities, the <a class="mw-redirect" href="/wiki/Albert_Ludwig_University_of_Freiburg" title="Albert Ludwig University of Freiburg">Albert Ludwig University of Freiburg</a>, as well as its <a href="/wiki/University_Medical_Center_Freiburg" title="University Medical Center Freiburg">medical center</a>. Home to some of the greatest minds of the <a href="/wiki/Western_culture" title="Western culture">West</a>, including such eminent figures as <a href="/wiki/Johann_Eck" title="Johann Eck">Johann Eck</a>, <a href="/wiki/Max_Weber" title="Max Weber">Max Weber</a>, <a href="/wiki/Edmund_Husserl" title="Edmund Husserl">Edmund Husserl</a>, <a href="/wiki/Martin_Heidegger" title="Martin Heidegger">Martin Heidegger</a>, and <a href="/wiki/Friedrich_Hayek" title="Friedrich Hayek">Friedrich Hayek</a>, it is one of Europe's top research and teaching institutions.</p>
+<p>Freiburg also plays host to various other educational and research institutes, such as the Freiburg University of Education, the <a href="/wiki/Protestant_University_for_Applied_Sciences_Freiburg" title="Protestant University for Applied Sciences Freiburg">Protestant University for Applied Sciences Freiburg</a>, <a href="/wiki/Hochschule_f%C3%BCr_Musik_Freiburg" title="Hochschule für Musik Freiburg">Freiburg Music Academy</a>, the <a href="/wiki/Catholic_University_of_Applied_Sciences_Freiburg" title="Catholic University of Applied Sciences Freiburg">Catholic University of Applied Sciences Freiburg</a>, the International University of Cooperative Education IUCE, three <a href="/wiki/Max_Planck_Society" title="Max Planck Society">Max Planck institutes</a>, and five <a href="/wiki/Fraunhofer_Society" title="Fraunhofer Society">Fraunhofer institutes</a>.</p>
+<p>The city is home to the <a href="/wiki/Institute_for_the_International_Education_of_Students" title="Institute for the International Education of Students">IES Abroad</a> European Union program, which allows students to study the development and activities of the <a href="/wiki/European_Union" title="European Union">EU</a>.</p>
+<p>The <a href="/wiki/DFG_/_LFA_Freiburg" title="DFG / LFA Freiburg">DFG / LFA Freiburg</a>, a French-German high school established by the 1963 <a href="/wiki/%C3%89lys%C3%A9e_Treaty" title="Élysée Treaty">Élysée Treaty</a>, is in the city.</p>
+<h2><span class="mw-headline" id="Transport">Transport</span></h2>
+
+<p>Freiburg has an extensive <a class="mw-redirect" href="/wiki/Auto-free_zone" title="Auto-free zone">pedestrian zone</a> in the city centre where no motor cars are allowed. Freiburg also has an excellent public transport system, operated by the city-owned <a href="/wiki/Freiburger_Verkehrs_AG" title="Freiburger Verkehrs AG">VAG Freiburg</a>. The backbone of the system is the <a href="/wiki/Trams_in_Freiburg_im_Breisgau" title="Trams in Freiburg im Breisgau">Freiburg tramway network</a>, supplemented by feeder <a href="/wiki/Bus" title="Bus">buses</a>.</p>
+<p>Freiburg is on the main <a class="mw-redirect" href="/wiki/Mannheim%E2%80%93Karlsruhe%E2%80%93Basle_railway" title="Mannheim–Karlsruhe–Basle railway">Frankfurt am Main - Basel railway line</a>, with frequent and fast long-distance passenger services from the <a href="/wiki/Freiburg_Hauptbahnhof" title="Freiburg Hauptbahnhof">Freiburg Hauptbahnhof</a> to major German and other European cities. Other railway lines run east into the <a class="mw-redirect" href="/wiki/H%C3%B6llentalbahn_(Schwarzwald)" title="Höllentalbahn (Schwarzwald)">Black Forest</a> and west to <a href="/wiki/Breisach" title="Breisach">Breisach</a>. The line to Breisach is the remaining stub of the <a href="/wiki/Freiburg%E2%80%93Colmar_railway" title="Freiburg–Colmar railway">Freiburg–Colmar international railway</a>, severed in 1945 when the railway bridge over the <a href="/wiki/Rhine" title="Rhine">Rhine</a> at Breisach was destroyed, and was never replaced.</p>
+<p>The city also is served by the <a href="/wiki/Bundesautobahn_5" title="Bundesautobahn 5">A5</a> <a class="mw-redirect" href="/wiki/Frankfurt_am_Main" title="Frankfurt am Main">Frankfurt am Main</a> - <a href="/wiki/Basel" title="Basel">Basel</a> motorway.</p>
+<p>Freiburg is served by <a class="mw-redirect" href="/wiki/EuroAirport_Basel-Mulhouse-Freiburg" title="EuroAirport Basel-Mulhouse-Freiburg">EuroAirport Basel-Mulhouse-Freiburg</a> in France, close to the borders of both Germany and Switzerland, 70 km (43 mi) south of Freiburg. Karlsruhe/Baden-Baden airport (<a class="mw-redirect" href="/wiki/Baden_Airpark" title="Baden Airpark">Baden Airpark</a>) is approximately 100 km (62 mi) north of Freiburg and is also served by several airlines. The nearest larger international airports include Stuttgart (200 km (120 mi)), Frankfurt/Main (260 km (160 mi)), and Munich (430 km (270 mi)). The nearby <a class="new" href="/w/index.php?title=Flugplatz_Freiburg&amp;action=edit&amp;redlink=1" title="Flugplatz Freiburg (page does not exist)">Flugplatz Freiburg</a>, a small airfield in the <a href="/wiki/Messe_Freiburg" title="Messe Freiburg">Messe, Freiburg</a> district, lacks commercial service but is used for private aviation.</p>
+<p>Car share website such as Mitfahrgelegenheit are commonly used among Freiburg residents since it is considered relatively safe.</p>
+<h2><span class="mw-headline" id="Sports">Sports</span></h2>
+
+<p>Freiburg is home to football teams <a href="/wiki/SC_Freiburg" title="SC Freiburg">SC Freiburg</a>, which plays at the <a class="mw-redirect" href="/wiki/Dreisamstadion" title="Dreisamstadion">Dreisamstadion</a>, and <a href="/wiki/Freiburger_FC" title="Freiburger FC">Freiburger FC</a>.</p>
+<p>Freiburg also has the <a class="mw-redirect" href="/wiki/W%C3%B6lfe_Freiburg" title="Wölfe Freiburg">EHC Freiburg</a> <a href="/wiki/Ice_hockey" title="Ice hockey">Ice hockey</a> team, which plays at the Franz-Siegel Halle, and the <a class="new" href="/w/index.php?title=RC_Freiburg&amp;action=edit&amp;redlink=1" title="RC Freiburg (page does not exist)">RC Freiburg</a> <a href="/wiki/Rugby_union" title="Rugby union">Rugby union</a> team, which competes in the Regionalliga Baden Wurttemberg.</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span></h2>
+<div class="hatnote" role="note">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<h3><span class="mw-headline" id="Twin_towns.2C_sister_cities">Twin towns, sister cities</span></h3>
+<p>Freiburg is <a href="/wiki/Twin_towns_and_sister_cities" title="Twin towns and sister cities">twinned</a> with:</p>
+
+<p><a href="/wiki/Iran" title="Iran">Iranian</a> president <a href="/wiki/Mahmoud_Ahmadinejad" title="Mahmoud Ahmadinejad">Mahmoud Ahmadinejad</a>'s controversial comments, which included questioning the dimension of the <a class="mw-redirect" href="/wiki/Holocaust" title="Holocaust">Holocaust</a>, have sparked discussions concerning Freiburg's relationship with <a href="/wiki/Isfahan" title="Isfahan">Isfahan</a>. Immediately following the comments, Freiburg mayor Salomon postponed a trip to Isfahan, but most people involved, especially those in the <a href="/wiki/Alliance_%2790/The_Greens" title="Alliance '90/The Greens">Alliance '90/The Greens</a> party, were opposed to cancelling the relationship.</p>
+<h2><span class="mw-headline" id="Symbols">Symbols</span></h2>
+
+<p>The city's <a href="/wiki/Coat_of_arms" title="Coat of arms">coat of arms</a> is Argent a cross Gules, the <a href="/wiki/St_George%27s_Cross" title="St George's Cross">St George's Cross</a>. <a href="/wiki/Saint_George" title="Saint George">Saint George</a> is the city's patron saint. The cross also appears on the city's flag, which dates from about 1368, and is identical to that of <a href="/wiki/Flag_of_England" title="Flag of England">England</a>, which has the same patron.</p>
+<p>The city also has a <a href="/wiki/Seal_(emblem)" title="Seal (emblem)">seal</a> that can be seen in a few places in the inner city. It is a stylized depiction of the façade of the <i>Wasserschlössle,</i> a castle-like waterworks facility built into a hill that overlooks the residential district of <a href="/wiki/Wiehre" title="Wiehre">Wiehre</a>. The seal depicts a three-towered red castle on a white background, with green-clad trumpeters atop the two outer towers. Beneath the castle is a gold fleur-de-lis.</p>
+<h2><span class="mw-headline" id="Points_of_interest">Points of interest</span></h2>
+<ul>
+<li><a href="/wiki/Arboretum_Freiburg-G%C3%BCnterstal" title="Arboretum Freiburg-Günterstal">Arboretum Freiburg-Günterstal</a>, an arboretum in the suburb of Günterstal</li>
+<li><a class="mw-redirect" href="/wiki/Freiburg_Botanic_Garden" title="Freiburg Botanic Garden">Freiburg Botanic Garden</a></li>
+<li><a href="/wiki/University_of_Freiburg" title="University of Freiburg">University of Freiburg</a></li>
+<li><a href="/wiki/University_Library_Freiburg" title="University Library Freiburg">University Library Freiburg</a>, the newly renovated library features a modern design</li>
+<li><a href="/wiki/The_Whale_House" title="The Whale House">The Whale House</a>, which, in <a href="/wiki/Dario_Argento" title="Dario Argento">Dario Argento</a>'s 1977 horror film <i><a href="/wiki/Suspiria" title="Suspiria">Suspiria</a></i>, served as the Dance Academy, the film's central location</li>
+<li><a href="/wiki/Augustiner_Museum" title="Augustiner Museum">Augustiner Museum</a></li>
+<li><a class="mw-redirect" href="/wiki/Freiburg_Munster" title="Freiburg Munster">Freiburg Munster</a></li>
+<li><a href="/wiki/Schauinsland" title="Schauinsland">Schauinsland</a></li>
+<li><a href="/wiki/Schlossberg_(Freiburg)" title="Schlossberg (Freiburg)">Schlossberg (Freiburg)</a></li>
+<li><a href="/wiki/Colombischl%C3%B6ssle_Archeological_Museum" title="Colombischlössle Archeological Museum">Colombischlössle Archeological Museum</a></li>
+<li><a class="mw-redirect" href="/wiki/Green_Spaces_in_Freiburg" title="Green Spaces in Freiburg">Green Spaces in Freiburg</a></li>
+<li><a href="/wiki/Vauban,_Freiburg" title="Vauban, Freiburg">Vauban, Freiburg</a>, a sustainable eco-community</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_residents">Notable residents</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<h3><span class="mw-headline" id="A-K">A-K</span></h3>
+<ul>
+<li><a href="/wiki/Wolfram_Aichele" title="Wolfram Aichele">Wolfram Aichele</a>, (1924-2016), artist</li>
+<li><a href="/wiki/Hannah_Arendt" title="Hannah Arendt">Hannah Arendt</a>, (1906-1975), political theorist</li>
+<li><a href="/wiki/Joseph_von_Auffenberg" title="Joseph von Auffenberg">Joseph Freiherr von Auffenberg</a>, (1798-1857), playwright and poet</li>
+<li><a href="/wiki/Kurt_Bauch" title="Kurt Bauch">Kurt Bauch</a>, (1897-1975), art historian</li>
+<li><a href="/wiki/Walter_Benjamin" title="Walter Benjamin">Walter Benjamin</a>, (1892-1940), literary critic and philosopher</li>
+<li><a href="/wiki/Hoimar_von_Ditfurth" title="Hoimar von Ditfurth">Hoimar von Ditfurth</a>, (1921-1989), physician</li>
+<li><a href="/wiki/Alfred_D%C3%B6blin" title="Alfred Döblin">Alfred Döblin</a>, (1878-1957), physician and novelist</li>
+<li><a href="/wiki/Hedy_Epstein" title="Hedy Epstein">Hedy Epstein</a>, (1924-2016), Holocaust refugee and activist</li>
+<li><a class="mw-redirect" href="/wiki/Desiderius_Erasmus" title="Desiderius Erasmus">Desiderius Erasmus</a> of Rotterdam, (1466-1536), Dutch Renaissance humanist and theologian</li>
+<li><a href="/wiki/Walter_Eucken" title="Walter Eucken">Walter Eucken</a>, economist</li>
+<li><a href="/wiki/Max_von_Gallwitz" title="Max von Gallwitz">Max von Gallwitz</a>, general and politician</li>
+<li><a href="/wiki/Miriam_Gebhardt" title="Miriam Gebhardt">Miriam Gebhardt</a>, historian</li>
+<li><a href="/wiki/Svetlana_Geier" title="Svetlana Geier">Svetlana Geier</a>, translator</li>
+<li><a href="/wiki/Friedrich_Gempp" title="Friedrich Gempp">Friedrich Gempp</a>, (1873-1947) <a class="mw-redirect" href="/wiki/Major_General" title="Major General">Major General</a> and the founder and first director of the <a class="new" href="/w/index.php?title=Department_Defence&amp;action=edit&amp;redlink=1" title="Department Defence (page does not exist)">Department Defence</a> of <a href="/wiki/Reichswehr" title="Reichswehr">Reichswehr</a></li>
+<li><a href="/wiki/Hans_F._K._G%C3%BCnther" title="Hans F. K. Günther">Hans F. K. Günther</a>, Nazi eugenicist</li>
+<li><a href="/wiki/Heinrich_Haussler" title="Heinrich Haussler">Heinrich Haussler</a>, professional cyclist <a class="mw-redirect" href="/wiki/Cervelo_TestTeam" title="Cervelo TestTeam">Cervelo TestTeam</a></li>
+<li><a href="/wiki/Dany_Heatley" title="Dany Heatley">Dany Heatley</a>, former player for the <a href="/wiki/Minnesota_Wild" title="Minnesota Wild">Minnesota Wild</a>, <a href="/wiki/Anaheim_Ducks" title="Anaheim Ducks">Anaheim Ducks</a>, <a href="/wiki/San_Jose_Sharks" title="San Jose Sharks">San Jose Sharks</a>, <a href="/wiki/Ottawa_Senators" title="Ottawa Senators">Ottawa Senators</a>, and <a href="/wiki/Atlanta_Thrashers" title="Atlanta Thrashers">Atlanta Thrashers</a> <a href="/wiki/National_Hockey_League" title="National Hockey League">NHL</a> teams.</li>
+<li><a href="/wiki/Martin_Heidegger" title="Martin Heidegger">Martin Heidegger</a>, philosopher</li>
+<li><a href="/wiki/Edmund_Husserl" title="Edmund Husserl">Edmund Husserl</a>, philosopher</li>
+<li><a href="/wiki/Hans_Jantzen" title="Hans Jantzen">Hans Jantzen</a>, art historian</li>
+<li><a href="/wiki/Marie-Laurence_Jungfleisch" title="Marie-Laurence Jungfleisch">Marie-Laurence Jungfleisch</a>, athlete</li>
+<li><a href="/wiki/Walter_Kaufmann_(philosopher)" title="Walter Kaufmann (philosopher)">Walter Kaufmann</a>, philosopher</li>
+<li><a href="/wiki/Boris_Kodjoe" title="Boris Kodjoe">Boris Kodjoe</a>, U.S.-based model and actor</li>
+</ul>
+<h3><span class="mw-headline" id="L-Z">L-Z</span></h3>
+<ul>
+<li><a href="/wiki/Benjamin_Lebert" title="Benjamin Lebert">Benjamin Lebert</a>, (born 1982), author and newspaper columnist</li>
+<li><a href="/wiki/Johann_Nepomuk_Locherer" title="Johann Nepomuk Locherer">Johann Nepomuk Locherer</a>, (1773-1837), Roman Catholic priest, theologian and professor.</li>
+<li><a href="/wiki/Joachim_L%C3%B6w" title="Joachim Löw">Joachim Löw</a>, (born 1960), coach of the <a href="/wiki/Germany_national_football_team" title="Germany national football team">German national football team</a> since 2006</li>
+<li><a href="/wiki/Andreas_Lutz" title="Andreas Lutz">Andreas Lutz</a>, (born 1981), media artist</li>
+<li><a href="/wiki/Gerhard_Markson" title="Gerhard Markson">Gerhard Markson</a>, conductor</li>
+<li><a href="/wiki/Carl_Christian_Mez" title="Carl Christian Mez">Carl Christian Mez</a>, (1866-1944), botanist</li>
+<li><a href="/wiki/Karl_Rahner" title="Karl Rahner">Karl Rahner</a>, (1904-1984), Catholic <a class="mw-redirect" href="/wiki/Theologian" title="Theologian">theologian</a></li>
+<li><a href="/wiki/Karl_von_Rotteck" title="Karl von Rotteck">Karl von Rotteck</a>, (1775-1840), historian and liberal politician</li>
+<li><a href="/wiki/Wolfgang_Sch%C3%A4uble" title="Wolfgang Schäuble">Wolfgang Schäuble</a>, (born 1942), Minister of the Interior, 1989–1991, in <a href="/wiki/Helmut_Kohl" title="Helmut Kohl">Helmut Kohl</a> and, 2005 - current, <a href="/wiki/Angela_Merkel" title="Angela Merkel">Angela Merkel</a> governments</li>
+<li><a href="/wiki/Marcel_Schirmer" title="Marcel Schirmer">Marcel Schirmer</a>, singer and bassist for the metal band <a href="/wiki/Destruction_(band)" title="Destruction (band)">Destruction</a></li>
+<li><a href="/wiki/Bernhard_Sigmund_Schultze" title="Bernhard Sigmund Schultze">Bernhard Sigmund Schultze</a>, (1827–1919) obstetrician</li>
+<li><a class="mw-redirect" href="/wiki/J%C3%BCrgen_Schrempp" title="Jürgen Schrempp">Jürgen Schrempp</a>, former head of <a class="mw-redirect" href="/wiki/DaimlerChrysler" title="DaimlerChrysler">DaimlerChrysler</a></li>
+<li><a href="/wiki/Berthold_Schwarz" title="Berthold Schwarz">Berthold Schwarz</a>, fabled <a href="/wiki/Alchemy" title="Alchemy">alchemist</a> who supposedly introduced gunpowder to Germany</li>
+<li><a href="/wiki/Til_Schweiger" title="Til Schweiger">Til Schweiger</a>, actor and director</li>
+<li><a href="/wiki/Hermann_Staudinger" title="Hermann Staudinger">Hermann Staudinger</a>, <a href="/wiki/Nobel_Prize" title="Nobel Prize">Nobel Prize</a> laureate in <a href="/wiki/Chemistry" title="Chemistry">chemistry</a> "for his discoveries in the field of <a class="mw-redirect" href="/wiki/Macromolecular_chemistry" title="Macromolecular chemistry">macromolecular chemistry</a>"</li>
+<li><a href="/wiki/Edith_Stein" title="Edith Stein">Edith Stein</a>, Saint of the Catholic Church, martyred by the Nazis, Freiburg university faculty member; her residence is marked by a plaque and a <i><a href="/wiki/Stolperstein" title="Stolperstein">Stolperstein</a></i></li>
+<li><a class="mw-redirect" href="/wiki/Friedrich_von_Hayek" title="Friedrich von Hayek">Friedrich von Hayek</a>, economist, philosopher, <a href="/wiki/Nobel_Prize" title="Nobel Prize">Nobel Prize</a> laureate in economics</li>
+<li><a href="/wiki/Christoph_von_Marschall" title="Christoph von Marschall">Christoph von Marschall</a>, journalist</li>
+<li><a href="/wiki/Martin_Waldseem%C3%BCller" title="Martin Waldseemüller">Martin Waldseemüller</a>, Renaissance cartographer</li>
+<li><a href="/wiki/Otto_Heinrich_Warburg" title="Otto Heinrich Warburg">Otto Heinrich Warburg</a>, 1931 recipient of <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a>; awarded Iron Cross 1st class (1918).</li>
+<li><a href="/wiki/Max_Weber" title="Max Weber">Max Weber</a>, (1864-1920), lawyer, political economist, and sociologist</li>
+<li><a href="/wiki/August_Weismann" title="August Weismann">August Weismann</a>, biologist</li>
+<li><a href="/wiki/Joseph_Wirth" title="Joseph Wirth">Joseph Wirth</a>, (1879-1956), politician (center), <a class="new" href="/w/index.php?title=Member_of_the_Reichstag&amp;action=edit&amp;redlink=1" title="Member of the Reichstag (page does not exist)">MdR</a>, chancellor, foreign minister, minister of the interior</li>
+<li><a href="/wiki/Bernhard_Witkop" title="Bernhard Witkop">Bernhard Witkop</a>, organic chemist</li>
+<li><a href="/wiki/Engelbert_Zaschka" title="Engelbert Zaschka">Engelbert Zaschka</a>, inventor and one of the first German helicopter pioneers</li>
+<li><a href="/wiki/Joana_Zimmer" title="Joana Zimmer">Joana Zimmer</a>, pop singer</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The Freiburger Münster</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Inside the belfry of the Freiburger Münster</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Landscape seen from the Schlossberg</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The University of Freiburg</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/University_Library_Freiburg" title="University Library Freiburg">University Library Freiburg</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The <a href="/wiki/Martinstor" title="Martinstor">Martinstor</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The Schwabentor</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Historic Merchants Hall (Historisches Kaufhaus) at the Münsterplatz</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Observation tower on the Schlossberg</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Freiburg's main railway station (Hauptbahnhof)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>The Konzerthaus (concert hall)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Stadttheater</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>View of Freiburg</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Freiburg 1944</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Haus zum Walfisch</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Colombi Palace</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Fischbrunnen or <a class="new" href="/w/index.php?title=Fish_Fountain&amp;action=edit&amp;redlink=1" title="Fish Fountain (page does not exist)">Fish Fountain</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p>Main cemetery Freiburg</p>
+</div>
+</div>
+</li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><cite class="citation book">Käflein, Achim (photographs); Huber, Alexander (German text) (2008). Trefzer-Käflein, Annette, ed. <i>Freiburg</i>. Freund, BethAnne (English translation). Freiburg: edition-kaeflein.de. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-940788-01-6" title="Special:BookSources/978-3-940788-01-6">978-3-940788-01-6</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/301982091" rel="nofollow">301982091</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreiburg+im+Breisgau&amp;rft.aufirst=Achim+%28photographs%29&amp;rft.au=Huber%2C+Alexander+%28German+text%29&amp;rft.aulast=K%C3%A4flein&amp;rft.btitle=Freiburg&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=info%3Aoclcnum%2F301982091&amp;rft.isbn=978-3-940788-01-6&amp;rft.place=Freiburg&amp;rft.pub=edition-kaeflein.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a class="external text" href="http://www.academyofurbanism.org.uk/freiburg-charter/" rel="nofollow">The Freiburg Charter for Sustainable Urbanism</a> - a collaboration between the City of Freiburg and The Academy of Urbanism</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.freiburg.de" rel="nofollow">Official website</a></span></span></li>
+<li><a class="external text" href="http://www.badische-seiten.de/freiburg/" rel="nofollow">Freiburg Breisgau Tourism &amp; History &amp; Pictures</a></li>
+<li><a class="external text" href="http://www.panorama-cities.net/freiburg/freiburg_germany.html" rel="nofollow">Freiburg City Panoramas</a> – Panoramic views and virtual tours</li>
+<li><a class="external text" href="http://www.frsw.de/freiburg.htm" rel="nofollow">City of Freiburg</a></li>
+<li><a class="external text" href="http://www.freiburg.de/museen/" rel="nofollow">Augustinermuseum</a></li>
+<li><a class="external text" href="https://www.ph-freiburg.de" rel="nofollow">Freiburg University of Education</a></li>
+<li><a class="external text" href="http://www.vag-freiburg.de/" rel="nofollow"><i>VAG Freiburg</i> Freiburg Public Transit Authority</a></li>
+<li><a class="external text" href="http://www.freiburg-home.com" rel="nofollow">Freiburg-Home.com – Information &amp; Reviews about Freiburg</a></li>
+<li><a class="external text" href="http://regiowebcam.de/index.php?id=1602" rel="nofollow">Webcams in Freiburg and the Black Forest</a></li>
+<li><a class="external text" href="http://public-transport.net/bim/Freiburg.htm" rel="nofollow">Tramway in Freiburg</a></li>
+<li class="mw-empty-elt"></li>
+<li><a class="external text" href="http://fudder.de" rel="nofollow">fudder – a popular online magazine about Freiburg (Winner of</a> <a class="mw-redirect" href="/wiki/Grimme_Online_Award" title="Grimme Online Award">Grimme Online Award</a> 2007)</li>
+<li><a class="external text" href="http://www.freiburg-madison.de/freiburg_history/index.htm" rel="nofollow">Freiburg's History for Pedestrians</a></li>
+<li><a class="external text" href="http://ecotippingpoints.org/our-stories/indepth/germany-freiburg-sustainability-transportation-energy-green-economy.html" rel="nofollow">Freiburg - Green City</a></li>
+<li><a class="external text" href="http://freiburghotels.org/" rel="nofollow">Hotels in Freiburg</a></li>
+<li><a class="external text" href="http://www.bund-rvso.de/freiburg-environment-ecology.html" rel="nofollow">BUND (Friends of the Earth Germany): Freiburg &amp; Environment: Ecological Capital – Environmental Capital – Solar City - Sustainable City - Green City?</a></li>
+</ul>
+</div>
+
+
+
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:101832-0!*!0!!en!4!* and timestamp 20161111063626 and revision id 748927534
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

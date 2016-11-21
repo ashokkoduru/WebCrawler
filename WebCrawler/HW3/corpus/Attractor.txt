@@ -1,0 +1,265 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="hatnote" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Attractor_(disambiguation)" title="Attractor (disambiguation)">Attractor (disambiguation)</a>.</div>
+
+
+<p>In the <a href="/wiki/Mathematics" title="Mathematics">mathematical</a> field of <a href="/wiki/Dynamical_system" title="Dynamical system">dynamical systems</a>, an <b>attractor</b> is a set of numerical values toward which a system tends to evolve, for a wide variety of starting conditions of the system. System values that get close enough to the attractor values remain close even if slightly disturbed.</p>
+<p>In finite-dimensional systems, the evolving variable may be represented <a href="/wiki/Algebra" title="Algebra">algebraically</a> as an <i>n</i>-dimensional <a href="/wiki/Coordinate_vector" title="Coordinate vector">vector</a>. The attractor is a region in <a href="/wiki/Space_(mathematics)" title="Space (mathematics)"><i>n</i>-dimensional space</a>. In <a href="/wiki/Physics" title="Physics">physical systems</a>, the <i>n</i> dimensions may be, for example, two or three positional coordinates for each of one or more physical entities; in <a href="/wiki/Economics" title="Economics">economic systems</a>, they may be separate variables such as the <a class="mw-redirect" href="/wiki/Inflation_rate" title="Inflation rate">inflation rate</a> and the <a class="mw-redirect" href="/wiki/Unemployment_rate" title="Unemployment rate">unemployment rate</a>.</p>
+<p>If the evolving variable is two- or three-dimensional, the attractor of the dynamic process can be represented <a href="/wiki/Geometry" title="Geometry">geometrically</a> in two or three dimensions, (as for example in the three-dimensional case depicted to the right). An attractor can be a <a href="/wiki/Point_(geometry)" title="Point (geometry)">point</a>, a finite set of points, a <a href="/wiki/Curve" title="Curve">curve</a>, a <a href="/wiki/Manifold" title="Manifold">manifold</a>, or even a complicated set with a <a href="/wiki/Fractal" title="Fractal">fractal</a> structure known as a <i><a href="/wiki/Attractor#Strange_attractor" title="Attractor">strange attractor</a>.</i> If the variable is a <a href="/wiki/Scalar_(mathematics)" title="Scalar (mathematics)">scalar</a>, the attractor is a subset of the real number line. Describing the attractors of chaotic dynamical systems has been one of the achievements of <a href="/wiki/Chaos_theory" title="Chaos theory">chaos theory</a>.</p>
+<p>A <a href="/wiki/Trajectory" title="Trajectory">trajectory</a> of the dynamical system in the attractor does not have to satisfy any special constraints except for remaining on the attractor, forward in time. The trajectory may be <a href="/wiki/Periodic_function" title="Periodic function">periodic</a> or <a href="/wiki/Chaos_theory" title="Chaos theory">chaotic</a>. If a set of points is periodic or chaotic, but the flow in the neighborhood is away from the set, the set is not an attractor, but instead is called a <b>repeller</b> (or <i><a class="mw-redirect" href="/wiki/Repellor" title="Repellor">repellor</a></i>).</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Motivation">Motivation</span></h2>
+<p>A <a href="/wiki/Dynamical_system" title="Dynamical system">dynamical system</a> is generally described by one or more <a class="mw-redirect" href="/wiki/Differential_equations" title="Differential equations">differential</a> or <a class="mw-redirect" href="/wiki/Difference_equations" title="Difference equations">difference equations</a>. The equations of a given dynamical system specify its behavior over any given short period of time. To determine the system's behavior for a longer period, it is often necessary to <a href="/wiki/Integral" title="Integral">integrate</a> the equations, either through analytical means or through iteration, often with the aid of computers.</p>
+<p>Dynamical systems in the physical world tend to arise from <a href="/wiki/Dissipative_system" title="Dissipative system">dissipative</a> systems: if it were not for some driving force, the motion would cease. (Dissipation may come from <a href="/wiki/Friction" title="Friction">internal friction</a>, <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamic losses</a>, or loss of material, among many causes.) The dissipation and the driving force tend to balance, killing off initial transients and settle the system into its typical behavior. The subset of the <a href="/wiki/Phase_space" title="Phase space">phase space</a> of the dynamical system corresponding to the typical behavior is the <b>attractor</b>, also known as the attracting section or attractee.</p>
+<p>Invariant sets and <a href="/wiki/Limit_set" title="Limit set">limit sets</a> are similar to the attractor concept. An <i>invariant set</i> is a set that evolves to itself under the dynamics. Attractors may contain invariant sets. A <i>limit set</i> is a set of points such that there exists some initial state that ends up arbitrarily close to the limit set (i.e. to each point of the set) as time goes to infinity. Attractors are limit sets, but not all limit sets are attractors: It is possible to have some points of a system converge to a limit set, but different points when perturbed slightly off the limit set may get knocked off and never return to the vicinity of the limit set.</p>
+<p>For example, the <a href="/wiki/Pendulum#damped_pendulum" title="Pendulum">damped pendulum</a> has two invariant points: the point <span class="texhtml">x<sub>0</sub></span> of minimum height and the point <span class="texhtml">x<sub>1</sub></span> of maximum height. The point <span class="texhtml">x<sub>0</sub></span> is also a limit set, as trajectories converge to it; the point <span class="texhtml">x<sub>1</sub></span> is not a limit set. Because of the dissipation due to air resistance, the point <span class="texhtml">x<sub>0</sub></span> is also an attractor. If there was no dissipation, <span class="texhtml">x<sub>0</sub></span> would not be an attractor.</p>
+<h2><span class="mw-headline" id="Mathematical_definition">Mathematical definition</span></h2>
+<p>Let <i>t</i> represent time and let <i>f</i>(<i>t</i>, •) be a function which specifies the dynamics of the system. That is, if <i>a</i> is an <i>n</i>-dimensional point in the phase space, representing the initial state of the system, then <i>f</i>(0, <i>a</i>) = <i>a</i> and, for a positive value of <i>t</i>, <i>f</i>(<i>t</i>, <i>a</i>) is the result of the evolution of this state after <i>t</i> units of time. For example, if the system describes the evolution of a free particle in one dimension then the phase space is the plane <b>R</b> with coordinates (<i>x</i>,<i>v</i>), where <i>x</i> is the position of the particle, <i>v</i> is its velocity, <i>a</i> = (<i>x</i>,<i>v</i>), and the evolution is given by</p>
+
+
+<p>An <b>attractor</b> is a <a href="/wiki/Subset" title="Subset">subset</a> <i>A</i> of the <a href="/wiki/Phase_space" title="Phase space">phase space</a> characterized by the following three conditions:</p>
+<ul>
+<li><i>A</i> is <i>forward invariant</i> under <i>f</i>: if <i>a</i> is an element of <i>A</i> then so is <i>f</i>(<i>t</i>,<i>a</i>), for all <i>t</i> &gt; 0.</li>
+<li>There exists a <a href="/wiki/Neighbourhood_(mathematics)" title="Neighbourhood (mathematics)">neighborhood</a> of <i>A</i>, called the <b>basin of attraction</b> for <i>A</i> and denoted <i>B</i>(<i>A</i>), which consists of all points <i>b</i> that "enter <i>A</i> in the limit <i>t</i> → ∞". More formally, <i>B</i>(<i>A</i>) is the set of all points <i>b</i> in the phase space with the following property:</li>
+</ul>
+
+<ul>
+<li>There is no proper (non-empty) subset of <i>A</i> having the first two properties.</li>
+</ul>
+<p>Since the basin of attraction contains an <a href="/wiki/Open_set" title="Open set">open set</a> containing <i>A</i>, every point that is sufficiently close to <i>A</i> is attracted to <i>A</i>. The definition of an attractor uses a <a href="/wiki/Metric_space" title="Metric space">metric</a> on the phase space, but the resulting notion usually depends only on the topology of the phase space. In the case of <b>R</b>, the Euclidean norm is typically used.</p>
+<p>Many other definitions of attractor occur in the literature. For example, some authors require that an attractor have positive <a href="/wiki/Measure_(mathematics)" title="Measure (mathematics)">measure</a> (preventing a point from being an attractor), others relax the requirement that <i>B</i>(<i>A</i>) be a neighborhood </p>
+<h2><span class="mw-headline" id="Types_of_attractors">Types of attractors</span></h2>
+<p>Attractors are portions or <a href="/wiki/Subset" title="Subset">subsets</a> of the <a href="/wiki/Configuration_space#Phase_space" title="Configuration space">phase space</a> of a <a href="/wiki/Dynamical_system" title="Dynamical system">dynamic system</a>. Until the 1960s, attractors were thought of as being <a href="/wiki/Geometric_primitive" title="Geometric primitive">simple geometric subsets</a> of the phase space, like <a href="/wiki/Point_(geometry)" title="Point (geometry)">points</a>, <a class="mw-redirect" href="/wiki/Line_(mathematics)" title="Line (mathematics)">lines</a>, <a href="/wiki/Surface_(topology)" title="Surface (topology)">surfaces</a>, and simple regions of <a href="/wiki/Three-dimensional_space" title="Three-dimensional space">three-dimensional space</a>. More complex attractors that cannot be categorized as simple geometric subsets, such as <a href="/wiki/Topology" title="Topology">topologically</a> wild sets, were known of at the time but were thought to be fragile anomalies. <a href="/wiki/Stephen_Smale" title="Stephen Smale">Stephen Smale</a> was able to show that his <a href="/wiki/Horseshoe_map" title="Horseshoe map">horseshoe map</a> was <a href="/wiki/Structural_stability" title="Structural stability">robust</a> and that its attractor had the structure of a <a href="/wiki/Cantor_set" title="Cantor set">Cantor set</a>.</p>
+<p>Two simple attractors are a <a href="/wiki/Fixed_point_(mathematics)" title="Fixed point (mathematics)">fixed point</a> and the <a href="/wiki/Limit_cycle" title="Limit cycle">limit cycle</a>. Attractors can take on many other geometric shapes (phase space subsets). But when these sets (or the motions within them) cannot be easily described as simple combinations (e.g. <a href="/wiki/Intersection_(set_theory)" title="Intersection (set theory)">intersection</a> and <a href="/wiki/Union_(set_theory)" title="Union (set theory)">union</a>) of <a href="/wiki/Geometric_primitive" title="Geometric primitive">fundamental geometric objects</a> (e.g. <a class="mw-redirect" href="/wiki/Line_(mathematics)" title="Line (mathematics)">lines</a>, <a href="/wiki/Surface_(topology)" title="Surface (topology)">surfaces</a>, <a href="/wiki/Sphere" title="Sphere">spheres</a>, <a href="/wiki/Toroid" title="Toroid">toroids</a>, <a href="/wiki/Manifold" title="Manifold">manifolds</a>), then the attractor is called a <i><a href="/wiki/Attractor#Strange_attractor" title="Attractor">strange attractor</a></i>.</p>
+<h3><span class="mw-headline" id="Fixed_point">Fixed point</span></h3>
+
+<p>A <a href="/wiki/Fixed_point_(mathematics)" title="Fixed point (mathematics)">fixed point</a> of a function or transformation is a point that is mapped to itself by the function or transformation. If we regard the evolution of a dynamical system as a series of transformations, then there may or may not be a point which remains fixed under each transformation. The final state that a dynamical system evolves towards corresponds to an attracting fixed point of the evolution function for that system, such as the center bottom position of a <a href="/wiki/Pendulum#damped_pendulum" title="Pendulum">damped pendulum</a>, the level and flat water line of sloshing water in a glass, or the bottom center of a bowl contain a rolling marble. But the fixed point(s) of a dynamic system is not necessarily an attractor of the system. For example, if the bowl containing a rolling marble was inverted and the marble was balanced on top of the bowl, the center bottom (now top) of the bowl is a fixed state, but not an attractor. This is equivalent to the difference between <a href="/wiki/Stability_theory#Stability_of_fixed_points" title="Stability theory">stable and unstable equilibria</a>. In the case of a marble on top of an inverted bowl (a hill), that point at the top of the bowl (hill) is a fixed point (equilibrium), but not an attractor (stable equilibrium).</p>
+<p>In addition, physical dynamic systems with at least one fixed point invariably have multiple fixed points and attractors due to the reality of dynamics in the physical world, including the <a class="mw-redirect" href="/wiki/Nonlinear_dynamics" title="Nonlinear dynamics">nonlinear dynamics</a> of <a href="/wiki/Stiction" title="Stiction">stiction</a>, <a href="/wiki/Friction" title="Friction">friction</a>, <a href="/wiki/Surface_roughness" title="Surface roughness">surface roughness</a>, <a href="/wiki/Deformation_(engineering)" title="Deformation (engineering)">deformation</a> (both <a class="mw-redirect" href="/wiki/Elastic_deformation" title="Elastic deformation">elastic</a> and <a href="/wiki/Plastic" title="Plastic">plasticity</a>), and even <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>. In the case of a marble on top of an inverted bowl, even if the bowl seems perfectly <a href="/wiki/Sphere#Hemisphere" title="Sphere">hemispherical</a>, and the marble's <a href="/wiki/Sphere" title="Sphere">spherical</a> shape, are both much more complex surfaces when examined under a microscope, and their <a href="/wiki/Contact_mechanics#History" title="Contact mechanics">shapes change</a> or <a href="/wiki/Deformation_(mechanics)" title="Deformation (mechanics)">deform</a> during contact. Any physical surface can be seen to have a rough terrain of multiple peaks, valleys, saddle points, ridges, ravines, and plains. There are many points in this surface terrain (and the dynamic system of a similarly rough marble rolling around on this microscopic terrain) that are considered <a href="/wiki/Critical_point_(mathematics)" title="Critical point (mathematics)">stationary</a> or fixed points, some of which are categorized as attractors.</p>
+<h3><span class="mw-headline" id="Finite_number_of_points">Finite number of points</span></h3>
+<p>In a discrete-time system, an attractor can take the form of a finite number of points that are visited in sequence. Each of these points is called a <a href="/wiki/Periodic_point" title="Periodic point">periodic point</a>. This is illustrated by the <a href="/wiki/Logistic_map" title="Logistic map">logistic map</a>, which depending on its specific parameter value can have an attractor consisting of 2 points, 3×2 points, etc., for any value of <i>n</i>.</p>
+<h3><span class="mw-headline" id="Limit_cycle">Limit cycle</span></h3>
+
+<p>A <a href="/wiki/Limit_cycle" title="Limit cycle">limit cycle</a> is a periodic orbit of a continuous dynamical system that is <a href="/wiki/Isolated_point" title="Isolated point">isolated</a>. Examples include the swings of a <a href="/wiki/Pendulum_clock" title="Pendulum clock">pendulum clock</a>, the tuning circuit of a radio, and the heartbeat while resting. (The limit cycle of an ideal pendulum is not an example of a limit cycle attractor because its orbits are not isolated: in the phase space of the ideal pendulum, near any point of a periodic orbit there is another point that belongs to a different periodic orbit, so the former orbit is not attracting).</p>
+<div class="center">
+
+</div>
+<h3><span class="mw-headline" id="Limit_torus">Limit torus</span></h3>
+<p>There may be more than one frequency in the periodic trajectory of the system through the state of a limit cycle. For example, in physics, one frequency may dictate the rate at which a planet orbits a star while a second frequency describes the oscillations in the distance between the two bodies. If two of these frequencies form an <a href="/wiki/Irrational_number" title="Irrational number">irrational fraction</a> (i.e. they are <a href="/wiki/Commensurability_(mathematics)" title="Commensurability (mathematics)">incommensurate</a>), the trajectory is no longer closed, and the limit cycle becomes a limit <a href="/wiki/Torus" title="Torus">torus</a>. This kind of attractor is called an <span class="texhtml"><i>N</i><sub><i>t</i></sub></span>-torus if there are <span class="texhtml">N<sub>t</sub></span> incommensurate frequencies. For example, here is a 2-torus:</p>
+<p><a class="image" href="/wiki/File:Torus.png"><img alt="Torus.png" data-file-height="502" data-file-width="784" height="192" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Torus.png/300px-Torus.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Torus.png/450px-Torus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Torus.png/600px-Torus.png 2x" width="300"/></a></p>
+<p>A time series corresponding to this attractor is a <a class="mw-redirect" href="/wiki/Quasiperiodic" title="Quasiperiodic">quasiperiodic</a> series: A discretely sampled sum of <span class="texhtml">N<sub>t</sub></span> periodic functions (not necessarily <a href="/wiki/Sine" title="Sine">sine</a> waves) with incommensurate frequencies. Such a time series does not have a strict periodicity, but its <a class="mw-redirect" href="/wiki/Power_spectrum" title="Power spectrum">power spectrum</a> still consists only of sharp lines.</p>
+<h3><span class="mw-headline" id="Strange_attractor">Strange attractor</span></h3>
+
+<p>An attractor is called <b>strange</b> if it has a <a href="/wiki/Fractal" title="Fractal">fractal</a> structure. This is often the case when the dynamics on it are <a href="/wiki/Chaos_theory" title="Chaos theory">chaotic</a>, but <a href="/wiki/Strange_nonchaotic_attractor" title="Strange nonchaotic attractor">strange nonchaotic attractors</a> also exist. If a strange attractor is chaotic, exhibiting <a class="mw-redirect" href="/wiki/Sensitive_dependence_on_initial_conditions" title="Sensitive dependence on initial conditions">sensitive dependence on initial conditions</a>, then any two arbitrarily close alternative initial points on the attractor, after any of various numbers of iterations, will lead to points that are arbitrarily far apart (subject to the confines of the attractor), and after any of various other numbers of iterations will lead to points that are arbitrarily close together. Thus a dynamic system with a chaotic attractor is locally unstable yet globally stable: once some sequences have entered the attractor, nearby points diverge from one another but never depart from the attractor.</p>
+<p>The term <b>strange attractor</b> was coined by <a href="/wiki/David_Ruelle" title="David Ruelle">David Ruelle</a> and <a href="/wiki/Floris_Takens" title="Floris Takens">Floris Takens</a> to describe the attractor resulting from a series of <a href="/wiki/Bifurcation_theory" title="Bifurcation theory">bifurcations</a> of a system describing fluid flow. Strange attractors are often <a class="mw-redirect" href="/wiki/Differentiable" title="Differentiable">differentiable</a> in a few directions, but some are <a class="mw-redirect" href="/wiki/Homeomorphic" title="Homeomorphic">like</a> a <a class="mw-redirect" href="/wiki/Cantor_dust" title="Cantor dust">Cantor dust</a>, and therefore not differentiable. Strange attractors may also be found in presence of noise, where they may be shown to support invariant random probability measures of Sinai–Ruelle–Bowen type.</p>
+<p>Examples of strange attractors include the <a class="mw-redirect" href="/wiki/Double_scroll_attractor" title="Double scroll attractor">double-scroll attractor</a>, <a href="/wiki/H%C3%A9non_map" title="Hénon map">Hénon attractor</a>, <a href="/wiki/R%C3%B6ssler_attractor" title="Rössler attractor">Rössler attractor</a>, Tamari attractor, and the <a class="mw-redirect" href="/wiki/Lorenz_attractor" title="Lorenz attractor">Lorenz attractor</a>.</p>
+<h2><span class="mw-headline" id="Effect_of_parameters_on_the_attractor">Effect of parameters on the attractor</span></h2>
+
+<p>A particular functional form of a dynamic equation can have various types of attractor depending on the particular parameter values used in the function. An example is the well-studied <a href="/wiki/Logistic_map" title="Logistic map">logistic map</a>, <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>r</mi>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{t+1}=rx_{t}(1-x_{t}),}</annotation>
+</semantics>
+</math></span><img alt="x_{t+1}=rx_t(1-x_t)," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7c656ae2536cc6d115e9e3f0951e1c893133982" style="vertical-align: -0.838ex; width:19.315ex; height:2.843ex;"/></span> whose basins of attraction for various values of the parameter <i>r</i> are shown in the diagram. At some values of the parameter the attractor is a single point, at others it is two points that are visited in turn, at others it is 2 points or <i>k</i> × 2 points that are visited in turn, for any value of <i>n</i> depending on the value of the parameter <i>r</i>, and at other values of <i>r</i> an infinitude of points are visited.</p>
+<h2><span class="mw-headline" id="Basins_of_attraction">Basins of attraction</span></h2>
+<p>An attractor's <b>basin of attraction</b> is the region of the <a href="/wiki/Phase_space" title="Phase space">phase space</a>, over which iterations are defined, such that any point (any <a href="/wiki/Initial_condition" title="Initial condition">initial condition</a>) in that region will eventually be iterated into the attractor. For a <a class="mw-redirect" href="/wiki/Stability_(mathematics)" title="Stability (mathematics)">stable</a> <a href="/wiki/Linear_system" title="Linear system">linear system</a>, every point in the phase space is in the basin of attraction. However, in <a href="/wiki/Nonlinear_system" title="Nonlinear system">nonlinear systems</a>, some points may map directly or <a class="mw-redirect" href="/wiki/Asymptotic_behavior" title="Asymptotic behavior">asymptotically</a> to infinity, while other points may lie in a different basin of attraction and map asymptotically into a different attractor; other initial conditions may be in or map directly into a non-attracting point or cycle.</p>
+<h3><span class="mw-headline" id="Linear_equation_or_system">Linear equation or system</span></h3>
+<p>A single-variable (univariate) linear <a class="mw-redirect" href="/wiki/Difference_equation" title="Difference equation">difference equation</a> of the <a class="mw-redirect" href="/wiki/Homogeneous_equation" title="Homogeneous equation">homogeneous form</a> <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>a</mi>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{t}=ax_{t-1}}</annotation>
+</semantics>
+</math></span><img alt="x_t=ax_{t-1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe21638218864bc4ab00a960c3b3d6cc6dbe2b0b" style="vertical-align: -0.671ex; width:10.811ex; height:2.009ex;"/></span> diverges to infinity if |<i>a</i>| &gt; 1 from all initial points except 0; there is no attractor and therefore no basin of attraction. But if |<i>a</i>| &lt; 1 all points on the number line map asymptotically (or directly in the case of 0) to 0; 0 is the attractor, and the entire number line is the basin of attraction.</p>
+<p>Likewise, a linear <a href="/wiki/Matrix_difference_equation" title="Matrix difference equation">matrix difference equation</a> in a dynamic <a href="/wiki/Coordinate_vector" title="Coordinate vector">vector</a> <i>X</i>, of the homogeneous form <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>X</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>A</mi>
+<msub>
+<mi>X</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle X_{t}=AX_{t-1}}</annotation>
+</semantics>
+</math></span><img alt="X_t=AX_{t-1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4bf8e00ade4625b141ff4831e1f21a549f69e8d9" style="vertical-align: -0.671ex; width:12.514ex; height:2.676ex;"/></span> in terms of <a href="/wiki/Square_matrix" title="Square matrix">square matrix</a> <i>A</i> will have all elements of the dynamic vector diverge to infinity if the largest <a class="mw-redirect" href="/wiki/Eigenvalue" title="Eigenvalue">eigenvalue</a> of <i>A</i> is greater than 1 in absolute value; there is no attractor and no basin of attraction. But if the largest eigenvalue is less than 1 in magnitude, all initial vectors will asymptotically converge to the zero vector, which is the attractor; the entire <i>n</i>-dimensional space of potential initial vectors is the basin of attraction.</p>
+<p>Similar features apply to linear <a href="/wiki/Differential_equation" title="Differential equation">differential equations</a>. The scalar equation <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>d</mi>
+<mi>t</mi>
+<mo>=</mo>
+<mi>a</mi>
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dx/dt=ax}</annotation>
+</semantics>
+</math></span><img alt=" dx/dt =ax" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/500e884f848ed4c86a59282efb3df62730a6ef9a" style="vertical-align: -0.838ex; width:11.505ex; height:2.843ex;"/></span> causes all initial values of <i>x</i> except zero to diverge to infinity if <i>a</i> &gt; 0 but to converge to an attractor at the value 0 if <i>a</i> &lt; 0, making the entire number line the basin of attraction for 0. And the matrix system <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>X</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>d</mi>
+<mi>t</mi>
+<mo>=</mo>
+<mi>A</mi>
+<mi>X</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dX/dt=AX}</annotation>
+</semantics>
+</math></span><img alt="dX/dt=AX" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e70a42bf31b569d686e87274658435209f57dd5d" style="vertical-align: -0.838ex; width:13.319ex; height:2.843ex;"/></span> gives divergence from all initial points except the vector of zeroes if any eigenvalue of the matrix <i>A</i> is positive; but if all the eigenvalues are negative the vector of zeroes is an attractor whose basin of attraction is the entire phase space.</p>
+<h3><span class="mw-headline" id="Nonlinear_equation_or_system">Nonlinear equation or system</span></h3>
+<p>Equations or systems that are <a href="/wiki/Nonlinear_system" title="Nonlinear system">nonlinear</a> can give rise to a richer variety of behavior than can linear systems. One example is <a href="/wiki/Newton%27s_method" title="Newton's method">Newton's method</a> of iterating to a root of a nonlinear expression. If the expression has more than one <a href="/wiki/Real_number" title="Real number">real</a> root, some starting points for the iterative algorithm will lead to one of the roots asymptotically, and other starting points will lead to another. The basins of attraction for the expression's roots are generally not simple—it is not simply that the points nearest one root all map there, giving a basin of attraction consisting of nearby points. The basins of attraction can be infinite in number and arbitrarily small. For example, for the function <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>11</mn>
+<mi>x</mi>
+<mo>+</mo>
+<mn>12</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f(x)=x^{3}-2x^{2}-11x+12}</annotation>
+</semantics>
+</math></span><img alt="f(x)=x^{3}-2x^{2}-11x+12" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02759d2b16332f13718236ef3067fd2e9a8d2a82" style="vertical-align: -0.838ex; width:28.129ex; height:3.176ex;"/></span>, the following initial conditions are in successive basins of attraction:</p>
+
+
+<p>Newton's method can also be applied to <a href="/wiki/Complex_analysis" title="Complex analysis">complex functions</a> to find their roots. Each root has a basin of attraction in the <a href="/wiki/Complex_plane" title="Complex plane">complex plane</a>; these basins can be mapped as in the image shown. As can be seen, the combined basin of attraction for a particular root can have many disconnected regions. For many complex functions, the boundaries of the basins of attraction are <a href="/wiki/Fractal" title="Fractal">fractals</a>.</p>
+<h2><span class="mw-headline" id="Partial_differential_equations">Partial differential equations</span></h2>
+<p><a href="/wiki/Parabolic_partial_differential_equation" title="Parabolic partial differential equation">Parabolic partial differential equations</a> may have finite-dimensional attractors. The diffusive part of the equation damps higher frequencies and in some cases leads to a global attractor. The <i>Ginzburg–Landau</i>, the <i>Kuramoto–Sivashinsky</i>, and the two-dimensional, forced <a class="mw-redirect" href="/wiki/Navier%E2%80%93Stokes_equation" title="Navier–Stokes equation">Navier–Stokes equations</a> are all known to have global attractors of finite dimension.</p>
+<p>For the three-dimensional, incompressible Navier–Stokes equation with periodic <a class="mw-redirect" href="/wiki/Boundary_condition" title="Boundary condition">boundary conditions</a>, if it has a global attractor, then this attractor will be of finite dimensions.</p>
+<h2><span class="mw-headline" id="Numerical_localization_.28visualization.29_of_attractors:_self-excited_and_hidden_attractors">Numerical localization (visualization) of attractors: self-excited and hidden attractors</span></h2>
+
+<p>From a computational point of view, attractors can be naturally regarded as <i>self-excited attractors</i> or <i><a class="mw-redirect" href="/wiki/Hidden_attractor" title="Hidden attractor">hidden attractors</a></i>. Self-excited attractors can be localized numerically by standard computational procedures, in which after a transient sequence, a trajectory starting from a point on an unstable manifold in a small neighborhood of an unstable equilibrium reaches an attractor (like classical attractors in the <a href="/wiki/Van_der_Pol" title="Van der Pol">Van der Pol</a>, <a href="/wiki/Belousov%E2%80%93Zhabotinsky_reaction" title="Belousov–Zhabotinsky reaction">Belousov–Zhabotinsky</a>, <a class="mw-redirect" href="/wiki/Lorenz_attractor" title="Lorenz attractor">Lorenz</a>, and many other dynamical systems). In contrast, the basin of attraction of a <a class="mw-redirect" href="/wiki/Hidden_attractor" title="Hidden attractor">hidden attractor</a> does not contain neighborhoods of equilibria, so the <a class="mw-redirect" href="/wiki/Hidden_attractor" title="Hidden attractor">hidden attractor</a> cannot be localized by standard computational procedures.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+
+<ul>
+<li><a href="/wiki/Cycle_detection" title="Cycle detection">Cycle detection</a></li>
+<li><a href="/wiki/Hyperbolic_set" title="Hyperbolic set">Hyperbolic set</a></li>
+<li><a href="/wiki/Stable_manifold" title="Stable manifold">Stable manifold</a></li>
+<li><a href="/wiki/Steady_state" title="Steady state">Steady state</a></li>
+<li><a class="mw-redirect" href="/wiki/Wada_basin" title="Wada basin">Wada basin</a></li>
+<li><a href="/wiki/Hidden_oscillation" title="Hidden oscillation">Hidden oscillation</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><cite class="citation web"><a href="/wiki/John_Milnor" title="John Milnor">John Milnor</a> (ed.). <a class="external text" href="http://www.scholarpedia.org/article/Attractor" rel="nofollow">"Attractor"</a>. <i><a href="/wiki/Scholarpedia" title="Scholarpedia">Scholarpedia</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Attractor&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scholarpedia.org%2Farticle%2FAttractor&amp;rft.jtitle=Scholarpedia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal"><a href="/wiki/David_Ruelle" title="David Ruelle">David Ruelle</a>; <a href="/wiki/Floris_Takens" title="Floris Takens">Floris Takens</a> (1971). "On the nature of turbulence". <i>Communications of Mathematical Physics</i>. <b>20</b> (3): 167–192. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1007%2FBF01646553" rel="nofollow">10.1007/BF01646553</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=On+the+nature+of+turbulence&amp;rft.au=David+Ruelle&amp;rft.au=Floris+Takens&amp;rft.date=1971&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF01646553&amp;rft.issue=3&amp;rft.jtitle=Communications+of+Mathematical+Physics&amp;rft.pages=167-192&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">D. Ruelle (1981). "Small random perturbations of dynamical systems and the definition of attractors". <i>Communications of Mathematical Physics</i>. <b>82</b>: 137–151. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1007%2FBF01206949" rel="nofollow">10.1007/BF01206949</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Small+random+perturbations+of+dynamical+systems+and+the+definition+of+attractors&amp;rft.au=D.+Ruelle&amp;rft.date=1981&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF01206949&amp;rft.jtitle=Communications+of+Mathematical+Physics&amp;rft.pages=137-151&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=82"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal"><a href="/wiki/John_Milnor" title="John Milnor">John Milnor</a> (1985). "On the concept of attractor". <i>Communications of Mathematical Physics</i>. <b>99</b> (2): 177–195. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1007%2FBF01212280" rel="nofollow">10.1007/BF01212280</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=On+the+concept+of+attractor&amp;rft.au=John+Milnor&amp;rft.date=1985&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF01212280&amp;rft.issue=2&amp;rft.jtitle=Communications+of+Mathematical+Physics&amp;rft.pages=177-195&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=99"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">David Ruelle (1989). <i>Elements of Differentiable Dynamics and Bifurcation Theory</i>. Academic Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-601710-7" title="Special:BookSources/0-12-601710-7">0-12-601710-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.au=David+Ruelle&amp;rft.btitle=Elements+of+Differentiable+Dynamics+and+Bifurcation+Theory&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=0-12-601710-7&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal"><a href="/wiki/David_Ruelle" title="David Ruelle">Ruelle, David</a> (August 2006). <a class="external text" href="http://www.ams.org/notices/200607/what-is-ruelle.pdf" rel="nofollow">"What is...a Strange Attractor?"</a> <span style="font-size:85%;">(<a class="mw-redirect" href="/wiki/PDF" title="PDF">PDF</a>)</span>. <i><a href="/wiki/Notices_of_the_American_Mathematical_Society" title="Notices of the American Mathematical Society">Notices of the American Mathematical Society</a></i>. <b>53</b> (7): 764–765<span class="reference-accessdate">. Retrieved <span class="nowrap">16 January</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=What+is...a+Strange+Attractor%3F&amp;rft.aufirst=David&amp;rft.aulast=Ruelle&amp;rft.date=2006-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ams.org%2Fnotices%2F200607%2Fwhat-is-ruelle.pdf&amp;rft.issue=7&amp;rft.jtitle=Notices+of+the+American+Mathematical+Society&amp;rft.pages=764-765&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=53"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Grebogi, Ott, Pelikan, Yorke (1984). "Strange attractors that are not chaotic". <i>Physica D</i>. <b>13</b>: 261–268. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2F0167-2789%2884%2990282-3" rel="nofollow">10.1016/0167-2789(84)90282-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Strange+attractors+that+are+not+chaotic&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0167-2789%2884%2990282-3&amp;rft.jtitle=Physica+D&amp;rft.pages=261-268&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13"><span style="display:none;"> </span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></li>
+<li><cite class="citation journal">Chekroun, M. D.; E. Simonnet; M. Ghil (2011). "Stochastic climate dynamics: Random attractors and time-dependent invariant measures". <i>Physica D</i>. 240 (21): 1685–1700. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1016%2Fj.physd.2011.06.005" rel="nofollow">10.1016/j.physd.2011.06.005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAttractor&amp;rft.atitle=Stochastic+climate+dynamics%3A+Random+attractors+and+time-dependent+invariant+measures&amp;rft.au=Chekroun%2C+M.+D.&amp;rft.au=E.+Simonnet&amp;rft.au=M.+Ghil&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.physd.2011.06.005&amp;rft.jtitle=Physica+D&amp;rft.pages=1685-1700&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=240+%2821%29"><span style="display:none;"> </span></span></li>
+<li><a class="mw-redirect" href="/wiki/Edward_Lorenz" title="Edward Lorenz">Edward N. Lorenz</a> (1996) <i>The Essence of Chaos</i> <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0295975148">ISBN 0-295-97514-8</a></li>
+<li><a href="/wiki/James_Gleick" title="James Gleick">James Gleick</a> (1988) <i>Chaos: Making a New Science</i> <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0140092501">ISBN 0-14-009250-1</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.scholarpedia.org/article/Basin_of_attraction" rel="nofollow">Basin of attraction on Scholarpedia</a></li>
+<li><a class="external text" href="http://slide.nethium.pl/album_en.net?gNwADMfFmY" rel="nofollow">A gallery of trigonometric strange attractors</a></li>
+<li><a class="external text" href="http://www.chuacircuits.com/sim.php" rel="nofollow">Double scroll attractor</a> Chua's circuit simulation</li>
+<li><a class="external text" href="https://ccrma.stanford.edu/~stilti/images/chaotic_attractors/poly.html" rel="nofollow">A gallery of polynomial strange attractors</a></li>
+<li><a class="external text" href="http://www.chaoscope.org" rel="nofollow">Chaoscope, a 3D Strange Attractor rendering freeware</a></li>
+<li><a class="external text" href="http://ronrecord.com/PhD/intro.html" rel="nofollow">Research abstract</a> and <a class="external text" href="ftp://ftp2.sco.com/pub/skunkware/src/x11/misc/mathrec-1.1c.tar.gz" rel="nofollow">software laboratory</a></li>
+<li><a class="external text" href="http://wokos.nethium.pl/attractors_en.net" rel="nofollow">Online strange attractors generator</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20131112192849/http://1618.pl/home/math_viz/attractor/attractor.html" rel="nofollow">Interactive trigonometric attractors generator</a></li>
+<li><a class="external text" href="http://www.bentamari.com/attractors" rel="nofollow">Economic attractor</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:191094-0!*!0!!en!4!*!math=5 and timestamp 20161101215323 and revision id 745440385
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

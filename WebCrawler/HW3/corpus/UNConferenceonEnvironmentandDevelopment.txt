@@ -1,0 +1,69 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="hatnote" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Earth_Summit_(disambiguation)" title="Earth Summit (disambiguation)">Earth Summit (disambiguation)</a>.</div>
+
+<p>The <b>United Nations Conference on Environment and Development</b> (<b>UNCED</b>), also known as the <b>Rio de Janeiro Earth Summit</b> , <b>Rio Summit</b>, <b>Rio Conference</b>, and <b>Earth Summit</b> (Portuguese: ECO92), was a major <a href="/wiki/United_Nations" title="United Nations">United Nations</a> <a class="mw-redirect" href="/wiki/Diplomatic_conference" title="Diplomatic conference">conference</a> held in <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a> from 3 to 14 June 1992.</p>
+<p>In 2012, the <a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> was also held in Rio, and is also commonly called Rio+20 or Rio Earth Summit 2012. It was held from 13 to 22 June.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>172 governments participated, with 116 sending their heads of state or government. Some 2,400 representatives of <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">non-governmental organizations</a> (NGOs) attended, with 17,000 people at the parallel NGO "Global Forum" (also called Forum Global), who had <a class="mw-redirect" href="/wiki/Consultative_Status" title="Consultative Status">Consultative Status</a>.</p>
+<p>The issues addressed included:</p>
+<ul>
+<li>systematic scrutiny of patterns of production — particularly the production of toxic components, such as <a href="/wiki/Tetraethyllead" title="Tetraethyllead">lead</a> in <a href="/wiki/Gasoline" title="Gasoline">gasoline</a>, or poisonous waste including radioactive chemicals</li>
+<li>alternative sources of energy to replace the use of <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuels</a> which delegates linked to global <a href="/wiki/Climate_change" title="Climate change">climate change</a></li>
+<li>new reliance on <a class="mw-redirect" href="/wiki/Public_transportation" title="Public transportation">public transportation</a> systems in order to reduce vehicle emissions, congestion in cities and the health problems caused by polluted air and smoke</li>
+<li>the growing usage and limited supply of <a href="/wiki/Water" title="Water">water</a></li>
+</ul>
+<p>An important achievement of the summit was an agreement on the <a class="mw-redirect" href="/wiki/Climate_Change_Convention" title="Climate Change Convention">Climate Change Convention</a> which in turn led to the <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a> and the <a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>. Another agreement was to "not to carry out any activities on the lands of <a href="/wiki/Indigenous_peoples" title="Indigenous peoples">indigenous peoples</a> that would cause <a href="/wiki/Environmental_degradation" title="Environmental degradation">environmental degradation</a> or that would be culturally inappropriate".</p>
+<p>The <a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity</a> was opened for signature at the Earth Summit, and made a start towards redefinition of measures that did not inherently encourage destruction of natural <a href="/wiki/Ecoregion" title="Ecoregion">ecoregions</a> and so-called <a href="/wiki/Uneconomic_growth" title="Uneconomic growth">uneconomic growth</a>.</p>
+<p>Although President George H. Bush signed the Earth Summit’s Convention on Climate, his EPA Administrator William K. Reilly acknowledges that U.S. goals at the conference were difficult to negotiate and the agency’s international results were mixed, including the U.S. failure to sign the proposed Convention on Biological Diversity. </p>
+<p>Twelve cities were also honoured by the Local Government Honours Award for innovative local environmental programs. These included <a href="/wiki/Greater_Sudbury" title="Greater Sudbury">Sudbury</a> in <a href="/wiki/Canada" title="Canada">Canada</a> for its ambitious program to rehabilitate environmental damage from the local <a href="/wiki/Mining" title="Mining">mining</a> industry, <a href="/wiki/Austin,_Texas" title="Austin, Texas">Austin</a> in the <a href="/wiki/United_States" title="United States">United States</a> for its <a href="/wiki/Green_building" title="Green building">green building</a> strategy, and <a class="mw-redirect" href="/wiki/Kitaky%C5%ABsh%C5%AB" title="Kitakyūshū">Kitakyūshū</a> in <a href="/wiki/Japan" title="Japan">Japan</a> for incorporating an international education and training component into its municipal <a class="mw-redirect" href="/wiki/Pollution_control" title="Pollution control">pollution control</a> program.</p>
+<h3><span class="mw-headline" id="Results">Results</span></h3>
+<p>The Earth Summit resulted in the following documents:</p>
+<ul>
+<li><i><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></i></li>
+<li><i><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21</a></i></li>
+<li><i><a href="/wiki/Forest_Principles" title="Forest Principles">Forest Principles</a></i></li>
+</ul>
+<p>Moreover, important legally binding agreements (<a href="/wiki/Rio_Convention" title="Rio Convention">Rio Convention</a>) were opened for signature:</p>
+<ul>
+<li><i><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Framework_Convention_on_Climate_Change" title="Framework Convention on Climate Change">Framework Convention on Climate Change</a> (UNFCCC)</i></li>
+<li><i><a href="/wiki/United_Nations_Convention_to_Combat_Desertification" title="United Nations Convention to Combat Desertification">United Nations Convention to Combat Desertification</a></i></li>
+</ul>
+<p>In order to ensure compliance to the agreements at Rio (particularly the <i><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></i> and <i><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21</a></i>), delegates to the Earth Summit established the <i><a href="/wiki/Commission_on_Sustainable_Development" title="Commission on Sustainable Development">Commission on Sustainable Development</a></i>(CSD). In 2013, the CSD was replaced by the <i><a href="/wiki/High-level_Political_Forum_on_Sustainable_Development" title="High-level Political Forum on Sustainable Development">High-level Political Forum on Sustainable Development</a></i> that meets every year as part of the ECOSOC meetings, and every fourth year as part of the General Assembly meetings.</p>
+<p>Critics point out that many of the agreements made in Rio have not been realized regarding such fundamental issues as fighting <a href="/wiki/Poverty" title="Poverty">poverty</a> and cleaning up the <a href="/wiki/Natural_environment" title="Natural environment">environment</a>.</p>
+<p><a href="/wiki/Green_Cross_International" title="Green Cross International">Green Cross International</a> was founded to build upon the work of the Summit.</p>
+<p>The first edition of Water Quality Assessments, published by WHO/<a href="/wiki/Chapman_%26_Hall" title="Chapman &amp; Hall">Chapman &amp; Hall</a>, was launched at the Rio Global Forum.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> "Rio+10" held in <a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecology_summit" title="Ecology summit">Ecology summit</a></li>
+<li><a href="/wiki/Global_Map" title="Global Map">Global Map</a></li>
+<li><a href="/wiki/National_Strategy_for_a_Sustainable_America" title="National Strategy for a Sustainable America">National Strategy for a Sustainable America</a></li>
+<li><a href="/wiki/Precautionary_principle" title="Precautionary principle">Precautionary principle</a></li>
+<li><a class="mw-redirect" href="/wiki/Regional_Forum_on_Environment_and_Health_in_Southeast_and_East_Asian_countries" title="Regional Forum on Environment and Health in Southeast and East Asian countries">Regional Forum on Environment and Health in Southeast and East Asian countries</a></li>
+<li><a href="/wiki/The_Environmental_Institute" title="The Environmental Institute">The Environmental Institute</a></li>
+<li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment">United Nations Conference on the Human Environment</a> 1972</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> also known as "Rio 2012" or "Rio+20", hosted by <a href="/wiki/Brazil" title="Brazil">Brazil</a> in <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>, as a 20-year follow-up to the historic 1992 United Nations Conference on Environment and Development (UNCED).</li>
+<li><a href="/wiki/United_Nations_Convention_to_Combat_Desertification" title="United Nations Convention to Combat Desertification">United Nations Convention to Combat Desertification</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.un.org/esa/dsd/resources/res_docukeyconf_eartsumm.shtml" rel="nofollow">Documents from the United Nations Conference on Environment and Development (also known as UNCED or the Earth Summit)</a> <a class="external text" href="https://web.archive.org/web/20120119092403/http://www.un.org/esa/dsd/resources/res_docukeyconf_eartsumm.shtml" rel="nofollow">Archived</a> January 19, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. held in Rio de Janeiro, Brazil, 1992</li>
+<li><a class="external text" href="http://video.google.com/videoplay?docid=-6642758020554799808" rel="nofollow">video: George Hunt reviews UNCED 1992</a></li>
+<li><a class="external text" href="http://www.youtube.com/watch?v=5g8cmWZOX8Q" rel="nofollow">video: Severn Suzuki, 13 years old, speaks for Environmental Children Organization UNCED 1992</a></li>
+<li><a class="external text" href="http://dalailama.com/messages/environment/address-at-rio" rel="nofollow">Address at Rio Earth Summit</a>, <a class="mw-redirect" href="/wiki/Tenzin_Gyatso" title="Tenzin Gyatso">Tenzin Gyatso</a> Dalai Lama</li>
+<li><a class="external text" href="http://rio2012.org/intagreements/1992-rio-agenda21.php" rel="nofollow">Agenda 21 at the Center for a World in Balance</a></li>
+<li>A critical <a class="external text" href="http://www.newint.org" rel="nofollow">New Internationalist</a> keynote about the <a class="external text" href="http://www.newint.org/features/1992/04/05/keynote/" rel="nofollow">1992 Rio Earth Summit</a></li>
+<li><a class="external text" href="http://www.environmentportal.in/category/thesaurus/rio-summit." rel="nofollow">Rio Summit- news, reports, documents, opinions...</a></li>
+<li><a class="external text" href="http://www.environmentportal.in/thesaurus/rio20" rel="nofollow">Rio+20 on India Environment Portal</a></li>
+<li><a class="external text" href="http://www.who.int/water_sanitation_health/resourcesquality/watqualassess.pdf" rel="nofollow">Water Quality Assessments pdf</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:324783-0!*!0!!en!4!* and timestamp 20161103041759 and revision id 747310578
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

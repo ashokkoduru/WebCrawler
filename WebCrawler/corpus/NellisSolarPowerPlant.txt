@@ -1,0 +1,60 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p>The <b>Nellis Solar Power Plant</b> is a 14-<a class="mw-redirect" href="/wiki/Megawatt" title="Megawatt">megawatt</a> (MW) <a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">photovoltaic power station</a> located within <a href="/wiki/Nellis_Air_Force_Base" title="Nellis Air Force Base">Nellis Air Force Base</a> in <a href="/wiki/Clark_County,_Nevada" title="Clark County, Nevada">Clark County</a>, <a href="/wiki/Nevada" title="Nevada">Nevada</a>, northeast of <a class="mw-redirect" href="/wiki/Las_Vegas,_Nevada" title="Las Vegas, Nevada">Las Vegas</a>. The power plant was inaugurated in a ceremony on December 17, 2007, with Nevada Governor <a href="/wiki/Jim_Gibbons_(U.S._politician)" title="Jim Gibbons (U.S. politician)">Jim Gibbons</a> activating its full operation. On average, it has since generated 32 gigawatt-hours of electricity annually and supplied more than 25% of the power used at the base.</p>
+<p>Occupying 140 acres (57 ha) of land leased from the Air Force at the northeastern corner of the base, this ground-mounted solar system employs an advanced <a href="/wiki/Solar_tracker" title="Solar tracker">sun tracking</a> system, designed and deployed by <a href="/wiki/SunPower" title="SunPower">SunPower</a>. The system contains approximately 70,000 solar panels, and the peak power generation capacity of the plant is approximately 13 <a class="mw-redirect" href="/wiki/Watt-peak_AC" title="Watt-peak AC">MW<sub>AC</sub></a>. This means the ratio of average to peak output, or <a href="/wiki/Capacity_factor" title="Capacity factor">capacity factor</a>, of this plant is around 22%.</p>
+<p>The energy generated will support more than 12,000 military and civilians at Nellis who are responsible for Air Force advanced combat training, tactics development and operational testing. Construction began on April 23, 2007, and operation of the first 5 MW began on October 12, 2007.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Economics">Economics</span></h2>
+<p>Under the terms of the <a class="mw-redirect" href="/wiki/Power_Purchase_Agreement" title="Power Purchase Agreement">Power Purchase Agreement</a>, MMA Renewable Ventures, who own the panels, is leasing the land at no cost and Nellis is agreeing to buy the power for 20 years at about 2.2 cents/kW·h, instead of the 9 cents they are paying to Nevada Power, saving the Air Force $1 million each year. None of the $100 million cost came from the Air Force, but instead from subsidizing taxpayers and Nevada Power customers who are paying for the RPS credits.</p>
+<p>The partners were able to build the plant, recover costs and produce electricity at a savings, because of the fairly complex financing structure arranged among MMA, its investors, Nevada Power, and Nellis — in addition to multimillion-dollar government incentives.</p>
+<p>The plant was expected to produce 30 GWh per year but actually produced about 32 GWh the first year, 8% more than expected, saving the Air Force $1.2 million in the first year of operation.</p>
+<p>There is no provision for operation during a power failure, when the base reverts to generator power. This would require limiting the output to less than or equal to what the generators can provide. Otherwise a cloud could pass over and cause the sudden drop in output to overload the generators, causing them to trip off. If a pumped-hydro facility was added in the nearby hills, that would allow the base to operate during power failures under solar power, although batteries would also be needed to allow time for the hydro-electric plant to adjust to the load requirements.</p>
+<h2><span class="mw-headline" id="Design">Design</span></h2>
+<p>Nellis consists of 5,821 tilted axis, T20 <a href="/wiki/Solar_tracker" title="Solar tracker">single axis trackers</a> made by Sunpower, and uses 72,416 <a href="/wiki/Solar_panel" title="Solar panel">solar panels</a>, each 200 watts, and 54 Xantrex (Schneider Electric) GT 250 <a href="/wiki/Solar_inverter" title="Solar inverter">inverters</a>, each rated 250 kW. The maximum output is therefore inverter limited to 13.5 Megawatts (AC). At full output, the inverters are 96% efficient. Approximately 10% of the panels are mounted on North-South oriented horizontal single axis trackers. About one third of the solar panels were made by Suntech Power, the lead supplier.</p>
+<h2><span class="mw-headline" id="Renewable_portfolio_standard">Renewable portfolio standard</span></h2>
+
+<p>In 1999, Nevada passed a <a href="/wiki/Renewable_portfolio_standard" title="Renewable portfolio standard">renewable portfolio standard</a> (RPS) as part of their 1997 Electric Restructuring Legislation (AB 366). It required any electric providers in the state to acquire actual renewable electric generation or purchase renewable energy credits so that each utility had 1 percent of total consumption in renewables. However, on June 8, 2001, Nevada Governor <a href="/wiki/Kenny_Guinn" title="Kenny Guinn">Kenny Guinn</a> signed SB 372, at the time the country's most aggressive renewable portfolio standard. The law requires that 15 percent of all electricity generated in Nevada be derived from new renewables by the year 2013.</p>
+<p>The 2001, revision to the RPS keeps in place Nevada's commitment to expand solar energy resources by requiring that at least 5 percent of the renewable energy projects must generate electricity from solar energy.</p>
+<p>In June 2005, the Nevada legislature passed a bill during a special legislative session that modified the Nevada RPS (Assembly Bill 03). The bill extends the deadline and raised the requirements of the RPS to 20 percent of sales by 2015.</p>
+<div style="clear:left;"></div>
+<h2><span class="mw-headline" id="Expansion">Expansion</span></h2>
+<p>An extension of the plant called Nellis Solar PV II, which will generate another 15 megawatts of power, began construction on March 24, 2015, and was completed in February 2016.</p>
+<h2><span class="mw-headline" id="Presidential_visit">Presidential visit</span></h2>
+
+<p>President <a href="/wiki/Barack_Obama" title="Barack Obama">Barack Obama</a> visited the facility and addressed an audience of more than 450 people on May 27, 2009.</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Production">Production</span></h2>
+
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 26em; -webkit-column-width: 26em; column-width: 26em;">
+<ul>
+<li><a href="/wiki/DeSoto_Next_Generation_Solar_Energy_Center" title="DeSoto Next Generation Solar Energy Center">DeSoto Next Generation Solar Energy Center</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_United_States" title="Renewable energy in the United States">Renewable energy in the United States</a></li>
+<li><a href="/wiki/Renewable_portfolio_standard" title="Renewable portfolio standard">Renewable portfolio standard</a></li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">Solar power in the United States</a></li>
+<li><a href="/wiki/Solar_power_in_Nevada" title="Solar power in Nevada">Solar power in Nevada</a></li>
+</ul>
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.nellis.af.mil/shared/media/photodb/photos/071009-F-0136B-001.jpg" rel="nofollow">Hi-res image</a></li>
+<li><a class="external text" href="http://www.klas-tv.com/Global/story.asp?S=6415712" rel="nofollow">Largest Solar-Power Generation Station in U.S. to be at Nellis</a></li>
+<li><a class="external text" href="http://commercial.sunpowermonitor.com/Commercial/kiosk.aspx?id=1dd14d57-7840-4b2d-af0a-0fe0fdd5c872" rel="nofollow">Real time monitor</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10887147-0!*!0!!en!4!* and timestamp 20161105182441 and revision id 738578507
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

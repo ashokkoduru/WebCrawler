@@ -1,0 +1,4 @@
+To implement this Indexer, I have used the following modules
+
+1. BeautifulSoup as a HTML parser.
+2. MatplotLib to plot the Zipf law

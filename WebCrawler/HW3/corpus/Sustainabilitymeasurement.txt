@@ -1,0 +1,112 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote" role="note">See also: <a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></div>
+<p><b>Sustainability measurement</b> is the quantitative basis for the informed management of <a href="/wiki/Sustainability" title="Sustainability">sustainability</a>. The metrics used for the measurement of sustainability (involving the sustainability of environmental, social and economic domains, both individually and in various combinations) are still evolving: they include <a href="/wiki/Ecological_indicator" title="Ecological indicator">indicators</a>, benchmarks, audits, indexes and accounting, as well as assessment, appraisal and other reporting systems. They are applied over a wide range of spatial and temporal scales.</p>
+<p>Some of the best known and most widely used sustainability measures include corporate <a href="/wiki/Sustainability_reporting" title="Sustainability reporting">sustainability reporting</a>, <a href="/wiki/Triple_bottom_line" title="Triple bottom line">Triple Bottom Line accounting</a>, and estimates of the quality of sustainability governance for individual countries using the <a href="/wiki/Environmental_Sustainability_Index" title="Environmental Sustainability Index">Environmental Sustainability Index</a> and <a href="/wiki/Environmental_Performance_Index" title="Environmental Performance Index">Environmental Performance Index</a>. An alternative approach, used by the <a href="/wiki/United_Nations_Global_Compact" title="United Nations Global Compact">United Nations Global Compact</a> Cities Programme and explicitly critical of the triple-bottom-line approach is <a href="/wiki/Circles_of_Sustainability" title="Circles of Sustainability">Circles of Sustainability</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Sustainability_indicators_and_their_function">Sustainability indicators and their function</span></h2>
+<p>The principal objective of sustainability indicators is to inform public policy-making as part of the process of <a class="mw-redirect" href="/wiki/Sustainability_governance" title="Sustainability governance">sustainability governance</a>. Sustainability indicators can provide information on any aspect of the interplay between the environment and socio-economic activities. Building strategic indicator sets generally deals with just a few simple questions: what is happening? (descriptive indicators), does it matter and are we reaching targets? (performance indicators), are we improving? (efficiency indicators), are measures working? (policy effectiveness indicators), and are we generally better off? (total welfare indicators). One popular general framework used by The <a href="/wiki/European_Environment_Agency" title="European Environment Agency">European Environment Agency</a> uses a slight modification of the <a href="/wiki/Organisation_for_Economic_Co-operation_and_Development" title="Organisation for Economic Co-operation and Development">Organisation for Economic Co-operation and Development</a> DPSIR system. This breaks up environmental impact into five stages. Social and economic developments (consumption and production) <i>(D)rive</i> or initiate environmental <i>(P)ressures</i> which, in turn, produces a change in the <i>(S)tate</i> of the environment which leads to <i>(I)mpacts</i> of various kinds. Societal <i>(R)esponses</i> (policy guided by sustainability indicators) can be introduced at any stage of this sequence of events.</p>
+<h2><span class="mw-headline" id="Metrics_at_the_global_scale">Metrics at the global scale</span></h2>
+<h3><span class="mw-headline" id="United_Nations_Indicators">United Nations Indicators</span></h3>
+<p>The United Nations has developed extensive sustainability measurement tools in relation to sustainable development  as well as a <a href="/wiki/System_of_Integrated_Environmental_and_Economic_Accounting" title="System of Integrated Environmental and Economic Accounting">System of Integrated Environmental and Economic Accounting</a>.</p>
+<h3><span class="mw-headline" id="Benchmarks.2C_indicators.2C_indexes.2C_auditing_etc.">Benchmarks, indicators, indexes, auditing etc.</span></h3>
+<p>In the last couple of decades there has arisen a crowded toolbox of quantitative methods used to assess sustainability — including measures of resource use like <a class="mw-redirect" href="/wiki/Life_cycle_assessment" title="Life cycle assessment">life cycle assessment</a>, measures of consumption like the <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a> and measurements of quality of environmental governance like the <a href="/wiki/Environmental_Performance_Index" title="Environmental Performance Index">Environmental Performance Index</a>. The following is a list of quantitative "tools" used by sustainability scientists - the different categories are for convenience only as defining criteria will intergrade. It would be too difficult to list all those methods available at different levels of organisation so those listed here are at for the global level only.</p>
+<div class="hatnote plainlinks" role="note">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sustainability_measurement&amp;action=edit">expanding it</a>.</div>
+<ul>
+<li><b><a href="/wiki/Benchmark_(surveying)" title="Benchmark (surveying)">Benchmarks</a></b></li>
+</ul>
+
+<ul>
+<li><b><a href="/wiki/Index_(economics)" title="Index (economics)">Indices</a></b></li>
+</ul>
+
+<div>
+
+</div>
+<ul>
+<li><b><a href="/wiki/Performance_metric" title="Performance metric">Metrics</a></b></li>
+</ul>
+
+<div>
+
+</div>
+<ul>
+<li><b><a href="/wiki/Audit" title="Audit">Auditing</a></b></li>
+</ul>
+
+
+<ul>
+<li><b>Development and NGO project auditing</b></li>
+</ul>
+
+<ul>
+<li><b><a href="/wiki/Report" title="Report">Reporting</a></b>
+<ul>
+<li>Global Reporting Initiative <a href="/wiki/Global_Reporting_Initiative" title="Global Reporting Initiative">Global Reporting Initiative</a> modelling and monitoring procedures. Many of these have only just been developed.</li>
+<li><a href="/wiki/State_of_the_Environment" title="State of the Environment">State of the Environment</a> reporting provides general background information on the environment and is progressively including more indicators.</li>
+<li>European sustainability </li>
+</ul>
+</li>
+<li><b><a href="/wiki/Accounting" title="Accounting">Accounting</a></b></li>
+</ul>
+
+<h3><span class="mw-headline" id="Resource_metrics">Resource metrics</span></h3>
+<p>Part of this process can relate to resource use such as <a href="/wiki/Energy_accounting" title="Energy accounting">energy accounting</a> or to economic metrics or <a href="/wiki/Price_system" title="Price system">price system</a> values as compared to <a class="mw-redirect" href="/wiki/Non-market_economics" title="Non-market economics">non-market economics</a> potential, for understanding resource use. An important task for resource theory (<a href="/wiki/Energy_economics" title="Energy economics">energy economics</a>) is to develop methods to optimize resource conversion processes. These systems are described and analyzed by means of the methods of mathematics and the natural sciences. Human factors, however, have dominated the development of our perspective of the relationship between nature and society since at least the <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a>, and in particular have influenced how we describe and measure the economic impacts of changes in resource quality. A balanced view of these issues requires an understanding of the physical framework in which all human ideas, institutions, and aspirations must operate.</p>
+<h4><span class="mw-headline" id="Economics.2C_oil_and_energy">Economics, oil and energy</span></h4>
+
+<h3><span class="mw-headline" id="Energy_return_on_energy_investment">Energy return on energy investment</span></h3>
+<p>When oil production first began in the mid-nineteenth century, the largest oil fields recovered fifty barrels of oil for every barrel used in the extraction, transportation and refining. This ratio is often referred to as the Energy Return on Energy Investment (EROI or <a class="mw-redirect" href="/wiki/EROEI" title="EROEI">EROEI</a>). Currently, between one and five barrels of oil are recovered for each barrel-equivalent of energy used in the recovery process. As the EROEI drops to one, or equivalently the <a href="/wiki/Net_energy_gain" title="Net energy gain">Net energy gain</a> falls to zero, the oil production is no longer a net energy source. This happens long before the resource is physically exhausted.</p>
+<p>Note that it is important to understand the distinction between a barrel of oil, which is a measure of oil, and a <a href="/wiki/Barrel_of_oil_equivalent" title="Barrel of oil equivalent">barrel of oil equivalent</a> (BOE), which is a measure of energy. Many sources of energy, such as fission, solar, wind, and coal, are not subject to the same near-term supply restrictions that oil is. Accordingly, even an oil source with an EROEI of 0.5 can be usefully exploited if the energy required to produce that oil comes from a cheap and plentiful energy source. Availability of cheap, but hard to transport, natural gas in some oil fields has led to using <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> to fuel <a href="/wiki/Enhanced_oil_recovery" title="Enhanced oil recovery">enhanced oil recovery</a>. Similarly, natural gas in huge amounts is used to power most <a class="mw-redirect" href="/wiki/Athabasca_Tar_Sands" title="Athabasca Tar Sands">Athabasca Tar Sands</a> plants. Cheap natural gas has also led to <a href="/wiki/Ethanol_fuel" title="Ethanol fuel">Ethanol fuel</a> produced with a net EROEI of less than 1, although figures in this area are controversial because methods to measure EROEI are in debate.</p>
+<h4><span class="mw-headline" id="Growth-based_economic_models">Growth-based economic models</span></h4>
+<p>Insofar as <a href="/wiki/Economic_growth" title="Economic growth">economic growth</a> is driven by oil consumption growth, post-peak societies must adapt. <a href="/wiki/M._King_Hubbert" title="M. King Hubbert">M. King Hubbert</a> believed:</p>
+
+<p>Some economists describe the problem as <a href="/wiki/Uneconomic_growth" title="Uneconomic growth">uneconomic growth</a> or a <a href="/wiki/False_economy" title="False economy">false economy</a>. At the political right, <a class="mw-redirect" href="/wiki/Fred_Ikle" title="Fred Ikle">Fred Ikle</a> has warned about "conservatives addicted to the Utopia of Perpetual Growth". Brief oil interruptions in 1973 and 1979 markedly slowed - but did not stop - the growth of world <a class="mw-redirect" href="/wiki/GDP" title="GDP">GDP</a>.</p>
+<p>Between 1950 and 1984, as the <a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a> transformed <a href="/wiki/Agriculture" title="Agriculture">agriculture</a> around the globe, world grain production increased by 250%. The energy for the Green Revolution was provided by <a class="mw-redirect" href="/wiki/Fossil_fuels" title="Fossil fuels">fossil fuels</a> in the form of <a class="mw-redirect" href="/wiki/Fertilizers" title="Fertilizers">fertilizers</a> (natural gas), <a class="mw-redirect" href="/wiki/Pesticides" title="Pesticides">pesticides</a> (oil), and <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbon</a> fueled <a href="/wiki/Irrigation" title="Irrigation">irrigation</a>.</p>
+<p>David Pimentel, professor of ecology and <a href="/wiki/Agriculture" title="Agriculture">agriculture</a> at <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a>, and <a class="new" href="/w/index.php?title=Mario_Giampietro&amp;action=edit&amp;redlink=1" title="Mario Giampietro (page does not exist)">Mario Giampietro</a>, senior researcher at the National Research Institute on Food and Nutrition (INRAN), place in their study <i>Food, Land, Population and the U.S. Economy</i> the maximum <a class="mw-redirect" href="/wiki/U.S._population" title="U.S. population">U.S. population</a> for a <a href="/wiki/Sustainability" title="Sustainability">sustainable economy</a> at 200 million. To achieve a sustainable economy <a href="/wiki/World_population" title="World population">world population</a> will have to be reduced by two-thirds, says the study. Without population reduction, this study predicts an agricultural crisis beginning in 2020, becoming critical c. 2050. The <a href="/wiki/Peak_oil" title="Peak oil">peaking of global oil</a> along with the decline in regional <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> production may precipitate this agricultural crisis sooner than generally expected. <a href="/wiki/Dale_Allen_Pfeiffer" title="Dale Allen Pfeiffer">Dale Allen Pfeiffer</a> claims that coming decades could see spiraling <a href="/wiki/Food" title="Food">food</a> prices without relief and massive <a href="/wiki/Starvation" title="Starvation">starvation</a> on a global level such as never experienced before.</p>
+<h2><span class="mw-headline" id="Hubbert_peaks">Hubbert peaks</span></h2>
+<p>Although <a href="/wiki/Hubbert_peak_theory" title="Hubbert peak theory">Hubbert peak theory</a> receives most attention in relation to <a href="/wiki/Peak_oil" title="Peak oil">peak oil production</a>, it has also been applied to other natural resources.</p>
+<h3><span class="mw-headline" id="Natural_gas">Natural gas</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Peak_gas" title="Peak gas">Peak gas</a></div>
+<p>Doug Reynolds predicted in 2005 that the North American peak would occur in 2007. Bentley (p. 189) predicted a world "decline in conventional gas production from about 2020".</p>
+<h3><span class="mw-headline" id="Coal">Coal</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Peak_coal" title="Peak coal">Peak coal</a></div>
+<p>Peak coal is significantly further out than peak oil, but we can observe the example of <a class="mw-redirect" href="/wiki/Anthracite_coal" title="Anthracite coal">anthracite</a> in the USA, a high grade coal whose production peaked in the 1920s. Anthracite was studied by Hubbert, and matches a curve closely. Pennsylvania's coal production also matches Hubbert's curve closely, but this does not mean that coal in Pennsylvania is exhausted—far from it. If production in Pennsylvania returned at its all-time high, there are reserves for 190 years. Hubbert had recoverable <a href="/wiki/Coal#World_coal_reserves" title="Coal">coal reserves worldwide</a> at 2500 × 10 metric tons and peaking around 2150(depending on usage).</p>
+<p>More recent estimates suggest an earlier peak. <i>Coal: Resources and Future Production</i> (PDF 630KB ), published on April 5, 2007 by the Energy Watch Group (EWG), which reports to the German Parliament, found that global coal production could peak in as few as 15 years. Reporting on this Richard Heinberg also notes that the date of peak annual energetic extraction from coal will likely come earlier than the date of peak in quantity of coal (tons per year) extracted as the most energy-dense types of coal have been mined most extensively. A second study, <i>The Future of Coal</i> by B. Kavalov and S. D. Peteves of the Institute for Energy (IFE), prepared for European Commission Joint Research Centre, reaches similar conclusions and states that ""coal might not be so abundant, widely available and reliable as an energy source in the future".</p>
+<p>Work by <a href="/wiki/David_Rutledge" title="David Rutledge">David Rutledge</a> of <a class="mw-redirect" href="/wiki/Caltech" title="Caltech">Caltech</a> predicts that the total of world coal production will amount to only about 450 <a class="mw-redirect" href="/wiki/Gigatonne" title="Gigatonne">gigatonnes</a>. This implies that coal is running out faster than usually assumed.</p>
+<p>Finally, insofar as global <a href="/wiki/Peak_oil" title="Peak oil">peak oil</a> and peak in natural gas are expected anywhere from imminently to within decades at most, any increase in coal production (mining) per annum to compensate for declines in oil or NG production, would necessarily translate to an earlier date of peak as compared with peak coal under a scenario in which annual production remains constant.</p>
+<h3><span class="mw-headline" id="Fissionable_materials">Fissionable materials</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Peak_uranium" title="Peak uranium">Peak uranium</a></div>
+<p>In a paper in 1956, after a review of US fissionable reserves, Hubbert notes of nuclear power:</p>
+
+<p>Technologies such as the <a href="/wiki/Thorium_fuel_cycle" title="Thorium fuel cycle">thorium fuel cycle</a>, <a href="/wiki/Nuclear_reprocessing" title="Nuclear reprocessing">reprocessing</a> and <a class="mw-redirect" href="/wiki/Fast_breeder_reactor" title="Fast breeder reactor">fast breeders</a> can, in theory, considerably extend the life of <a href="/wiki/Uranium" title="Uranium">uranium</a> reserves. <a href="/wiki/Roscoe_Bartlett" title="Roscoe Bartlett">Roscoe Bartlett</a> claims </p>
+
+<p>Caltech physics professor <a href="/wiki/David_Goodstein" title="David Goodstein">David Goodstein</a> has stated that</p>
+
+<h3><span class="mw-headline" id="Metals">Metals</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Peak_copper" title="Peak copper">Peak copper</a></div>
+<p>Hubbert applied his theory to "rock containing an abnormally high concentration of a given metal" and reasoned that the peak production for metals such as <a href="/wiki/Copper" title="Copper">copper</a>, <a href="/wiki/Tin" title="Tin">tin</a>, <a href="/wiki/Lead" title="Lead">lead</a>, <a href="/wiki/Zinc" title="Zinc">zinc</a> and others would occur in the time frame of decades and <a href="/wiki/Iron" title="Iron">iron</a> in the time frame of two centuries like coal. The price of copper rose 500% between 2003 and 2007 was by some attributed to <a href="/wiki/Peak_copper" title="Peak copper">peak copper</a>. Copper prices later fell, along with many other commodities and stock prices, as demand shrank from fear of a <a class="mw-redirect" href="/wiki/Late_2000s_recession" title="Late 2000s recession">global recession</a>. <a href="/wiki/Lithium" title="Lithium">Lithium</a> availability is a concern for a fleet of <a class="mw-redirect" href="/wiki/Li-ion_battery" title="Li-ion battery">Li-ion battery</a> using cars but a paper published in 1996 estimated that world reserves are adequate for at least 50 years. A similar prediction  for <a href="/wiki/Platinum" title="Platinum">platinum</a> use in fuel cells notes that the metal could be easily recycled.</p>
+<h3><span class="mw-headline" id="Phosphorus">Phosphorus</span></h3>
+<p><a href="/wiki/Phosphorus" title="Phosphorus">Phosphorus</a> supplies are essential to farming and depletion of reserves is estimated at somewhere from 60 to 130 years. Individual countries supplies vary widely; without a recycling initiative America's supply  is estimated around 30 years. Phosphorus supplies affect total agricultural output which in turn limits alternative fuels such as biodiesel and ethanol.</p>
+<h3><span class="mw-headline" id="Peak_water">Peak water</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Peak_water" title="Peak water">Peak water</a></div>
+<p>Hubbert's original analysis did not apply to renewable resources. However <a class="mw-redirect" href="/wiki/Over-exploitation" title="Over-exploitation">over-exploitation</a> often results in a Hubbert peak nonetheless. A modified Hubbert curve applies to any resource that can be harvested faster than it can be replaced.</p>
+<p>For example, a reserve such as the <a href="/wiki/Ogallala_Aquifer" title="Ogallala Aquifer">Ogallala Aquifer</a> can be mined at a rate that far exceeds replenishment. This turns much of the world's underground water  and lakes  into finite resources with peak usage debates similar to oil. These debates usually center around agriculture and suburban water usage but generation of electricity  from nuclear energy or coal and tar sands mining mentioned above is also water resource intensive. The term <a href="/wiki/Fossil_water" title="Fossil water">fossil water</a> is sometimes used to describe aquifers whose water is not being recharged.</p>
+<h3><span class="mw-headline" id="Renewable_resources">Renewable resources</span></h3>
+<ul>
+<li><b>Fisheries</b>: At least one researcher has attempted to perform Hubbert linearization (<a href="/wiki/Hubbert_curve" title="Hubbert curve">Hubbert curve</a>) on the <a href="/wiki/Whaling" title="Whaling">whaling</a> industry, as well as charting the transparently dependent price of caviar on sturgeon depletion. Another example is the <a href="/wiki/Cod" title="Cod">cod</a> of the North Sea. The comparison of the cases of fisheries and of mineral extraction tells us that the human pressure on the environment is causing a wide range of resources to go through a depletion cycle which follows a Hubbert curve.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div>
+
+</div>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://biblio.repec.org/entry/tbc.html" rel="nofollow">Curated bibliography</a> at <a class="mw-redirect" href="/wiki/Research_papers_in_economics" title="Research papers in economics">IDEAS/RePEc</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20638398-0!*!0!!en!4!* and timestamp 20161030125336 and revision id 729120374
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

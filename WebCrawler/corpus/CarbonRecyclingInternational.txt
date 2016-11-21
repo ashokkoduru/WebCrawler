@@ -1,0 +1,45 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+<p><b>Carbon Recycling International Inc.</b> (CRI) is an Icelandic <a href="/wiki/Renewable_fuels" title="Renewable fuels">renewable</a> <a href="/wiki/Methanol" title="Methanol">methanol</a> company. Its emissions-to-liquid process uses <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and water and electricity to create <a href="/wiki/Methanol_fuel" title="Methanol fuel">methanol fuel</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>CRI, incorporated in 2006, was founded by Fridrik Jonsson, Art Shulenberger, Oddur Ingolfsson, and KC Tran. Partners include <a href="/wiki/Ol%C3%ADs" title="Olís">Olís</a>, <a class="mw-redirect" href="/wiki/HS_Orka" title="HS Orka">HS Orka</a>, <a href="/wiki/Grindav%C3%ADk" title="Grindavík">Grindavík municipality</a>, <a href="/wiki/Mannvit_Engineering" title="Mannvit Engineering">Mannvit Engineering</a>, and <a href="/wiki/Government_agencies_in_Iceland" title="Government agencies in Iceland">Innovation Center Iceland</a>.</p>
+<p>CRI's first commercial scale plant, the George Olah Plant (named after <a href="/wiki/George_Andrew_Olah" title="George Andrew Olah">George Andrew Olah</a>, the Nobel Prize Laureate), was completed in 2011.</p>
+<h2><span class="mw-headline" id="Renewable_methanol">Renewable methanol</span></h2>
+<p>Renewable methanol is methanol derived from renewable energy. It can be blended into transportation fuel or processed as a chemical feedstock. RM is also a viable input for <a href="/wiki/Biodiesel" title="Biodiesel">biodiesel</a> production. Fuel blends range from RM3 (3% methanol and 97% other) to RM100 (100% methanol with trace additives). High percentage blends can be used with <a href="/wiki/Flexible-fuel_vehicle" title="Flexible-fuel vehicle">flexible-fuel vehicles</a> (FFVs), while low percentage blends can be used in existing cars. CRI is interested in increasing the number of flex-fuel cars in Iceland and supplying RM85.</p>
+<h2><span class="mw-headline" id="Usage_concerns">Usage concerns</span></h2>
+<p>Alcohols, including methanol and ethanol, can be <a class="mw-redirect" href="/wiki/Corrosive" title="Corrosive">corrosive</a> to certain materials in some vehicles. Replacement parts may be necessary for higher blends, but most modern cars are capable of using low blends of methanol.</p>
+<h2><span class="mw-headline" id="Production">Production</span></h2>
+
+<p>Production of renewable methanol is similar to that of conventional methanol, except that carbon dioxide is substituted for <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> and hydrogen is produced by electrolysis of water.</p>
+<p>RM has no connection to agriculture, as water, electricity, and carbon dioxide are the primary inputs of its production process. Production of RM is less vulnerable to changes in feedstock prices.</p>
+<h3><span class="mw-headline" id="Plants">Plants</span></h3>
+<p>The George Olah Plant, or the GO Plant, has a capacity of 5 million liters per year. It is located close to the <a href="/wiki/Blue_Lagoon_(geothermal_spa)" title="Blue Lagoon (geothermal spa)">Blue Lagoon</a> and <a href="/wiki/Svartsengi_Power_Station" title="Svartsengi Power Station">Svartsengi power station</a>. The plant is expected to use around 10% of the carbon dioxide produced by Svartsengi power station.</p>
+<h2><span class="mw-headline" id="Legislation">Legislation</span></h2>
+<p>The <a href="/wiki/European_Union" title="European Union">European Union</a>'s renewable energy <a class="mw-redirect" href="/wiki/Renewables_Directive" title="Renewables Directive">directives</a> consider RM to be a renewable fuel, making it a candidate for the EU's renewable fuel blending mandates.</p>
+<h2><span class="mw-headline" id="Impact">Impact</span></h2>
+<p>Carbon dioxide is a major component of <a href="/wiki/Global_warming" title="Global warming">global warming</a>. By removing carbon dioxide from industrial emissions, CRI's process could help mitigate environmental impact. Renewable methanol burns cleanly as a fuel, but it has trace amounts of impurities.</p>
+<p>CRI's process can also be used to store energy in the form of methanol, especially in cases where the energy source is inconsistent. For example, <a href="/wiki/Wind_power" title="Wind power">wind</a> and <a href="/wiki/Solar_energy" title="Solar energy">solar power</a> are irregularly available. Methanol is also a good energy carrier, being less volatile and easier to store than hydrogen.</p>
+<h2><span class="mw-headline" id="Future_projects">Future projects</span></h2>
+<p>CRI plans to implement standardized CSPs (commercial scale plants), each with a capacity of 50 million liters per year.</p>
+<p>CRI may build a 100 ML plant in <a href="/wiki/H%C3%BAsav%C3%ADk" title="Húsavík">Húsavík</a>, having signed a memorandum of understanding with power company <a href="/wiki/Landsvirkjun" title="Landsvirkjun">Landsvirkjun</a>.</p>
+<p>CRI has also entered into a memorandum of understanding with Altona Energy Plc. concerning a potential project using hydrogen byproduct as a feedstock.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Methanol_economy" title="Methanol economy">Methanol economy</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.methanol.org/" rel="nofollow">Methanol Institute</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:36395576-0!*!0!!en!4!* and timestamp 20161104103721 and revision id 747784958
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

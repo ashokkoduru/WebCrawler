@@ -1,0 +1,60 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><p><b>Latent heat</b> is energy released or absorbed, by a body or a <a href="/wiki/Thermodynamic_system" title="Thermodynamic system">thermodynamic system</a>, during a constant-temperature process. An example is <a class="mw-redirect" href="/wiki/Latent_heat_of_fusion" title="Latent heat of fusion">latent heat of fusion</a> for a <a href="/wiki/Phase_transition" title="Phase transition">phase change</a>, melting, at a specified temperature and pressure. The term was introduced around 1762 by <a href="/wiki/Scotland" title="Scotland">Scottish</a> <a href="/wiki/Chemist" title="Chemist">chemist</a> <a href="/wiki/Joseph_Black" title="Joseph Black">Joseph Black</a>. It is derived from the Latin <i>latere</i> (<i>to lie hidden</i>). Black used the term in the context of <a href="/wiki/Calorimetry" title="Calorimetry">calorimetry</a> where a heat transfer caused a volume change while the thermodynamic system's temperature was constant.</p>
+<p>In contrast to latent heat, <a href="/wiki/Sensible_heat" title="Sensible heat">sensible heat</a> involves an energy transfer that results in a temperature change of the system.</p>
+
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Usage">Usage</span></h2>
+<p>The terms ″sensible heat″ and ″latent heat″ are specific forms of energy; they are two properties of a material or in a thermodynamic system. ″Sensible heat″ is a body's <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a> that may be ″sensed″ or felt. ″Latent heat″ is internal energy concerning the phase ( solid / liquid / gas ) of a material and does not affect the temperature.</p>
+<p>Both sensible and latent heats are observed in many processes of transport of energy in nature. changes of Latent heat is associated with the change of phase of atmospheric water, <a href="/wiki/Vaporization" title="Vaporization">vaporization</a> and <a href="/wiki/Condensation" title="Condensation">condensation</a>, whereas sensible heat is energy that reflects the temperature of the atmosphere or ocean, or ice.</p>
+<p>The original usage of the term, as introduced by Black, was applied to systems that were intentionally held at constant temperature. Such usage referred to <i>latent heat of expansion</i> and several other related latent heats. These latent heats are defined independently of the conceptual framework of thermodynamics.</p>
+<p>When a body is heated at constant temperature by thermal radiation in a microwave field for example, it may expand by an amount described by its <i>latent heat with respect to volume</i> or <i>latent heat of expansion</i>, or increase its pressure by an amount described by its <i>latent heat with respect to pressure</i>.</p>
+<p>Two common forms of latent heat are <a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">latent heat of fusion</a> (<a href="/wiki/Melting" title="Melting">melting</a>) and <a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">latent heat of vaporization</a> (<a href="/wiki/Boiling" title="Boiling">boiling</a>). These names describe the direction of energy flow when changing from one phase to the next: from solid to liquid, and liquid to gas.</p>
+<p>In both cases the change is <a class="mw-redirect" href="/wiki/Endothermic" title="Endothermic">endothermic</a>, meaning that the system absorbs energy. For example, when water evaporates, energy is required for the water molecules to overcome the forces of attraction between them, the transition from water to vapor requires an input of energy.</p>
+<p>If the vapor then condenses to a liquid on a surface, then the vapor's latent energy absorbed during evaporation is released as the liquid's <a href="/wiki/Sensible_heat" title="Sensible heat">sensible heat</a> onto the surface.</p>
+<p>The large value of the <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> of condensation of water vapor is the reason that steam is a far more effective heating medium than boiling water, and is more hazardous.</p>
+<h3><span class="mw-headline" id="Meteorology">Meteorology</span></h3>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, latent heat flux is the <a href="/wiki/Flux" title="Flux">flux</a> of heat from the Earth's surface to the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">atmosphere</a> that is associated with <a href="/wiki/Evaporation" title="Evaporation">evaporation</a> or <a href="/wiki/Transpiration" title="Transpiration">transpiration</a> of water at the surface and subsequent <a href="/wiki/Condensation" title="Condensation">condensation</a> of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> in the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>. It is an important component of Earth's surface energy budget. Latent heat flux has been commonly measured with the <a href="/wiki/Bowen_ratio" title="Bowen ratio">Bowen ratio</a> technique, or more recently since the mid-1900s by the <a href="/wiki/Eddy_covariance" title="Eddy covariance">eddy covariance</a> method.</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>The English word <i><a class="extiw" href="https://en.wiktionary.org/wiki/latent#English" title="wikt:latent">latent</a></i> comes from Latin <i><a class="extiw" href="https://en.wiktionary.org/wiki/latens#Latin" title="wikt:latens">latēns</a></i>, meaning <i>lying hidden</i>. The term <i>latent heat</i> was introduced into calorimetry around 1750 when <a href="/wiki/Joseph_Black" title="Joseph Black">Joseph Black</a>, commissioned by producers of <a href="/wiki/Scotch_whisky" title="Scotch whisky">Scotch whisky</a> in search of ideal quantities of fuel and water for their distilling process, to studying system changes, such as of volume and pressure, when the thermodynamic system was held at constant temperature in a thermal bath. <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a> characterised latent energy as the energy of interaction in a given configuration of particles, i.e. a form of <a href="/wiki/Potential_energy" title="Potential energy">potential energy</a>, and the sensible heat as an energy that was indicated by the thermometer, relating the latter to <a href="/wiki/Thermal_energy" title="Thermal energy">thermal energy</a>.</p>
+<h2><span class="mw-headline" id="Specific_latent_heat">Specific latent heat</span></h2>
+<p>A <i>specific</i> latent heat (<i>L</i>) expresses the amount of energy in the form of heat (<i>Q</i>) required to completely effect a phase change of a unit of mass (<i>m</i>), usually <span style="white-space:nowrap">1<span style="margin-left:0.25em">kg</span></span>, of a substance as an <a class="mw-redirect" href="/wiki/Intensive_property" title="Intensive property">intensive property</a>:</p>
+
+<p>Intensive properties are material characteristics and are not dependent on the size or extent of the sample. Commonly quoted and tabulated in the literature are the specific latent heat of fusion and the specific latent heat of vaporization for many substances.</p>
+<p>From this definition, the latent heat for a given mass of a substance is calculated by</p>
+
+<p>where:</p>
+
+<h2><span class="mw-headline" id="Table_of_specific_latent_heats">Table of specific latent heats</span></h2>
+<p>The following table shows the specific latent heats and change of phase temperatures of some common fluids and gases.</p>
+
+<h2><span class="mw-headline" id="Specific_latent_heat_for_condensation_of_water">Specific latent heat for condensation of water</span></h2>
+<p>The specific latent heat of condensation of water in the temperature range from −25 °C to 40 °C is approximated by the following empirical cubic function:</p>
+
+<p>where the temperature <span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/></span> is taken to be the numerical value in °C.</p>
+<p>For <a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">sublimation</a> and <a class="mw-redirect" href="/wiki/Deposition_(physics)" title="Deposition (physics)">deposition</a> from and into ice, the specific latent heat is almost constant in the temperature range from −40 °C to 0 °C and can be approximated by the following empirical quadratic function:</p>
+
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Bowen_ratio" title="Bowen ratio">Bowen ratio</a></li>
+<li><a href="/wiki/Eddy_covariance" title="Eddy covariance">Eddy covariance</a> flux (eddy correlation, eddy flux)</li>
+<li><a class="mw-redirect" href="/wiki/Sublimation_(physics)" title="Sublimation (physics)">Sublimation (physics)</a></li>
+<li><a class="mw-redirect" href="/wiki/Specific_heat_capacity" title="Specific heat capacity">Specific heat capacity</a></li>
+<li><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Enthalpy of fusion</a></li>
+<li><a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">Enthalpy of vaporization</a></li>
+</ul>
+<h2></h2>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:164610-0!*!0!!en!4!*!math=5 and timestamp 20161108204103 and revision id 748300006
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

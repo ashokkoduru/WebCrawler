@@ -1,0 +1,41 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+
+<p>In <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a>, a <b>load profile</b> is a graph of the variation in the <a href="/wiki/Electrical_load" title="Electrical load">electrical load</a> versus time. A load profile will vary according to customer type (typical examples include residential, commercial and industrial), temperature and holiday seasons. Power producers use this information to plan how much electricity they will need to make available at any given time. <a href="/wiki/Teletraffic_engineering" title="Teletraffic engineering">Teletraffic engineering</a> uses a similar load curve.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Power_generation">Power generation</span></h2>
+<p>In a power system, a load curve or load profile is a chart illustrating the variation in demand/electrical load over a specific time. Generation companies use this information to plan how much power they will need to generate at any given time. A <a class="mw-redirect" href="/wiki/Load_Duration_Curve" title="Load Duration Curve">load duration curve</a> is similar to a load curve. The information is the same but is presented in a different form. These curves are useful in the selection of <a class="mw-redirect" href="/wiki/Electrical_generator" title="Electrical generator">generator</a> units for supplying electricity.</p>
+<h2><span class="mw-headline" id="Electricity_distribution">Electricity distribution</span></h2>
+<p>In an <a class="mw-redirect" href="/wiki/Electricity_distribution" title="Electricity distribution">electricity distribution</a> <a class="mw-redirect" href="/wiki/Grid_(electricity)" title="Grid (electricity)">grid</a>, the load profile of electricity usage is important to the efficiency and reliability of power transmission. The power <a href="/wiki/Transformer" title="Transformer">transformer</a> or <a class="mw-redirect" href="/wiki/Battery-to-grid" title="Battery-to-grid">battery-to-grid</a> are critical aspects of power distribution and sizing and modelling of batteries or transformers depends on the load profile. The factory specification of transformers for the optimization of <a href="/wiki/Transformer#Energy_losses" title="Transformer">load losses versus no-load losses</a> is dependent directly on the characteristics of the load profile that the transformer is expected to be subjected to. This includes such characteristics as average <a href="/wiki/Load_factor_(electrical)" title="Load factor (electrical)">load factor</a>, <a href="/wiki/Diversity_factor" title="Diversity factor">diversity factor</a>, <a href="/wiki/Utilization_factor" title="Utilization factor">utilization factor</a>, and <a href="/wiki/Demand_factor" title="Demand factor">demand factor</a>, which can all be calculated based on a given load profile.</p>
+<p>On the <a href="/wiki/Electricity_market" title="Electricity market">power market</a> so-called <a href="/wiki/Electricity_Forward_Agreement" title="Electricity Forward Agreement">EFA blocks</a> are used to specify the <a href="/wiki/Trader_(finance)" title="Trader (finance)">traded</a> <a href="/wiki/Forward_contract" title="Forward contract">forward contract</a> (on the delivery of a certain amount of electrical energy at a certain time.</p>
+<h2><span class="mw-headline" id="Retail_energy_markets">Retail energy markets</span></h2>
+<p>In retail energy markets, supplier obligations are settled on an hourly or subhourly basis. For most customers, consumption is measured on a monthly basis, based on meter reading schedules. Load profiles are used to convert the monthly consumption data into estimates of hourly or subhourly consumption in order to determine the supplier obligation. For each hour, these estimates are aggregated for all customers of an energy supplier, and the aggregate amount is used in market settlement calculations as the total demand that must be covered by the supplier.</p>
+<h2><span class="mw-headline" id="Calculating_and_recording_load_profiles">Calculating and recording load profiles</span></h2>
+<p>Load profiles can be determined by direct metering but on smaller devices such as distribution network transformers this is not routinely done. Instead a load profile can be inferred from customer billing or other data. An example of a practical calculation used by utilities is using a transformer's maximum demand reading and taking into account the known number of each customer type supplied by these transformers. This process is called <a class="new" href="/w/index.php?title=Load_research&amp;action=edit&amp;redlink=1" title="Load research (page does not exist)">load research</a>.</p>
+<p>Actual demand can be collected at strategic locations to perform more detailed load analysis; this is beneficial to both distribution and end-user customers looking for peak consumption. <a href="/wiki/Smart_grid" title="Smart grid">Smart grid</a> <a href="/wiki/Smart_meter" title="Smart meter">meters</a>, utility meter load profilers, data logging sub-meters and portable data loggers are designed to accomplish this task by recording readings at a set interval.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Cost_of_electricity_by_source" title="Cost of electricity by source">Cost of electricity by source</a></li>
+<li><a href="/wiki/Electricity_generation" title="Electricity generation">Electricity generation</a></li>
+<li><a href="/wiki/Electric_power_transmission" title="Electric power transmission">Electric power transmission</a></li>
+<li><a href="/wiki/Electric_power_distribution" title="Electric power distribution">Electric power distribution</a></li>
+<li><a href="/wiki/Load_duration_curve" title="Load duration curve">Load duration curve</a></li>
+<li><a href="/wiki/Peak_demand" title="Peak demand">Peak demand</a></li>
+<li><a href="/wiki/Vehicle-to-grid" title="Vehicle-to-grid">Vehicle-to-grid</a></li>
+<li><a href="/wiki/Unit_commitment_problem_in_electrical_power_production" title="Unit commitment problem in electrical power production">Unit commitment problem in electrical power production</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.caiso.com/outlook/SystemStatus.html" rel="nofollow">California Independent System Operator (Cal ISO)</a> Predicted system capacity and demand with approximate current demand chart for today.</li>
+<li><a class="external text" href="http://www.acrsystems.com/products/applications/energy-demand-profile/" rel="nofollow">ACR Systems Inc.</a> Energy demand portable data logger application.</li>
+<li><a class="external text" href="http://www.sensus.com" rel="nofollow">Sensus</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4490333-0!*!0!!en!4!* and timestamp 20161104153241 and revision id 747532770
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

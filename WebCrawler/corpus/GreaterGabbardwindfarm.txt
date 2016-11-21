@@ -1,0 +1,58 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+
+
+<p><b>Greater Gabbard</b> is a 504 MW <a href="/wiki/Wind_farm" title="Wind farm">wind farm</a> on sandbanks 23 kilometres (14 mi) off the coast of <a href="/wiki/Suffolk" title="Suffolk">Suffolk</a> in <a href="/wiki/England" title="England">England</a> at a cost of £1.5 billion. Onshore construction activities commenced in early July 2008 at Sizewell. It was completed on 7 September 2012 with all of the <a href="/wiki/Siemens_Wind_Power" title="Siemens Wind Power">Siemens</a> SWT3.6-107 turbines connected.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>The project was originally developed by Greater Gabbard Offshore Winds Limited (GGOWL) which was a joint venture between <a href="/wiki/Airtricity" title="Airtricity">Airtricity</a> and <a class="mw-redirect" href="/wiki/Fluor_Corp." title="Fluor Corp.">Fluor</a>. Airtricity was subsequently bought by <a class="mw-redirect" href="/wiki/Scottish_and_Southern_Energy" title="Scottish and Southern Energy">Scottish and Southern Energy</a> who have bought out Fluor's 50% stake for £40m which is expected to cost £1.3b. Fluor are now contracted to design, supply, installation and commissioning of the balance of the plant. Scottish and Southern sold a 50% stake to <a href="/wiki/RWE" title="RWE">RWE</a>, the owners of <a class="mw-redirect" href="/wiki/Npower_(UK)" title="Npower (UK)">Npower (UK)</a>, in November 2008 for £308m.</p>
+<p>The project was given the go-ahead in May 2008 and work started in June. In July 2011 erection of the turbines was two thirds complete, with all the pile foundations installed.</p>
+<p>In October 2009 Seajacks Ltd delivered its 7,000 tonne Leviathan vessel to Fluor Ltd which sailed to <a href="/wiki/Harwich" title="Harwich">Harwich</a> to prepare the hook-up and commissioning of an in-field substation and then installation of the turbines. The first foundations were installed in autumn 2009 with the first of a total of 140 turbines installed in the spring 2010. Electricity generation began on 29 December 2010 and construction was completed on 7 September 2012. During April 2014 to March 2015 the wind farm produced 1.7 TWh, corresponding to a <a href="/wiki/Capacity_factor" title="Capacity factor">capacity factor</a> of 39%.</p>
+<p>The wind farm may be seen by the public from the <a href="/wiki/Stena_Line" title="Stena Line">Stena Line</a> <a href="/wiki/Harwich" title="Harwich">Harwich</a> to <a href="/wiki/Hook_of_Holland" title="Hook of Holland">Hook of Holland</a> car &amp; passenger ferry, the route passing within a few kilometres.</p>
+<h3><span class="mw-headline" id="Galloper_extension">Galloper extension</span></h3>
+<p>An extension of the project, called Galloper, was agreed in May 2013. The proposal was to add up to 140 turbines to the development, producing up to 504 MW of electricity. The wind farm was expected to be completed in 2017. The project was being developed in partnership by <a class="mw-redirect" href="/wiki/RWE_Innogy" title="RWE Innogy">RWE Innogy</a> and <a href="/wiki/SSE_plc" title="SSE plc">SSE</a>.</p>
+<p>In November 2013 the project capacity was reduced to 68 turbines producing 340 MW. In March 2014, SSE announced that it would be pulling out of the project. In October 2014 RWE Innogy announced that it too was abandoning the project, but in December the company revealed that it was still seeking potential investment partners.</p>
+<h2><span class="mw-headline" id="Greater_Gabbard_specifications">Greater Gabbard specifications</span></h2>
+<ul>
+<li>Number of turbines: 140</li>
+<li>Power rating: 504 MW</li>
+<li><a href="/wiki/Capacity_factor" title="Capacity factor">Load factor</a>: 39.6% (estimated)</li>
+<li>Estimated output: 1.75 <a class="mw-redirect" href="/wiki/TWh" title="TWh">TWh</a> per year</li>
+<li>Cost: £1512 million (£650 million not counting grid connection)</li>
+<li>Cost of grid connection: £317 million </li>
+<li>Location: offshore, 23 kilometres (14 mi) from <a href="/wiki/Sizewell" title="Sizewell">Sizewell</a> on the Inner Gabbard and The Galloper sandbanks</li>
+<li>Water Depth: 20m - 32m <a class="external autonumber" href="http://www.4coffshore.com/windfarms/greater-gabbard-united-kingdom-uk05.html" rel="nofollow">[1]</a></li>
+</ul>
+<h2><span class="mw-headline" id="Incidents">Incidents</span></h2>
+<p>On 12 November 2009, a man was killed and a woman injured after a chain broke and the two people were hit with pieces of the chain. Police responded to the incident, and an investigation was launched. The casualties were on board a <a href="/wiki/Tugboat" title="Tugboat">tugboat</a>, the <i>Typhoon</i>.</p>
+<p>On 21 May 2010, a man died and another suffered serious injuries following an accident at <a href="/wiki/Harwich_International_Port" title="Harwich International Port">Parkeston Quay</a>, Harwich. A Siemens engineer from Norresundby, Denmark, died in the incident. A 43-year-old German national was taken to Addenbrooke’s Hospital. The incident happened at about 7.50 am while loading a wind turbine blade on the vessel <i>Seajack</i>. Siemens and Fluor were ordered to pay £1 million for the incident.</p>
+<p>In September 2013 remedial work was begun on the export cables close to shore as the cables were not buried sufficiently deeply. The work which was meant to take three weeks was only finished in September 2014. The work caused problems for local fishermen who asked the Greater Gabbard Offshore Wind Farm for a disruption payment. A spokesman for SSE denied that the work was responsible for the snagging of fishing nets.</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/List_of_offshore_wind_farms" title="List of offshore wind farms">List of offshore wind farms</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms_in_the_United_Kingdom" title="List of offshore wind farms in the United Kingdom">List of offshore wind farms in the United Kingdom</a></li>
+<li><a href="/wiki/List_of_offshore_wind_farms_in_the_North_Sea" title="List of offshore wind farms in the North Sea">List of offshore wind farms in the North Sea</a></li>
+</ul>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+<ul>
+<li><a class="external text" href="http://www.rwe.com/web/cms/en/310132/rwe-innogy/sites/wind-offshore/in-operation/greater-gabbard/" rel="nofollow">Greater Gabbard</a>, RWE Innogy</li>
+<li><a class="external text" href="http://www.lorc.dk/Knowledge/Offshore-renewables-map/Offshore-site-datasheet/Greater-Gabbard-Offshore-Wind-Farm/53" rel="nofollow">LORC Knowledge - Datasheet for Greater Gabbard</a></li>
+<li><a class="external text" href="http://www.buildingscotlandmagazine.co.uk/online/building_scotland/bs_features/august2011/The%20world%27s%20largest%20Offshore%20Wind%20Farm%20is%20taking%20shape%20at%20Greater%20Gabbard.html" rel="nofollow">The world's largest Offshore Wind Farm is taking shape at Greater Gabbard</a></li>
+<li><a class="external text" href="https://books.google.com/books?id=NMW6BQAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false" rel="nofollow">Offshore Energy Structures: For Wind Power, Wave Energy and Hybrid Marine Platforms</a>, page 28. Madjid Karimirad. Springer, 5 Dec 2014 . <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/3319121758">ISBN 3319121758</a>.</li>
+<li><a class="external text" href="https://www.ofgem.gov.uk/electricity/transmission-networks/offshore-transmission/offshore-transmission-tenders/greater-gabbard" rel="nofollow">Government documents</a></li>
+</ul>
+
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9596230-0!*!0!!en!4!* and timestamp 20161105181129 and revision id 747856740
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

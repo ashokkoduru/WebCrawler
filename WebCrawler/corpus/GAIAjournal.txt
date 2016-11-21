@@ -1,0 +1,43 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script>
+<p><i><b>GAIA: Ecological Perspectives for Science and Society</b></i> (<i>Gaia: Ökologische Perspektiven für Wissenschaft und Gesellschaft</i>) is a <a class="mw-redirect" href="/wiki/Peer-reviewed" title="Peer-reviewed">peer-reviewed</a> <a href="/wiki/Academic_journal" title="Academic journal">academic journal</a> established in 1992. Its main focus is on background information, analyses, and solutions of environmental and <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> problems. Since 2001 it is published by oekom verlag. Articles are in English and German. The <a href="/wiki/Editor-in-chief" title="Editor-in-chief">editor-in-chief</a> is Verena Winiwarter (<a class="mw-redirect" href="/wiki/Klagenfurt_University" title="Klagenfurt University">Klagenfurt University</a>).</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Sections">Sections</span></h2>
+<p>The journal contains the following sections:</p>
+<ul>
+<li><i>Magazine</i>: reporting on ongoing environmental and sustainability research, environmental policy, and research promotion</li>
+<li><i>Forum</i>: original papers, including essays, expressions of opinion, and reactions to articles that have appeared in recent issues</li>
+<li><i>Research</i>: original scientific articles about environmental and sustainability research</li>
+<li><i>Books</i>: reviews of new publications</li>
+</ul>
+<h2><span class="mw-headline" id="Masters_Student_Paper_Award">Masters Student Paper Award</span></h2>
+<p>In 2014 the <i>GAIA</i> Masters Student Paper Award was established. It recognizes outstanding results from young scientists in the field of environmental and sustainability research. The prize is awarded in cooperation with the <a class="mw-redirect" href="/wiki/Leuphana_University_of_L%C3%BCneburg" title="Leuphana University of Lüneburg">Leuphana University of Lüneburg</a> and the Selbach-Umwelt-Stiftung.</p>
+<h2><span class="mw-headline" id="Abstracting_and_indexing">Abstracting and indexing</span></h2>
+<p>The journal is abstracted and indexed in:</p>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a class="mw-redirect" href="/wiki/CAB_Abstracts" title="CAB Abstracts">CAB Abstracts</a></li>
+<li><a class="mw-redirect" href="/wiki/Cambridge_Scientific_Abstracts" title="Cambridge Scientific Abstracts">Cambridge Scientific Abstracts</a></li>
+<li><a href="/wiki/Current_Contents" title="Current Contents">Current Contents</a>/Social &amp; Behavioral Science</li>
+<li>Current Contents/Agriculture, Biology &amp; Environmental Sciences</li>
+<li><a class="mw-redirect" href="/wiki/EBSCO_Publishing" title="EBSCO Publishing">EBSCO databases</a></li>
+<li><a href="/wiki/GeoRef" title="GeoRef">GeoRef</a></li>
+<li><a href="/wiki/ProQuest" title="ProQuest">ProQuest databases</a></li>
+<li><a class="mw-redirect" href="/wiki/Science_Citation_Index_Expanded" title="Science Citation Index Expanded">Science Citation Index Expanded</a></li>
+<li><a href="/wiki/Scopus" title="Scopus">Scopus</a></li>
+<li><a href="/wiki/Social_Sciences_Citation_Index" title="Social Sciences Citation Index">Social Sciences Citation Index</a></li>
+</ul>
+</div>
+<p>According to the <i><a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>, the journal has a 2013 <a href="/wiki/Impact_factor" title="Impact factor">impact factor</a> of 1.250, ranking it 50th out of 96 journals in the category "Environmental Sciences".</p>
+<h2></h2>
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a class="external text" href="http://www.oekom.de/etc/gaia/" rel="nofollow">Website GAIA (English)</a></li>
+<li><a class="external text" href="http://www.ingentaconnect.com/content/oekom/gaia/" rel="nofollow">IngentaConnect (full text version)</a></li>
+<li><a class="external text" href="http://www.oekom.de/" rel="nofollow">oekom verlag</a></li>
+</ul>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:45652772-0!*!0!!en!4!* and timestamp 20161027083554 and revision id 653887911
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>

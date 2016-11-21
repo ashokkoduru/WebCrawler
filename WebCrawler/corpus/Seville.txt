@@ -1,0 +1,786 @@
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="hatnote" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Seville_(disambiguation)" title="Seville (disambiguation)">Seville (disambiguation)</a>.</div>
+<div class="hatnote" role="note">"Sevilla" redirects here. For the association football club, see <a href="/wiki/Sevilla_FC" title="Sevilla FC">Sevilla FC</a>.</div>
+
+<p><b>Seville</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="'s' in 'sigh'">s</span><span title="/ə/ 'a' in 'about'">ə</span><span title="/ˈ/ primary stress follows">ˈ</span><span title="'v' in 'vie'">v</span><span title="/ɪ/ short 'i' in 'bid'">ɪ</span><span title="'l' in 'lie'">l</span></span>/</a></span></span>; <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <span lang="es"><i>Sevilla</i></span> <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_Spanish" title="Help:IPA for Spanish">[seˈβiʝa]</a></span>, <small>locally: </small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_Spanish" title="Help:IPA for Spanish">[seˈβi(ɟ)ʝa]</a></span><small class="nowrap metadata"> (<a href="/wiki/File:Sevilla.ogg" title="File:Sevilla.ogg"><img alt="" data-file-height="500" data-file-width="500" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/13px-Speaker_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/20px-Speaker_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/26px-Speaker_Icon.svg.png 2x" width="13"/></a> <a class="internal" href="//upload.wikimedia.org/wikipedia/commons/f/fd/Sevilla.ogg" title="Sevilla.ogg">listen</a>)</small>) is the capital and largest city of the <a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">autonomous community</a> of <a href="/wiki/Andalusia" title="Andalusia">Andalusia</a> and the <a href="/wiki/Province_of_Seville" title="Province of Seville">province of Seville</a>, Spain. It is situated on the plain of the River <a href="/wiki/Guadalquivir" title="Guadalquivir">Guadalquivir</a>. The inhabitants of the city are known as <i>sevillanos</i> (feminine form: <i>sevillanas</i>) or <i>hispalenses</i>, after the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman</a> name of the city, <i>Hispalis</i>. Seville has a municipal population of about 703,000 as of 2011, and a <a href="/wiki/List_of_metropolitan_areas_in_Spain" title="List of metropolitan areas in Spain">metropolitan</a> population of about 1.5 million, making it the <a href="/wiki/List_of_municipalities_of_Spain" title="List of municipalities of Spain">fourth-largest city in Spain</a> and the <a class="mw-redirect" href="/wiki/Largest_cities_of_the_European_Union_by_population_within_city_limits" title="Largest cities of the European Union by population within city limits">30th most populous municipality</a> in the <a href="/wiki/European_Union" title="European Union">European Union</a>. Its <a class="mw-redirect" href="/wiki/Old_Town" title="Old Town">Old Town</a>, the third largest in <a href="/wiki/Europe" title="Europe">Europe</a> with an area of 4 square kilometres (2 sq mi), contains three <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> <a class="mw-redirect" href="/wiki/World_Heritage_Sites" title="World Heritage Sites">World Heritage Sites</a>: the <a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar palace complex</a>, the <a href="/wiki/Seville_Cathedral" title="Seville Cathedral">Cathedral</a> and the <a class="mw-redirect" href="/wiki/Archivo_General_de_Indias" title="Archivo General de Indias">General Archive of the Indies</a>. The Seville harbour, located about 80 kilometres (50 miles) from the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>, is the only river port in Spain. Seville is also the hottest major metropolitan area in the geographical <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a>, with summer average high temperatures of above 35 °C.</p>
+<p>Seville was founded as the Roman city of <i>Hispalis</i>. It later became known as <i>Ishbiliya</i> (<a class="mw-redirect" href="/wiki/Arabic_language" title="Arabic language">Arabic</a>: <span dir="rtl" lang="ar"><span class="script-arabic script-Arab" dir="rtl" style="font-family:Harmattan,Scheherazade,Lateef,Alkalami,Amiri,'DejaVu Sans',FreeSerif,'Noto Naskh Arabic','Droid Arabic Naskh','Arabic Typesetting','Sakkal Majalla','Traditional Arabic','Simplified Arabic','Caribri','Segoe UI','Microsoft Sans Serif',Arial,'Times New Roman',serif,sans-serif; font-size: 125%; font-weight:normal;">إشبيلية‎</span></span>‎‎) after the Muslim conquest in 712. During the Muslim rule in Spain, Seville came under the jurisdiction of the <a href="/wiki/Caliphate_of_C%C3%B3rdoba" title="Caliphate of Córdoba">Caliphate of Córdoba</a> before becoming the independent <a href="/wiki/Taifa_of_Seville" title="Taifa of Seville">Taifa of Seville</a>; later it was ruled by the Muslim <a class="mw-redirect" href="/wiki/Almoravids" title="Almoravids">Almoravids</a> and the <a class="mw-redirect" href="/wiki/Almohad_dynasty" title="Almohad dynasty">Almohads</a> until finally being incorporated into the Christian <a href="/wiki/Kingdom_of_Castile" title="Kingdom of Castile">Kingdom of Castile</a> under <a href="/wiki/Ferdinand_III_of_Castile" title="Ferdinand III of Castile">Ferdinand III</a> in 1248. After the discovery of the Americas, Seville became one of the economic centres of the <a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish Empire</a> as its port monopolised the trans-oceanic trade and the <a href="/wiki/Casa_de_Contrataci%C3%B3n" title="Casa de Contratación">Casa de Contratación</a> (House of Trade) wielded its power, opening a <a class="mw-redirect" href="/wiki/Golden_Age_of_Spain" title="Golden Age of Spain">Golden Age</a> of arts and literature. In 1519, <a href="/wiki/Ferdinand_Magellan" title="Ferdinand Magellan">Ferdinand Magellan</a> departed from Seville for the first circumnavigation of the Earth. Coinciding with the Baroque period of European history, the 17th century in Seville represented the most brilliant flowering of the city's culture; then began a gradual economic and demographic decline as silting in the Guadalquivir forced the trade monopoly to relocate to the nearby port of <a href="/wiki/C%C3%A1diz" title="Cádiz">Cádiz</a>.</p>
+<p>The 20th century in Seville saw the tribulations of the <a href="/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a>, decisive cultural milestones such as the <a href="/wiki/Ibero-American_Exposition_of_1929" title="Ibero-American Exposition of 1929">Ibero-American Exposition of 1929</a> and <a href="/wiki/Seville_Expo_%2792" title="Seville Expo '92">Expo '92</a>, and the city's election as the capital of the <a class="mw-redirect" href="/wiki/Andalusian_Autonomous_Government" title="Andalusian Autonomous Government">Autonomous Community of Andalusia</a>.</p>
+<p></p>
+
+<p></p>
+<h2><span class="mw-headline" id="Name">Name</span></h2>
+<h3><span class="mw-headline" id="Etymology">Etymology</span></h3>
+<p><i>Spal</i> is the oldest known name for Seville. It appears to have originated during the <a href="/wiki/Phoenicia" title="Phoenicia">Phoenician</a> colonisation of the <a href="/wiki/Tartessos" title="Tartessos">Tartessian</a> culture in south-western Iberia and, according to Manuel Pellicer Catalán, meant "lowland" in the <a href="/wiki/Phoenician_language" title="Phoenician language">Phoenician language</a> (similar to the Hebrew <a href="/wiki/Shfela" title="Shfela">Shfela</a>). During <a href="/wiki/Hispania_Baetica" title="Hispania Baetica">Roman</a> rule, the name was Latinised as <i>Hispalis</i>. After the Umayyad invasion, this name was adapted into Arabic as <i>Ishbiliyya</i> (<a href="/wiki/Arabic" title="Arabic">Arabic</a> <span class="script-arabic script-Arab" dir="rtl" style="font-family:Harmattan,Scheherazade,Lateef,Alkalami,Amiri,'DejaVu Sans',FreeSerif,'Noto Naskh Arabic','Droid Arabic Naskh','Arabic Typesetting','Sakkal Majalla','Traditional Arabic','Simplified Arabic','Caribri','Segoe UI','Microsoft Sans Serif',Arial,'Times New Roman',serif,sans-serif; font-size: 125%; font-weight:normal;">أشبيليّة‎</span>); since "p" does not exist in Arabic, it was replaced by "b", the Latin place-name suffix <i>-is</i> was replaced by its direct Arabic equivalent <i>-iyya</i>, and stressed "a" /æ/ turned into "i" /i/, due to the phonetic phenomenon called <a href="/wiki/Im%C4%81la" title="Imāla">imela</a>.</p>
+<h3><span class="mw-headline" id="Motto">Motto</span></h3>
+<p>"NO8DO" is the official motto of Seville. It is popularly believed to be a <a href="/wiki/Rebus" title="Rebus">rebus</a> signifying the Spanish "No me ha dejado", meaning "It [Seville] has not abandoned me" but pronounced with <a href="/wiki/Synalepha" title="Synalepha">synalepha</a> as <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_Spanish" title="Help:IPA for Spanish">[no ma ðeˈxaðo]</a></span> . The eight in the middle represents a <i>madeja</i> <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_Spanish" title="Help:IPA for Spanish">[maˈðexa]</a></span>, or skein of wool. Legend states that the title was given by King <a class="mw-redirect" href="/wiki/Alfonso_X" title="Alfonso X">Alfonso X</a>, who was resident in the city's <a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar</a> and supported by the citizens when his son, later <a class="mw-redirect" href="/wiki/Sancho_IV_of_Castille" title="Sancho IV of Castille">Sancho IV of Castille</a>, tried to usurp the throne from him. The emblem is present on the municipal flag and features on city property such as manhole covers, and <a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a>'s tomb in the Cathedral.</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="hatnote" role="note">Main articles: <a href="/wiki/History_of_Seville" title="History of Seville">History of Seville</a> and <a href="/wiki/Timeline_of_Seville" title="Timeline of Seville">Timeline of Seville</a></div>
+<p>Seville is approximately 2,200 years old. The passage of the various civilisations instrumental in its growth has left the city with a distinct personality, and a large and well-preserved historical centre.</p>
+<h3><span class="mw-headline" id="Early_periods">Early periods</span></h3>
+<p>The mythological founder of the city is Hercules (<a href="/wiki/Heracles" title="Heracles">Heracles</a>), commonly identified with the Phoenician god <a href="/wiki/Melqart" title="Melqart">Melqart</a>, who the myth says sailed through the <a href="/wiki/Strait_of_Gibraltar" title="Strait of Gibraltar">Strait of Gibraltar</a> to the Atlantic, and founded trading posts at the current sites of <a href="/wiki/C%C3%A1diz" title="Cádiz">Cádiz</a> and of Seville.</p>
+
+<p>The city was known from <a href="/wiki/Hispania#Roman_Hispania" title="Hispania">Roman times</a> as <i>Hispalis</i>. Important archaeological remains also exist in the nearby towns of <a href="/wiki/Santiponce" title="Santiponce">Santiponce</a> (<a href="/wiki/Italica" title="Italica">Italica</a>) and <a class="mw-redirect" href="/wiki/Carmona,_Spain" title="Carmona, Spain">Carmona</a>.</p>
+<p>Existing Roman features in Seville include the remnants of an <a href="/wiki/Roman_aqueduct" title="Roman aqueduct">aqueduct</a>, a temple in <i>Mármoles</i> Street, the columns of <a href="/wiki/La_Alameda,_Seville" title="La Alameda, Seville">La Alameda de Hércules</a>, the remains exposed <i>in situ</i> in the underground Antiquarium of the <a href="/wiki/Metropol_Parasol" title="Metropol Parasol">Metropol Parasol</a> building and the remains in the Patio de Banderas square near of the <a href="/wiki/Seville_Cathedral" title="Seville Cathedral">Seville Cathedral</a>. The walls surrounding the city were originally built during the rule of <a href="/wiki/Julius_Caesar" title="Julius Caesar">Julius Caesar</a>, but their current course and design were the result of Moorish reconstructions.</p>
+<p>Following Roman rule, there were successive conquests of the Roman province of <i><a href="/wiki/Hispania_Baetica" title="Hispania Baetica">Hispania Baetica</a></i> by the <a href="/wiki/Vandals" title="Vandals">Vandals</a>, the <a href="/wiki/Suebi" title="Suebi">Suebi</a> and the <a href="/wiki/Visigoths" title="Visigoths">Visigoths</a> during the 5th and 6th centuries.</p>
+<h3><span class="mw-headline" id="Moorish_era">Moorish era</span></h3>
+<p>Seville was taken by the <a href="/wiki/Moors" title="Moors">Moors</a>, <a href="/wiki/Muslim" title="Muslim">Muslims</a> from North of <a href="/wiki/Africa" title="Africa">Africa</a>, during the <a href="/wiki/Umayyad_conquest_of_Hispania" title="Umayyad conquest of Hispania">conquest</a> of Hispalis in 712. It was the capital for the kings of the <a href="/wiki/Umayyad_Caliphate" title="Umayyad Caliphate">Umayyad Caliphate</a>, the <a href="/wiki/Almoravid_dynasty" title="Almoravid dynasty">Almoravid dynasty</a> first and after the <a class="mw-redirect" href="/wiki/Almohad_dynasty" title="Almohad dynasty">Almohad dynasty</a> (from Arabic <span class="script-arabic script-Arab" dir="rtl" style="font-family:Harmattan,Scheherazade,Lateef,Alkalami,Amiri,'DejaVu Sans',FreeSerif,'Noto Naskh Arabic','Droid Arabic Naskh','Arabic Typesetting','Sakkal Majalla','Traditional Arabic','Simplified Arabic','Caribri','Segoe UI','Microsoft Sans Serif',Arial,'Times New Roman',serif,sans-serif; font-size: 125%; font-weight:normal;">الموحدون‎</span> al-Muwahhidun, i.e., "the monotheists" or "the Unitarians"), from the 8th to 13th centuries.</p>
+<p>The Moorish urban influences continued and are present in contemporary Seville, for instance in the custom of decorating with herbaje and small fountains the courtyards of the houses. However, most buildings of the Moorish aesthetic actually belong to the <a href="/wiki/Mud%C3%A9jar" title="Mudéjar">Mudéjar</a> style of Islamic art, developed under Christian rule and inspired by the Arabic style. Original <a class="mw-redirect" href="/wiki/Moorish" title="Moorish">Moorish</a> buildings are the <i>Patio del Yeso</i> in the <a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar</a>, the city walls, and the main section of the <a href="/wiki/Giralda" title="Giralda">Giralda</a>, bell tower of the <a href="/wiki/Seville_Cathedral" title="Seville Cathedral">Seville Cathedral</a>.</p>
+<h3><span class="mw-headline" id="Castilian_rule">Castilian rule</span></h3>
+<div class="hatnote" role="note">See also: <a href="/wiki/Siege_of_Seville" title="Siege of Seville">Siege of Seville</a></div>
+<p>In 1247, the Christian King <a href="/wiki/Ferdinand_III_of_Castile" title="Ferdinand III of Castile">Ferdinand III of Castile</a> and Leon began the conquest of Andalusia. After conquering Jaén and Córdoba, he seized the villages surrounding the city, <a class="mw-redirect" href="/wiki/Carmona,_Spain" title="Carmona, Spain">Carmona</a> Lora del Rio and Alcalá del Rio, and kept a standing army in the vicinity, the siege lasting for fifteen months. The decisive action took place in May 1248 when Ramon Bonifaz sailed up the Guadalquivir and severed the Triana bridge that made the provisioning of the city from the farms of the <a href="/wiki/Albaida_del_Aljarafe" title="Albaida del Aljarafe">Aljarafe</a> possible. The city surrendered on 23 November 1248.</p>
+<p>The city's development continued after the <a href="/wiki/Crown_of_Castile" title="Crown of Castile">Castilian</a> conquest in 1248. Public buildings constructed including churches, many of which were built in the <i><a href="/wiki/Mud%C3%A9jar" title="Mudéjar">Mudéjar</a></i> style, and the <a href="/wiki/Seville_Cathedral" title="Seville Cathedral">Seville Cathedral</a>, built during the 15th century with <a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic architecture</a>. The Moors' Palace became the Castilian royal residence, and during <a class="mw-redirect" href="/wiki/Pedro_of_Castile" title="Pedro of Castile">Pedro I</a>'s rule it was replaced by the <a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar</a> (the upper levels are still used by the <a href="/wiki/Spanish_Royal_Family" title="Spanish Royal Family">Royal Family</a> as the official Seville residence).</p>
+
+
+<p>After the 1391 <a href="/wiki/Pogrom" title="Pogrom">Pogrom</a>, believed to having been instigated by the Archdeacon Ferrant Martinez, all the <a href="/wiki/Synagogue" title="Synagogue">synagogues</a> in Seville were converted to churches (renamed Santa María la Blanca, San Bartolome, Santa Cruz, and Convento Madre de Dios). The Jewish quarter's land and shops (sited in modern-day 'Barrio Santa Cruz') were appropriated by the church. Many were killed during the pogrom, although most were <a class="mw-redirect" href="/wiki/B%27nei_Anusim" title="B'nei Anusim">forced to convert</a>.</p>
+<p>The first tribunal of the Spanish <a href="/wiki/Inquisition" title="Inquisition">Inquisition</a> was instituted in Seville in 1478. At first, the activity of the Inquisition was limited to the dioceses of <a href="/wiki/Roman_Catholic_Archdiocese_of_Seville" title="Roman Catholic Archdiocese of Seville">Seville</a> and <a href="/wiki/Roman_Catholic_Diocese_of_C%C3%B3rdoba" title="Roman Catholic Diocese of Córdoba">Córdoba</a>, where <a class="mw-redirect" href="/wiki/Alonso_de_Hojeda" title="Alonso de Hojeda">Alonso de Hojeda</a> had detected <a class="mw-redirect" href="/wiki/Crypto-jews" title="Crypto-jews">converso</a> activity. The first <a href="/wiki/Auto-da-f%C3%A9" title="Auto-da-fé">Auto de Fé</a> took place in Seville on 6 February 1481, when six people were burned alive. Alonso de Hojeda himself gave the sermon. The Inquisition then grew rapidly. The Plaza de San Francisco was the site of the 'autos de fé'. By 1492, tribunals existed in eight Castilian cities: Ávila, Córdoba, Jaén, Medina del Campo, Segovia, Sigüenza, Toledo and Valladolid; and by the <a class="mw-redirect" href="/wiki/Alhambra_decree" title="Alhambra decree">Alhambra decree</a> all Jews were <a href="/wiki/Anusim" title="Anusim">forced to convert</a> to Catholicism or be ejected from Spain.</p>
+<h3><span class="mw-headline" id="The_Golden_Age">The Golden Age</span></h3>
+
+<p>Following the 1492 <a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a> expedition to the <a href="/wiki/New_World" title="New World">New World</a> (from the port of <a href="/wiki/Palos_de_la_Frontera" title="Palos de la Frontera">Palos de la Frontera</a>), the results from his claiming territory and trade for the Crown of Castile (incipient Spain) in the <a href="/wiki/West_Indies" title="West Indies">West Indies</a> began to profit the city, as all goods imported from the New World had to pass through the <a class="mw-redirect" href="/wiki/Casa_de_Contratacion" title="Casa de Contratacion">Casa de Contratacion</a> before being distributed throughout the rest of Spain. A 'golden age of development' commenced in Seville, due to its being the only port awarded the royal monopoly for trade with the growing <a class="mw-redirect" href="/wiki/Spanish_colonisation_of_the_Americas" title="Spanish colonisation of the Americas">Spanish colonies in the Americas</a> and the influx of riches from them. Since only <a href="/wiki/Winds_in_the_Age_of_Sail" title="Winds in the Age of Sail">sailing ships</a> leaving from and returning to the inland port of Seville could engage in trade with the <a href="/wiki/European_colonization_of_the_Americas" title="European colonization of the Americas">Spanish Americas</a>, merchants from Europe and other trade centres needed to go to Seville to acquire <a href="/wiki/New_World" title="New World">New World</a> trade goods. The city's population grew to nearly a million people.</p>
+<p>In the late 16th century the monopoly was broken, with the port of <a href="/wiki/C%C3%A1diz" title="Cádiz">Cádiz</a> also authorised as a port of trade. The <a href="/wiki/Great_Plague_of_Seville" title="Great Plague of Seville">Great Plague of Seville</a> in 1649 reduced the population by almost half, and it would not recover until the early 19th century. By the 18th century its international importance was in decline. After the silting up of the harbour by the <a href="/wiki/Guadalquivir" title="Guadalquivir">Guadalquivir</a> (river), upriver shipping ceased and the city went into relative economic decline.</p>
+<p>The writer <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a> lived primarily in Seville between 1596 and 1600. Because of financial problems, Cervantes worked as a purveyor for the Spanish Armada, and later as a tax collector. In 1597, discrepancies in his accounts of the three years previous landed him in the Royal Prison of Seville for a short time. <i><a href="/wiki/Rinconete_y_Cortadillo" title="Rinconete y Cortadillo">Rinconete y Cortadillo</a></i>, a popular comedy among his works, features two young vagabonds who come to Seville, attracted by the riches and disorder that the 16th-century commerce with the Americas had brought to that metropolis.</p>
+<h3><span class="mw-headline" id="18th_century">18th century</span></h3>
+
+<p>During the 18th century <a href="/wiki/Charles_III_of_Spain" title="Charles III of Spain">Charles III of Spain</a> promoted Seville's industries. Construction of the <i>Real Fábrica de Tabacos</i> (<a href="/wiki/Royal_Tobacco_Factory" title="Royal Tobacco Factory">Royal Tobacco Factory</a>) began in 1728, with additions to it over the next 30 years. It was the second largest building in Spain, after the royal residence <a href="/wiki/El_Escorial" title="El Escorial">El Escorial</a>. Since the 1950s it has been the seat of the rectorate of the University of Seville, together with the Schools of Law, Philology, Geography and History.</p>
+<p>Many operas have been set in the city, including those by such composers as <a class="mw-redirect" href="/wiki/Beethoven" title="Beethoven">Beethoven</a> <i>(<a href="/wiki/Fidelio" title="Fidelio">Fidelio</a>)</i>, <a class="mw-redirect" href="/wiki/Mozart" title="Mozart">Mozart</a> <i>(<a href="/wiki/The_Marriage_of_Figaro" title="The Marriage of Figaro">The Marriage of Figaro</a> and <a href="/wiki/Don_Giovanni" title="Don Giovanni">Don Giovanni</a>)</i>, <a class="mw-redirect" href="/wiki/Rossini" title="Rossini">Rossini</a> (<a href="/wiki/The_Barber_of_Seville" title="The Barber of Seville">The Barber of Seville</a>) and <a class="mw-redirect" href="/wiki/Bizet" title="Bizet">Bizet</a> "(<a href="/wiki/Carmen" title="Carmen">Carmen</a>)".</p>
+<p>Seville became the dean of the Spanish provincial press in 1758 with the publication of its first newspaper, the <i>Hebdomario útil de Seville</i>, the first to be printed in Spain outside Madrid.</p>
+<h3><span class="mw-headline" id="19th_and_20th_centuries">19th and 20th centuries</span></h3>
+
+<p>Between 1825 and 1833, Melchor Cano acted as chief architect in Seville; most of the urban planning policy and architectural modifications of the city were made by him and his collaborator Jose Manuel Arjona y Cuba.</p>
+<p>Industrial architecture surviving today from the first half of the 19th century includes the ceramics factory installed in the Carthusian monastery at La Cartuja in 1841 by the Pickman family, and now home to the El Centro Andaluz de Arte Contemporáneo (CAAC), which manages the collections of the Museo de Arte Contemporáneo de Sevilla. It also houses the rectory of the UNIA.</p>
+<p>In the years that <a class="mw-redirect" href="/wiki/Isabella_II_of_Spain" title="Isabella II of Spain">Queen Isabel II</a> ruled directly, about 1843–1868, the Sevillian bourgeoisie invested in a construction boom unmatched in the city's history. The Isabel II bridge, better known as the Triana bridge, dates from this period; street lighting was expanded in the municipality and most of the streets were paved during this time as well.</p>
+<p>By the second half of the 19th century Seville began an expansion supported by railway construction and the demolition of part of its ancient walls, allowing the urban space of the city to grow eastward and southward. The <i>Sevillana de Electricidad</i> Company was created in 1894 to provide electric power throughout the municipality, and in 1901 the <i>Plaza de Armas</i> railway station was inaugurated. The Museum of Fine Arts <i>(Museo de Bellas Artes de Sevilla)</i> opened in 1904.</p>
+
+<p>In 1929 the city hosted the <a href="/wiki/Ibero-American_Exposition_of_1929" title="Ibero-American Exposition of 1929">Ibero-American Exposition</a>, which accelerated the southern expansion of the city and created new public spaces such as the <a class="mw-redirect" href="/wiki/Plaza_de_Espa%C3%B1a_(Seville)" title="Plaza de España (Seville)">Plaza de España</a> and the <a href="/wiki/Maria_Luisa_Park" title="Maria Luisa Park">Maria Luisa Park</a>. Not long before the opening, the Spanish government began a modernisation of the city in order to prepare for the expected crowds by erecting new hotels and widening the mediaeval streets to allow for the movement of automobiles.</p>
+<p>Seville fell very quickly at the beginning of the <a href="/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a> in 1936. General <a class="mw-redirect" href="/wiki/Queipo_de_Llano" title="Queipo de Llano">Queipo de Llano</a> carried out a coup within the city, quickly capturing the city centre. Radio Seville opposed the uprising and called for the peasants to come to the city for arms, while workers' groups established barricades. De Llano then moved to capture Radio Seville, which he used to broadcast propaganda on behalf of the Franquist forces. After the initial takeover of the city, resistance continued among residents of the working-class neighbourhoods for some time, until a series of fierce reprisals took place.</p>
+<p>Under <a href="/wiki/Francisco_Franco" title="Francisco Franco">Francisco Franco</a>'s rule Spain was officially neutral in World War II (although it did collaborate with the <a href="/wiki/Axis_powers" title="Axis powers">Axis powers</a>), and like the rest of the country, Seville remained largely economically and culturally isolated from the outside world. In 1953 the shipyard of Seville was opened, eventually employing more than 2,000 workers in the 1970s. Before the existence of wetlands regulation in the Guadalquivir basin, Seville suffered regular heavy flooding; perhaps worst of all were the floods that occurred in November 1961 when the River Tamarguillo, a tributary of the Guadalquivir, overflowed as a result of a prodigious downpour of rain, and Seville was consequently declared a disaster zone.</p>
+<p>Trade unionism in Seville began during the 1960s with the underground organisational activities of the Workers' Commissions or Comisiones Obreras (CCOO), in factories such as Hytasa, the Astilleros shipyards, Hispano Aviación, etc. Several of the movement's leaders were imprisoned in November 1973. On 3 April 1979 Spain held its first democratic municipal elections after the end of Franco's dictatorship; councillors representing four different political parties were elected in Seville. On 5 November 1982, <a href="/wiki/Pope_John_Paul_II" title="Pope John Paul II">Pope John Paul II</a> arrived in Seville to officiate at a Mass before more than half a million people at the fairgrounds. He visited the city again 13 June 1993, for the International Eucharistic Congress.</p>
+<p>In 1992, coinciding with the fifth centenary of the <a href="/wiki/Voyages_of_Christopher_Columbus" title="Voyages of Christopher Columbus">Discovery of the Americas</a>, the <a href="/wiki/Seville_Expo_%2792" title="Seville Expo '92">Universal Exposition</a> was held for six months in Seville, on the occasion of which the local communications network infrastructure was greatly improved: the SE-30 ring road around the city was completed and new highways were constructed; the new Santa Justa train station had opened in 1991, while the Spanish High Speed Rail system, the <i>Alta Velocidad Española</i> (AVE), began to operate between Madrid-Seville. The <a href="/wiki/Seville_Airport" title="Seville Airport">Seville Airport</a>, <i>(Aeropuerto de Sevilla)</i>, was expanded with a new terminal building designed by the architect <a href="/wiki/Rafael_Moneo" title="Rafael Moneo">Rafael Moneo</a>, and various other improvements were made. The monumental <i><a href="/wiki/Puente_del_Alamillo" title="Puente del Alamillo">Puente del Alamillo</a></i> (Alamillo Bridge) over the Guadalquivir, designed by the architect <a href="/wiki/Santiago_Calatrava" title="Santiago Calatrava">Santiago Calatrava</a>, was built to allow access to the island of La Cartuja, site of the massive exposition. Some of the installations remaining at the site after the exposition were converted into the Scientific and Technological Park <a href="/wiki/Cartuja_93" title="Cartuja 93">Cartuja 93</a>.</p>
+<h3><span class="mw-headline" id="21st_century">21st century</span></h3>
+<p>In 2004 the <a href="/wiki/Metropol_Parasol" title="Metropol Parasol">Metropol Parasol</a> project, commonly known as <i>Las Setas (</i>English: <i>The Mushrooms -</i> due to the appearance of the structure), was launched to revitalise the Plaza de la Encarnación, for years used as a car park and seen as a dead spot between more popular tourist destinations in the city. The <a href="/wiki/Metropol_Parasol" title="Metropol Parasol">Metropol Parasol</a> was completed in March 2011, costing just over €102 million in total, more than twice as much as originally planned. Constructed from crossed wooden beams, <i>Las Setas</i> is said to be the largest timber-framed structure in the world.</p>
+
+<h2><span class="mw-headline" id="Geography">Geography</span></h2>
+<p>Seville has an area of 140 km (54 sq mi), according to the National Topographic Map <i>(Mapa Topográfico Nacional)</i> series from the <i>Instituto Geográfico Nacional – Centro Nacional de Información Geográfica</i>, the country's civilian survey organisation (pages 984, 985 and 1002). The city is situated in the fertile valley of the Guadalquivir River. The average height <a class="mw-redirect" href="/wiki/Above_mean_sea_level" title="Above mean sea level">above sea level</a> is 7 metres (23 feet). Most of the city is on the east side of the river, while <a href="/wiki/Triana,_Seville" title="Triana, Seville">Triana</a>, <a class="mw-redirect" href="/wiki/La_Cartuja,_Seville" title="La Cartuja, Seville">La Cartuja</a> and <a class="mw-redirect" href="/wiki/Los_Remedios,_Seville" title="Los Remedios, Seville">Los Remedios</a> are on the west side. The <a href="/wiki/Albaida_del_Aljarafe" title="Albaida del Aljarafe">Aljarafe</a> region lies further west, and is considered part of the metropolitan area. The city has boundaries on the north with <a href="/wiki/La_Rinconada" title="La Rinconada">La Rinconada</a>, <a href="/wiki/La_Algaba" title="La Algaba">La Algaba</a> and <a href="/wiki/Santiponce" title="Santiponce">Santiponce</a>; on the east with <a class="mw-redirect" href="/wiki/Alcal%C3%A1_de_Guadaira" title="Alcalá de Guadaira">Alcalá de Guadaira</a>; on the south with <a href="/wiki/Dos_Hermanas" title="Dos Hermanas">Dos Hermanas</a> and <a href="/wiki/Gelves" title="Gelves">Gelves</a> and on the west with <a href="/wiki/San_Juan_de_Aznalfarache" title="San Juan de Aznalfarache">San Juan de Aznalfarache</a>, <a href="/wiki/Tomares" title="Tomares">Tomares</a> and <a href="/wiki/Camas,_Seville" title="Camas, Seville">Camas</a>.</p>
+<h3><span class="mw-headline" id="Position">Position</span></h3>
+<p>Seville is on the same <a href="/wiki/37th_parallel_north" title="37th parallel north">parallel</a> as <a href="/wiki/United_States" title="United States">United States</a> west coast city <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a> and the surrounding <a href="/wiki/San_Francisco_Bay_Area" title="San Francisco Bay Area">Bay Area</a>. In addition to that <a href="/wiki/S%C3%A3o_Miguel_Island" title="São Miguel Island">São Miguel</a>, the main island of the <a href="/wiki/Azores" title="Azores">Azores</a> archipelago lies on the same latitude. Further east from Seville in the <a href="/wiki/Mediterranean_Basin" title="Mediterranean Basin">Mediterranean Basin</a>, it is on the same latitude as <a href="/wiki/Catania" title="Catania">Catania</a> of <a href="/wiki/Sicily" title="Sicily">Sicily</a>, <a href="/wiki/Italy" title="Italy">Italy</a> and just south of <a href="/wiki/Athens" title="Athens">Athens</a>, the capital of <a href="/wiki/Greece" title="Greece">Greece</a>. Even further east, it is located on the same parallel as <a href="/wiki/South_Korea" title="South Korea">South Korean</a> capital of <a href="/wiki/Seoul" title="Seoul">Seoul</a>. Seville is located not many miles inland from the Andalusian coast, but still sees a much more continental climate than the nearest port cities <a href="/wiki/C%C3%A1diz" title="Cádiz">Cádiz</a> and <a href="/wiki/Huelva" title="Huelva">Huelva</a> for example—although it is much too mild in winter to be described as a 'proper' continental area. It is at a relative distance from the three larger cities in the country, as well as <a href="/wiki/Lisbon" title="Lisbon">Lisbon</a> in <a href="/wiki/Portugal" title="Portugal">Portugal</a>, making it by far the largest city in the south of the <a class="mw-redirect" href="/wiki/Iberian_peninsula" title="Iberian peninsula">Iberian peninsula</a>.</p>
+<h3><span class="mw-headline" id="Climate">Climate</span></h3>
+
+<p>Seville has a <a class="mw-redirect" href="/wiki/Subtropical" title="Subtropical">subtropical</a> <a href="/wiki/Mediterranean_climate" title="Mediterranean climate">Mediterranean climate</a> (<a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> <i>Csa</i>). Like most Mediterranean climates, Seville has a drier summer and wet winter. The annual average temperature is 25 °C (77 °F) during the day and 13 °C (55 °F) at night. Summer is the dominant season and lasts from May to October, the latter in spite of the dwindling daylight and inland position.</p>
+<p>After the city of <a href="/wiki/C%C3%B3rdoba,_Andalusia" title="Córdoba, Andalusia">Córdoba</a> (also in Andalusia), Seville has the hottest summer in continental Europe among all cities with a population over 100,000 people, with average daily highs in July of 36.0 °C (97 °F). Average minimum temperatures in July are 20.3 °C (69 °F) and every year the temperature exceeds 40 °C (104 °F) on several occasions. The coldest temperature extreme of −5.5 °C (22 °F) was registered by the weather station at <a href="/wiki/Seville_Airport" title="Seville Airport">Seville Airport</a> on 12 February 1956. A historical record high (disputed) of 50.0 °C (122 °F) was recorded on 4 August 1881, according to the NOAA Satellite and Information Service. There is a non-accredited record by the National Institute of Meteorology of 47.2 °C (117 °F) on 1 August during the <a href="/wiki/2003_European_heat_wave" title="2003 European heat wave">2003 heat wave</a>, according to a weather station (83910 LEZL) located in the southern part of Seville Airport, near the abandoned military zone. This temperature would be one of the highest ever recorded in Spain and Europe after the European record of 48.0 °C (118 °F) recorded in <a href="/wiki/Athens" title="Athens">Athens</a> on 10 July 1977 and the 47.4 °C (117.4 °F) of <a href="/wiki/Amareleja" title="Amareleja">Amareleja</a>, Portugal on 1 August 2003.</p>
+<ul>
+<li>Winters are mild: January is the coolest month, with average maximum temperatures of 16.0 °C (61 °F) and minimum of 5.7 °C (42 °F).</li>
+<li><a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">Precipitation</a> varies from 400 to 800 mm (15.7 to 31.5 in) per year, concentrated in the period October to April. December is the wettest month, with an average rainfall of 99 millimetres (3.9 in). On average there are 66 days of rain.</li>
+</ul>
+
+<h2><span class="mw-headline" id="Government">Government</span></h2>
+<p>Seville is the capital of the <a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">autonomous community</a> of <a href="/wiki/Andalusia" title="Andalusia">Andalusia</a>. The historical edifice of the <a href="/wiki/Palace_of_San_Telmo" title="Palace of San Telmo">Palace of San Telmo</a> is now the seat of the presidency of the <a class="mw-redirect" href="/wiki/Andalusian_Autonomous_Government" title="Andalusian Autonomous Government">Andalusian Autonomous Government</a>. The administrative headquarters are in Torre Triana, in <a class="mw-redirect" href="/wiki/La_Cartuja,_Seville" title="La Cartuja, Seville">La Cartuja</a>. The <a href="/wiki/Hospital_de_las_Cinco_Llagas" title="Hospital de las Cinco Llagas">Hospital de las Cinco Llagas</a> (literally, "Hospital of the Five Holy Wounds") is the current seat of the <a href="/wiki/Parliament_of_Andalusia" title="Parliament of Andalusia">Parliament of Andalusia</a>. Since 2015 the government of the <a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">autonomous community</a> is a coalition between the <a class="mw-redirect" href="/wiki/Centre-left" title="Centre-left">centre-left</a> <a href="/wiki/Spanish_Socialist_Workers%27_Party" title="Spanish Socialist Workers' Party">Spanish Socialist Workers' Party</a> or <i>Partido Socialista Obrero Español</i> (PSOE) and the centrist <a class="mw-redirect" href="/wiki/Ciudadanos" title="Ciudadanos">Ciudadanos</a>; its president is <a href="/wiki/Susana_D%C3%ADaz" title="Susana Díaz">Susana Díaz</a>. Elections to the <a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">autonomous community</a> are held every four years.</p>
+<h3><span class="mw-headline" id="Status">Status</span></h3>
+
+<p>Seville is the capital of the <a class="mw-redirect" href="/wiki/Autonomous_Community" title="Autonomous Community">Autonomous Community</a> of <a href="/wiki/Andalusia" title="Andalusia">Andalusia</a>, according to Article 4 of the <a class="new" href="/w/index.php?title=Statute_of_Autonomy_of_Andaluc%C3%ADa&amp;action=edit&amp;redlink=1" title="Statute of Autonomy of Andalucía (page does not exist)">Statute of Autonomy of Andalucía</a> of 2007, and is the capital of the <a href="/wiki/Province_of_Seville" title="Province of Seville">Province of Seville</a> as well.</p>
+<p>The Common Council of Seville has 33 councillors and a mayor, with elections every four years. Since 2011, the government of the city has been by the conservative <a href="/wiki/People%27s_Party_(Spain)" title="People's Party (Spain)">People's Party</a> or <i>Partido Popular</i> (PP), and Juan Ignacio Zoido Álvarez has been mayor. The City Hall is on the Plaza Nueva, in the <i><a href="/wiki/El_Arenal,_Seville" title="El Arenal, Seville">El Arenal</a></i> neighbourhood. The administration of the City is decentralized into 11 districts.</p>
+<h3><span class="mw-headline" id="Districts_and_neighbourhoods">Districts and neighbourhoods</span></h3>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Districts_and_neighbourhoods_of_Seville" title="Districts and neighbourhoods of Seville">Districts and neighbourhoods of Seville</a></div>
+<p>Seville has 11 districts, further divided into 108 neighbourhoods.</p>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul>
+<li><a href="/wiki/Casco_Antiguo" title="Casco Antiguo">Casco Antiguo</a></li>
+<li>Distrito Sur</li>
+<li><a href="/wiki/Triana,_Seville" title="Triana, Seville">Triana</a></li>
+<li><a href="/wiki/Macarena,_Seville" title="Macarena, Seville">Macarena</a></li>
+<li><a href="/wiki/Nervi%C3%B3n,_Seville" title="Nervión, Seville">Nervión</a></li>
+<li><a class="mw-redirect" href="/wiki/Los_Remedios,_Seville" title="Los Remedios, Seville">Los Remedios</a></li>
+<li>Este-Alcosa-Torreblanca</li>
+<li>Cerro-Amate</li>
+<li><a href="/wiki/Bellavista-La_Palmera" title="Bellavista-La Palmera">Bellavista-La Palmera</a></li>
+<li>San Pablo-Santa Justa</li>
+</ul>
+</div>
+<p><a class="image" href="/wiki/File:Distritos_Sevilla.svg"><img alt="Distritos Sevilla.svg" data-file-height="511" data-file-width="574" height="511" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Distritos_Sevilla.svg/574px-Distritos_Sevilla.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Distritos_Sevilla.svg/861px-Distritos_Sevilla.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Distritos_Sevilla.svg/1148px-Distritos_Sevilla.svg.png 2x" width="574"/></a></p>
+<h2><span class="mw-headline" id="Main_sights">Main sights</span></h2>
+<div class="hatnote" role="note">Main article: <a href="/wiki/Sights_and_landmarks_of_Seville" title="Sights and landmarks of Seville">Sights and landmarks of Seville</a></div>
+<p>The <a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar</a>, the <a href="/wiki/Seville_Cathedral" title="Seville Cathedral">Cathedral</a>, and the <i><a class="mw-redirect" href="/wiki/Archivo_General_de_Indias" title="Archivo General de Indias">Archivo General de Indias</a></i> (General Archive of the Indies) are UNESCO <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Sites</a>.</p>
+<h3><span class="mw-headline" id="Landmarks">Landmarks</span></h3>
+
+<p>The <a href="/wiki/Seville_Cathedral" title="Seville Cathedral">St. Mary of the See Cathedral</a> was built from 1401–1519 after the <i><a href="/wiki/Reconquista" title="Reconquista">Reconquista</a></i> on the former site of the city's <a href="/wiki/Mosque" title="Mosque">mosque</a>. It is among the largest of all medieval and <a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic</a> cathedrals, in terms of both area and volume. The interior is the longest <a href="/wiki/Nave" title="Nave">nave</a> in Spain, and is lavishly decorated, with a large quantity of <a href="/wiki/Gold" title="Gold">gold</a> evident. La Giralda is a tower attached to the Cathedral that dates back to the twelfth century. It was originally built as part of a mosque when the Moors ruled in Spain and was later added onto by the Christians. Tourists today can climb the tower by walking up a series of ramps that were previously used by officials who rode their horses to the top of the tower. La Giralda gets its name from the weathervane attached to the very top of it, as "gira" means "turning one" in the Spanish language.</p>
+<p>The <i><a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar</a></i> facing the cathedral was developed from a previous Moorish <a href="/wiki/Palace" title="Palace">Palace</a>. Construction was started in 1181 and continued for over 500 years, mainly in the <a href="/wiki/Mud%C3%A9jar" title="Mudéjar">Mudéjar</a> style, but also in the <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a> style. The popular TV show Game of Thrones has shot many scenes at this location.</p>
+<p>The <i><a href="/wiki/Torre_del_Oro" title="Torre del Oro">Torre del Oro</a></i> was built as a <a href="/wiki/Watchtower" title="Watchtower">watchtower</a> and defensive barrier on the river. A chain was strung through the water from the base of the tower to prevent boats from traveling into the river port.</p>
+<p>The <a href="/wiki/Casa_consistorial_de_Sevilla" title="Casa consistorial de Sevilla">City Hall</a> was built in the 16th century in high <a href="/wiki/Plateresque" title="Plateresque">Plateresque</a> style by master architect <a href="/wiki/Diego_de_Ria%C3%B1o" title="Diego de Riaño">Diego de Riaño</a>. The façade to Plaza Nueva was built in the 19th century in <a href="/wiki/Neoclassical_architecture" title="Neoclassical architecture">Neoclassical</a> style.</p>
+<p>The <a href="/wiki/Palace_of_San_Telmo" title="Palace of San Telmo">Palace of San Telmo</a>, formerly the University of Sailors, and later the Seminary, is now the seat for the <a class="mw-redirect" href="/wiki/Andalusian_Autonomous_Government" title="Andalusian Autonomous Government">Andalusian Autonomous Government</a>. It is one of the most emblematic buildings of <a href="/wiki/Baroque_architecture" title="Baroque architecture">baroque architecture</a>, mainly to its world-renowned <a href="/wiki/Churrigueresque" title="Churrigueresque">churrigueresque</a> principal façade and the impressive chapel.</p>
+<p>The <a href="/wiki/Royal_Tobacco_Factory" title="Royal Tobacco Factory">Royal Tobacco Factory</a> is housed on the original site of the first tobacco factory in Europe, a vast 18th century building in <a href="/wiki/Baroque" title="Baroque">Baroque</a> style and the purported inspiration for the opera <i>Carmen</i>.</p>
+<p>The <i><a href="/wiki/Metropol_Parasol" title="Metropol Parasol">Metropol Parasol</a></i>, in La Encarnación square, is the world's largest wooden structure. A monumental umbrella-like building designed by the German architect <a href="/wiki/J%C3%BCrgen_Mayer_(architect)" title="Jürgen Mayer (architect)">Jürgen Mayer</a>, finished in 2011. This modern architecture structure houses the central market and an underground archaeological complex. The terrace roof is a city viewpoint.</p>
+<p>The <a href="/wiki/General_Archive_of_the_Indies" title="General Archive of the Indies">General Archive of the Indies</a>, is the repository of extremely valuable archival documents illustrating the history of the Spanish Empire in the Americas and the Philippines. The building itself, an unusually serene and Italianate example of Spanish Renaissance architecture, was designed by Juan de Herrera.</p>
+<p>The <i><a class="mw-redirect" href="/wiki/Plaza_de_Espa%C3%B1a_(Seville)" title="Plaza de España (Seville)">Plaza de España</a></i>, in Maria Luisa Park (<i>Parque de Maria Luisa</i>), was built by the architect Aníbal González for the 1929 <a href="/wiki/Ibero-American_Exposition_of_1929" title="Ibero-American Exposition of 1929">Exposición Ibero-Americana</a>. It is an outstanding example of Regionalist Revival Architecture, a bizarre and loftily conceived mixture of diverse historic styles, such as <a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a> and lavishly ornamented with typical glazed tiles.</p>
+<p>The neighbourhood of <i><a href="/wiki/Triana,_Seville" title="Triana, Seville">Triana</a></i>, situated on the west bank of the <a class="mw-redirect" href="/wiki/Guadalquivir_River" title="Guadalquivir River">Guadalquivir River</a>, played an important role in the history of the city and constitutes by itself a folk, monumental and cultural center.</p>
+<p>On the other hand, <i><a href="/wiki/Macarena,_Seville" title="Macarena, Seville">La Macarena</a></i> neighbourhood is located on the northern side of the city centre. It contains some important monuments and religious buildings, such as the Museum and Catholic Church of <i>La Macarena</i> or the <i><a href="/wiki/Hospital_de_las_Cinco_Llagas" title="Hospital de las Cinco Llagas">Hospital de las Cinco Llagas</a></i>.</p>
+
+<h3><span class="mw-headline" id="Museums">Museums</span></h3>
+
+<p>The most important art collection of Seville is the <a href="/wiki/Museum_of_Fine_Arts_of_Seville" title="Museum of Fine Arts of Seville">Museum of Fine Arts of Seville</a>. It was established in 1835 in the former Convent of <i>La Merced</i>. It holds many masterworks by <a href="/wiki/Bartolom%C3%A9_Esteban_Murillo" title="Bartolomé Esteban Murillo">Murillo</a>, <a href="/wiki/Francisco_Pacheco" title="Francisco Pacheco">Pacheco</a>, <a class="mw-redirect" href="/wiki/Zurbar%C3%A1n" title="Zurbarán">Zurbarán</a>, <a class="mw-redirect" href="/wiki/Vald%C3%A9s_Leal" title="Valdés Leal">Valdés Leal</a>, and others masters of the Baroque Sevillian School, containing also Flemish paintings of the 15th and 16th centuries.</p>
+
+<p>Other museums in Seville are:</p>
+<ul>
+<li>The <a href="/wiki/Archeological_Museum_of_Seville" title="Archeological Museum of Seville">Archaeological Museum</a>, which contains collections from the <a href="/wiki/Tartessos" title="Tartessos">Tartessian</a> and <a href="/wiki/Hispania_Baetica" title="Hispania Baetica">Roman</a> periods, located in <i>América</i> square at the María Luisa Park.</li>
+<li>The <a href="/wiki/Museum_of_Arts_and_Traditions_of_Sevilla" title="Museum of Arts and Traditions of Sevilla">Museum of Arts and Traditions</a>, also in América Square, in front of the Archaeological museum.</li>
+<li>The <a href="/wiki/Monastery_of_Santa_Maria_de_las_Cuevas" title="Monastery of Santa Maria de las Cuevas">Andalusian Contemporary Art Center</a>, situated in the neighbourhood of <a class="mw-redirect" href="/wiki/La_Cartuja,_Seville" title="La Cartuja, Seville">La Cartuja</a>.</li>
+<li>The Naval Museum, housed in the golden <a href="/wiki/Torre_del_Oro" title="Torre del Oro">Torre del Oro</a>, next to the river <a href="/wiki/Guadalquivir" title="Guadalquivir">Guadalquivir</a>.</li>
+<li>The Carriages Museum, in the <a href="/wiki/Los_Remedios" title="Los Remedios">Los Remedios</a> neighbourhood.</li>
+<li>The <a href="/wiki/Flamenco" title="Flamenco">Flamenco</a> Art Museum</li>
+<li>The <a href="/wiki/Bullfighting" title="Bullfighting">Bullfighting</a> Museum, in the <a href="/wiki/Plaza_de_toros_de_la_Real_Maestranza_de_Caballer%C3%ADa_de_Sevilla" title="Plaza de toros de la Real Maestranza de Caballería de Sevilla">La Maestranza bullring</a></li>
+<li>The <a href="/wiki/Palace_of_the_Countess_of_Lebrija" title="Palace of the Countess of Lebrija">Palace of the Countess of Lebrija</a>, a private collection which contains many of the mosaic floors discovered in the nearby Roman town of <a href="/wiki/Italica" title="Italica">Italica</a>.</li>
+<li>The "Centro <a class="mw-redirect" href="/wiki/Vel%C3%A1zquez" title="Velázquez">Velázquez</a>" (Velázquez Centre) located at the Old Priests Hospital in the touristic <a href="/wiki/Santa_Cruz,_Seville" title="Santa Cruz, Seville">Santa Cruz</a> neighbourhood.</li>
+<li>The <i>Antiquarium</i> in <a href="/wiki/Metropol_Parasol" title="Metropol Parasol">Metropol Parasol</a>, an underground museum which exhibits <i>in situ</i> Roman and Muslim remains.</li>
+<li>The <i><a href="/wiki/Triana,_Seville#Main_streets.2C_museums_and_landmarks" title="Triana, Seville">Castillo de San Jorge</a></i> (Castle of St. George) is situated near the Triana market, next to the Isabel II bridge. It was the last seat for the <a href="/wiki/Spanish_Inquisition" title="Spanish Inquisition">Spanish Inquisition</a>.</li>
+<li>The <a href="/wiki/Macarena,_Seville#Monuments_and_landmarks" title="Macarena, Seville">Museum and Treasure of <i>La Macarena</i></a>, where the collection of the <a class="new" href="/w/index.php?title=Hermandad_de_la_Esperanza_Macarena_(Seville)&amp;action=edit&amp;redlink=1" title="Hermandad de la Esperanza Macarena (Seville) (page does not exist)">Macarena brotherhood</a> is exhibited. This exhibition gives visitors an accurate impression of Seville's <a href="/wiki/Holy_Week" title="Holy Week">Seville Holy Week</a>.</li>
+<li><a href="/wiki/La_Casa_de_la_Ciencia_de_Sevilla_-_Science_Museum" title="La Casa de la Ciencia de Sevilla - Science Museum">La Casa de la Ciencia de Sevilla - Science Museum</a>, opposite the María Luisa Park.</li>
+<li>Museum of Pottery in Triana.</li>
+<li>Pabellon de la Navegación (Pavilion of Navigation).</li>
+</ul>
+<h3><span class="mw-headline" id="Parks_and_gardens">Parks and gardens</span></h3>
+
+<ul>
+<li>The <i><a class="mw-redirect" href="/wiki/Parque_de_Mar%C3%ADa_Luisa" title="Parque de María Luisa">Parque de María Luisa</a></i> (María Luisa Park), is a monumental park built for the 1929 <a class="mw-redirect" href="/wiki/World%27s_Fair" title="World's Fair">World's Fair</a> held in Seville, the <a href="/wiki/Ibero-American_Exposition_of_1929" title="Ibero-American Exposition of 1929">Exposición Ibero-Americana</a>. The so-called <i>Jardines de las Delicias</i> (literally, Delighting Gardens), closer to the river, are part of the <i>Parque de María Luisa</i>.</li>
+<li>The Alcázar Gardens, within the grounds of the <i><a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar</a></i> palace, consist of several sectors developed in different historical styles.</li>
+<li>The Gardens of Murillo and the Gardens of Catalina de Ribera, both along and outside the South wall of the Alcázar, lie next to the <i>Santa Cruz</i> quarter.</li>
+<li>The <i>Parque del Alamillo y San Jerónimo</i>, the largest park in Andalusia, was originally built for <a href="/wiki/Seville_Expo_%2792" title="Seville Expo '92">Seville Expo '92</a> to reproduce the Andalusian native flora. It lines both <a href="/wiki/Guadalquivir" title="Guadalquivir">Guadalquivir</a> shores around the <i>San Jerónimo</i> <a href="/wiki/Meander" title="Meander">meander</a>.</li>
+</ul>
+
+<p>The impressive 32-metres-high bronze sculpture, <i>The Birth of a New Man</i> (popularly known as Columbus's Egg, <i>el Huevo de Colón</i>), by the Georgian sculptor <a href="/wiki/Zurab_Tsereteli" title="Zurab Tsereteli">Zurab Tsereteli</a>, is located in its northwestern sector.</p>
+<ul>
+<li>The American Garden, also completed for Expo '92, is in <a class="mw-redirect" href="/wiki/La_Cartuja" title="La Cartuja">La Cartuja</a>. It is a public botanical garden, with a representative collection of American plants donated by different countries on the occasion of the world exposition. Despite its extraordinary botanical value, it remains a mostly abandoned place.</li>
+</ul>
+
+<h2><span class="mw-headline" id="Culture">Culture</span></h2>
+<h3><span class="mw-headline" id="Festivals">Festivals</span></h3>
+
+<p>The <a href="/wiki/Holy_Week_in_Seville" title="Holy Week in Seville"><i>Semana Santa</i> (Holy Week)</a> and the <a href="/wiki/Seville_Fair" title="Seville Fair"><i>Feria de Sevilla</i> (Seville Fair)</a>, also known as <i>Feria de Abril</i> (April Fair), are the two most well-known of Seville's festivals. Seville is internationally renowned for the solemn but decorative processions during <a href="/wiki/Easter" title="Easter">Holy Week</a> and the colourful and lively fair held two weeks after. During the Feria, families, businesses and organisations set up <i>casetas</i> (<a href="/wiki/Tent#Marquees_and_larger_tents" title="Tent">marquees</a>) in which they spend the week dancing, drinking, and socialising. Traditionally, women wear elaborate <a href="/wiki/Flamenco" title="Flamenco">flamenco</a> dresses and men dress in their best suits. The marquees are set up on a permanent fairground in the district of <a href="/wiki/Los_Remedios" title="Los Remedios">Los Remedios</a>, in which each street is named after a famous bullfighter.</p>
+<h3><span class="mw-headline" id="Gastronomy">Gastronomy</span></h3>
+
+<p>The <i><a href="/wiki/Tapas" title="Tapas">tapas</a></i> scene is one of the main cultural attractions of the city: people go from one bar to another, enjoying small dishes called tapas (literally "lids" or "covers" in Spanish, referring to their probable origin as snacks served on small plates used to cover drinks). Local specialities include fried and grilled seafood (including <a href="/wiki/Squid" title="Squid">squid</a>, <i>choco</i> (<a href="/wiki/Cuttlefish" title="Cuttlefish">cuttlefish</a>), <a href="/wiki/Swordfish" title="Swordfish">swordfish</a>, marinated <a href="/wiki/Squalidae" title="Squalidae">dogfish</a>, and <i><a href="/wiki/Snakelocks_anemone#Gastronomy" title="Snakelocks anemone">ortiguillas</a></i>), grilled and stewed meat, <a href="/wiki/Spinach" title="Spinach">spinach</a> with <a href="/wiki/Chickpea" title="Chickpea">chickpeas</a>, <i><a href="/wiki/Jam%C3%B3n_ib%C3%A9rico" title="Jamón ibérico">Jamón ibérico</a></i>, lamb kidneys in sherry sauce, <a href="/wiki/Land_snail#Snails_as_human_food" title="Land snail">snails</a>, <i><a href="/wiki/Puchero" title="Puchero">caldo de puchero</a></i>, and <i><a href="/wiki/Gazpacho" title="Gazpacho">gazpacho</a></i>. A sandwich known as a <i><a href="/wiki/Serranito" title="Serranito">serranito</a></i> is the typical and popular version of fast food.</p>
+<p>Typical desserts from Seville include <i>pestiños</i>, a honey-coated sweet fritter; <i>torrijas</i>, fried slices of bread with honey; <i>roscos fritos</i>, deep-fried sugar-coated ring doughnuts; <i>magdalenas</i> or fairy cakes; <i>yemas de San Leandro</i>, which provide the city's <a href="/wiki/Convent" title="Convent">convents</a> with a source of revenue; and <i><a href="/wiki/Tortas_de_aceite" title="Tortas de aceite">tortas de aceite</a></i>, a thin sugar-coated cake made with olive oil. <i>Polvorones</i> and <i>mantecados</i> are traditional Christmas products, whereas <i>pestiños</i> and <i>torrijas</i> are typically consumed during the <a href="/wiki/Holy_Week_in_Seville" title="Holy Week in Seville">Holy Week</a>.</p>
+<p>Bitter <a class="mw-redirect" href="/wiki/Seville_orange" title="Seville orange">Seville oranges</a> grow on trees lining the city streets. Formerly, large quantities were collected and exported to Britain to be used in <a href="/wiki/Marmalade" title="Marmalade">marmalade</a>. Today the fruit is used predominantly as compost locally, rather than as a foodstuff. According to legend, the Arabs brought the bitter orange to Seville from East Asia via Iraq around the 10th century to beautify and perfume their patios and gardens, as well as to provide shade. The flowers of the tree are a source of <a class="mw-redirect" href="/wiki/Neroli_oil" title="Neroli oil">neroli oil</a>, commonly used in <a class="mw-redirect" href="/wiki/Perfumery" title="Perfumery">perfumery</a> and in skin lotions for massage.</p>
+<h3><span class="mw-headline" id="Music">Music</span></h3>
+
+<p>Seville had a vibrant rock music scene in the 1970s and 1980s with bands like <a href="/wiki/Triana_(band)" title="Triana (band)">Triana</a>, <a href="/wiki/Alameda_(band)" title="Alameda (band)">Alameda</a> and <a href="/wiki/Smash_(British_band)" title="Smash (British band)">Smash</a>, who fused Andalusia's traditional <a class="mw-redirect" href="/wiki/Flamenco_music" title="Flamenco music">flamenco music</a> with British-style progressive rock. The punk rock group <a href="/wiki/Reincidentes" title="Reincidentes">Reincidentes</a> and indie band <a class="new" href="/w/index.php?title=Sr_Chinarro&amp;action=edit&amp;redlink=1" title="Sr Chinarro (page does not exist)">Sr Chinarro</a>, as well as singer <a href="/wiki/Kiko_Veneno" title="Kiko Veneno">Kiko Veneno</a>, rose to prominence in the early 1990s. The city's music scene now features rap acts such as <a href="/wiki/SFDK_(band)" title="SFDK (band)">SFDK</a>, <a href="/wiki/Mala_Rodr%C3%ADguez" title="Mala Rodríguez">Mala Rodríguez</a>, <a href="/wiki/Dareysteel" title="Dareysteel">Dareysteel</a>, <a href="/wiki/Tote_King" title="Tote King">Tote King</a>, <a class="new" href="/w/index.php?title=Dogma_Crew&amp;action=edit&amp;redlink=1" title="Dogma Crew (page does not exist)">Dogma Crew</a>, <a class="new" href="/w/index.php?title=Bisley_DeMarra&amp;action=edit&amp;redlink=1" title="Bisley DeMarra (page does not exist)">Bisley DeMarra</a>, <a class="extiw" href="https://es.wikipedia.org/wiki/Haze_(MC)" title="es:Haze (MC)">Haze</a> and <a class="new" href="/w/index.php?title=Jesuly&amp;action=edit&amp;redlink=1" title="Jesuly (page does not exist)">Jesuly</a>. Seville's diverse music scene is reflected in the variety of its club-centred nightlife.</p>
+<p>The city is also home to many theatres and performance spaces where classical music is performed, including <a class="mw-redirect" href="/wiki/Teatro_Lope_de_Vega,_Seville" title="Teatro Lope de Vega, Seville">Teatro Lope de Vega</a>, <a class="new" href="/w/index.php?title=Teatro_La_Maestranza&amp;action=edit&amp;redlink=1" title="Teatro La Maestranza (page does not exist)">Teatro La Maestranza</a>, Teatro Central, the <a class="new" href="/w/index.php?title=Real_Alcazar_Gardens&amp;action=edit&amp;redlink=1" title="Real Alcazar Gardens (page does not exist)">Real Alcazar Gardens</a> and the Sala Joaquín Turina.</p>
+<p>Despite its name, the <a class="mw-redirect" href="/wiki/Sevillana" title="Sevillana">sevillana</a> dance, commonly presented as <a href="/wiki/Flamenco" title="Flamenco">flamenco</a>, is not thought to be of Sevillan origin. However, the folksongs called <i><a href="/wiki/Sevillanas" title="Sevillanas">sevillanas</a></i> are authentically Sevillan, as is the four-part dance performed with them. Seville, and most significantly, the western district of <a href="/wiki/Triana,_Seville" title="Triana, Seville">Triana</a>, was a major centre of the development of <a href="/wiki/Flamenco" title="Flamenco">flamenco</a>.</p>
+<h2><span class="mw-headline" id="Economy">Economy</span></h2>
+
+<p>Seville is the most populated city in southern Spain, and has the largest GDP (<a class="mw-redirect" href="/wiki/Gross_Domestic_Product" title="Gross Domestic Product">Gross Domestic Product</a>) of any in Andalusia, accounting for one quarter of its total GDP. All municipalities in the metropolitan area depend directly or indirectly on Seville's economy, while agriculture dominates the economy of the smaller villages, with some industrial activity localised in industrial parks. The <i>Diputacion de Sevilla</i> (Deputation of Seville), with provincial headquarters in the Antiguo Cuartel de Caballería (Old Cavalry Barracks) on Avenida Menendez Pelayo, provides public services to distant villages that they can not provide themselves. The <a href="/wiki/University_of_Seville" title="University of Seville">University of Seville</a> and the University Pablo de Olavide are important centres of learning in western Andalusia as they offer a wide range of academic courses; consequently the city has a large number of students from <a href="/wiki/Huelva" title="Huelva">Huelva</a> and <a href="/wiki/C%C3%A1diz" title="Cádiz">Cádiz</a>.</p>
+<p>The economic activity of Seville cannot be detached from the geographical and urban context of the city; the capital of Andalusia is the centre of a growing metropolitan area. Aside from traditional neighbourhoods such as <a href="/wiki/Santa_Cruz,_Seville" title="Santa Cruz, Seville">Santa Cruz</a>, Triana and others, those further away from the centre, such as <a href="/wiki/Nervi%C3%B3n,_Seville" title="Nervión, Seville">Nervión</a>, Sevilla Este, and El Porvenir have seen recent economic growth. Until the economic crisis of 2007, this urban area saw significant population growth and the development of new industrial and commercial parks.</p>
+<p>During this period, availability of infrastructure in the city contributed to the growth of an economy dominated by the service sector, but in which industry still holds a considerable place.</p>
+<h3><span class="mw-headline" id="Infrastructure">Infrastructure</span></h3>
+
+<p>The 1990s saw massive growth in investment in infrastructure in Seville, largely due to its hosting of the <a href="/wiki/Seville_Expo_%2792" title="Seville Expo '92">Universal Exposition of Seville</a> in 1992. This economic development of the city and its urban area is supported by good transportation links to other Spanish cities, including a high-speed <a href="/wiki/AVE" title="AVE">AVE</a> railway connection to Madrid, and a new international <a class="mw-redirect" href="/wiki/San_Pablo_Airport" title="San Pablo Airport">airport</a>.</p>
+<p>Seville has the only inland port in Spain, located 80 km (50 mi) from the mouth of the <a href="/wiki/Guadalquivir" title="Guadalquivir">Guadalquivir</a> River. This harbour complex offers access to the Atlantic and the Mediterranean, and allows trade in goods between the south of Spain (Andalusia, <a href="/wiki/Extremadura" title="Extremadura">Extremadura</a>) and Europe, the Middle East and North Africa. The port has undergone reorganisation. Annual <a href="/wiki/Tonnage" title="Tonnage">tonnage</a> rose to 5.3 million tonnes of goods in 2006.</p>
+<p><a href="/wiki/Cartuja_93" title="Cartuja 93">Cartuja 93</a> is a research and development park. employing 15,000 persons. The <a class="mw-redirect" href="/wiki/Cajasol_Tower" title="Cajasol Tower">Cajasol Tower</a> skyscraper is under construction in the park for the Spanish bank <a href="/wiki/Banca_Civica" title="Banca Civica">Cajasol</a>'s headquarters and offices. The tower was started in March 2008 and is expected to be finished in 2015. With a height of 180.5 metres (592 feet) and 40 <a href="/wiki/Storey" title="Storey">floors</a>, it will be the tallest building in <a href="/wiki/Andalusia" title="Andalusia">Andalusia</a>.</p>
+<p>Seville has conference facilities, including the Congress Palace. Its <i>Parque Tecnológico y Aeronáutico Aerópolis</i> (Technological and Aeronautical Park) is focused on the aircraft industry. Outside of Seville are nine <a class="mw-redirect" href="/wiki/PS20_solar_power_towers" title="PS20 solar power towers">PS20 solar power towers</a> which use the city's sunny weather to provide most of it with clean and renewable energy.</p>
+
+<h3><span class="mw-headline" id="Research_and_development">Research and development</span></h3>
+<p>The <i>Consejo Superior de Investigaciones Científicas en Sevilla</i> (CSIC) is based in the former <a class="mw-redirect" href="/wiki/Pavilion_of_Peru,_Seville" title="Pavilion of Peru, Seville">Pavilion of Peru</a> in the <a href="/wiki/Maria_Luisa_Park" title="Maria Luisa Park">Maria Luisa Park</a>. In April 2008 the city council of Seville provided a grant to renovate the building to create the <i>Casa de la Ciencia</i> (<a class="mw-redirect" href="/wiki/Science_Center,_Seville" title="Science Center, Seville">Science Center</a>) to encourage popular interest in science. The internationally recognised company <i>Neocodex</i> has its headquarters in Seville; it maintains the first and largest <a href="/wiki/DNA_bank" title="DNA bank">DNA bank</a> in Spain and has made significant contributions to scientific research in genetics. Seville is also considered an important technological and research centre for renewable energy and the aeronautics industry.</p>
+<p>The output of the research centres in Sevillan universities working in tandem with city government, and the numerous local technology companies, have made Seville a leader among Spanish cities in technological <a href="/wiki/Research_and_development" title="Research and development">research and development</a>. The <i>Parque Científico Tecnológico Cartuja 93</i> is a nexus of private and public investment in various fields of research.</p>
+<p>Principal fields of innovation and research are: telecommunications, new technologies, biotechnology (with applications in local agricultural practices), environment and renewable energy.</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span></h2>
+<h3><span class="mw-headline" id="Bus">Bus</span></h3>
+<p>Seville is served by the TUSSAM <a class="external text" href="http://www.tussam.es/" rel="nofollow">(Transportes Urbanos de Sevilla)</a> <a href="/wiki/Transit_bus" title="Transit bus">bus</a> network which runs buses throughout the city. The <a class="external text" href="http://www.consorciotransportes-sevilla.com/" rel="nofollow">Consorcio de Transportes de Sevilla</a> communicates by bus with all the satellite towns of Seville.</p>
+<p>Two bus stations serve transportation between surrounding areas and other cities: <i>Plaza de Armas</i> Station, with destinations north and west, and <i>Prado de San Sebastián</i> Station, covering routes to the south and east. <i>Plaza de Armas</i> station has direct bus lines to many Spanish cities and with <a href="/wiki/Lisbon" title="Lisbon">Lisbon</a>, in Portugal.</p>
+<h3><span class="mw-headline" id="Metro">Metro</span></h3>
+<p>The <a class="mw-redirect" href="/wiki/Seville_metro" title="Seville metro">Seville metro</a> ("Metro de Sevilla" in Spanish) is a light metro network serving the city of Seville and its <a href="/wiki/Metropolitan_area" title="Metropolitan area">metropolitan area</a>. The system is totally independent of any other rail or street traffic. All stations were built with <a href="/wiki/Platform_screen_doors" title="Platform screen doors">platform screen doors</a>.</p>
+<p>It was the sixth Metro system to be built in Spain, after those in <a href="/wiki/Madrid_Metro" title="Madrid Metro">Madrid</a>, <a href="/wiki/Barcelona_Metro" title="Barcelona Metro">Barcelona</a>, <a class="mw-redirect" href="/wiki/Valencia_Metro_(Spain)" title="Valencia Metro (Spain)">Valencia</a>, <a href="/wiki/Metro_Bilbao" title="Metro Bilbao">Bilbao</a> and <a class="mw-redirect" href="/wiki/Palma_de_Mallorca_Metro" title="Palma de Mallorca Metro">Palma de Mallorca</a>. Currently, it is the fifth biggest Metro company in Spain by number of passengers carried (more than 12,000,000 in 2009).</p>
+<p>The metro of Sevilla has 1 line with 22 stations and is currently expanding, with 3 more different lines projected.</p>
+<h3><span class="mw-headline" id="Tram">Tram</span></h3>
+
+<p><a href="/wiki/MetroCentro_(Seville)" title="MetroCentro (Seville)">MetroCentro</a> is a surface <a href="/wiki/Tram" title="Tram">tramway</a> serving the centre of the city. It began operating in October 2007.</p>
+<p>The service has just five stops: Plaza Nueva, Archivo de Indias, Puerta de Jerez, Prado de San Sebastián and San Bernardo, all as part of <i>Phase I</i> of the project. It is expected to be extended to Santa Justa <a class="mw-redirect" href="/wiki/Alta_Velocidad_Espa%C3%B1ola" title="Alta Velocidad Española">AVE</a> station, including four new stops: San Francisco Javier, Eduardo Dato, Luis de Morales and Santa Justa. This extension was postponed although the City Council had made expanding the metro lines a priority.</p>
+<h3><span class="mw-headline" id="Train">Train</span></h3>
+<p>The <b>Santa Justa Train Station</b> is served by the <a href="/wiki/AVE" title="AVE">AVE</a> <a href="/wiki/High-speed_rail" title="High-speed rail">high-speed rail</a> system, operated by the Spanish state-owned rail company <a class="mw-redirect" href="/wiki/Renfe" title="Renfe">Renfe</a>. A five-line commuter rail service (<i><a href="/wiki/Cercan%C3%ADas_Sevilla" title="Cercanías Sevilla">Cercanías</a></i>) joins the city with the Metropolitan area. Seville is on the <a class="external text" href="http://www.redciudadesave.es/" rel="nofollow">Red Ciudades AVE</a>, a net created with Seville next to 17 major cities of <a href="/wiki/Spain" title="Spain">Spain</a> with <a href="/wiki/High-speed_rail" title="High-speed rail">high-speed rail</a>.</p>
+<h3><span class="mw-headline" id="Bicycle">Bicycle</span></h3>
+
+<p>The <a href="/wiki/Sevici" title="Sevici">Sevici</a> <a class="new" href="/w/index.php?title=Community_bicycle_programme&amp;action=edit&amp;redlink=1" title="Community bicycle programme (page does not exist)">community bicycle programme</a> has integrated bicycles into the public transport network. Bicycles are available for hire around the city at low cost and green bicycle lanes can be seen on most major streets. The number of people using bicycles as a means of transport in Seville has increased substantially in recent years, multiplying tenfold from 2006 to 2011. As of 2015, an estimated 9 percent of all mechanized trips in the city (and 5.6 percent of all trips including those on foot) are made by bicycle.</p>
+<p>The city council signed a contract with the multinational corporation <a href="/wiki/JCDecaux" title="JCDecaux">JCDecaux</a>, an outdoor advertising company. The public bicycle rental system is financed by a local advertising operator in return for the city signing over a 10-year licence to exploit citywide billboards. The overall scheme is called Cyclocity by JCDecaux, but each city's system is branded under an individual name.</p>
+<h3><span class="mw-headline" id="Airport">Airport</span></h3>
+
+<p><a class="mw-redirect" href="/wiki/San_Pablo_Airport" title="San Pablo Airport">San Pablo Airport</a> is the main airport for Seville and is <a href="/wiki/Andalusia" title="Andalusia">Andalusia</a>'s second busiest airport, after <a class="mw-redirect" href="/wiki/Pablo_Ruiz_Picasso_International_Airport" title="Pablo Ruiz Picasso International Airport">Malaga</a>. The airport handled 4,051,392 passengers and just under 5,000 tonnes of cargo in 2009. It has one <a href="/wiki/Airport_terminal" title="Airport terminal">terminal</a> and one <a href="/wiki/Runway" title="Runway">runway</a>.</p>
+<p>It is one of many bases for the Spanish low cost carrier <a class="mw-redirect" href="/wiki/Vueling_Airlines" title="Vueling Airlines">Vueling</a>, and from November 2010 <a href="/wiki/Ryanair" title="Ryanair">Ryanair</a> will base two aircraft at the airport.</p>
+<h3><span class="mw-headline" id="Port">Port</span></h3>
+<p>Seville is the only commercial river port of Spain, and the only inland city in the country where cruise ships can arrive in the historical centre. On 21 August 2012, the Muelle de las Delicias, controlled by the Port Authority of Seville, hosted the cruise ship <a href="/wiki/Azamara_Journey" title="Azamara Journey">Azamara Journey</a> for two days, the largest ship ever to visit the town. This vessel belongs to the shipping company Royal Caribbean and can accommodate up to 700 passengers.</p>
+<h3><span class="mw-headline" id="Roads">Roads</span></h3>
+<p>Seville has one ring road, the SE-30, which connects with the dual carriageway of the south, the A-4, that directly communicates the city with <a href="/wiki/C%C3%A1diz" title="Cádiz">Cádiz</a>, <a href="/wiki/C%C3%B3rdoba,_Andalusia" title="Córdoba, Andalusia">Cordoba</a> and <a href="/wiki/Madrid" title="Madrid">Madrid</a>. Also there is another dual carriageway, the A-92, linking the city with <a href="/wiki/Estepa" title="Estepa">Estepa</a>, <a href="/wiki/Antequera" title="Antequera">Antequera</a>, <a href="/wiki/Granada" title="Granada">Granada</a>, <a href="/wiki/Guadix" title="Guadix">Guadix</a> and <a class="mw-redirect" href="/wiki/Almeria" title="Almeria">Almeria</a>. The A-49 links Seville with <a href="/wiki/Huelva" title="Huelva">Huelva</a> and the <a href="/wiki/Algarve" title="Algarve">Algarve</a> in the south of <a href="/wiki/Portugal" title="Portugal">Portugal</a>.</p>
+<h2><span class="mw-headline" id="Education">Education</span></h2>
+
+<p>Seville is home to three public universities: the <a href="/wiki/University_of_Seville" title="University of Seville">University of Seville</a>, founded in 1505, the <a href="/wiki/Pablo_de_Olavide_University" title="Pablo de Olavide University">Pablo de Olavide University</a>, founded in 1997, and the <a class="mw-redirect" href="/wiki/International_University_of_Andalusia" title="International University of Andalusia">International University of Andalusia</a>, founded in 1994.</p>
+<p>Additionally, there is the School of Hispanic American Studies, founded in 1942, the <a href="/wiki/Men%C3%A9ndez_Pelayo_International_University" title="Menéndez Pelayo International University">Menéndez Pelayo International University</a>, based in <a class="mw-redirect" href="/wiki/Santander,_Cantabria" title="Santander, Cantabria">Santander</a>, which operates branch campuses in Seville, and <a href="/wiki/Loyola_University_Andalusia" title="Loyola University Andalusia">Loyola University Andalusia</a>.</p>
+<p>International primary and secondary schools:</p>
+<ul>
+<li><a href="/wiki/Lyc%C3%A9e_Fran%C3%A7ais_de_S%C3%A9ville" title="Lycée Français de Séville">Lycée Français de Séville</a> (French school)</li>
+<li><a href="/wiki/Deutsche_Schule_Sevilla" title="Deutsche Schule Sevilla">Deutsche Schule Sevilla</a> (German school)</li>
+<li><a class="new" href="/w/index.php?title=St._George%27s_British_School_of_Seville&amp;action=edit&amp;redlink=1" title="St. George's British School of Seville (page does not exist)">St. George's British School of Seville</a></li>
+</ul>
+<p>Seville is also home to many international schools and colleges that cater to American students who come to study abroad</p>
+<h2><span class="mw-headline" id="Famous_natives">Famous natives</span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Maria_Antonietta_of_Spain" title="Maria Antonietta of Spain">Maria Antonietta of Spain</a>, <i><a class="mw-redirect" href="/wiki/Queen_consort_of_Sardinia" title="Queen consort of Sardinia">Queen consort of Sardinia</a></i> (1729–1785)</li>
+<li>Physician <a href="/wiki/Ibn_Zuhr" title="Ibn Zuhr">Avenzoar</a></li>
+<li>The family of the Arabic historian and sociologist <a href="/wiki/Ibn_Khaldun" title="Ibn Khaldun">Ibn Khaldun</a></li>
+<li>13th-century poet <a href="/wiki/Ibn_Sahl_of_Seville" title="Ibn Sahl of Seville">Ibn Sahl of Seville</a></li>
+<li>Renaissance composer <a href="/wiki/Crist%C3%B3bal_de_Morales" title="Cristóbal de Morales">Cristóbal de Morales</a>, <a href="/wiki/Francisco_Guerrero_(composer)" title="Francisco Guerrero (composer)">Francisco Guerrero</a></li>
+<li>16th-century novelist <a href="/wiki/Mateo_Alem%C3%A1n" title="Mateo Alemán">Mateo Alemán</a></li>
+<li>Playwrights <a href="/wiki/Lope_de_Rueda" title="Lope de Rueda">Lope de Rueda</a> and <a class="mw-redirect" href="/wiki/Hermanos_Alvarez_Quintero" title="Hermanos Alvarez Quintero">Hermanos Alvarez Quintero</a></li>
+<li>Historian of <a href="/wiki/New_Spain" title="New Spain">New Spain</a> <a class="mw-redirect" href="/wiki/Bartolom%C3%A9_de_Las_Casas" title="Bartolomé de Las Casas">Bartolomé de Las Casas</a></li>
+<li>Baroque painters <a href="/wiki/Diego_Vel%C3%A1zquez" title="Diego Velázquez">Diego Velázquez</a>, <a class="mw-redirect" href="/wiki/Vald%C3%A9s_Leal" title="Valdés Leal">Valdés Leal</a> and <a href="/wiki/Bartolom%C3%A9_Esteban_Murillo" title="Bartolomé Esteban Murillo">Murillo</a></li>
+<li>Explorer and astronomer <a href="/wiki/Antonio_de_Ulloa" title="Antonio de Ulloa">Antonio de Ulloa</a></li>
+<li><a href="/wiki/Renaissance" title="Renaissance">Renaissance</a> poets <a href="/wiki/Fernando_de_Herrera" title="Fernando de Herrera">Fernando de Herrera</a> and <a href="/wiki/Gutierre_de_Cetina" title="Gutierre de Cetina">Gutierre de Cetina</a></li>
+<li>Romantic poet <a href="/wiki/Gustavo_Adolfo_B%C3%A9cquer" title="Gustavo Adolfo Bécquer">Gustavo Adolfo Bécquer</a></li>
+<li>Bullfighters <a href="/wiki/Juan_Belmonte" title="Juan Belmonte">Juan Belmonte</a>, <a href="/wiki/Curro_Romero" title="Curro Romero">Curro Romero</a>, <a href="/wiki/Ignacio_S%C3%A1nchez_Mej%C3%ADas" title="Ignacio Sánchez Mejías">Ignacio Sánchez Mejías</a> and <a class="mw-redirect" href="/wiki/Joselito_el_Gallo" title="Joselito el Gallo">Joselito el Gallo</a></li>
+<li><a href="/wiki/Second_Spanish_Republic" title="Second Spanish Republic">Second Spanish Republic</a> Prime Minister <a href="/wiki/Diego_Mart%C3%ADnez_Barrio" title="Diego Martínez Barrio">Diego Martinez</a>, communist politician <a href="/wiki/Jos%C3%A9_D%C3%ADaz_(politician)" title="José Díaz (politician)">José Díaz</a> and Carlist politician <a href="/wiki/Manuel_Fal_Conde" title="Manuel Fal Conde">Manuel Fal</a>.</li>
+<li>20th-century poets:
+<ul>
+<li><a href="/wiki/Vicente_Aleixandre" title="Vicente Aleixandre">Vicente Aleixandre</a> (<a class="mw-redirect" href="/wiki/Nobel_Prize_for_Literature" title="Nobel Prize for Literature">Nobel Laureate</a>)</li>
+<li><a href="/wiki/Antonio_Machado" title="Antonio Machado">Antonio</a> and <a class="mw-redirect" href="/wiki/Manuel_Machado_y_Ruiz" title="Manuel Machado y Ruiz">Manuel Machado</a></li>
+<li><a href="/wiki/Luis_Cernuda" title="Luis Cernuda">Luis Cernuda</a></li>
+<li><a href="/wiki/Jose_Julio_Cabanillas_Serrano" title="Jose Julio Cabanillas Serrano">Jose Julio Cabanillas Serrano</a> continuing in the 21st–century</li>
+</ul>
+</li>
+<li>Composer <a href="/wiki/Joaqu%C3%ADn_Turina" title="Joaquín Turina">Joaquín Turina</a></li>
+<li>Cartoonist <a href="/wiki/William_Haselden" title="William Haselden">William Haselden</a></li>
+<li>Actors <a href="/wiki/Juan_Diego_(actor)" title="Juan Diego (actor)">Juan Diego</a>, <a href="/wiki/Paco_Le%C3%B3n" title="Paco León">Paco León</a></li>
+<li>Actresses <a href="/wiki/Soledad_Miranda" title="Soledad Miranda">Soledad Miranda</a>, <a href="/wiki/Ver%C3%B3nica_S%C3%A1nchez" title="Verónica Sánchez">Verónica Sánchez</a>, <a href="/wiki/Carmen_Sevilla" title="Carmen Sevilla">Carmen Sevilla</a>, <a href="/wiki/Paz_Vega" title="Paz Vega">Paz Vega</a>, <a href="/wiki/Azucena_Hern%C3%A1ndez" title="Azucena Hernández">Azucena Hernández</a></li>
+<li>Models
+<ul>
+<li><a href="/wiki/Teresa_S%C3%A1nchez_L%C3%B3pez" title="Teresa Sánchez López">Teresa Sánchez López</a> who won the title of Miss National in the <a href="/wiki/Miss_Spain" title="Miss Spain">Miss Spain contest</a> 1984 and, representing Spain, was close to the crown of <a href="/wiki/Miss_Universe" title="Miss Universe">Miss Universe</a> in 1985 (1st runner up).</li>
+<li><a class="mw-redirect" href="/wiki/Eva_Maria_Gonz%C3%A1lez" title="Eva Maria González">Eva Maria González</a> beauty queen and model who was <a class="mw-redirect" href="/wiki/Miss_Espa%C3%B1a" title="Miss España">Miss España</a> 2003 (representing Andalusia)</li>
+</ul>
+</li>
+<li>Singers <a href="/wiki/Isabel_Pantoja" title="Isabel Pantoja">Isabel Pantoja</a>, <a href="/wiki/Juanita_Reina" title="Juanita Reina">Juanita Reina</a>, <a href="/wiki/Lole_y_Manuel" title="Lole y Manuel">Lole y Manuel</a>, <a href="/wiki/Paquita_Rico" title="Paquita Rico">Paquita Rico</a>, <a class="mw-redirect" href="/wiki/El_Caracol_(singer)" title="El Caracol (singer)">El Caracol</a>, <a href="/wiki/Falete" title="Falete">Falete</a>, <a href="/wiki/Pastora_Soler" title="Pastora Soler">Pastora Soler</a>, and <a href="/wiki/Mala_Rodr%C3%ADguez" title="Mala Rodríguez">Mala Rodríguez</a></li>
+<li>Comedian <a href="/wiki/Manuel_Summers" title="Manuel Summers">Manuel Summers</a></li>
+<li>Navy officer <a href="/wiki/Miguel_Buiza_Fern%C3%A1ndez-Palacios" title="Miguel Buiza Fernández-Palacios">Miguel Buiza Fernández-Palacios</a> who became Captain General of the <a href="/wiki/Spanish_Republican_Navy" title="Spanish Republican Navy">Spanish Republican Navy</a></li>
+<li>Association footballers <a href="/wiki/Jos%C3%A9_Antonio_Reyes" title="José Antonio Reyes">José Antonio Reyes</a>, <a href="/wiki/Fernando_Mu%C3%B1oz" title="Fernando Muñoz">Fernando "Nando" Muñoz</a>, <a href="/wiki/Ricardo_Serna" title="Ricardo Serna">Ricardo Serna</a>, <a href="/wiki/Sergio_Ramos" title="Sergio Ramos">Sergio Ramos</a>, <a href="/wiki/Jes%C3%BAs_Navas" title="Jesús Navas">Jesús Navas</a>, <a href="/wiki/Antonio_Puerta" title="Antonio Puerta">Antonio Puerta</a>, <a href="/wiki/Carlos_Marchena" title="Carlos Marchena">Carlos Marchena</a>, <a class="new" href="/w/index.php?title=Jes%C3%BAs_Capit%C3%A1n_%22Capi%22&amp;action=edit&amp;redlink=1" title='Jesús Capitán "Capi" (page does not exist)'>Jesús Capitán "Capi"</a></li>
+<li>Olympic swimmer <a href="/wiki/F%C3%A1tima_Madrid" title="Fátima Madrid">Fátima Madrid</a></li>
+<li>Politicians <a href="/wiki/Felipe_Gonz%C3%A1lez" title="Felipe González">Felipe González</a>, <a class="mw-redirect" href="/wiki/President_of_the_Government_of_Spain" title="President of the Government of Spain">President of the Government of Spain</a> from 1982 to 1996, and <a href="/wiki/Alfonso_Guerra" title="Alfonso Guerra">Alfonso Guerra</a>, vice-president from 1982 to 1991</li>
+</ul>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Diego_Vel%C3%A1zquez" title="Diego Velázquez">Diego Velázquez</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Bartolom%C3%A9_Esteban_Murillo" title="Bartolomé Esteban Murillo">Bartolomé Esteban Murillo</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Isidoro_de_Sevilla" title="Isidoro de Sevilla">Isidoro de Sevilla</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Joaqu%C3%ADn_Turina" title="Joaquín Turina">Joaquín Turina</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Vicente_Aleixandre" title="Vicente Aleixandre">Vicente Aleixandre</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Antonio_Machado" title="Antonio Machado">Antonio Machado</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Gustavo_Adolfo_B%C3%A9cquer" title="Gustavo Adolfo Bécquer">Gustavo Adolfo Bécquer</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Maria_Antonietta_of_Spain" title="Maria Antonietta of Spain">Maria Antonietta of Spain</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Antonio_de_Ulloa" title="Antonio de Ulloa">Antonio de Ulloa</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Bartolom%C3%A9_de_las_Casas" title="Bartolomé de las Casas">Bartolomé de las Casas</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Mateo_Alem%C3%A1n" title="Mateo Alemán">Mateo Alemán</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Felipe_Gonz%C3%A1lez" title="Felipe González">Felipe González</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Sport">Sport</span></h2>
+
+<p>Seville is the hometown of two rival <a href="/wiki/Association_football" title="Association football">association football</a> teams: <a href="/wiki/Real_Betis" title="Real Betis">Real Betis Balompié</a> and <a href="/wiki/Sevilla_FC" title="Sevilla FC">Sevilla Fútbol Club</a>, both teams are playing in the <a class="mw-redirect" href="/wiki/Liga_BBVA" title="Liga BBVA">Liga BBVA</a>. Both teams have only won the league once each: Betis in 1935 and Sevilla in 1946. Only Sevilla has won European competitions, winning consecutive <a class="mw-redirect" href="/wiki/UEFA_Cup" title="UEFA Cup">UEFA Cup</a> finals in <a href="/wiki/2006_UEFA_Cup_Final" title="2006 UEFA Cup Final">2006</a> and <a href="/wiki/2007_UEFA_Cup_Final" title="2007 UEFA Cup Final">2007</a> and the <a href="/wiki/UEFA_Europa_League" title="UEFA Europa League">UEFA Europa League</a> in <a href="/wiki/2014_UEFA_Europa_League_Final" title="2014 UEFA Europa League Final">2014</a>, <a href="/wiki/2015_UEFA_Europa_League_Final" title="2015 UEFA Europa League Final">2015</a> and <a href="/wiki/2016_UEFA_Europa_League_Final" title="2016 UEFA Europa League Final">2016</a>. Sevilla's stadium, the <a class="mw-redirect" href="/wiki/Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n" title="Estadio Ramón Sánchez Pizjuán">Ramón Sánchez Pizjuán</a>, was a venue during the <a href="/wiki/1982_FIFA_World_Cup" title="1982 FIFA World Cup">1982 FIFA World Cup</a> and four years later hosted the <a href="/wiki/1986_European_Cup_Final" title="1986 European Cup Final">1986 European Cup Final</a>. Seville's <a href="/wiki/Estadio_de_La_Cartuja" title="Estadio de La Cartuja">Olympic Stadium</a> on the <a href="/wiki/Isla_de_La_Cartuja" title="Isla de La Cartuja">Isla de La Cartuja</a> was the venue for the <a href="/wiki/2003_UEFA_Cup_Final" title="2003 UEFA Cup Final">2003 UEFA Cup Final</a>.</p>
+<p>Seville housed the tennis <a href="/wiki/Davis_Cup" title="Davis Cup">Davis Cup</a> final in 2004 and 2011, and the <a href="/wiki/1999_World_Championships_in_Athletics" title="1999 World Championships in Athletics">7th Athletics World Championships</a>. The city unsuccessfully bid for the <a href="/wiki/2004_Summer_Olympics" title="2004 Summer Olympics">2004</a> and <a href="/wiki/2008_Summer_Olympics" title="2008 Summer Olympics">2008 Summer Olympics</a>, for which the 60,000-seat <a href="/wiki/Estadio_de_La_Cartuja" title="Estadio de La Cartuja">Estadio de La Cartuja</a> was designed to stage. Seville has one important basketball club, the <a href="/wiki/CB_Sevilla" title="CB Sevilla">CB Sevilla</a>, that plays in <a class="mw-redirect" href="/wiki/ACB_League" title="ACB League">ACB League</a>. Seville's <a href="/wiki/Guadalquivir" title="Guadalquivir">Guadalquivir</a> river is one of only three <a href="/wiki/International_Rowing_Federation" title="International Rowing Federation">FISA</a> approved international training centres for <a href="/wiki/Rowing_(sport)" title="Rowing (sport)">rowing (sport)</a> and the only one in Spain; the <a href="/wiki/2002_World_Rowing_Championships" title="2002 World Rowing Championships">2002 World Rowing Championships</a> and the <a href="/wiki/2013_European_Rowing_Championships" title="2013 European Rowing Championships">2013 European Rowing Championships</a> were held there.</p>
+<h2><span class="mw-headline" id="In_fiction">In fiction</span></h2>
+<ul>
+<li>The <a href="/wiki/Picaresque_novel" title="Picaresque novel">picaresque novel</a> <i><a href="/wiki/Rinconete_y_Cortadillo" title="Rinconete y Cortadillo">Rinconete y Cortadillo</a></i> by <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a> takes place in the city of Seville.</li>
+<li>The novel <i><a class="mw-redirect" href="/wiki/La_Femme_et_le_pantin" title="La Femme et le pantin">La Femme et le pantin</a></i>, ("The Woman and the Puppet") (1898) by <a href="/wiki/Pierre_Lou%C3%BFs" title="Pierre Louÿs">Pierre Louÿs</a>, adapted for film several times, is set mainly in Seville.</li>
+<li>Seville is the setting for the legend of <a href="/wiki/Don_Juan" title="Don Juan">Don Juan</a> (inspired by the real aristocrat <a class="new" href="/w/index.php?title=Don_Miguel_de_Ma%C3%B1ara&amp;action=edit&amp;redlink=1" title="Don Miguel de Mañara (page does not exist)">Don Miguel de Mañara</a>) on the <a class="new" href="/w/index.php?title=Paseo_Alcalde_Marqu%C3%A9s_de_Contadero&amp;action=edit&amp;redlink=1" title="Paseo Alcalde Marqués de Contadero (page does not exist)">Paseo Alcalde Marqués de Contadero</a></li>
+<li>Seville is the primary setting of many operas, the best known of which are <a href="/wiki/Georges_Bizet" title="Georges Bizet">Bizet</a>'s <i><a class="mw-redirect" href="/wiki/Carmen_(opera)" title="Carmen (opera)">Carmen</a></i> (based on <a class="mw-redirect" href="/wiki/Prosper_Merim%C3%A9e" title="Prosper Merimée">Mérimée</a>'s <a href="/wiki/Carmen_(novella)" title="Carmen (novella)">novella</a>), <a href="/wiki/Gioachino_Rossini" title="Gioachino Rossini">Rossini</a>'s <i><a href="/wiki/The_Barber_of_Seville" title="The Barber of Seville">The Barber of Seville</a></i>, <a href="/wiki/Giuseppe_Verdi" title="Giuseppe Verdi">Verdi</a>'s <i><a href="/wiki/La_forza_del_destino" title="La forza del destino">La forza del destino</a></i>, <a href="/wiki/Ludwig_van_Beethoven" title="Ludwig van Beethoven">Beethoven</a>'s <i><a href="/wiki/Fidelio" title="Fidelio">Fidelio</a></i>, <a href="/wiki/Wolfgang_Amadeus_Mozart" title="Wolfgang Amadeus Mozart">Mozart</a>'s <i><a href="/wiki/Don_Giovanni" title="Don Giovanni">Don Giovanni</a></i> and <i><a href="/wiki/The_Marriage_of_Figaro" title="The Marriage of Figaro">The Marriage of Figaro</a></i>, and <a class="mw-redirect" href="/wiki/Prokofiev" title="Prokofiev">Prokofiev</a>'s <i><a href="/wiki/Betrothal_in_a_Monastery" title="Betrothal in a Monastery">Betrothal in a Monastery</a></i>.</li>
+<li>Seville is the setting of the novel "The Seville Communion" by <a href="/wiki/Arturo_P%C3%A9rez-Reverte" title="Arturo Pérez-Reverte">Arturo Pérez-Reverte</a>.</li>
+<li>Seville is both the location and setting for much of the 1985 <a href="/wiki/Doctor_Who" title="Doctor Who">Doctor Who</a> television serial <a href="/wiki/The_Two_Doctors" title="The Two Doctors">The Two Doctors</a>.</li>
+<li>Seville is also used as one of the locations in Dan Brown's "<a href="/wiki/Digital_Fortress" title="Digital Fortress">Digital Fortress</a>".</li>
+<li>Seville is one of the settings in <i><a href="/wiki/Jostein_Gaarder" title="Jostein Gaarder">Jostein Gaarder</a>'</i>s book "The Orange Girl" ("Appelsinpiken").</li>
+<li>Seville is the hometown of the two main characters in the 2000 film <i><a href="/wiki/The_Road_to_El_Dorado" title="The Road to El Dorado">The Road to El Dorado</a></i> by <a class="mw-redirect" href="/wiki/DreamWorks_Pictures" title="DreamWorks Pictures">DreamWorks Pictures</a>. Miguel and Tulio are con artists that stow away on a ship bound for the <a href="/wiki/New_World" title="New World">New World</a> and win a map for the fabled lost city of gold, <a href="/wiki/El_Dorado" title="El Dorado">El Dorado</a> and are invariably seen as gods by the locals.</li>
+<li><a href="/wiki/Arthur_Koestler" title="Arthur Koestler">Arthur Koestler</a>'s book <a href="/wiki/Spanish_Testament" title="Spanish Testament">Spanish Testament</a> is based on the writer's experiences while held in the Seville prison, under a sentence of death, during the <a href="/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a>.</li>
+<li><a href="/wiki/Robert_Wilson_(crime_novelist)" title="Robert Wilson (crime novelist)">Robert Wilson's</a> police novel <i>The Hidden Assassins</i> (2006) concerns a terrorist incident in Seville and the political context thereof, with much local colour. Note also his title <i>The Blind Man of Seville</i> (2004).</li>
+<li>The <i><a class="mw-redirect" href="/wiki/Plaza_de_Espa%C3%B1a_(Sevilla)" title="Plaza de España (Sevilla)">Plaza de España</a></i> in the <i>Parque de María Luisa</i> appears in George Lucas' <a href="/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones" title="Star Wars: Episode II – Attack of the Clones">Star Wars: Episode II – Attack of the Clones</a> as well as in <i><a href="/wiki/Lawrence_of_Arabia_(film)" title="Lawrence of Arabia (film)">Lawrence of Arabia</a></i> as the British Army HQ in <a href="/wiki/Cairo" title="Cairo">Cairo</a>, while the courtyard was the <a href="/wiki/Hotel_Alfonso_XIII" title="Hotel Alfonso XIII">King Alfonso XIII Hotel</a>.</li>
+<li>The <i>Plaza of the Americas</i> also appeared in <i>Lawrence</i>, substituting for <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>, and in <a href="/wiki/Anthony_Mann" title="Anthony Mann">Anthony Mann</a>'s <i><a href="/wiki/El_Cid" title="El Cid">El Cid</a></i>. It would also serve as the Palace of <a href="/wiki/Vladek_Sheybal" title="Vladek Sheybal">Vladek Sheybal</a>'s Bashaw in <i><a href="/wiki/The_Wind_and_the_Lion" title="The Wind and the Lion">The Wind and the Lion</a></i> (1975) (including the memorable attack scene by the US Marines.)</li>
+<li>The <i><a class="mw-redirect" href="/wiki/Plaza_de_Espa%C3%B1a_(Sevilla)" title="Plaza de España (Sevilla)">Plaza de España</a></i> in the <i>Parque de María Luisa</i> appears in the movie The Dictator, starring <a href="/wiki/Sacha_Baron_Cohen" title="Sacha Baron Cohen">Sacha Baron Cohen</a>, as the palace of the dictator Aladeen.</li>
+<li>The <a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar</a> and other sites appear in the television serie <a href="/wiki/Game_of_Thrones" title="Game of Thrones">Game of Thrones</a>, in the cities of <i>Dorne</i>.</li>
+</ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 162.66666666667px">
+<div style="width: 162.66666666667px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Casa_de_Pilatos" title="Casa de Pilatos">Casa de Pilatos</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Casa_de_Pilatos" title="Casa de Pilatos">Casa de Pilatos</a> garden</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 92px">
+<div style="width: 92px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Casa_de_Pilatos" title="Casa de Pilatos">Casa de Pilatos</a> garden</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 62px">
+<div style="width: 62px">
+
+<div class="gallerytext">
+<p>The 'Adriática' building</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 383.33333333333px">
+<div style="width: 383.33333333333px">
+
+<div class="gallerytext">
+<p><i>Plaza de Toros de la Real Maestranza</i> - panoramic view</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 82px">
+<div style="width: 82px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Museum_of_Fine_Arts_of_Seville" title="Museum of Fine Arts of Seville">Museum of Fine Arts of Seville</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 181.33333333333px">
+<div style="width: 181.33333333333px">
+
+<div class="gallerytext">
+<p>Interior of the <i><a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar</a></i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 71.333333333333px">
+<div style="width: 71.333333333333px">
+
+<div class="gallerytext">
+<p>The Chapel of <i>El Carmen</i>, next to the <i>Triana</i> bridge</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 187.33333333333px">
+<div style="width: 187.33333333333px">
+
+<div class="gallerytext">
+<p><i>Plaza de Toros de la Real Maestranza</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 187.33333333333px">
+<div style="width: 187.33333333333px">
+
+<div class="gallerytext">
+<p><i>Metropol</i> Parasol</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>Archbishop's palace</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 181.33333333333px">
+<div style="width: 181.33333333333px">
+
+<div class="gallerytext">
+<p>Fountain in front of the <i>Giralda</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 78.666666666667px">
+<div style="width: 78.666666666667px">
+
+<div class="gallerytext">
+<p><i><a class="mw-redirect" href="/wiki/Plaza_de_Espa%C3%B1a_(Seville)" title="Plaza de España (Seville)">Plaza de España</a></i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 178px">
+<div style="width: 178px">
+
+<div class="gallerytext">
+<p><i><a class="mw-redirect" href="/wiki/Plaza_de_Espa%C3%B1a_(Seville)" title="Plaza de España (Seville)">Plaza de España</a></i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 186px">
+<div style="width: 186px">
+
+<div class="gallerytext">
+<p>Guadalquivir river over the city of Seville</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215.33333333333px">
+<div style="width: 215.33333333333px">
+
+<div class="gallerytext">
+<p>Palacio de San Telmo, now headquarters of the Presidency of Andalusia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 92px">
+<div style="width: 92px">
+
+<div class="gallerytext">
+<p>The courtyard of the cathedral, as seen from the Giralda</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 182.66666666667px">
+<div style="width: 182.66666666667px">
+
+<div class="gallerytext">
+<p>The roof of the cathedral as seen from the <i>Giralda</i> tower</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 70.666666666667px">
+<div style="width: 70.666666666667px">
+
+<div class="gallerytext">
+<p>Seville Cathedral</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 88px">
+<div style="width: 88px">
+
+<div class="gallerytext">
+<p>The tomb of Christopher Columbus, inside the <a class="mw-redirect" href="/wiki/Cathedral_of_Seville" title="Cathedral of Seville">Cathedral of Seville</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 248px">
+<div style="width: 248px">
+
+<div class="gallerytext">
+<p>Isabel II bridge, a.k.a. Triana bridge (<i>Puente de Triana</i>)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>Gate <a href="/wiki/Puerta_de_la_Macarena_(Seville)" title="Puerta de la Macarena (Seville)">Puerta de la Macarena</a> and Basílica de la Macarena</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 87.333333333333px">
+<div style="width: 87.333333333333px">
+
+<div class="gallerytext">
+<p>Telefónica Building</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Archivo_de_Indias" title="Archivo de Indias">Archivo de Indias</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 181.33333333333px">
+<div style="width: 181.33333333333px">
+
+<div class="gallerytext">
+<p><i>Puente del V Centenario</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 159.33333333333px">
+<div style="width: 159.33333333333px">
+
+<div class="gallerytext">
+<p>Plaza del Altozano in <a href="/wiki/Triana,_Seville" title="Triana, Seville">Triana</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 216px">
+<div style="width: 216px">
+
+<div class="gallerytext">
+<p>Barqueta Bridge at night</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 181.33333333333px">
+<div style="width: 181.33333333333px">
+
+<div class="gallerytext">
+<p>Torre Triana in <a class="mw-redirect" href="/wiki/La_Cartuja" title="La Cartuja">La Cartuja</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 72px">
+<div style="width: 72px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Seville_Fair" title="Seville Fair">Seville Fair</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>Carriage at the <a href="/wiki/Seville_Fair" title="Seville Fair">Seville Fair</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 182px">
+<div style="width: 182px">
+
+<div class="gallerytext">
+<p>Avenida de la Constitución</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 92px">
+<div style="width: 92px">
+
+<div class="gallerytext">
+<p>Street in the <a href="/wiki/Santa_Cruz,_Seville" title="Santa Cruz, Seville">Jewish Quarter</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215.33333333333px">
+<div style="width: 215.33333333333px">
+
+<div class="gallerytext">
+<p>Casa de los Pinelos in <a href="/wiki/Santa_Cruz,_Seville" title="Santa Cruz, Seville">Jewish Quarter</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 92px">
+<div style="width: 92px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Lope_de_Vega_Theater,_Seville" title="Lope de Vega Theater, Seville">Lope de Vega Theater</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 82px">
+<div style="width: 82px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Alameda_de_Hercules" title="Alameda de Hercules">Alameda de Hércules</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 127.33333333333px">
+<div style="width: 127.33333333333px">
+
+<div class="gallerytext">
+<p>Salvador Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>Schindler Tower</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 215.33333333333px">
+<div style="width: 215.33333333333px">
+
+<div class="gallerytext">
+<p>Plaza del Triunfo</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p>South façade of the <a class="mw-redirect" href="/wiki/Cathedral_of_Seville" title="Cathedral of Seville">Cathedral of St. Mary</a> of Seville.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 182px">
+<div style="width: 182px">
+
+<div class="gallerytext">
+<p>Hall of Ambassadors in the <a href="/wiki/Alc%C3%A1zar_of_Seville" title="Alcázar of Seville">Alcázar of Seville</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 181.33333333333px">
+<div style="width: 181.33333333333px">
+
+<div class="gallerytext">
+<p><a href="/wiki/General_Archive_of_the_Indies" title="General Archive of the Indies">General Archive of the Indies</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Torre_del_Oro" title="Torre del Oro">Torre del Oro</a> (<i>The Golden Tower</i>) and the <a class="mw-redirect" href="/wiki/Guadalquivir_River" title="Guadalquivir River">Guadalquivir River</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/S%C3%A1nchez_Pizju%C3%A1n" title="Sánchez Pizjuán">Sánchez Pizjuán Stadium</a> (<a href="/wiki/Sevilla_FC" title="Sevilla FC">Sevilla FC</a>)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 192px">
+<div style="width: 192px">
+
+<div class="gallerytext">
+<p><a href="/wiki/Palacio_Municipal_de_Deportes_San_Pablo" title="Palacio Municipal de Deportes San Pablo">San Pablo Arena</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 380px">
+<div style="width: 380px">
+
+<div class="gallerytext">
+<p><a class="mw-redirect" href="/wiki/Benito_Villamarin" title="Benito Villamarin">Benito Villamarin Stadium</a> (<a href="/wiki/Real_Betis" title="Real Betis">Real Betis</a>)</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Twin_towns_and_sister_cities">Twin towns and sister cities</span></h2>
+<div class="hatnote" role="note">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Spain" title="List of twin towns and sister cities in Spain">List of twin towns and sister cities in Spain</a></div>
+<p>Seville is <a href="/wiki/Twin_towns_and_sister_cities" title="Twin towns and sister cities">twinned</a> with the following cities: The relationship between Seville and Kansas City is due to a small replica of the Giralda tower, Sevilla's cathedral belltower, that exists in Kansas City.</p>
+
+<h3><span class="mw-headline" id="Partnerships">Partnerships</span></h3>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" class="thumbborder" data-file-height="800" data-file-width="1280" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" width="23"/></a></span> <a href="/wiki/Krak%C3%B3w" title="Kraków">Kraków</a>, <a href="/wiki/Poland" title="Poland">Poland</a> (2002)</li>
+</ul>
+<h2><span class="mw-headline" id="Titles">Titles</span></h2>
+<p>Seville has been given titles by Spanish monarchs and heads of state throughout its history.</p>
+<ul>
+<li><b>Very Noble</b>, by King <a href="/wiki/Ferdinand_III_of_Castile" title="Ferdinand III of Castile">Ferdinand III of Castile</a> after his reconquest of the city.</li>
+<li><b>Very Loyal</b>, by King <a href="/wiki/Alfonso_X_of_Castile" title="Alfonso X of Castile">Alfonso X of Castile</a> for supporting him against a rebellion. See also the Motto "NO8DO".</li>
+<li><b>Very Heroic</b>, by King <a href="/wiki/Ferdinand_VII_of_Spain" title="Ferdinand VII of Spain">Ferdinand VII of Spain</a> by Royal Document on 13 October 1817 for support against the French invasion.</li>
+<li><b>Invictus</b> (Invincible in <a class="mw-redirect" href="/wiki/Latin_language" title="Latin language">Latin</a>), by Queen <a class="mw-redirect" href="/wiki/Isabella_II_of_Spain" title="Isabella II of Spain">Isabella II of Spain</a> for the city's resistance against General Van Halen's asedium and bombing in 1843.</li>
+<li><b>Mariana</b>, by General <a href="/wiki/Francisco_Franco" title="Francisco Franco">Francisco Franco</a> in 1946 for the city's devotion to the Virgin Mary.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer thumbborder" data-file-height="500" data-file-width="750" height="21" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/48px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/64px-Flag_of_Spain.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Spain" title="Portal:Spain">Spain portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Seville_Public_Library" title="Seville Public Library">Seville Public Library</a></li>
+<li><a href="/wiki/Seville_Statement_on_Violence" title="Seville Statement on Violence">Seville Statement on Violence</a></li>
+</ul>
+<h2></h2>
+
+<ul>
+<li><a class="image" href="/wiki/File:PD-icon.svg"><img alt="" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/></a> This article incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>: <cite class="citation encyclopaedia" id="CITEREFSmith1854.E2.80.931857"><a href="/wiki/William_Smith_(lexicographer)" title="William Smith (lexicographer)">Smith, William</a>, ed. (1854–1857). "". <i><a href="/wiki/Dictionary_of_Greek_and_Roman_Geography" title="Dictionary of Greek and Roman Geography">Dictionary of Greek and Roman Geography</a></i>. London: John Murray.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeville&amp;rft.atitle=%3Csup%3E%3Cspan+style%3D%22color%3Ared%22%3Earticle+name+needed%3C%2Fspan%3E%3C%2Fsup%3E&amp;rft.btitle=Dictionary+of+Greek+and+Roman+Geography&amp;rft.date=1854%2F1857&amp;rft.genre=bookitem&amp;rft.place=London&amp;rft.pub=John+Murray&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+
+
+<ul>
+<li><a class="external text" href="http://hitchhikershandbook.com/country-guides/spain-2/seville/" rel="nofollow">Seville city guide</a> at <a class="external text" href="http://www.hitchhikershandbook.com" rel="nofollow">HitchHikers Handbook</a></li>
+<li><a class="external text" href="http://www.spain.info/en_GB/que-quieres/ciudades-pueblos/grandes-ciudades/sevilla.html" rel="nofollow">Seville in the Official Website of Tourism in Spain</a></li>
+<li><a class="external text" href="http://www.sevilla.org/" rel="nofollow">Official website of the city council.</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Spanish)</span></li>
+</ul>
+<p><br/></p>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37770-0!*!0!!en!4!* and timestamp 20161111202823 and revision id 748834182
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div>
