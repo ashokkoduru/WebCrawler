@@ -1,6 +1,1 @@
-1. While downloading the raw articles, when the multiple links download the same page i.e., if multiple links redirect to the same page, I am putting only one of them to avoid the redundancy of the data
-
-2. While parsing the raw page in to clean data, I am removing the punctuation between the words. But any periods and apostrophes between the words are left intact to preserve the meaning of the word, since stemming is not yet performed.
-
-3. The 1000 text files numbered from 0 to 999 and are called docIDs. While creating the document frequency table, the docIDs are used to identify the docs instead of file names to reduce the table sizes. The docIDs are mentioned in the file DocIDs.txt
-
+Since the retriever is using the indexer built in HW3, the parsed_corpus is being uploaded again as part of HW4.

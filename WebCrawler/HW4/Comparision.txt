@@ -1,0 +1,87 @@
+Query: global warming potential
+My Output:
+
+1 Q0 Globalwarming 1 0.239481038326 system_name
+1 Q0 Globaldimming 2 0.179585998732 system_name
+1 Q0 UnitedNationsGlobalCompact 3 0.156709890282 system_name
+1 Q0 Effectsofglobalwarming 4 0.13469154255 system_name
+1 Q0 IGBP 5 0.122386747277 system_name
+
+Lucene Output:
+
+1 Q0 Globalwarming 1 0.33794406 system_name
+1 Q0 Effectsofglobalwarming 2 0.26277024 system_name
+1 Q0 Adaptationtoglobalwarming 3 0.22928561 system_name
+1 Q0 Climatechangemitigation 4 0.21220756 system_name
+1 Q0 Mitigationofglobalwarming 5 0.21220756 system_name
+
+Query: green power renewable energy
+My Output:
+
+2 Q0 10025renewableenergy 1 0.435202066565 system_name
+2 Q0 Renewableenergyindevelopingcountries 2 0.431097007105 system_name
+2 Q0 Sustainableenergy 3 0.42250488229 system_name
+2 Q0 Renewableelectricity 4 0.400837968533 system_name
+2 Q0 Renewableenergy 5 0.400808964964 system_name
+
+Lucene Output:
+
+2 Q0 3Degrees 1 0.58094877 system_name
+2 Q0 RenewableEnergyCertificate 2 0.5244333 system_name
+2 Q0 EugeneGreenEnergyStandard 3 0.49346644 system_name
+2 Q0 Sustainableenergy 4 0.4350014 system_name
+2 Q0 Greencollar 5 0.41890663 system_name
+
+Query: solar energy california
+My Output:
+
+3 Q0 Outlineofsolarenergy 1 0.511560878071 system_name
+3 Q0 Solarenergy 2 0.477232051086 system_name
+3 Q0 RenewableenergyintheUnitedStates 3 0.374071387892 system_name
+3 Q0 NevadaSolarOne 4 0.355191856039 system_name
+3 Q0 Renewableelectricity 5 0.333293153962 system_name
+
+Lucene Output:
+
+3 Q0 Outlineofsolarenergy 1 0.54726493 system_name
+3 Q0 NevadaSolarOne 2 0.47335207 system_name
+3 Q0 SolarDecathlon 3 0.40818435 system_name
+3 Q0 RenewableenergyintheUnitedStates 4 0.404011 system_name
+3 Q0 Solarenergy 5 0.39385542 system_name
+
+Query: light bulb bulbs alternative alternatives
+My Output:
+
+4 Q0 Lighting 1 0.159802640573 system_name
+4 Q0 Alternativeenergy 2 0.075456483992 system_name
+4 Q0 Photosynthesis 3 0.0547512489843 system_name
+4 Q0 AlliancetoSaveEnergy 4 0.0541556512139 system_name
+4 Q0 Photovoltaiceffect 5 0.0537216066299 system_name
+
+Lucene Output:
+
+4 Q0 Lighting 1 0.24150185 system_name
+4 Q0 Outlineofsolarenergy 2 0.12554201 system_name
+4 Q0 Kilowatthour 3 0.09524204 system_name
+4 Q0 Megawatt 4 0.088069774 system_name
+4 Q0 Megawatts 5 0.088069774 system_name
+
+
+Explanation:
+
+Cosine similarity = Vq*Vd/|Vq|*|Vd|
+where Vq is the query vector and Vd is the document vector.
+
+TF-IDF is not a unique method, but a class of techniques where similarity between documents and queries are measured via the sum of term frequencies multiplied by terms importance. The term importance is frequently expressed via the IDF (the inverse document frequency frequency tf–idf, actually it is the logarithm of IDF that is used in practice) .
+
+Lucene combines Boolean model and Vector space Model
+
+The results will be different, because of the consideration of the weight of the terms. Here tfidf is taken as the weight of the term. I normalized the document term frequency, which is not a good idea in case of lengthy documents. Since the information about the repetition of word across the length of the document is lost.
+
+Also lucent uses some kind of concept called document boost, which is independent on query and calculated before hand while indexing the documents. Query-boost for the query (actually for each query term) is known when search starts.
+
+In our algorithm Generally a high weight in tf-idf is obtained by a high term frequency in a particular document and low document frequency in the whole corpus since it is an inverse relationship. 
+
+The ratio inside the logarithm will be always greater than 1. Because no of documents a term appears will be less than or equal to total number of documents. As a term appears in more documents the ratio will be closer to one. which means the log of that value will move closer to zero. So the lower the weightage more frequent is the term
+
+If the value is much closer to zero the retrieval model does not give proper documents since most of the documents(which makes the value inside the log closer to 1) contains that term and the querying will not be efficient.

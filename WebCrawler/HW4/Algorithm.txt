@@ -1,0 +1,23 @@
+I am using the vector space similarity algorithm
+
+To implement the vector space algorithm, we need to get the documents and queries in the vector format. Number of axis in the vector space is the number of index terms in that particular document. Each term in the vector is called the weight of the term.
+
+
+To get the documents, I followed the following procedure.
+
+1. Get all the docs in which at least one of the query term is present. There is no need to check the documents in which none of the query term is present, because logically the similarity will be zero.
+
+2. Now for a particular document, find the dot product of only the query terms with respect to the document, since rest all terms in the document add up to zero since they are not present in the query.
+
+Cosine similarity = Dot product of two vectors/Product of Magnitude of Two vectors.
+
+There are many methods to implement the weight of the term.
+
+I have used the tf-idf approach to calculate the weight of the term. The weightage formula which I have applied is 
+
+weight(term) = tf(term) * idk(term)
+
+tf(term) = frequency of the term/Total no of terms in the Document
+idf(term) = Log(Total no of docs/doc frequency of the term)
+
+Typically, the more frequently the term occur in a document the larger is the TF coefficient. It is the reverse for the term importance coefficients, which are larger for terms that occur in fewer documents, i.e., more important.

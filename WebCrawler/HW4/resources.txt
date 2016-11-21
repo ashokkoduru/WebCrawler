@@ -1,4 +1,11 @@
 To implement this Retriever, I have used the information from following links
 
-1. BeautifulSoup as a HTML parser.
-2. MatplotLib to plot the Zipf law
+1. http://www.tfidf.com
+2. http://nlp.stanford.edu/IR-book/html/htmledition/tf-idf-weighting-1.html
+3. http://www.ir-facility.org/scoring-and-ranking-techniques-tf-idf-term-weighting-and-cosine-similarity
+
+4. Search Engines: Information retrieval in Practice, chapter 7
+
+To write a comparison, I made use of the following info
+
+1. https://lucene.apache.org/core/4_0_0/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html

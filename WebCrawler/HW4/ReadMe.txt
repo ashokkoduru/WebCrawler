@@ -1,37 +1,35 @@
-The Class of the indexer.py is Indexer
+Task 1:
+The given java file is modified a little to retrieve the results in the required format.
+It is attached in the folder. To run it we need to add the following libraries
+1) lucene-core-VERSION.jar
+2) lucene-queryparser-VERSION.jar
+3) lucene-analyzers-common-VERSION.jar.
+
+Task 2:
+The Class of the retriever.py is Retriever
 
 It can run directly by calling 
 
-python indexer.py
+python retriever.py
 
-I have a written a function called in tasks_hw3 in which we can call the required methods from the Indexer class
-The call should be of the format 
 
-You can change the required values in the above method and run the ‘indexer.py' file
+Running the python file starts a search engine which can be searched upon the files present in the parsed_corpus folder.
 
-The Indexer Class has following methods
+After searching the results are stored in required format in a text file which has the same name as the query
 
-ind = Indexer()
+If you type ‘hw4’, the four queries given in the homework will be executed automatically and the four text files will be created in the current folder.
 
-1. build_parsed_corpus
-This method takes the downloaded html files from the folder called corpus. If the folder is not present it creates the corpus folder and asks the user to put the raw html files in that. It parses each file from the folder corpus and puts the clean data file in to the folder called parsed_corpus
 
-2. create_tf_table
-It takes three parameters
-	1. n - it specifies the which gram index should be built
-	2. plot - Boolean value whether the plot should be shown (optional)
-	3. file save = Boolean which tell whether the file should be saved or not(optional)
+If you type ‘exit’,  Search engine stops.
 
-It should be called in the following way
+Results:
+1. The Results of the home work are present in the MyCode_Ranked_Docs folder.
+The four individual test files represent the results for the individual queries.
 
-ind.create_tf_table(1)
+2. The results of running the code against Lucene library are present in Lucene_Ranked_Docs folder.
 
-3. create_df_table
-It takes n as parameter which decides which gram should be built for the document frequency table
+Consolifated results for TREC Evaluation is present in Merged_results_queries_Task<>.txt file for the respective test files.
 
-It should be called the following way
-
-ind.create_df_table(2)
 
 
 
